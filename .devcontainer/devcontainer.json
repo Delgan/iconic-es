@@ -14,11 +14,12 @@
         "source=/run/user/1000,target=/run/user/1000,type=bind,consistency=cached",
         "source=/tmp/.X11-unix,target=/tmp/.X11-unix,type=bind,consistency=cached"
     ],
-    "postCreateCommand": "bash .devcontainer/post-create-command.sh",
+    "postCreateCommand": ".devcontainer/post-create-command.sh",
+    "remoteEnv": {
+        "WORKSPACE_DIR": "${containerWorkspaceFolder}"
+    },
     "remoteUser": "dev",
     "runArgs": [
-        "--privileged",
-        "--cap-add=ALL",
         "-e",
         "DISPLAY=${localEnv:DISPLAY}",
         "-e",
