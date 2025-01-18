@@ -1,0 +1,27 @@
+{
+    "name": "Environment to develop Emulation Station themes",
+    "dockerFile": "Dockerfile",
+    "customizations": {
+        "vscode": {
+            "settings": {
+                "files.insertFinalNewline": true,
+                "terminal.integrated.defaultProfile.linux": "bash"
+            }
+        }
+    },
+    "mounts": [
+        "source=iconic-es-bash-history,target=/bash-history,type=volume",
+        "source=/run/user/1000,target=/run/user/1000,type=bind,consistency=cached",
+        "source=/tmp/.X11-unix,target=/tmp/.X11-unix,type=bind,consistency=cached"
+    ],
+    "postCreateCommand": "bash .devcontainer/post-create-command.sh",
+    "remoteUser": "dev",
+    "runArgs": [
+        "--privileged",
+        "--cap-add=ALL",
+        "-e",
+        "DISPLAY=${localEnv:DISPLAY}",
+        "-e",
+        "XDG_RUNTIME_DIR=/run/user/1000"
+    ]
+}
