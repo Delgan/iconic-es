@@ -32,6 +32,65 @@ Based on:   Iconic (ES-DE version) by Siddy212
         <image name="logo">
             <path>./_inc/system-logo/${system.theme}.webp</path>
         </image>
+        <image name="system-carousel-selector-shadow" extra="true">
+            <origin>0.5 0</origin>
+            <pos>0.2328125 -.1</pos>
+            <size>0.349125 1.1</size>
+            <path>./_inc/other/system-carousel-selector-shadow.png</path>
+            <zindex>2</zindex>
+        </image>
+        <image name="system-carousel-selector" extra="true">
+            <origin>0.5 0</origin>
+            <pos>0.2328125 0</pos>
+            <size>0.325434375 1</size>
+            <path>./_inc/other/system-carousel-selector-light.svg</path>
+            <zindex>3</zindex>
+        </image>
+        <text name="systemInfo">
+            <origin>0.5 0.5</origin>
+            <pos>0.2328125 0.586</pos>
+            <size>0.390625 0.022703703703704</size>
+            <fontSize>0.022703703703704</fontSize>
+            <color>a0a0a0</color>
+            <alignment>center</alignment>
+            <lineSpacing>1</lineSpacing>
+            <forceUppercase>true</forceUppercase>
+            <zIndex>15</zIndex>
+        </text>
+        <text name="system-name" extra="true">
+            <text>${system.fullName}</text>
+            <origin>0.5 0.5</origin>
+            <pos>0.2328125 0.478</pos>
+            <fontSize>0.034</fontSize>
+            <alignment>center</alignment>
+            <forceUppercase>true</forceUppercase>
+            <color>54585a</color>
+            <zIndex>15</zIndex>
+        </text>
+        <text name="system-year-type" extra="true">
+            <origin>0.5 0.5</origin>
+            <pos>0.2328125 0.518</pos>
+            <fontSize>$0.022703703703704</fontSize>
+            <text>9999 · Console</text>
+            <alignment>center</alignment>
+            <forceUppercase>true</forceUppercase>
+            <color>54585a</color>
+            <zIndex>15</zIndex>
+        </text>
+        <text name="system-description" extra="true">
+            <origin>0.5 0</origin>
+            <pos>0.2328125 0.615</pos>
+            <size>0.273125 0.23</size>
+            <fontSize>0.022703703703704</fontSize>
+            <text>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam pulvinar ut dui eget viverra.</text>
+            <verticalAlignment>top</verticalAlignment>
+            <alignment>center</alignment>
+            <autoScroll>vertical</autoScroll>
+            <autoScrollSpeed>50</autoScrollSpeed>
+            <autoScrollDelay>5000</autoScrollDelay>
+            <color>54585a</color>
+            <zIndex>15</zIndex>
+        </text>
         <helpsystem name="help">
             <origin>1 1</origin>
             <pos>0.936 0.994</pos>
