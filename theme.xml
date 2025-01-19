@@ -9,6 +9,10 @@ Based on:   Iconic (ES-DE version) by Siddy212
 <theme>
     <formatVersion>7</formatVersion>
     <view name="system">
+        <image name="background-art" extra="true">
+            <path>./_inc/system-background-art/${system.theme}.webp</path>
+            <size>1 1</size>
+        </image>
         <image name="logo">
             <path>./_inc/system-logo/${system.theme}.svg</path>
         </image>
