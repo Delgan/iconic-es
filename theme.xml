@@ -32,6 +32,13 @@ Based on:   Iconic (ES-DE version) by Siddy212
         <image name="logo">
             <path>./_inc/system-logo/${system.theme}.webp</path>
         </image>
+        <image name="system-image" extra="true">
+            <origin>0.5 0.5</origin>
+            <pos>0.2328125 .23</pos>
+            <size>.28 0</size>
+            <path>./_inc/controllers/${system.theme}.webp</path>
+            <zIndex>15</zIndex>
+        </image>
         <image name="system-carousel-selector-shadow" extra="true">
             <origin>0.5 0</origin>
             <pos>0.2328125 -.1</pos>
