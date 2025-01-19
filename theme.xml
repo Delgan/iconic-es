@@ -14,7 +14,7 @@ Based on:   Iconic (ES-DE version) by Siddy212
             <size>1 1</size>
         </image>
         <image name="logo">
-            <path>./_inc/system-logo/${system.theme}.svg</path>
+            <path>./_inc/system-logo/${system.theme}.webp</path>
         </image>
     </view>
     <view name="basic"></view>
