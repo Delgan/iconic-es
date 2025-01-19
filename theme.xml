@@ -9,6 +9,22 @@ Based on:   Iconic (ES-DE version) by Siddy212
 <theme>
     <formatVersion>7</formatVersion>
     <view name="system">
+        <carousel name="systemcarousel">
+            <type>horizontal</type>
+            <origin>0 0.5</origin>
+            <pos>0 0.94</pos>
+            <size>1 0.119444444444444</size>
+            <logoSize>0.18229166666 0.12407407407</logoSize>
+            <color>ffffff00</color>
+            <colorEnd>ffffff</colorEnd>
+            <gradientType>vertical</gradientType>
+            <logoScale>1.2</logoScale>
+            <minLogoOpacity>0.4</minLogoOpacity>
+            <logoPos>0.13640625 0</logoPos>
+            <logoAlignment>center</logoAlignment>
+            <systemInfoDelay>8</systemInfoDelay>
+            <defaultTransition>instant</defaultTransition>
+        </carousel>
         <image name="background-art" extra="true">
             <path>./_inc/system-background-art/${system.theme}.webp</path>
             <size>1 1</size>
@@ -16,6 +32,14 @@ Based on:   Iconic (ES-DE version) by Siddy212
         <image name="logo">
             <path>./_inc/system-logo/${system.theme}.webp</path>
         </image>
+        <helpsystem name="help">
+            <origin>1 1</origin>
+            <pos>0.936 0.994</pos>
+            <fontSize>0.025</fontSize>
+            <entrySpacing>0.0042</entrySpacing>
+            <textColor>54585a</textColor>
+            <iconColor>514689</iconColor>
+        </helpsystem>
     </view>
     <view name="basic"></view>
     <view name="detailed"></view>
