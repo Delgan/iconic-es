@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Theme Name: Iconic (ES version)
+Version:    0.0.1
+Author:     Delgan
+License:    CC0 1.0
+Based on:   Iconic (ES-DE version) by Siddy212
+-->
+<theme>
+    <formatVersion>7</formatVersion>
+    <view name="system">
+        <image name="logo">
+            <path>./_inc/system-logo/${system.theme}.svg</path>
+        </image>
+    </view>
+    <view name="basic"></view>
+    <view name="detailed"></view>
+    <view name="video"></view>
+</theme>
