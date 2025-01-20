@@ -28,7 +28,7 @@ Based on:   Iconic (ES-DE version) by Siddy212
             <orientation>horizontal</orientation>
             <reverse>true</reverse>
             <clock name="system-clock">
-                <color>111111b3</color>
+                <color>11111199</color>
                 <fontSize>0.022</fontSize>
                 <lineSpacing>1</lineSpacing>
                 <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
@@ -70,14 +70,14 @@ Based on:   Iconic (ES-DE version) by Siddy212
             <origin>0 1</origin>
             <pos>0 1</pos>
             <size>1 0.2</size>
-            <logoSize>0.20 0.20</logoSize>
+            <logoSize>0.2 0.2</logoSize>
             <color>ffffff00</color>
             <colorEnd>ffffff</colorEnd>
             <gradientType>vertical</gradientType>
-            <logoScale>1.7</logoScale>
+            <logoScale>1.6</logoScale>
             <minLogoOpacity>0.4</minLogoOpacity>
             <maxLogoCount>4</maxLogoCount>
-            <logoPos>0.15 -0.2</logoPos>
+            <logoPos>0.15 0</logoPos>
             <systemInfoDelay>0</systemInfoDelay>
             <defaultTransition>instant</defaultTransition>
             <fontSize>0.024</fontSize>
@@ -155,7 +155,7 @@ Based on:   Iconic (ES-DE version) by Siddy212
         <text name="system-description" extra="true">
             <origin>0.5 0</origin>
             <pos>0.25 0.615</pos>
-            <size>0.23 0.23</size>
+            <size>0.23 0.20</size>
             <fontSize>0.024</fontSize>
             <fontPath>./_inc/fonts/Oxygen-Regular.ttf</fontPath>
             <text>${systemDescription}</text>
