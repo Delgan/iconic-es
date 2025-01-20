@@ -2,10 +2,10 @@
    <variables>
       <systemName>${system.fullName}</systemName>
       <systemDescription>View and play the ${system.fullName}</systemDescription>
-      <systemManufacturer>&#032;</systemManufacturer>
-      <systemReleaseYear>&#032;</systemReleaseYear>
-      <systemReleaseDate>&#032;</systemReleaseDate>
-      <systemReleaseDateFormated>&#032;</systemReleaseDateFormated>
+      <systemManufacturer>N/A</systemManufacturer>
+      <systemReleaseYear>N/A</systemReleaseYear>
+      <systemReleaseDate>N/A</systemReleaseDate>
+      <systemReleaseDateFormated>N/A</systemReleaseDateFormated>
       <systemHardwareType>System</systemHardwareType>
       <systemCoverSize>1-1</systemCoverSize>
       <systemColor>222222</systemColor>
@@ -14,5 +14,5 @@
       <systemColorPalette3>555555</systemColorPalette3>
       <systemColorPalette4>333333</systemColorPalette4>
       <systemCartSize>1-1</systemCartSize>
-      </variables>
+   </variables>
 </theme>
