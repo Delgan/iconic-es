@@ -11,22 +11,22 @@ Based on:   Iconic (ES-DE version) by Siddy212
     <include>./_inc/metadata/_default.xml</include>
     <include>./_inc/metadata/${system.theme}.xml</include>
     <subset name="color-scheme" displayName="Color Scheme">
-        <include name="dark" displayName="Dark" />
         <include name="light" displayName="Light" />
+        <include name="dark" displayName="Dark" />
     </subset>
-    <variables ifSubset="color-scheme:light">
-        <systemBackgroundGradientImage>background-art-gradient-light.svg</systemBackgroundGradientImage>
-        <systemCarouselSelectorImage>system-carousel-selector-light.svg</systemCarouselSelectorImage>
-        <systemInfoColor>555555</systemInfoColor>
-        <helpTextColor>616161</helpTextColor>
-        <helpIconColor>616161</helpIconColor>
-    </variables>
     <variables ifSubset="color-scheme:dark">
         <systemBackgroundGradientImage>background-art-gradient-dark.svg</systemBackgroundGradientImage>
         <systemCarouselSelectorImage>system-carousel-selector-dark.svg</systemCarouselSelectorImage>
         <systemInfoColor>cccccc</systemInfoColor>
         <helpTextColor>999999</helpTextColor>
         <helpIconColor>999999</helpIconColor>
+    </variables>
+    <variables ifSubset="color-scheme:light">
+        <systemBackgroundGradientImage>background-art-gradient-light.svg</systemBackgroundGradientImage>
+        <systemCarouselSelectorImage>system-carousel-selector-light.svg</systemCarouselSelectorImage>
+        <systemInfoColor>555555</systemInfoColor>
+        <helpTextColor>616161</helpTextColor>
+        <helpIconColor>616161</helpIconColor>
     </variables>
     <view name="screen">
         <controllerActivity name="controllerActivity">
