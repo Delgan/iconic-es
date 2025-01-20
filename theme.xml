@@ -23,7 +23,7 @@ Based on:   Iconic (ES-DE version) by Siddy212
     </view>
     <view name="system,basic,detailed">
         <stackpanel name="system-indicators" extra="true">
-            <h>0.026</h>
+            <h>0.022</h>
             <pos>-0.01 0.9615</pos>
             <orientation>horizontal</orientation>
             <reverse>true</reverse>
@@ -71,11 +71,11 @@ Based on:   Iconic (ES-DE version) by Siddy212
             <pos>0 1</pos>
             <size>1 0.2</size>
             <logoSize>0.2 0.2</logoSize>
-            <color>ffffff00</color>
-            <colorEnd>ffffff</colorEnd>
+            <color>00000000</color>
+            <colorEnd>00000000</colorEnd>
             <gradientType>vertical</gradientType>
             <logoScale>1.6</logoScale>
-            <minLogoOpacity>0.4</minLogoOpacity>
+            <minLogoOpacity>0.5</minLogoOpacity>
             <maxLogoCount>4</maxLogoCount>
             <logoPos>0.15 0</logoPos>
             <systemInfoDelay>0</systemInfoDelay>
@@ -87,6 +87,14 @@ Based on:   Iconic (ES-DE version) by Siddy212
             <default>./_inc/system-background-art/_default.webp</default>
             <path>./_inc/system-background-art/${system.theme}.webp</path>
             <size>1 1</size>
+        </image>
+        <image name="background-art-gradient" extra="true">
+            <path>./_inc/other/background-art-gradient-light.svg</path>
+            <pos>0 0.82</pos>
+            <size>1 0.22</size>
+            <origin>0 0</origin>
+            <color>FFFFFFFF</color>
+            <zIndex>20</zIndex>
         </image>
         <image name="logo">
             <path>./_inc/system-logo/${system.theme}.webp</path>
