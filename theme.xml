@@ -8,22 +8,75 @@ Based on:   Iconic (ES-DE version) by Siddy212
 -->
 <theme>
     <formatVersion>7</formatVersion>
+    <view name="screen">
+        <controllerActivity name="controllerActivity">
+            <visible>false</visible>
+        </controllerActivity>
+        <batteryIndicator name="batteryIndicator">
+            <visible>false</visible>
+        </batteryIndicator>
+        <text name="clock">
+            <pos>1 1</pos>
+        </text>
+    </view>
+    <view name="system,basic,detailed">
+        <stackpanel name="system-indicators" extra="true">
+            <h>0.026</h>
+            <pos>-0.01 0.9615</pos>
+            <orientation>horizontal</orientation>
+            <reverse>true</reverse>
+            <clock name="system-clock">
+                <color>111111b3</color>
+                <fontSize>0.026</fontSize>
+                <lineSpacing>1</lineSpacing>
+            </clock>
+            <batteryText name="system-battery-text">
+                <color>111111b3</color>
+                <fontSize>0.026</fontSize>
+                <lineSpacing>1</lineSpacing>
+            </batteryText>
+            <batteryIcon name="system-battery-icon">
+                <maxSize>1 1</maxSize>
+                <color>54585ab3</color>
+                <full>./_inc/other/battery-icon-100.svg</full>
+                <at75>./_inc/other/battery-icon-75.svg</at75>
+                <at50>./_inc/other/battery-icon-50.svg</at50>
+                <at25>./_inc/other/battery-icon-25.svg</at25>
+                <empty>./_inc/other/battery-icon-0.svg</empty>
+                <incharge>./_inc/other/battery-icon-charging.svg</incharge>
+            </batteryIcon>
+            <networkIcon name="system-network-icon">
+                <maxSize>1 1</maxSize>
+                <color>54585ab3</color>
+                <networkIcon>./_inc/other/network-icon-on.svg</networkIcon>
+                <planemodeIcon>./_inc/other/network-icon-off.svg</planemodeIcon>
+            </networkIcon>
+        </stackpanel>
+    </view>
+    <view name="system">
+        <stackpanel name="system-indicators" extra="true">
+            <w>1</w>
+            <separator>0.012</separator>
+            <zIndex>100</zIndex>
+        </stackpanel>
+    </view>
     <view name="system">
         <carousel name="systemcarousel">
             <type>horizontal</type>
-            <origin>0 0.5</origin>
-            <pos>0 0.94</pos>
-            <size>1 0.119444444444444</size>
-            <logoSize>0.18229166666 0.12407407407</logoSize>
+            <origin>0 1</origin>
+            <pos>0 1</pos>
+            <size>1 0.2</size>
+            <logoSize>0.20 0.20</logoSize>
             <color>ffffff00</color>
             <colorEnd>ffffff</colorEnd>
             <gradientType>vertical</gradientType>
-            <logoScale>1.2</logoScale>
+            <logoScale>1.7</logoScale>
             <minLogoOpacity>0.4</minLogoOpacity>
-            <logoPos>0.13640625 0</logoPos>
-            <logoAlignment>center</logoAlignment>
-            <systemInfoDelay>8</systemInfoDelay>
+            <maxLogoCount>4</maxLogoCount>
+            <logoPos>0.15 -0.2</logoPos>
+            <systemInfoDelay>0</systemInfoDelay>
             <defaultTransition>instant</defaultTransition>
+            <fontSize>0.022703703703704</fontSize>
         </carousel>
         <image name="background-art" extra="true">
             <path>./_inc/system-background-art/${system.theme}.webp</path>
@@ -34,28 +87,38 @@ Based on:   Iconic (ES-DE version) by Siddy212
         </image>
         <image name="system-image" extra="true">
             <origin>0.5 0.5</origin>
-            <pos>0.2328125 .23</pos>
-            <size>.28 0</size>
+            <pos>0.25 .23</pos>
+            <size>.24 0</size>
             <path>./_inc/controllers/${system.theme}.webp</path>
             <zIndex>15</zIndex>
         </image>
         <image name="system-carousel-selector-shadow" extra="true">
             <origin>0.5 0</origin>
-            <pos>0.2328125 -.1</pos>
-            <size>0.349125 1.1</size>
+            <pos>0.25 -.1</pos>
+            <size>0.280 1.1</size>
             <path>./_inc/other/system-carousel-selector-shadow.png</path>
             <zindex>2</zindex>
         </image>
         <image name="system-carousel-selector" extra="true">
             <origin>0.5 0</origin>
-            <pos>0.2328125 0</pos>
-            <size>0.325434375 1</size>
+            <pos>0.25 0</pos>
+            <size>0.261 1</size>
             <path>./_inc/other/system-carousel-selector-light.svg</path>
             <zindex>3</zindex>
         </image>
+        <text name="system-name" extra="true">
+            <text>${system.name}</text>
+            <origin>0.5 0.5</origin>
+            <pos>0.25 0.478</pos>
+            <fontSize>0.034</fontSize>
+            <alignment>center</alignment>
+            <forceUppercase>true</forceUppercase>
+            <color>54585a</color>
+            <zIndex>15</zIndex>
+        </text>
         <text name="systemInfo">
             <origin>0.5 0.5</origin>
-            <pos>0.2328125 0.586</pos>
+            <pos>0.25 0.586</pos>
             <size>0.390625 0.022703703703704</size>
             <fontSize>0.022703703703704</fontSize>
             <color>a0a0a0</color>
@@ -64,20 +127,10 @@ Based on:   Iconic (ES-DE version) by Siddy212
             <forceUppercase>true</forceUppercase>
             <zIndex>15</zIndex>
         </text>
-        <text name="system-name" extra="true">
-            <text>${system.fullName}</text>
-            <origin>0.5 0.5</origin>
-            <pos>0.2328125 0.478</pos>
-            <fontSize>0.034</fontSize>
-            <alignment>center</alignment>
-            <forceUppercase>true</forceUppercase>
-            <color>54585a</color>
-            <zIndex>15</zIndex>
-        </text>
         <text name="system-year-type" extra="true">
             <origin>0.5 0.5</origin>
-            <pos>0.2328125 0.518</pos>
-            <fontSize>$0.022703703703704</fontSize>
+            <pos>0.25 0.518</pos>
+            <fontSize>0.022703703703704</fontSize>
             <text>9999 · Console</text>
             <alignment>center</alignment>
             <forceUppercase>true</forceUppercase>
@@ -86,8 +139,8 @@ Based on:   Iconic (ES-DE version) by Siddy212
         </text>
         <text name="system-description" extra="true">
             <origin>0.5 0</origin>
-            <pos>0.2328125 0.615</pos>
-            <size>0.273125 0.23</size>
+            <pos>0.25 0.615</pos>
+            <size>0.23 0.23</size>
             <fontSize>0.022703703703704</fontSize>
             <text>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam pulvinar ut dui eget viverra.</text>
             <verticalAlignment>top</verticalAlignment>
@@ -100,11 +153,10 @@ Based on:   Iconic (ES-DE version) by Siddy212
         </text>
         <helpsystem name="help">
             <origin>1 1</origin>
-            <pos>0.936 0.994</pos>
+            <pos>0.805 0.985</pos>
             <fontSize>0.025</fontSize>
-            <entrySpacing>0.0042</entrySpacing>
-            <textColor>54585a</textColor>
-            <iconColor>514689</iconColor>
+            <textColor>111111b3</textColor>
+            <iconColor>54585ab3</iconColor>
         </helpsystem>
     </view>
     <view name="basic"></view>
