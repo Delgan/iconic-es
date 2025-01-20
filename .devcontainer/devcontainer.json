@@ -8,7 +8,8 @@
                 "terminal.integrated.defaultProfile.linux": "bash"
             },
             "extensions": [
-                "mikeburgh.xml-format"
+                "mikeburgh.xml-format",
+                "ms-python.python"
             ]
         }
     },
