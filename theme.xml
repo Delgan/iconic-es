@@ -79,16 +79,22 @@ Based on:   Iconic (ES-DE version) by Siddy212
             <fontSize>0.022703703703704</fontSize>
         </carousel>
         <image name="background-art" extra="true">
+            <default>./_inc/system-background-art/_default.webp</default>
             <path>./_inc/system-background-art/${system.theme}.webp</path>
             <size>1 1</size>
         </image>
         <image name="logo">
             <path>./_inc/system-logo/${system.theme}.webp</path>
         </image>
+        <text name="logoText">
+            <forceUppercase>true</forceUppercase>
+            <fontSize>0.045</fontSize>
+        </text>
         <image name="system-image" extra="true">
             <origin>0.5 0.5</origin>
             <pos>0.25 .23</pos>
             <size>.24 0</size>
+            <default>./_inc/controllers/_default.webp</default>
             <path>./_inc/controllers/${system.theme}.webp</path>
             <zIndex>15</zIndex>
         </image>
