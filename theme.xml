@@ -10,6 +10,24 @@ Based on:   Iconic (ES-DE version) by Siddy212
     <formatVersion>7</formatVersion>
     <include>./_inc/metadata/_default.xml</include>
     <include>./_inc/metadata/${system.theme}.xml</include>
+    <subset name="color-scheme" displayName="Color Scheme">
+        <include name="dark" displayName="Dark" />
+        <include name="light" displayName="Light" />
+    </subset>
+    <variables ifSubset="color-scheme:light">
+        <systemBackgroundGradientImage>background-art-gradient-light.svg</systemBackgroundGradientImage>
+        <systemCarouselSelectorImage>system-carousel-selector-light.svg</systemCarouselSelectorImage>
+        <systemInfoColor>555555</systemInfoColor>
+        <helpTextColor>616161</helpTextColor>
+        <helpIconColor>616161</helpIconColor>
+    </variables>
+    <variables ifSubset="color-scheme:dark">
+        <systemBackgroundGradientImage>background-art-gradient-dark.svg</systemBackgroundGradientImage>
+        <systemCarouselSelectorImage>system-carousel-selector-dark.svg</systemCarouselSelectorImage>
+        <systemInfoColor>cccccc</systemInfoColor>
+        <helpTextColor>999999</helpTextColor>
+        <helpIconColor>999999</helpIconColor>
+    </variables>
     <view name="screen">
         <controllerActivity name="controllerActivity">
             <visible>false</visible>
@@ -24,24 +42,24 @@ Based on:   Iconic (ES-DE version) by Siddy212
     <view name="system,basic,detailed">
         <stackpanel name="system-indicators" extra="true">
             <h>0.022</h>
-            <pos>-0.01 0.9615</pos>
+            <pos>-0.0075 0.965</pos>
             <orientation>horizontal</orientation>
             <reverse>true</reverse>
             <clock name="system-clock">
-                <color>11111199</color>
+                <color>${helpTextColor}</color>
                 <fontSize>0.022</fontSize>
                 <lineSpacing>1</lineSpacing>
                 <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
             </clock>
             <batteryText name="system-battery-text">
-                <color>111111b3</color>
+                <color>${helpTextColor}</color>
                 <fontSize>0.022</fontSize>
                 <lineSpacing>1</lineSpacing>
                 <fontPath>./_inc/fonts/Gilroy-Regular.ttf</fontPath>
             </batteryText>
             <batteryIcon name="system-battery-icon">
                 <maxSize>1 1</maxSize>
-                <color>54585ab3</color>
+                <color>${helpIconColor}</color>
                 <full>./_inc/other/battery-icon-100.svg</full>
                 <at75>./_inc/other/battery-icon-75.svg</at75>
                 <at50>./_inc/other/battery-icon-50.svg</at50>
@@ -51,7 +69,7 @@ Based on:   Iconic (ES-DE version) by Siddy212
             </batteryIcon>
             <networkIcon name="system-network-icon">
                 <maxSize>1 1</maxSize>
-                <color>54585ab3</color>
+                <color>${helpIconColor}</color>
                 <networkIcon>./_inc/other/network-icon-on.svg</networkIcon>
                 <planemodeIcon>./_inc/other/network-icon-off.svg</planemodeIcon>
             </networkIcon>
@@ -71,8 +89,8 @@ Based on:   Iconic (ES-DE version) by Siddy212
             <pos>0 1</pos>
             <size>1 0.2</size>
             <logoSize>0.2 0.2</logoSize>
-            <color>00000000</color>
-            <colorEnd>00000000</colorEnd>
+            <color>ffffff00</color>
+            <colorEnd>ffffff00</colorEnd>
             <gradientType>vertical</gradientType>
             <logoScale>1.6</logoScale>
             <minLogoOpacity>0.5</minLogoOpacity>
@@ -89,12 +107,11 @@ Based on:   Iconic (ES-DE version) by Siddy212
             <size>1 1</size>
         </image>
         <image name="background-art-gradient" extra="true">
-            <path>./_inc/other/background-art-gradient-light.svg</path>
+            <path>./_inc/other/${systemBackgroundGradientImage}</path>
+            <origin>0 0</origin>
+            <zIndex>20</zIndex>
             <pos>0 0.82</pos>
             <size>1 0.22</size>
-            <origin>0 0</origin>
-            <color>FFFFFFFF</color>
-            <zIndex>20</zIndex>
         </image>
         <image name="logo">
             <path>./_inc/system-logo/${system.theme}.webp</path>
@@ -103,6 +120,7 @@ Based on:   Iconic (ES-DE version) by Siddy212
             <forceUppercase>true</forceUppercase>
             <fontSize>0.045</fontSize>
             <fontPath>./_inc/fonts/Oxygen-Regular.ttf</fontPath>
+            <color>${systemInfoColor}</color>
         </text>
         <image name="system-image" extra="true">
             <origin>0.5 0.5</origin>
@@ -123,7 +141,7 @@ Based on:   Iconic (ES-DE version) by Siddy212
             <origin>0.5 0</origin>
             <pos>0.25 0</pos>
             <size>0.261 1</size>
-            <path>./_inc/other/system-carousel-selector-light.svg</path>
+            <path>./_inc/other/${systemCarouselSelectorImage}</path>
             <zindex>3</zindex>
         </image>
         <text name="system-name" extra="true">
@@ -135,6 +153,7 @@ Based on:   Iconic (ES-DE version) by Siddy212
             <forceUppercase>true</forceUppercase>
             <color>54585a</color>
             <zIndex>15</zIndex>
+            <color>${systemInfoColor}</color>
             <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
         </text>
         <text name="systemInfo">
@@ -156,7 +175,7 @@ Based on:   Iconic (ES-DE version) by Siddy212
             <text>${systemReleaseYear} · ${systemHardwareType}</text>
             <alignment>center</alignment>
             <forceUppercase>true</forceUppercase>
-            <color>54585a</color>
+            <color>${systemInfoColor}</color>
             <zIndex>15</zIndex>
             <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
         </text>
@@ -172,15 +191,15 @@ Based on:   Iconic (ES-DE version) by Siddy212
             <autoScroll>vertical</autoScroll>
             <autoScrollSpeed>50</autoScrollSpeed>
             <autoScrollDelay>5000</autoScrollDelay>
-            <color>54585a</color>
+            <color>${systemInfoColor}</color>
             <zIndex>15</zIndex>
         </text>
         <helpsystem name="help">
-            <origin>1 1</origin>
-            <pos>0.805 0.985</pos>
+            <origin>0 0</origin>
+            <pos>0.48 0.965</pos>
             <fontSize>0.022</fontSize>
-            <textColor>111111b3</textColor>
-            <iconColor>54585ab3</iconColor>
+            <textColor>${helpTextColor}</textColor>
+            <iconColor>${helpIconColor}</iconColor>
             <fontPath>./_inc/fonts/Gilroy-Regular.ttf</fontPath>
         </helpsystem>
     </view>
