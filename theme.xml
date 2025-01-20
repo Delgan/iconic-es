@@ -8,6 +8,8 @@ Based on:   Iconic (ES-DE version) by Siddy212
 -->
 <theme>
     <formatVersion>7</formatVersion>
+    <include>./_inc/metadata/_default.xml</include>
+    <include>./_inc/metadata/${system.theme}.xml</include>
     <view name="screen">
         <controllerActivity name="controllerActivity">
             <visible>false</visible>
@@ -117,7 +119,7 @@ Based on:   Iconic (ES-DE version) by Siddy212
             <zindex>3</zindex>
         </image>
         <text name="system-name" extra="true">
-            <text>${system.name}</text>
+            <text>${systemName}</text>
             <origin>0.5 0.5</origin>
             <pos>0.25 0.478</pos>
             <fontSize>0.036777777777778</fontSize>
@@ -143,7 +145,7 @@ Based on:   Iconic (ES-DE version) by Siddy212
             <origin>0.5 0.5</origin>
             <pos>0.25 0.518</pos>
             <fontSize>0.024</fontSize>
-            <text>9999 · Console</text>
+            <text>${systemReleaseYear} · ${systemHardwareType}</text>
             <alignment>center</alignment>
             <forceUppercase>true</forceUppercase>
             <color>54585a</color>
@@ -156,7 +158,7 @@ Based on:   Iconic (ES-DE version) by Siddy212
             <size>0.23 0.23</size>
             <fontSize>0.024</fontSize>
             <fontPath>./_inc/fonts/Oxygen-Regular.ttf</fontPath>
-            <text>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam pulvinar ut dui eget viverra.</text>
+            <text>${systemDescription}</text>
             <verticalAlignment>top</verticalAlignment>
             <alignment>center</alignment>
             <autoScroll>vertical</autoScroll>
