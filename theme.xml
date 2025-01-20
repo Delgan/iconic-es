@@ -27,13 +27,15 @@ Based on:   Iconic (ES-DE version) by Siddy212
             <reverse>true</reverse>
             <clock name="system-clock">
                 <color>111111b3</color>
-                <fontSize>0.026</fontSize>
+                <fontSize>0.022</fontSize>
                 <lineSpacing>1</lineSpacing>
+                <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
             </clock>
             <batteryText name="system-battery-text">
                 <color>111111b3</color>
-                <fontSize>0.026</fontSize>
+                <fontSize>0.022</fontSize>
                 <lineSpacing>1</lineSpacing>
+                <fontPath>./_inc/fonts/Gilroy-Regular.ttf</fontPath>
             </batteryText>
             <batteryIcon name="system-battery-icon">
                 <maxSize>1 1</maxSize>
@@ -76,7 +78,8 @@ Based on:   Iconic (ES-DE version) by Siddy212
             <logoPos>0.15 -0.2</logoPos>
             <systemInfoDelay>0</systemInfoDelay>
             <defaultTransition>instant</defaultTransition>
-            <fontSize>0.022703703703704</fontSize>
+            <fontSize>0.024</fontSize>
+            <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
         </carousel>
         <image name="background-art" extra="true">
             <default>./_inc/system-background-art/_default.webp</default>
@@ -89,6 +92,7 @@ Based on:   Iconic (ES-DE version) by Siddy212
         <text name="logoText">
             <forceUppercase>true</forceUppercase>
             <fontSize>0.045</fontSize>
+            <fontPath>./_inc/fonts/Oxygen-Regular.ttf</fontPath>
         </text>
         <image name="system-image" extra="true">
             <origin>0.5 0.5</origin>
@@ -116,38 +120,42 @@ Based on:   Iconic (ES-DE version) by Siddy212
             <text>${system.name}</text>
             <origin>0.5 0.5</origin>
             <pos>0.25 0.478</pos>
-            <fontSize>0.034</fontSize>
+            <fontSize>0.036777777777778</fontSize>
             <alignment>center</alignment>
             <forceUppercase>true</forceUppercase>
             <color>54585a</color>
             <zIndex>15</zIndex>
+            <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
         </text>
         <text name="systemInfo">
             <origin>0.5 0.5</origin>
             <pos>0.25 0.586</pos>
-            <size>0.390625 0.022703703703704</size>
-            <fontSize>0.022703703703704</fontSize>
+            <size>0.390625 0.024</size>
+            <fontSize>0.024</fontSize>
             <color>a0a0a0</color>
             <alignment>center</alignment>
             <lineSpacing>1</lineSpacing>
             <forceUppercase>true</forceUppercase>
             <zIndex>15</zIndex>
+            <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
         </text>
         <text name="system-year-type" extra="true">
             <origin>0.5 0.5</origin>
             <pos>0.25 0.518</pos>
-            <fontSize>0.022703703703704</fontSize>
+            <fontSize>0.024</fontSize>
             <text>9999 · Console</text>
             <alignment>center</alignment>
             <forceUppercase>true</forceUppercase>
             <color>54585a</color>
             <zIndex>15</zIndex>
+            <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
         </text>
         <text name="system-description" extra="true">
             <origin>0.5 0</origin>
             <pos>0.25 0.615</pos>
             <size>0.23 0.23</size>
-            <fontSize>0.022703703703704</fontSize>
+            <fontSize>0.024</fontSize>
+            <fontPath>./_inc/fonts/Oxygen-Regular.ttf</fontPath>
             <text>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam pulvinar ut dui eget viverra.</text>
             <verticalAlignment>top</verticalAlignment>
             <alignment>center</alignment>
@@ -160,9 +168,10 @@ Based on:   Iconic (ES-DE version) by Siddy212
         <helpsystem name="help">
             <origin>1 1</origin>
             <pos>0.805 0.985</pos>
-            <fontSize>0.025</fontSize>
+            <fontSize>0.022</fontSize>
             <textColor>111111b3</textColor>
             <iconColor>54585ab3</iconColor>
+            <fontPath>./_inc/fonts/Gilroy-Regular.ttf</fontPath>
         </helpsystem>
     </view>
     <view name="basic"></view>
