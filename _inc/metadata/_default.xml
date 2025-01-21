@@ -1,12 +1,12 @@
 <theme>
    <variables>
       <systemName>${system.fullName}</systemName>
-      <systemDescription>View and play the ${system.fullName}</systemDescription>
-      <systemManufacturer>N/A</systemManufacturer>
-      <systemReleaseYear>N/A</systemReleaseYear>
+      <systemDescription>View and play ${system.fullName}.</systemDescription>
+      <systemManufacturer>${system.manufacturer}</systemManufacturer>
+      <systemReleaseYear>${system.releaseYear}</systemReleaseYear>
       <systemReleaseDate>N/A</systemReleaseDate>
       <systemReleaseDateFormated>N/A</systemReleaseDateFormated>
-      <systemHardwareType>System</systemHardwareType>
+      <systemHardwareType>${system.hardwareType}</systemHardwareType>
       <systemCoverSize>1-1</systemCoverSize>
       <systemColor>222222</systemColor>
       <systemColorPalette1>999999</systemColorPalette1>
