@@ -172,7 +172,22 @@ Based on:   Iconic (ES-DE version) by Siddy212
             <origin>0.5 0.5</origin>
             <pos>0.25 0.518</pos>
             <fontSize>0.024</fontSize>
-            <text>${systemReleaseYear} · ${systemHardwareType}</text>
+            <!-- We want to rely on ES provided metadata as much as possible (to ensure consistency
+            when systems are ordered by release year for example). The metadata stored in the theme
+            will only be used as a fallback. If no release year is available at all, only the
+            hardware type will be displayed (this is useful for collections).
+            For some unknown reason, overriding or re-assigning variables did not work when I tried
+            to implement the above logic. Therefore, I rely on these verbose "if" statements.
+            Not also that ${system.releaseYear} might be an integer or a string, and there is
+            no way to sanitize it because ${system.releaseYearOrNull} is not available. Fortunately,
+            the "x > 0" comparisong will return "false" in such case.
+            -->
+            <text if="${system.releaseYear} > 0 && ${system.hardwareType} != ''">${system.releaseYear} · ${system.hardwareType}</text>
+            <text if="${system.releaseYear} > 0 && ${system.hardwareType} == ''">${system.releaseYear} · ${systemHardwareType}</text>
+            <text if="!(${system.releaseYear} > 0) && ${systemReleaseYear} > 0 && ${system.hardwareType} != ''">${systemReleaseYear} · ${system.hardwareType}</text>
+            <text if="!(${system.releaseYear} > 0) && ${systemReleaseYear} > 0 && ${system.hardwareType} == ''">${systemReleaseYear} · ${systemHardwareType}</text>
+            <text if="!(${system.releaseYear} > 0) && !(${systemReleaseYear} > 0) && ${system.hardwareType} != '')">${system.hardwareType}</text>
+            <text if="!(${system.releaseYear} > 0) && !(${systemReleaseYear} > 0) && ${system.hardwareType} == '')">${systemHardwareType}</text>
             <alignment>center</alignment>
             <forceUppercase>true</forceUppercase>
             <color>${systemInfoColor}</color>
