@@ -112,7 +112,37 @@ Based on:   Iconic (ES-DE version) by Siddy212
             <logoPos>0.15 0</logoPos>
             <systemInfoDelay>0</systemInfoDelay>
             <defaultTransition>instant</defaultTransition>
-            <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
+            <itemTemplate>
+                <container>
+                    <image name="logo-image">
+                        <pos>0.5 0.5</pos>
+                        <origin>0.5 0.5</origin>
+                        <maxSize>1 1</maxSize>
+                        <linearSmooth>true</linearSmooth>
+                        <path>${themePath}/_inc/system-logo/{system:theme}.webp</path>
+                    </image>
+                    <text name="logo-text-fallback">
+                        <visible>false</visible>
+                        <visible>!exists("${themePath}/_inc/system-logo/" + {system:theme} + ".webp")</visible>
+                        <value>{system:fullName}</value>
+                        <forceUppercase>true</forceUppercase>
+                        <lineSpacing>1</lineSpacing>
+                        <alignment>center</alignment>
+                        <verticalAlignment>center</verticalAlignment>
+                        <origin>0.5 0.5</origin>
+                        <pos>0.5 0.5</pos>
+                        <fontSize>0.04</fontSize>
+                        <glowColor>fafafaff</glowColor>
+                        <multiline>true</multiline>
+                        <glowSize>2</glowSize>
+                        <size>0.74 0.45</size>
+                        <padding>0.04 0 0.04 0</padding>
+                        <glowOffset>0 0</glowOffset>
+                        <fontPath>./_inc/fonts/ChangaOne-Italic.ttf</fontPath>
+                        <color>111111ff</color>
+                    </text>
+                </container>
+            </itemTemplate>
         </carousel>
         <image name="background-art" extra="true">
             <default>./_inc/system-background-art/_default.webp</default>
@@ -126,15 +156,6 @@ Based on:   Iconic (ES-DE version) by Siddy212
             <pos>0 0.82</pos>
             <size>1 0.22</size>
         </image>
-        <image name="logo">
-            <path>./_inc/system-logo/${system.theme}.webp</path>
-        </image>
-        <text name="logoText">
-            <forceUppercase>true</forceUppercase>
-            <fontSize>0.045</fontSize>
-            <fontPath>./_inc/fonts/Oxygen-Regular.ttf</fontPath>
-            <color>${systemInfoColor}</color>
-        </text>
         <image name="system-image" extra="true">
             <origin>0.5 0.5</origin>
             <pos>0.25 .23</pos>
