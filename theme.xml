@@ -30,9 +30,18 @@ Based on:   Iconic (ES-DE version) by Siddy212
         <helpTextColor>616161</helpTextColor>
         <helpIconColor>616161</helpIconColor>
     </variables>
-    <include ifSubset="metadata-source:es">./_inc/metadata/_default.xml</include>
-    <include ifSubset="metadata-source:theme">./_inc/metadata/_default.xml</include>
-    <include ifSubset="metadata-source:theme">./_inc/metadata/${system.theme}.xml</include>
+    <!-- Set default description and cart size when none is available. -->
+    <variables>
+        <systemDescription>View and play ${system.fullName}.</systemDescription>
+        <systemCoverSize>1-1</systemCoverSize>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+    <!-- Built-in metadata is used as fallback when source is "Theme". -->
+    <include ifSubset="metadata-source:theme">./_inc/metadata/_builtin.xml</include>
+    <!-- Load "Theme" metadata (required in "EmulationStation" mode to retrieve description). -->
+    <include>./_inc/metadata/${system.theme}.xml</include>
+    <!-- Built-in metadata override theme metadata when source is "EmulationStation". -->
+    <include ifSubset="metadata-source:es">./_inc/metadata/_builtin.xml</include>
     <view name="screen">
         <controllerActivity name="controllerActivity">
             <visible>false</visible>

@@ -1,0 +1,7 @@
+<theme>
+    <variables>
+        <systemName>${system.fullName}</systemName>
+        <systemReleaseYear>${system.releaseYear}</systemReleaseYear>
+        <systemHardwareType>${system.hardwareType}</systemHardwareType>
+    </variables>
+</theme>
