@@ -181,7 +181,7 @@ Based on:   Iconic (ES-DE version) by Siddy212
         <text name="system-name" extra="true">
             <text>${systemName}</text>
             <origin>0.5 0.5</origin>
-            <pos>0.25 0.478</pos>
+            <pos>0.25 0.474</pos>
             <size>0.255 0.05</size>
             <autoScrollSpeed>25</autoScrollSpeed>
             <autoScrollDelay>0</autoScrollDelay>
@@ -194,24 +194,24 @@ Based on:   Iconic (ES-DE version) by Siddy212
             <color>${systemInfoColor}</color>
             <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
         </text>
-        <text name="systemInfo">
+        <text name="system-manufacturer" extra="true">
             <origin>0.5 0.5</origin>
-            <pos>0.25 0.586</pos>
-            <size>0.255 0.024</size>
+            <pos>0.25 0.506</pos>
+            <fontSize>0.019</fontSize>
+            <size>0.255 0.05</size>
             <autoScrollSpeed>25</autoScrollSpeed>
             <autoScrollDelay>0</autoScrollDelay>
             <singleLineScroll>true</singleLineScroll>
-            <fontSize>0.024</fontSize>
-            <color>a0a0a0</color>
+            <text>${systemManufacturer}</text>
             <alignment>center</alignment>
-            <lineSpacing>1</lineSpacing>
             <forceUppercase>true</forceUppercase>
+            <color>${systemInfoColor}</color>
             <zIndex>15</zIndex>
-            <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
+            <fontPath>./_inc/fonts/Gilroy-BoldItalic.ttf</fontPath>
         </text>
         <text name="system-year-type" extra="true">
             <origin>0.5 0.5</origin>
-            <pos>0.25 0.518</pos>
+            <pos>0.25 0.543</pos>
             <fontSize>0.024</fontSize>
             <size>0.255 0.05</size>
             <autoScrollSpeed>25</autoScrollSpeed>
@@ -225,10 +225,25 @@ Based on:   Iconic (ES-DE version) by Siddy212
             <zIndex>15</zIndex>
             <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
         </text>
+        <text name="systemInfo">
+            <origin>0.5 0.5</origin>
+            <pos>0.25 0.605</pos>
+            <size>0.255 0.024</size>
+            <autoScrollSpeed>25</autoScrollSpeed>
+            <autoScrollDelay>0</autoScrollDelay>
+            <singleLineScroll>true</singleLineScroll>
+            <fontSize>0.024</fontSize>
+            <color>a0a0a0</color>
+            <alignment>center</alignment>
+            <lineSpacing>1</lineSpacing>
+            <forceUppercase>true</forceUppercase>
+            <zIndex>15</zIndex>
+            <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
+        </text>
         <text name="system-description" extra="true">
             <origin>0.5 0</origin>
-            <pos>0.25 0.615</pos>
-            <size>0.23 0.20</size>
+            <pos>0.25 0.635</pos>
+            <size>0.23 0.175</size>
             <fontSize>0.024</fontSize>
             <fontPath>./_inc/fonts/Oxygen-Regular.ttf</fontPath>
             <text>${systemDescription}</text>
