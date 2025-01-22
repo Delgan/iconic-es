@@ -3,7 +3,7 @@ set -e
 
 mkdir -p ~/.emulationstation/themes
 
-python3 "$WORKSPACE_DIR/tools/setup_es_config.py" /home/dev/.emulationstation/es_systems.cfg /opt/roms
+python3 "$WORKSPACE_DIR/_tools/setup_es_config.py" /home/dev/.emulationstation/es_systems.cfg /opt/roms
 
 cp -r "$WORKSPACE_DIR/.devcontainer/es_input.cfg" ~/.emulationstation/
 
