@@ -8,6 +8,7 @@ from dataclasses import dataclass
 
 @dataclass
 class System:
+    name: str
     roms_path: Path
     extension: str
 
@@ -17,6 +18,10 @@ def list_systems(config: Path):
     root = tree.getroot()
 
     for system in root.findall("system"):
+        theme_node = system.find("theme")
+        if theme_node is None or theme_node.text is None:
+            continue
+
         path_node = system.find("path")
         if path_node is None or path_node.text is None:
             continue
@@ -25,10 +30,11 @@ def list_systems(config: Path):
         if extension_node is None or extension_node.text is None:
             continue
 
+        name = theme_node.text
         system_roms = Path(path_node.text)
         extension, *_ = extension_node.text.split()
 
-        yield System(system_roms, extension[1:])
+        yield System(name, system_roms, extension[1:])
 
 
 def create_dummy_rom(system: System):
