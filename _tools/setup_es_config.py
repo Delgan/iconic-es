@@ -61,7 +61,6 @@ def _make_system_node(system_metadata: SystemMetadata, roms_path: Path):
     add_node("manufacturer", system_metadata.manufacturer)
     add_node("release", system_metadata.release_year)
     add_node("hardware", system_metadata.hardware_type)
-    add_node("platform", system_metadata.identifier)
     add_node("theme", system_metadata.identifier)
     add_node("path", str(roms_path / system_metadata.identifier))
     add_node("extension", ".txt")
@@ -128,5 +127,5 @@ if __name__ == "__main__":
 
     ElementTree.indent(config_tree, level=0, space="  ")
 
-    es_config = 1
-    config_tree.write(args.dest_es_config, encoding="utf8", xml_declaration=True)
+    with open(args.dest_es_config, "wb") as f:
+        config_tree.write(f, encoding="utf8", xml_declaration=True)
