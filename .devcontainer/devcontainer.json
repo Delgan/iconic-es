@@ -9,7 +9,8 @@
             },
             "extensions": [
                 "mikeburgh.xml-format",
-                "ms-python.python"
+                "ms-python.python",
+                "charliermarsh.ruff"
             ]
         }
     },
