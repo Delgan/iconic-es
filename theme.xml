@@ -20,6 +20,8 @@ Based on:   Iconic (ES-DE version) by Siddy212
         <systemBackgroundGradientImage>background-art-gradient-dark.svg</systemBackgroundGradientImage>
         <systemCarouselSelectorImage>system-carousel-selector-dark.svg</systemCarouselSelectorImage>
         <systemInfoColor>cccccc</systemInfoColor>
+        <systemManufacturerColor>adadad</systemManufacturerColor>
+        <systemInfoSecondaryColor>a0a0a0</systemInfoSecondaryColor>
         <helpTextColor>999999</helpTextColor>
         <helpIconColor>999999</helpIconColor>
     </variables>
@@ -27,6 +29,8 @@ Based on:   Iconic (ES-DE version) by Siddy212
         <systemBackgroundGradientImage>background-art-gradient-light.svg</systemBackgroundGradientImage>
         <systemCarouselSelectorImage>system-carousel-selector-light.svg</systemCarouselSelectorImage>
         <systemInfoColor>555555</systemInfoColor>
+        <systemManufacturerColor>737373</systemManufacturerColor>
+        <systemInfoSecondaryColor>a0a0a0</systemInfoSecondaryColor>
         <helpTextColor>616161</helpTextColor>
         <helpIconColor>616161</helpIconColor>
     </variables>
@@ -207,9 +211,9 @@ Based on:   Iconic (ES-DE version) by Siddy212
             <text>${systemManufacturer}</text>
             <alignment>center</alignment>
             <forceUppercase>true</forceUppercase>
-            <color>${systemInfoColor}</color>
+            <color>${systemManufacturerColor}</color>
             <zIndex>15</zIndex>
-            <fontPath>./_inc/fonts/Gilroy-BoldItalic.ttf</fontPath>
+            <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
         </text>
         <text name="system-year-type" extra="true">
             <origin>0.5 0.5</origin>
@@ -235,7 +239,7 @@ Based on:   Iconic (ES-DE version) by Siddy212
             <autoScrollDelay>0</autoScrollDelay>
             <singleLineScroll>true</singleLineScroll>
             <fontSize>0.024</fontSize>
-            <color>a0a0a0</color>
+            <color>${systemInfoSecondaryColor}</color>
             <alignment>center</alignment>
             <lineSpacing>1</lineSpacing>
             <forceUppercase>true</forceUppercase>
