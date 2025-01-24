@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SVG to PNG</title>
+
+</head>
+
+<body>
+
+    <h1>SVG to PNG</h1>
+
+    <div>I couldn't find any tool that would properly convert SVG to PNG (tried imagemagick, inkscape and online tools).
+        Therefore, this page is used to (manually) generate the PNGs images from the SVGs. The SVGs are rendered on a
+        canvas, then the images can be saved as PNG. Ideally this should be automated, obviously.</div>
+    <br />
+
+    <div id="render"></div>
+
+    <script>
+
+        const images = [
+            'system-carousel-selector-light-with-shadow.svg',
+            'system-carousel-selector-dark-with-shadow.svg',
+        ];
+
+
+        const render = document.getElementById('render');
+
+        for (const image of images) {
+            const div = document.createElement('div');
+
+            const label = document.createElement('div');
+            label.innerText = image;
+            div.appendChild(label);
+
+            const canvas = document.createElement('canvas');
+            canvas.id = image;
+            canvas.width = 1920;
+            canvas.height = 1080;
+            div.appendChild(canvas);
+
+            render.appendChild(div);
+
+            for (i = 0; i < 3; i++) {
+                const br = document.createElement('br');
+                div.appendChild(br);
+            }
+
+            const context = canvas.getContext('2d');
+            const img = new Image();
+
+            img.onload = function () {
+                context.clearRect(0, 0, canvas.width, canvas.height);
+                context.drawImage(img, 0, 0, canvas.width, canvas.height);
+            };
+
+            img.onerror = function () {
+                console.error(`Failed to load SVG: ${image}`);
+            };
+
+            img.src = image;
+        }
+    </script>
+
+</body>
+
+</html>

@@ -18,7 +18,7 @@ Based on:   Iconic (ES-DE version) by Siddy212
     </subset>
     <variables ifSubset="color-scheme:dark">
         <systemBackgroundGradientImage>background-art-gradient-dark.svg</systemBackgroundGradientImage>
-        <systemCarouselSelectorImage>system-carousel-selector-dark.svg</systemCarouselSelectorImage>
+        <systemCarouselSelectorImage>system-carousel-selector-dark-with-shadow.png</systemCarouselSelectorImage>
         <systemInfoColor>cccccc</systemInfoColor>
         <systemManufacturerColor>adadad</systemManufacturerColor>
         <systemInfoSecondaryColor>a0a0a0</systemInfoSecondaryColor>
@@ -27,7 +27,7 @@ Based on:   Iconic (ES-DE version) by Siddy212
     </variables>
     <variables ifSubset="color-scheme:light">
         <systemBackgroundGradientImage>background-art-gradient-light.svg</systemBackgroundGradientImage>
-        <systemCarouselSelectorImage>system-carousel-selector-light.svg</systemCarouselSelectorImage>
+        <systemCarouselSelectorImage>system-carousel-selector-light-with-shadow.png</systemCarouselSelectorImage>
         <systemInfoColor>555555</systemInfoColor>
         <systemManufacturerColor>737373</systemManufacturerColor>
         <systemInfoSecondaryColor>a0a0a0</systemInfoSecondaryColor>
@@ -170,19 +170,13 @@ Based on:   Iconic (ES-DE version) by Siddy212
             <path>./_inc/controllers/${system.theme}.webp</path>
             <zIndex>15</zIndex>
         </image>
-        <image name="system-carousel-selector-shadow" extra="true">
-            <origin>0.5 0</origin>
-            <pos>0.25 -.1</pos>
-            <size>0.280 1.1</size>
-            <path>./_inc/other/system-carousel-selector-shadow.png</path>
-            <zindex>2</zindex>
-        </image>
         <image name="system-carousel-selector" extra="true">
-            <origin>0.5 0</origin>
-            <pos>0.25 0</pos>
-            <size>0.261 1</size>
+            <origin>0 0</origin>
+            <pos>0 0</pos>
+            <size>1 1</size>
             <path>./_inc/other/${systemCarouselSelectorImage}</path>
-            <zindex>3</zindex>
+            <zindex>2</zindex>
+            <linearSmooth>true</linearSmooth>
         </image>
         <text name="system-name" extra="true">
             <text>${systemName}</text>
