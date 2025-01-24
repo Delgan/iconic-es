@@ -173,7 +173,7 @@ Based on:   Iconic (ES-DE version) by Siddy212
             <text>${systemName}</text>
             <origin>0.5 0.5</origin>
             <pos>0.25 0.474</pos>
-            <size>0.255 0.05</size>
+            <size>0.26 0.05</size>
             <autoScrollSpeed>25</autoScrollSpeed>
             <autoScrollDelay>0</autoScrollDelay>
             <singleLineScroll>true</singleLineScroll>
@@ -189,7 +189,7 @@ Based on:   Iconic (ES-DE version) by Siddy212
             <origin>0.5 0.5</origin>
             <pos>0.25 0.506</pos>
             <fontSize>0.019</fontSize>
-            <size>0.255 0.05</size>
+            <size>0.26 0.05</size>
             <autoScrollSpeed>25</autoScrollSpeed>
             <autoScrollDelay>0</autoScrollDelay>
             <singleLineScroll>true</singleLineScroll>
@@ -204,7 +204,7 @@ Based on:   Iconic (ES-DE version) by Siddy212
             <origin>0.5 0.5</origin>
             <pos>0.25 0.543</pos>
             <fontSize>0.024</fontSize>
-            <size>0.255 0.05</size>
+            <size>0.26 0.05</size>
             <autoScrollSpeed>25</autoScrollSpeed>
             <autoScrollDelay>0</autoScrollDelay>
             <singleLineScroll>true</singleLineScroll>
@@ -219,7 +219,7 @@ Based on:   Iconic (ES-DE version) by Siddy212
         <text name="systemInfo">
             <origin>0.5 0.5</origin>
             <pos>0.25 0.605</pos>
-            <size>0.255 0.024</size>
+            <size>0.26 0.024</size>
             <autoScrollSpeed>25</autoScrollSpeed>
             <autoScrollDelay>0</autoScrollDelay>
             <singleLineScroll>true</singleLineScroll>
@@ -234,7 +234,7 @@ Based on:   Iconic (ES-DE version) by Siddy212
         <text name="system-description" extra="true">
             <origin>0.5 0</origin>
             <pos>0.25 0.635</pos>
-            <size>0.23 0.175</size>
+            <size>0.24 0.175</size>
             <fontSize>0.024</fontSize>
             <fontPath>./_inc/fonts/Oxygen-Regular.ttf</fontPath>
             <text>${systemDescription}</text>
