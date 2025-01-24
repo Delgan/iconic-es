@@ -13,8 +13,15 @@
       <stop stop-color="#111111" stop-opacity="0.9" offset="0.5" />
       <stop stop-color="#111111" stop-opacity="0.45" offset="1" />
     </linearGradient>
+    <linearGradient id="linear1" gradientUnits="objectBoundingBox" x1="100%" y1="100%" x2="100%" y2="0%" >
+      <stop offset="0" stop-color="#111111" stop-opacity="1" />
+      <stop offset="0.25" stop-color="#111111" stop-opacity="1" />
+      <stop offset="0.85" stop-color="#111111" stop-opacity="0.3" />
+      <stop offset="1" stop-color="#111111" stop-opacity="0" />
+    </linearGradient>
   </defs>
   <rect x="230" y="-50" width="500" height="1180" filter="url(#side-shadows)" clip-path="url(#cut-in-shadows)" />
+  <rect x="0" y="880" width="1920" height="200" style="fill:url(#linear1);"  />
   <rect x="230" y="-50" width="500" height="1180" fill="url(#gradient)"  />
   <rect x="280" y="475" width="400" height="1.2" clip-rule="evenodd" fill="#a0a0a0" fill-opacity="1" fill-rule="evenodd" stroke-width="3.5" stroke-linejoin="round" stroke-miterlimit="2" />
   <rect x="280" y="620" width="400" height="1.2" clip-rule="evenodd" fill="#a0a0a0" fill-opacity="1" fill-rule="evenodd" stroke-width="3.5" stroke-linejoin="round" stroke-miterlimit="2" />
