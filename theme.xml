@@ -248,7 +248,7 @@ Based on:   Iconic (ES-DE version) by Siddy212
         </text>
         <helpsystem name="help">
             <origin>0 0</origin>
-            <pos>0.48 0.965</pos>
+            <pos>0.48 0.967</pos>
             <fontSize>0.022</fontSize>
             <textColor>${helpTextColor}</textColor>
             <iconColor>${helpIconColor}</iconColor>
