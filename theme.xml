@@ -23,6 +23,15 @@ Based on:   Iconic (ES-DE version) by Siddy212
         <systemInfoSecondaryColor>a0a0a0</systemInfoSecondaryColor>
         <helpTextColor>999999</helpTextColor>
         <helpIconColor>999999</helpIconColor>
+        <menuBackgroundColor>151515</menuBackgroundColor>
+        <menuTitleColor>cccccc</menuTitleColor>
+        <menuGroupColor>cccccc</menuGroupColor>
+        <menuTextColor>cccccc</menuTextColor>
+        <menuFooterColor>a0a0a0</menuFooterColor>
+        <menuSelectedColor>f0f0f0</menuSelectedColor>
+        <menuSelectorColor>444444</menuSelectorColor>
+        <menuTextSeparatorColor>44444430</menuTextSeparatorColor>
+        <menuGroupSeparatorColor>444444</menuGroupSeparatorColor>
     </variables>
     <variables ifSubset="color-scheme:light">
         <systemCarouselSelectorImage>system-carousel-selector-light-with-shadow.png</systemCarouselSelectorImage>
@@ -31,6 +40,15 @@ Based on:   Iconic (ES-DE version) by Siddy212
         <systemInfoSecondaryColor>a0a0a0</systemInfoSecondaryColor>
         <helpTextColor>616161</helpTextColor>
         <helpIconColor>616161</helpIconColor>
+        <menuBackgroundColor>F0F0F0</menuBackgroundColor>
+        <menuTitleColor>555555</menuTitleColor>
+        <menuGroupColor>555555</menuGroupColor>
+        <menuTextColor>555555</menuTextColor>
+        <menuFooterColor>a0a0a0</menuFooterColor>
+        <menuSelectedColor>f0f0f0</menuSelectedColor>
+        <menuSelectorColor>666666</menuSelectorColor>
+        <menuTextSeparatorColor>6666661A</menuTextSeparatorColor>
+        <menuGroupSeparatorColor>666666</menuGroupSeparatorColor>
     </variables>
     <!-- Set default description and cart size when none is available. -->
     <variables>
@@ -108,8 +126,8 @@ Based on:   Iconic (ES-DE version) by Siddy212
             <pos>0 1</pos>
             <size>1 0.2</size>
             <logoSize>0.2 0.2</logoSize>
-            <color>ffffff00</color>
-            <colorEnd>ffffff00</colorEnd>
+            <color>00000000</color>
+            <colorEnd>00000000</colorEnd>
             <gradientType>vertical</gradientType>
             <logoScale>1.6</logoScale>
             <minLogoOpacity>0.5</minLogoOpacity>
@@ -252,8 +270,66 @@ Based on:   Iconic (ES-DE version) by Siddy212
             <fontSize>0.022</fontSize>
             <textColor>${helpTextColor}</textColor>
             <iconColor>${helpIconColor}</iconColor>
-            <fontPath>./_inc/fonts/Gilroy-Regular.ttf</fontPath>
+            <fontPath></fontPath>
         </helpsystem>
+    </view>
+    <view name="menu">
+        <menuBackground name="menubg">
+            <color>${menuBackgroundColor}</color>
+            <selectorColor>${menuSelectorColor}</selectorColor>
+            <cornerSize>20 20</cornerSize>
+        </menuBackground>
+        <menuText name="menutitle">
+            <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
+            <fontSize>0.034</fontSize>
+            <color>${menuTitleColor}</color>
+        </menuText>
+        <menuGroup name="menugroup">
+            <fontPath>./_inc/fonts/Gilroy-Regular.ttf</fontPath>
+            <fontSize>0.034</fontSize>
+            <color>${menuGroupColor}</color>
+            <separatorColor>${menuGroupSeparatorColor}</separatorColor>
+            <backgroundColor>00000000</backgroundColor>
+        </menuGroup>
+        <menuText name="menutext">
+            <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
+            <fontSize>0.032</fontSize>
+            <color>${menuTextColor}</color>
+            <separatorColor>${menuTextSeparatorColor}</separatorColor>
+            <selectedColor>${menuSelectedColor}</selectedColor>
+            <selectorColor>${menuSelectorColor}</selectorColor>
+        </menuText>
+        <menuTextSmall name="menutextsmall">
+            <fontPath>./_inc/fonts/Gilroy-Regular.ttf</fontPath>
+            <fontSize>0.025</fontSize>
+            <color>${menuTextColor}</color>
+        </menuTextSmall>
+        <menuText name="menufooter">
+            <fontPath>./_inc/fonts/Gilroy-Regular.ttf</fontPath>
+            <fontSize>0.024</fontSize>
+            <color>${menuFooterColor}</color>
+        </menuText>
+        <menuTextEdit name="menutextedit">
+            <inactive>./_inc/other/menu-textinput.png</inactive>
+            <active>./_inc/other/menu-textinput-active.png</active>
+        </menuTextEdit>
+        <menuIcons name="menuicons">
+            <iconSystem>./_inc/other/menu-icon-system.svg</iconSystem>
+            <iconUpdates>./_inc/other/menu-icon-update.svg</iconUpdates>
+            <iconControllers>./_inc/other/menu-icon-controller.svg</iconControllers>
+            <iconGames>./_inc/other/menu-icon-games.svg</iconGames>
+            <iconUI>./_inc/other/menu-icon-ui.svg</iconUI>
+            <iconSound>./_inc/other/menu-icon-sound.svg</iconSound>
+            <iconNetwork>./_inc/other/menu-icon-network.svg</iconNetwork>
+            <iconScraper>./_inc/other/menu-icon-scraper.svg</iconScraper>
+            <iconAdvanced>./_inc/other/menu-icon-advanced.svg</iconAdvanced>
+            <iconQuit>./_inc/other/menu-icon-quit.svg</iconQuit>
+            <iconRetroachievements>./_inc/other/menu-icon-achievements.svg</iconRetroachievements>
+            <iconKodi>./_inc/other/menu-icon-kodi.svg</iconKodi>
+            <iconRestart>./_inc/other/menu-icon-restart.svg</iconRestart>
+            <iconShutdown>./_inc/other/menu-icon-shutdown.svg</iconShutdown>
+            <iconFastShutdown>./_inc/other/menu-icon-shutdown.svg</iconFastShutdown>
+        </menuIcons>
     </view>
     <view name="basic"></view>
     <view name="detailed"></view>
