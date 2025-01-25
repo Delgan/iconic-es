@@ -27,7 +27,7 @@ Based on:   Iconic (ES-DE version) by Siddy212
     <variables ifSubset="color-scheme:light">
         <systemCarouselSelectorImage>system-carousel-selector-light-with-shadow.png</systemCarouselSelectorImage>
         <systemInfoColor>555555</systemInfoColor>
-        <systemManufacturerColor>737373</systemManufacturerColor>
+        <systemManufacturerColor>6e6e6e</systemManufacturerColor>
         <systemInfoSecondaryColor>a0a0a0</systemInfoSecondaryColor>
         <helpTextColor>616161</helpTextColor>
         <helpIconColor>616161</helpIconColor>
