@@ -72,11 +72,20 @@ def _make_system_node(system_metadata: SystemMetadata, roms_path: Path):
     return system_node
 
 
-def _create_dummy_rom(roms_path: Path, system_name: str):
-    roms_path = roms_path / system_name
-    roms_path.mkdir(parents=True, exist_ok=True)
-    rom = roms_path / "dummy.txt"
-    rom.touch()
+def _make_game_node(rom_path: Path, rom_image: Path):
+    game_node = ElementTree.Element("game")
+
+    def add_node(name, value):
+        node = ElementTree.Element(name)
+        node.text = value
+        game_node.append(node)
+
+    add_node("path", str(rom_path))
+    add_node("name", "Dummy")
+    add_node("desc", "Dummy description for a dummy game.")
+    add_node("image", str(rom_image))
+
+    return game_node
 
 
 def _is_collection(system_metadata: SystemMetadata, collections: list[str]):
@@ -97,19 +106,22 @@ if __name__ == "__main__":
         "Generate ES configuration files and dummy ROM for testing the theme."
     )
     parser.add_argument("dest_es_config", type=Path, help="Path to the ES config file")
+    parser.add_argument(
+        "dest_gamelists", type=Path, help="Path to the ES gamelists file"
+    )
     parser.add_argument("dest_roms", type=Path, help="Path to the ROMs directory")
     args = parser.parse_args()
 
     workspace = Path(__file__).resolve().parent.parent
     metadata = workspace / "_inc" / "metadata"
 
-    config_tree = ElementTree.ElementTree(ElementTree.Element("systemList"))
-    config_root = config_tree.getroot()
-
     collections = [
         line.strip()
         for line in (workspace / "collections.info").read_text().splitlines()
     ]
+
+    config_tree = ElementTree.ElementTree(ElementTree.Element("systemList"))
+    config_root = config_tree.getroot()
 
     for system in metadata.glob("*.xml"):
         if system.name == "_builtin.xml":
@@ -123,7 +135,27 @@ if __name__ == "__main__":
         system_node = _make_system_node(system_metadata, args.dest_roms)
         config_root.append(system_node)
 
-        _create_dummy_rom(args.dest_roms, system_metadata.identifier)
+        system_roms_path = args.dest_roms / system_metadata.identifier
+        system_roms_path.mkdir(parents=True, exist_ok=True)
+
+        dummy_rom_path = system_roms_path / "dummy.txt"
+        dummy_rom_path.touch()
+
+        dummy_rom_image = workspace / "_inc" / "controllers/_default.webp"
+
+        gamelists_tree = ElementTree.ElementTree(ElementTree.Element("gameList"))
+        gamelists_root = gamelists_tree.getroot()
+
+        game_node = _make_game_node(dummy_rom_path, dummy_rom_image)
+        gamelists_root.append(game_node)
+
+        ElementTree.indent(gamelists_tree, level=0, space="  ")
+
+        system_gameslists_path = args.dest_gamelists / system_metadata.identifier
+        system_gameslists_path.mkdir(parents=True, exist_ok=True)
+
+        with open(system_gameslists_path / "gamelist.xml", "wb") as f:
+            gamelists_tree.write(f, encoding="utf8", xml_declaration=True)
 
     ElementTree.indent(config_tree, level=0, space="  ")
 
