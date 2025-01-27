@@ -270,7 +270,7 @@ Based on:   Iconic (ES-DE version) by Siddy212
             <fontSize>0.022</fontSize>
             <textColor>${helpTextColor}</textColor>
             <iconColor>${helpIconColor}</iconColor>
-            <fontPath></fontPath>
+            <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
         </helpsystem>
     </view>
     <view name="menu">
