@@ -72,7 +72,7 @@ def _make_system_node(system_metadata: SystemMetadata, roms_path: Path):
     return system_node
 
 
-def _make_game_node(rom_path: Path, rom_image: Path):
+def _make_game_node(rom_path: Path, rom_image: Path, game_name: str):
     game_node = ElementTree.Element("game")
 
     def add_node(name, value):
@@ -81,8 +81,8 @@ def _make_game_node(rom_path: Path, rom_image: Path):
         game_node.append(node)
 
     add_node("path", str(rom_path))
-    add_node("name", "Dummy")
-    add_node("desc", "Dummy description for a dummy game.")
+    add_node("name", game_name)
+    add_node("desc", f"Dummy description for the game '{game_name}'.")
     add_node("image", str(rom_image))
 
     return game_node
@@ -138,16 +138,17 @@ if __name__ == "__main__":
         system_roms_path = args.dest_roms / system_metadata.identifier
         system_roms_path.mkdir(parents=True, exist_ok=True)
 
-        dummy_rom_path = system_roms_path / "dummy.txt"
-        dummy_rom_path.touch()
-
-        dummy_rom_image = workspace / "_inc" / "controllers/_default.webp"
-
         gamelists_tree = ElementTree.ElementTree(ElementTree.Element("gameList"))
         gamelists_root = gamelists_tree.getroot()
 
-        game_node = _make_game_node(dummy_rom_path, dummy_rom_image)
-        gamelists_root.append(game_node)
+        for i in range(20):
+            dummy_rom_path = system_roms_path / f"dummy_{i:02d}.txt"
+            dummy_rom_path.touch()
+            dummy_rom_image = workspace / "_inc" / "controllers/_default.webp"
+            game_node = _make_game_node(
+                dummy_rom_path, dummy_rom_image, f"Dummy Game {i}"
+            )
+            gamelists_root.append(game_node)
 
         ElementTree.indent(gamelists_tree, level=0, space="  ")
 
