@@ -6,7 +6,7 @@ Author:     Delgan
 License:    CC0 1.0
 Based on:   Iconic (ES-DE version) by Siddy212
 -->
-<theme>
+<theme defaultTransition="instant">
     <formatVersion>7</formatVersion>
     <subset name="color-scheme" displayName="Color Scheme">
         <include name="light" displayName="Light" />
@@ -18,6 +18,7 @@ Based on:   Iconic (ES-DE version) by Siddy212
     </subset>
     <variables ifSubset="color-scheme:dark">
         <systemCarouselSelectorImage>system-carousel-selector-dark-with-shadow.png</systemCarouselSelectorImage>
+        <bottomBarImage>bottom-bar-dark.png</bottomBarImage>
         <systemInfoColor>cccccc</systemInfoColor>
         <systemManufacturerColor>adadad</systemManufacturerColor>
         <systemInfoSecondaryColor>a0a0a0</systemInfoSecondaryColor>
@@ -32,9 +33,15 @@ Based on:   Iconic (ES-DE version) by Siddy212
         <menuSelectorColor>444444</menuSelectorColor>
         <menuTextSeparatorColor>44444430</menuTextSeparatorColor>
         <menuGroupSeparatorColor>444444</menuGroupSeparatorColor>
+        <gamelistBackgroundImage>gamelist-background-dark-medium.svg</gamelistBackgroundImage>
+        <gamelistSelectorColor>444444</gamelistSelectorColor>
+        <gamelistSelectedColor>f0f0f0</gamelistSelectedColor>
+        <gamelistPrimaryColor>cccccc</gamelistPrimaryColor>
+        <gamelistSecondaryColor>cccccc</gamelistSecondaryColor>
     </variables>
     <variables ifSubset="color-scheme:light">
         <systemCarouselSelectorImage>system-carousel-selector-light-with-shadow.png</systemCarouselSelectorImage>
+        <bottomBarImage>bottom-bar-light.png</bottomBarImage>
         <systemInfoColor>555555</systemInfoColor>
         <systemManufacturerColor>6e6e6e</systemManufacturerColor>
         <systemInfoSecondaryColor>a0a0a0</systemInfoSecondaryColor>
@@ -49,6 +56,11 @@ Based on:   Iconic (ES-DE version) by Siddy212
         <menuSelectorColor>666666</menuSelectorColor>
         <menuTextSeparatorColor>6666661A</menuTextSeparatorColor>
         <menuGroupSeparatorColor>666666</menuGroupSeparatorColor>
+        <gamelistBackgroundImage>gamelist-background-light-medium.svg</gamelistBackgroundImage>
+        <gamelistSelectorColor>666666</gamelistSelectorColor>
+        <gamelistSelectedColor>F0F0F0</gamelistSelectedColor>
+        <gamelistPrimaryColor>555555</gamelistPrimaryColor>
+        <gamelistSecondaryColor>555555</gamelistSecondaryColor>
     </variables>
     <!-- Set default description and cart size when none is available. -->
     <variables>
@@ -73,7 +85,7 @@ Based on:   Iconic (ES-DE version) by Siddy212
             <pos>1 1</pos>
         </text>
     </view>
-    <view name="system,basic,detailed">
+    <view name="system, basic, detailed">
         <stackpanel name="system-indicators" extra="true">
             <h>0.022</h>
             <pos>-0.0075 0.965</pos>
@@ -109,7 +121,7 @@ Based on:   Iconic (ES-DE version) by Siddy212
             </networkIcon>
         </stackpanel>
     </view>
-    <view name="system">
+    <view name="system, basic">
         <stackpanel name="system-indicators" extra="true">
             <w>1</w>
             <separator>0.012</separator>
@@ -331,7 +343,68 @@ Based on:   Iconic (ES-DE version) by Siddy212
             <iconFastShutdown>./_inc/other/menu-icon-shutdown.svg</iconFastShutdown>
         </menuIcons>
     </view>
-    <view name="basic"></view>
+    <view name="basic">
+        <image name="background-art" extra="true">
+            <default>./_inc/system-background-art/_default.webp</default>
+            <path>./_inc/system-background-art/${system.theme}.webp</path>
+            <size>1 1</size>
+            <saturation>0.65</saturation>
+            <zIndex>0</zIndex>
+        </image>
+        <image name="gamelist-bottom-bar" extra="true">
+            <origin>0 0</origin>
+            <pos>0 0</pos>
+            <size>1 1</size>
+            <path>./_inc/other/${bottomBarImage}</path>
+            <zindex>2</zindex>
+            <linearSmooth>true</linearSmooth>
+        </image>
+        <image name="logo" origin="0.5 0.5" linearSmooth="true">
+            <path>./_inc/system-logo/${system.theme}.webp</path>
+            <zIndex>11</zIndex>
+            <visible>true</visible>
+            <pos>0.255 0.5</pos>
+            <maxSize>0.5 .5</maxSize>
+        </image>
+        <image name="game-list-background-shadow" extra="true">
+            <origin>0.5 0.5</origin>
+            <pos>0.75 0.51</pos>
+            <size>0.4453125 0.8972222528</size>
+            <zIndex>11</zIndex>
+            <linearSmooth>true</linearSmooth>
+            <path>./_inc/other/gamelist-background-shadow.png</path>
+        </image>
+        <image name="game-list-background" extra="true">
+            <origin>0.5 0.5</origin>
+            <pos>0.75 0.51</pos>
+            <size>0.4140625 0.84166666666</size>
+            <zIndex>12</zIndex>
+            <linearSmooth>true</linearSmooth>
+            <path>./_inc/other/${gamelistBackgroundImage}</path>
+        </image>
+        <textlist name="gamelist">
+            <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
+            <selectorColor>${gamelistSelectorColor}</selectorColor>
+            <selectedColor>${gamelistSelectedColor}</selectedColor>
+            <primaryColor>${gamelistPrimaryColor}</primaryColor>
+            <secondaryColor>${gamelistSecondaryColor}</secondaryColor>
+            <horizontalMargin>0.0083</horizontalMargin>
+            <zIndex>13</zIndex>
+            <pos>0.57491666666667 0.134666666666667</pos>
+            <size>0.348958333333333 0.7519</size>
+            <fontSize>0.030333333333333</fontSize>
+            <lines>13</lines>
+            <alignment>left</alignment>
+            <lineSpacing>1.2</lineSpacing>
+        </textlist>
+        <helpsystem name="help">
+            <origin>0 0</origin>
+            <pos>0.01 0.967</pos>
+            <fontSize>0.022</fontSize>
+            <textColor>${helpTextColor}</textColor>
+            <iconColor>${helpIconColor}</iconColor>
+            <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
+        </helpsystem>
+    </view>
     <view name="detailed"></view>
-    <view name="video"></view>
 </theme>
