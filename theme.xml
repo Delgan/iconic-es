@@ -34,10 +34,12 @@ Based on:   Iconic (ES-DE version) by Siddy212
         <menuTextSeparatorColor>44444430</menuTextSeparatorColor>
         <menuGroupSeparatorColor>444444</menuGroupSeparatorColor>
         <gamelistBackgroundImage>gamelist-background-dark-medium.svg</gamelistBackgroundImage>
+        <gamelistBackgroundImageDetailed>gamelist-metadata-background-dark-extended.svg</gamelistBackgroundImageDetailed>
         <gamelistSelectorColor>444444</gamelistSelectorColor>
         <gamelistSelectedColor>f0f0f0</gamelistSelectedColor>
         <gamelistPrimaryColor>cccccc</gamelistPrimaryColor>
         <gamelistSecondaryColor>cccccc</gamelistSecondaryColor>
+        <gameMetadataColor>cccccc</gameMetadataColor>
     </variables>
     <variables ifSubset="color-scheme:light">
         <systemCarouselSelectorImage>system-carousel-selector-light-with-shadow.png</systemCarouselSelectorImage>
@@ -57,10 +59,12 @@ Based on:   Iconic (ES-DE version) by Siddy212
         <menuTextSeparatorColor>6666661A</menuTextSeparatorColor>
         <menuGroupSeparatorColor>666666</menuGroupSeparatorColor>
         <gamelistBackgroundImage>gamelist-background-light-medium.svg</gamelistBackgroundImage>
+        <gamelistBackgroundImageDetailed>gamelist-metadata-background-light-extended.svg</gamelistBackgroundImageDetailed>
         <gamelistSelectorColor>666666</gamelistSelectorColor>
         <gamelistSelectedColor>F0F0F0</gamelistSelectedColor>
         <gamelistPrimaryColor>555555</gamelistPrimaryColor>
         <gamelistSecondaryColor>555555</gamelistSecondaryColor>
+        <gameMetadataColor>555555</gameMetadataColor>
     </variables>
     <!-- Set default description and cart size when none is available. -->
     <variables>
@@ -121,7 +125,7 @@ Based on:   Iconic (ES-DE version) by Siddy212
             </networkIcon>
         </stackpanel>
     </view>
-    <view name="system, basic">
+    <view name="system, basic, detailed">
         <stackpanel name="system-indicators" extra="true">
             <w>1</w>
             <separator>0.012</separator>
@@ -406,5 +410,221 @@ Based on:   Iconic (ES-DE version) by Siddy212
             <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
         </helpsystem>
     </view>
-    <view name="detailed"></view>
+    <view name="detailed">
+        <image name="background-art" extra="true">
+            <default>./_inc/system-background-art/_default.webp</default>
+            <path>./_inc/system-background-art/${system.theme}.webp</path>
+            <size>1 1</size>
+            <saturation>0.65</saturation>
+            <zIndex>0</zIndex>
+        </image>
+        <image name="gamelist-bottom-bar" extra="true">
+            <origin>0 0</origin>
+            <pos>0 0</pos>
+            <size>1 1</size>
+            <path>./_inc/other/${bottomBarImage}</path>
+            <zindex>2</zindex>
+            <linearSmooth>true</linearSmooth>
+        </image>
+        <image name="md_marquee">
+            <pos>0.37 0.10</pos>
+            <maxSize>0.21 0.16</maxSize>
+        </image>
+        <image name="md_image">
+            <pos>0.25 0.22</pos>
+            <zIndex>11</zIndex>
+            <maxSize>0.26 0.26</maxSize>
+        </image>
+        <image name="md_thumbnail">
+            <pos>0.1 0.33</pos>
+            <maxSize>0.14 0.16</maxSize>
+        </image>
+        <image name="logo" origin="0.5 0.5" linearSmooth="true" extra="true">
+            <path>./_inc/system-logo/${system.theme}.webp</path>
+            <pos>0.255 0.88</pos>
+            <maxSize>0.33 .33</maxSize>
+            <saturation>0.65</saturation>
+            <opacity>0.4</opacity>
+            <zIndex>11</zIndex>
+        </image>
+        <image name="game-metadata-background-image-extended" extra="true">
+            <origin>0.5 0.5</origin>
+            <path>./_inc/other/${gamelistBackgroundImageDetailed}</path>
+            <pos>0.272 0.61</pos>
+            <maxSize>0.5 .5</maxSize>
+            <zIndex>11</zIndex>
+        </image>
+        <image name="game-list-background-shadow" extra="true">
+            <origin>0.5 0.5</origin>
+            <pos>0.75 0.51</pos>
+            <size>0.4453125 0.8972222528</size>
+            <zIndex>11</zIndex>
+            <linearSmooth>true</linearSmooth>
+            <path>./_inc/other/gamelist-background-shadow.png</path>
+        </image>
+        <image name="game-list-background" extra="true">
+            <origin>0.5 0.5</origin>
+            <pos>0.75 0.51</pos>
+            <size>0.4140625 0.84166666666</size>
+            <zIndex>12</zIndex>
+            <linearSmooth>true</linearSmooth>
+            <path>./_inc/other/${gamelistBackgroundImage}</path>
+        </image>
+        <text name="md_name">
+            <origin>0 0</origin>
+            <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
+            <color>${gameMetadataColor}</color>
+            <lineSpacing>1</lineSpacing>
+            <value>Unknown</value>
+            <fontSize>0.024</fontSize>
+            <autoScroll>horizontal</autoScroll>
+            <autoScrollSpeed>50</autoScrollSpeed>
+            <autoScrollDelay>1000</autoScrollDelay>
+            <pos>0.05 0.437</pos>
+            <size>0.46 0.024</size>
+            <fontSize>0.024</fontSize>
+            <lineSpacing>1</lineSpacing>
+            <alignment>left</alignment>
+        </text>
+        <rating name="md_rating">
+            <origin>0.5 0.5</origin>
+            <filledPath>./_inc/other/icon-star-filled.svg</filledPath>
+            <unfilledPath>./_inc/other/icon-star-unfilled.svg</unfilledPath>
+            <color>${gameMetadataColor}</color>
+            <pos>0.085 0.506</pos>
+            <size>0 0.03</size>
+            <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
+            <fontSize>0.024</fontSize>
+            <lineSpacing>1</lineSpacing>
+            <alignment>left</alignment>
+        </rating>
+        <text name="md_genre">
+            <value>Unknown</value>
+            <forceUppercase>true</forceUppercase>
+            <origin>0 0.5</origin>
+            <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
+            <filledPath>./_inc/other/icon-star-filled.svg</filledPath>
+            <unfilledPath>./_inc/other/icon-star-unfilled.svg</unfilledPath>
+            <color>${gameMetadataColor}</color>
+            <lineSpacing>1</lineSpacing>
+            <pos>0.188 0.507</pos>
+            <size>0.32 0.024</size>
+            <fontSize>0.024</fontSize>
+            <alignment>left</alignment>
+        </text>
+        <datetime name="md_releasedate">
+            <value>Unknown</value>
+            <origin>0 0.5</origin>
+            <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
+            <filledPath>./_inc/other/icon-star-filled.svg</filledPath>
+            <unfilledPath>./_inc/other/icon-star-unfilled.svg</unfilledPath>
+            <color>${gameMetadataColor}</color>
+            <lineSpacing>1</lineSpacing>
+            <fontSize>0.024</fontSize>
+            <pos>0.05 0.564</pos>
+            <size>0.09 0.024</size>
+            <format>%m/%Y</format>
+            <alignment>left</alignment>
+        </datetime>
+        <text name="md_developer">
+            <value>Unknown</value>
+            <origin>0 0.5</origin>
+            <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
+            <filledPath>./_inc/other/icon-star-filled.svg</filledPath>
+            <unfilledPath>./_inc/other/icon-star-unfilled.svg</unfilledPath>
+            <color>${gameMetadataColor}</color>
+            <lineSpacing>1</lineSpacing>
+            <pos>0.188 0.564</pos>
+            <size>0.18 0.024</size>
+            <fontSize>0.024</fontSize>
+            <alignment>left</alignment>
+        </text>
+        <datetime name="md_lastplayed">
+            <value>Never</value>
+            <origin>0 0.5</origin>
+            <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
+            <filledPath>./_inc/other/icon-star-filled.svg</filledPath>
+            <unfilledPath>./_inc/other/icon-star-unfilled.svg</unfilledPath>
+            <color>${gameMetadataColor}</color>
+            <lineSpacing>1</lineSpacing>
+            <fontSize>0.024</fontSize>
+            <pos>0.415 0.564</pos>
+            <size>0.1 0.024</size>
+            <alignment>left</alignment>
+        </datetime>
+        <text name="md_players">
+            <value>Unknown</value>
+            <origin>0 0.5</origin>
+            <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
+            <filledPath>./_inc/other/icon-star-filled.svg</filledPath>
+            <unfilledPath>./_inc/other/icon-star-unfilled.svg</unfilledPath>
+            <color>${gameMetadataColor}</color>
+            <lineSpacing>1</lineSpacing>
+            <pos>0.05 0.621</pos>
+            <size>0.09 0.024</size>
+            <fontSize>0.024</fontSize>
+            <alignment>left</alignment>
+        </text>
+        <text name="md_publisher">
+            <value>Unknown</value>
+            <origin>0 0.5</origin>
+            <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
+            <filledPath>./_inc/other/icon-star-filled.svg</filledPath>
+            <unfilledPath>./_inc/other/icon-star-unfilled.svg</unfilledPath>
+            <color>${gameMetadataColor}</color>
+            <lineSpacing>1</lineSpacing>
+            <pos>0.188 0.621</pos>
+            <size>0.18 0.024</size>
+            <fontSize>0.024</fontSize>
+            <alignment>left</alignment>
+        </text>
+        <text name="md_gametime">
+            <value>Never</value>
+            <origin>0 0.5</origin>
+            <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
+            <filledPath>./_inc/other/icon-star-filled.svg</filledPath>
+            <unfilledPath>./_inc/other/icon-star-unfilled.svg</unfilledPath>
+            <color>${gameMetadataColor}</color>
+            <lineSpacing>1</lineSpacing>
+            <fontSize>0.024</fontSize>
+            <pos>0.415 0.621</pos>
+            <size>0.1 0.024</size>
+            <alignment>left</alignment>
+        </text>
+        <text name="md_description">
+            <origin>0 0</origin>
+            <fontPath>./_inc/fonts/Gilroy-Regular.ttf</fontPath>
+            <autoScroll>vertical</autoScroll>
+            <autoScrollSpeed>50</autoScrollSpeed>
+            <autoScrollDelay>5000</autoScrollDelay>
+            <color>${gameMetadataColor}</color>
+            <pos>0.03 0.67</pos>
+            <size>0.485 0.11</size>
+            <fontSize>0.024</fontSize>
+            <lineSpacing>1.2</lineSpacing>
+        </text>
+        <textlist name="gamelist">
+            <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
+            <selectorColor>${gamelistSelectorColor}</selectorColor>
+            <selectedColor>${gamelistSelectedColor}</selectedColor>
+            <primaryColor>${gamelistPrimaryColor}</primaryColor>
+            <secondaryColor>${gamelistSecondaryColor}</secondaryColor>
+            <horizontalMargin>0.0083</horizontalMargin>
+            <zIndex>13</zIndex>
+            <pos>0.57491666666667 0.134666666666667</pos>
+            <size>0.348958333333333 0.7519</size>
+            <fontSize>0.030333333333333</fontSize>
+            <lines>13</lines>
+            <alignment>left</alignment>
+            <lineSpacing>1.2</lineSpacing>
+        </textlist>
+        <helpsystem name="help">
+            <origin>0 0</origin>
+            <pos>0.01 0.967</pos>
+            <fontSize>0.022</fontSize>
+            <textColor>${helpTextColor}</textColor>
+            <iconColor>${helpIconColor}</iconColor>
+            <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
+        </helpsystem>
+    </view>
 </theme>
