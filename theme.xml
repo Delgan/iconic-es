@@ -89,7 +89,7 @@ Based on:   Iconic (ES-DE version) by Siddy212
             <pos>1 1</pos>
         </text>
     </view>
-    <view name="system, basic, detailed">
+    <view name="system, basic, detailed, grid">
         <stackpanel name="system-indicators" extra="true">
             <h>0.022</h>
             <pos>-0.0075 0.965</pos>
@@ -125,7 +125,7 @@ Based on:   Iconic (ES-DE version) by Siddy212
             </networkIcon>
         </stackpanel>
     </view>
-    <view name="system, basic, detailed">
+    <view name="system, basic, detailed, grid">
         <stackpanel name="system-indicators" extra="true">
             <w>1</w>
             <separator>0.012</separator>
