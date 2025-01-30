@@ -82,7 +82,7 @@
             <fontSize>0.024</fontSize>
             <pos>0.05 0.564</pos>
             <size>0.095 0.024</size>
-            <format>%m/%Y</format>
+            <format>%Y-%m-%d</format>
             <alignment>left</alignment>
         </datetime>
         <text name="md_developer">
