@@ -54,8 +54,8 @@
             <filledPath>./_inc/other/icon-star-filled.svg</filledPath>
             <unfilledPath>./_inc/other/icon-star-unfilled.svg</unfilledPath>
             <color>${gameMetadataColor}</color>
-            <pos>0.085 0.506</pos>
-            <size>0 0.03</size>
+            <pos>0.087 0.506</pos>
+            <size>0 0.0375</size>
             <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
             <fontSize>0.024</fontSize>
             <lineSpacing>1</lineSpacing>
