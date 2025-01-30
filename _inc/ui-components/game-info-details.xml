@@ -18,17 +18,20 @@
             <zIndex>11</zIndex>
         </image>
         <image name="md_marquee">
-            <pos>0.37 0.10</pos>
+            <origin>0.5 0</origin>
+            <pos>0.42 0.015</pos>
             <maxSize>0.21 0.16</maxSize>
         </image>
         <image name="md_image">
-            <pos>0.25 0.22</pos>
+            <pos>0.27 0.21</pos>
+            <origin>0.5 0.5</origin>
             <zIndex>11</zIndex>
-            <maxSize>0.26 0.26</maxSize>
+            <maxSize>0.35 0.35</maxSize>
         </image>
         <image name="md_thumbnail">
-            <pos>0.1 0.33</pos>
-            <maxSize>0.14 0.16</maxSize>
+            <pos>0.125 0.40</pos>
+            <origin>0.5 1</origin>
+            <maxSize>0.15 0.25</maxSize>
         </image>
         <text name="md_name">
             <origin>0 0</origin>
