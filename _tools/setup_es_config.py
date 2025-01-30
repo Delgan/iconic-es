@@ -2,8 +2,11 @@
 import argparse
 from pathlib import Path
 from xml.etree import ElementTree
-import sys
 from dataclasses import dataclass
+import numpy
+import cv2
+import random
+import datetime
 
 
 @dataclass
@@ -72,7 +75,83 @@ def _make_system_node(system_metadata: SystemMetadata, roms_path: Path):
     return system_node
 
 
-def _make_game_node(rom_path: Path, rom_image: Path, game_name: str):
+def _generate_dummy_game_cover(game_name: str, cover_size: tuple[int, int]):
+    cover_width, cover_height = cover_size
+
+    scale = min(200 / cover_width, 200 / cover_height)
+
+    width = int(cover_width * scale)
+    height = int(cover_height * scale)
+
+    background_color = numpy.random.randint(50, 200, size=(3,), dtype=numpy.uint8)
+    image = numpy.full((height, width, 3), background_color, dtype=numpy.uint8)
+
+    font = cv2.FONT_HERSHEY_SIMPLEX
+    font_scale = min(width, height) / 300
+    font_thickness = 1
+    text_color = (255, 255, 255)
+
+    text_size = cv2.getTextSize(game_name, font, font_scale, font_thickness)[0]
+    text_x = (width - text_size[0]) // 2
+    text_y = (height + text_size[1]) // 2
+
+    cv2.putText(
+        image,
+        game_name,
+        (text_x, text_y),
+        font,
+        font_scale,
+        text_color,
+        font_thickness,
+        cv2.LINE_AA,
+    )
+
+    return image
+
+
+def _generate_dummy_game_image():
+    width, height = 200, 200
+    image = numpy.random.randint(0, 256, size=(height, width, 3), dtype=numpy.uint8)
+    return image
+
+
+def _generate_dummy_game_markee(game_name: str):
+    width, height = 200, 50
+    image = numpy.full((height, width, 4), 0, dtype=numpy.uint8)
+
+    font = cv2.FONT_HERSHEY_SIMPLEX
+    font_scale = 0.7
+    font_thickness = 2
+
+    text_size = cv2.getTextSize(game_name, font, font_scale, font_thickness)[0]
+    text_x = (width - text_size[0]) // 2
+    text_y = (height + text_size[1]) // 2
+
+    cv2.putText(
+        image,
+        game_name,
+        (text_x, text_y),
+        font,
+        font_scale,
+        (0, 0, 0, 255),
+        font_thickness + 5,
+        cv2.LINE_AA,
+    )
+    cv2.putText(
+        image,
+        game_name,
+        (text_x, text_y),
+        font,
+        font_scale,
+        (255, 255, 255, 255),
+        font_thickness,
+        cv2.LINE_AA,
+    )
+
+    return image
+
+
+def _make_game_node(roms_directory: Path, game_title: str, cover_size: tuple[int, int]):
     game_node = ElementTree.Element("game")
 
     def add_node(name, value):
@@ -80,12 +159,41 @@ def _make_game_node(rom_path: Path, rom_image: Path, game_name: str):
         node.text = value
         game_node.append(node)
 
+    game_name = game_title.lower().replace(" ", "_")
+
+    rom_path = roms_directory / f"{game_name}.txt"
+    image_path = roms_directory / f"{game_name}_image.png"
+    markee_path = roms_directory / f"{game_name}_markee.png"
+    thumbnail_path = roms_directory / f"{game_name}_thumbnail.png"
+
+    rom_path.touch()
+    cv2.imwrite(str(image_path), _generate_dummy_game_image())
+    cv2.imwrite(str(markee_path), _generate_dummy_game_markee(game_title))
+    cv2.imwrite(str(thumbnail_path), _generate_dummy_game_cover(game_title, cover_size))
+
     add_node("path", str(rom_path))
     add_node("name", game_name)
-    add_node("desc", f"Dummy description for the game '{game_name}'.")
-    add_node("image", str(rom_image))
+    add_node("releasedate", _generate_random_date(datetime.datetime(1990, 1, 1)))
+    add_node("players", "1-8")
+    add_node("genre", "Action")
+    add_node("developer", "Dummy Developer")
+    add_node("publisher", "Dummy Publisher")
+    add_node("lastplayed", _generate_random_date(datetime.datetime(2024, 1, 1)))
+    add_node("gametime", str(random.randint(0, 100000)))
+    add_node("rating", str(random.random()))
+    add_node("desc", f"Dummy description for the game '{game_name}'. " * 20)
+    add_node("image", str(image_path))
+    add_node("marquee", str(markee_path))
+    add_node("thumbnail", str(thumbnail_path))
 
     return game_node
+
+
+def _generate_random_date(start: datetime.datetime):
+    end = datetime.datetime(2025, 1, 1)
+    timestamp = random.randint(int(start.timestamp()), int(end.timestamp()))
+    dt = datetime.datetime.fromtimestamp(timestamp, tz=datetime.timezone.utc)
+    return dt.strftime("%Y%m%dT000000")
 
 
 def _is_collection(system_metadata: SystemMetadata, collections: list[str]):
@@ -141,12 +249,12 @@ if __name__ == "__main__":
         gamelists_tree = ElementTree.ElementTree(ElementTree.Element("gameList"))
         gamelists_root = gamelists_tree.getroot()
 
-        for i in range(20):
-            dummy_rom_path = system_roms_path / f"dummy_{i:02d}.txt"
-            dummy_rom_path.touch()
-            dummy_rom_image = workspace / "_inc" / "controllers/_default.webp"
+        cover_size = tuple(map(int, system_metadata.cover_size.split("-")))
+        assert len(cover_size) == 2
+
+        for i in range(random.randint(1, 20)):
             game_node = _make_game_node(
-                dummy_rom_path, dummy_rom_image, f"Dummy Game {i}"
+                system_roms_path, f"Dummy Game {i:02d}", cover_size
             )
             gamelists_root.append(game_node)
 
