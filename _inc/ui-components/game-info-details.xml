@@ -44,7 +44,7 @@
             <autoScrollSpeed>50</autoScrollSpeed>
             <autoScrollDelay>1000</autoScrollDelay>
             <pos>0.05 0.437</pos>
-            <size>0.46 0.024</size>
+            <size>0.471 0.024</size>
             <fontSize>0.024</fontSize>
             <lineSpacing>1</lineSpacing>
             <alignment>left</alignment>
@@ -69,7 +69,7 @@
             <color>${gameMetadataColor}</color>
             <lineSpacing>1</lineSpacing>
             <pos>0.188 0.507</pos>
-            <size>0.32 0.024</size>
+            <size>0.332 0.024</size>
             <fontSize>0.024</fontSize>
             <alignment>left</alignment>
         </text>
@@ -81,7 +81,7 @@
             <lineSpacing>1</lineSpacing>
             <fontSize>0.024</fontSize>
             <pos>0.05 0.564</pos>
-            <size>0.09 0.024</size>
+            <size>0.095 0.024</size>
             <format>%m/%Y</format>
             <alignment>left</alignment>
         </datetime>
@@ -92,7 +92,7 @@
             <color>${gameMetadataColor}</color>
             <lineSpacing>1</lineSpacing>
             <pos>0.188 0.564</pos>
-            <size>0.18 0.024</size>
+            <size>0.185 0.024</size>
             <fontSize>0.024</fontSize>
             <alignment>left</alignment>
         </text>
@@ -104,7 +104,7 @@
             <lineSpacing>1</lineSpacing>
             <fontSize>0.024</fontSize>
             <pos>0.415 0.564</pos>
-            <size>0.1 0.024</size>
+            <size>0.105 0.024</size>
             <alignment>left</alignment>
         </datetime>
         <text name="md_players">
@@ -114,7 +114,7 @@
             <color>${gameMetadataColor}</color>
             <lineSpacing>1</lineSpacing>
             <pos>0.05 0.621</pos>
-            <size>0.09 0.024</size>
+            <size>0.095 0.024</size>
             <fontSize>0.024</fontSize>
             <alignment>left</alignment>
         </text>
@@ -125,7 +125,7 @@
             <color>${gameMetadataColor}</color>
             <lineSpacing>1</lineSpacing>
             <pos>0.188 0.621</pos>
-            <size>0.18 0.024</size>
+            <size>0.185 0.024</size>
             <fontSize>0.024</fontSize>
             <alignment>left</alignment>
         </text>
@@ -137,18 +137,18 @@
             <lineSpacing>1</lineSpacing>
             <fontSize>0.024</fontSize>
             <pos>0.415 0.621</pos>
-            <size>0.1 0.024</size>
+            <size>0.105 0.024</size>
             <alignment>left</alignment>
         </text>
         <text name="md_description">
             <origin>0 0</origin>
             <fontPath>./_inc/fonts/Gilroy-Regular.ttf</fontPath>
             <autoScroll>vertical</autoScroll>
-            <autoScrollSpeed>50</autoScrollSpeed>
+            <autoScrollSpeed>70</autoScrollSpeed>
             <autoScrollDelay>5000</autoScrollDelay>
             <color>${gameMetadataColor}</color>
-            <pos>0.03 0.67</pos>
-            <size>0.485 0.11</size>
+            <pos>0.033 0.667</pos>
+            <size>0.485 0.1125</size>
             <fontSize>0.024</fontSize>
             <lineSpacing>1.2</lineSpacing>
         </text>
