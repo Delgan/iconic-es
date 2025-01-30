@@ -66,8 +66,6 @@
             <forceUppercase>true</forceUppercase>
             <origin>0 0.5</origin>
             <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
-            <filledPath>./_inc/other/icon-star-filled.svg</filledPath>
-            <unfilledPath>./_inc/other/icon-star-unfilled.svg</unfilledPath>
             <color>${gameMetadataColor}</color>
             <lineSpacing>1</lineSpacing>
             <pos>0.188 0.507</pos>
@@ -79,8 +77,6 @@
             <value>Unknown</value>
             <origin>0 0.5</origin>
             <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
-            <filledPath>./_inc/other/icon-star-filled.svg</filledPath>
-            <unfilledPath>./_inc/other/icon-star-unfilled.svg</unfilledPath>
             <color>${gameMetadataColor}</color>
             <lineSpacing>1</lineSpacing>
             <fontSize>0.024</fontSize>
@@ -93,8 +89,6 @@
             <value>Unknown</value>
             <origin>0 0.5</origin>
             <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
-            <filledPath>./_inc/other/icon-star-filled.svg</filledPath>
-            <unfilledPath>./_inc/other/icon-star-unfilled.svg</unfilledPath>
             <color>${gameMetadataColor}</color>
             <lineSpacing>1</lineSpacing>
             <pos>0.188 0.564</pos>
@@ -106,8 +100,6 @@
             <value>Never</value>
             <origin>0 0.5</origin>
             <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
-            <filledPath>./_inc/other/icon-star-filled.svg</filledPath>
-            <unfilledPath>./_inc/other/icon-star-unfilled.svg</unfilledPath>
             <color>${gameMetadataColor}</color>
             <lineSpacing>1</lineSpacing>
             <fontSize>0.024</fontSize>
@@ -119,8 +111,6 @@
             <value>Unknown</value>
             <origin>0 0.5</origin>
             <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
-            <filledPath>./_inc/other/icon-star-filled.svg</filledPath>
-            <unfilledPath>./_inc/other/icon-star-unfilled.svg</unfilledPath>
             <color>${gameMetadataColor}</color>
             <lineSpacing>1</lineSpacing>
             <pos>0.05 0.621</pos>
@@ -132,8 +122,6 @@
             <value>Unknown</value>
             <origin>0 0.5</origin>
             <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
-            <filledPath>./_inc/other/icon-star-filled.svg</filledPath>
-            <unfilledPath>./_inc/other/icon-star-unfilled.svg</unfilledPath>
             <color>${gameMetadataColor}</color>
             <lineSpacing>1</lineSpacing>
             <pos>0.188 0.621</pos>
@@ -145,8 +133,6 @@
             <value>Never</value>
             <origin>0 0.5</origin>
             <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
-            <filledPath>./_inc/other/icon-star-filled.svg</filledPath>
-            <unfilledPath>./_inc/other/icon-star-unfilled.svg</unfilledPath>
             <color>${gameMetadataColor}</color>
             <lineSpacing>1</lineSpacing>
             <fontSize>0.024</fontSize>
