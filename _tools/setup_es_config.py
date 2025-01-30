@@ -172,7 +172,7 @@ def _make_game_node(roms_directory: Path, game_title: str, cover_size: tuple[int
     cv2.imwrite(str(thumbnail_path), _generate_dummy_game_cover(game_title, cover_size))
 
     add_node("path", str(rom_path))
-    add_node("name", game_name)
+    add_node("name", game_title)
     add_node("releasedate", _generate_random_date(datetime.datetime(1990, 1, 1)))
     add_node("players", "1-8")
     add_node("genre", "Action")
