@@ -8,7 +8,7 @@
             <size>1 1</size>
             <zIndex>12</zIndex>
             <linearSmooth>true</linearSmooth>
-            <path>./_inc/other/${gamelistBackgroundImage}</path>
+            <path>./_inc/other/${gamelistTextlistOverlay}</path>
         </image>
         <textlist name="gamelist">
             <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
@@ -17,13 +17,12 @@
             <primaryColor>${gamelistPrimaryColor}</primaryColor>
             <secondaryColor>${gamelistSecondaryColor}</secondaryColor>
             <horizontalMargin>0.0083</horizontalMargin>
-            <zIndex>13</zIndex>
-            <pos>0.57491666666667 0.09</pos>
-            <size>0.348958333333333 0.7519</size>
-            <fontSize>0.030333333333333</fontSize>
-            <lines>13</lines>
+            <zIndex>17</zIndex>
+            <pos>0.575 0.09</pos>
+            <size>0.362 0.7519</size>
+            <fontSize>0.03</fontSize>
+            <lines>15</lines>
             <alignment>left</alignment>
-            <lineSpacing>1.2</lineSpacing>
         </textlist>
     </view>
 </theme>

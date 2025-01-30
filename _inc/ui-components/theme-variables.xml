@@ -18,7 +18,7 @@
         <menuSelectorColor>444444</menuSelectorColor>
         <menuTextSeparatorColor>44444430</menuTextSeparatorColor>
         <menuGroupSeparatorColor>444444</menuGroupSeparatorColor>
-        <gamelistBackgroundImage>gamelist-background-dark-medium.png</gamelistBackgroundImage>
+        <gamelistTextlistOverlay>gamelist-textlist-overlay-dark.png</gamelistTextlistOverlay>
         <gamelistBackgroundImageDetailed>gamelist-metadata-background-dark-extended.png</gamelistBackgroundImageDetailed>
         <gamelistSelectorColor>444444</gamelistSelectorColor>
         <gamelistSelectedColor>f0f0f0</gamelistSelectedColor>
@@ -43,7 +43,7 @@
         <menuSelectorColor>666666</menuSelectorColor>
         <menuTextSeparatorColor>6666661A</menuTextSeparatorColor>
         <menuGroupSeparatorColor>666666</menuGroupSeparatorColor>
-        <gamelistBackgroundImage>gamelist-background-light-medium.png</gamelistBackgroundImage>
+        <gamelistTextlistOverlay>gamelist-textlist-overlay-light.png</gamelistTextlistOverlay>
         <gamelistBackgroundImageDetailed>gamelist-metadata-background-light-extended.png</gamelistBackgroundImageDetailed>
         <gamelistSelectorColor>666666</gamelistSelectorColor>
         <gamelistSelectedColor>F0F0F0</gamelistSelectedColor>
