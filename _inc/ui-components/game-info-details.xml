@@ -63,7 +63,6 @@
         </rating>
         <text name="md_genre">
             <value>Unknown</value>
-            <forceUppercase>true</forceUppercase>
             <origin>0 0.5</origin>
             <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
             <color>${gameMetadataColor}</color>
