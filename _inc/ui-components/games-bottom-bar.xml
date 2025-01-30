@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+    <formatVersion>7</formatVersion>
+    <view name="basic, detailed, grid">
+        <image name="gamelist-bottom-bar" extra="true">
+            <origin>0 0</origin>
+            <pos>0 0</pos>
+            <size>1 1</size>
+            <path>./_inc/other/${bottomBarImage}</path>
+            <zindex>2</zindex>
+            <linearSmooth>true</linearSmooth>
+        </image>
+    </view>
+</theme>

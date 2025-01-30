@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+    <formatVersion>7</formatVersion>
+    <view name="system">
+        <image name="logo">
+            <path>./_inc/system-logo/${system.theme}.webp</path>
+        </image>
+        <carousel name="systemcarousel">
+            <type>horizontal</type>
+            <origin>0 1</origin>
+            <pos>0 1</pos>
+            <size>1 0.2</size>
+            <logoSize>0.2 0.2</logoSize>
+            <color>00000000</color>
+            <colorEnd>00000000</colorEnd>
+            <gradientType>vertical</gradientType>
+            <logoScale>1.6</logoScale>
+            <minLogoOpacity>0.5</minLogoOpacity>
+            <maxLogoCount>4</maxLogoCount>
+            <logoPos>0.15 0</logoPos>
+            <systemInfoDelay>0</systemInfoDelay>
+            <defaultTransition>instant</defaultTransition>
+            <itemTemplate>
+                <container>
+                    <image name="logo-image">
+                        <pos>0.5 0.5</pos>
+                        <origin>0.5 0.5</origin>
+                        <maxSize>1 1</maxSize>
+                        <linearSmooth>true</linearSmooth>
+                        <path>{system:logo}</path>
+                    </image>
+                    <text name="logo-text-fallback">
+                        <visible>!exists("${system:logo}")</visible>
+                        <value>{system:fullName}</value>
+                        <forceUppercase>true</forceUppercase>
+                        <lineSpacing>1</lineSpacing>
+                        <alignment>center</alignment>
+                        <verticalAlignment>center</verticalAlignment>
+                        <origin>0.5 0.5</origin>
+                        <pos>0.5 0.5</pos>
+                        <fontSize>0.04</fontSize>
+                        <glowColor>fafafaff</glowColor>
+                        <multiline>true</multiline>
+                        <glowSize>2</glowSize>
+                        <size>0.74 0.45</size>
+                        <padding>0.04 0 0.04 0</padding>
+                        <glowOffset>0 0</glowOffset>
+                        <fontPath>./_inc/fonts/ChangaOne-Italic.ttf</fontPath>
+                        <color>111111ff</color>
+                    </text>
+                </container>
+            </itemTemplate>
+        </carousel>
+        <image name="system-image" extra="true">
+            <origin>0.5 0.5</origin>
+            <pos>0.25 .23</pos>
+            <size>.24 0</size>
+            <default>./_inc/controllers/_default.webp</default>
+            <path>./_inc/controllers/${system.theme}.webp</path>
+            <zIndex>15</zIndex>
+        </image>
+        <image name="system-carousel-selector" extra="true">
+            <origin>0 0</origin>
+            <pos>0 0</pos>
+            <size>1 1</size>
+            <path>./_inc/other/${systemCarouselSelectorImage}</path>
+            <zindex>2</zindex>
+            <linearSmooth>true</linearSmooth>
+        </image>
+        <text name="system-name" extra="true">
+            <text>${systemName}</text>
+            <origin>0.5 0.5</origin>
+            <pos>0.25 0.474</pos>
+            <size>0.26 0.05</size>
+            <autoScrollSpeed>25</autoScrollSpeed>
+            <autoScrollDelay>0</autoScrollDelay>
+            <singleLineScroll>true</singleLineScroll>
+            <fontSize>0.036777777777778</fontSize>
+            <alignment>center</alignment>
+            <forceUppercase>true</forceUppercase>
+            <color>54585a</color>
+            <zIndex>15</zIndex>
+            <color>${systemInfoColor}</color>
+            <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
+        </text>
+        <text name="system-manufacturer" extra="true">
+            <origin>0.5 0.5</origin>
+            <pos>0.25 0.506</pos>
+            <fontSize>0.019</fontSize>
+            <size>0.26 0.05</size>
+            <autoScrollSpeed>25</autoScrollSpeed>
+            <autoScrollDelay>0</autoScrollDelay>
+            <singleLineScroll>true</singleLineScroll>
+            <text>${systemManufacturer}</text>
+            <alignment>center</alignment>
+            <forceUppercase>true</forceUppercase>
+            <color>${systemManufacturerColor}</color>
+            <zIndex>15</zIndex>
+            <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
+        </text>
+        <text name="system-year-type" extra="true">
+            <origin>0.5 0.5</origin>
+            <pos>0.25 0.543</pos>
+            <fontSize>0.024</fontSize>
+            <size>0.26 0.05</size>
+            <autoScrollSpeed>25</autoScrollSpeed>
+            <autoScrollDelay>0</autoScrollDelay>
+            <singleLineScroll>true</singleLineScroll>
+            <text if="${systemReleaseYear} > 0">${systemReleaseYear} · ${systemHardwareType}</text>
+            <text if="!(${systemReleaseYear} > 0)">${systemHardwareType}</text>
+            <alignment>center</alignment>
+            <forceUppercase>true</forceUppercase>
+            <color>${systemInfoColor}</color>
+            <zIndex>15</zIndex>
+            <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
+        </text>
+        <text name="systemInfo">
+            <origin>0.5 0.5</origin>
+            <pos>0.25 0.605</pos>
+            <size>0.26 0.024</size>
+            <autoScrollSpeed>25</autoScrollSpeed>
+            <autoScrollDelay>0</autoScrollDelay>
+            <singleLineScroll>true</singleLineScroll>
+            <fontSize>0.024</fontSize>
+            <color>${systemInfoSecondaryColor}</color>
+            <alignment>center</alignment>
+            <lineSpacing>1</lineSpacing>
+            <forceUppercase>true</forceUppercase>
+            <zIndex>15</zIndex>
+            <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
+        </text>
+        <text name="system-description" extra="true">
+            <origin>0.5 0</origin>
+            <pos>0.25 0.635</pos>
+            <size>0.24 0.175</size>
+            <fontSize>0.024</fontSize>
+            <fontPath>./_inc/fonts/Oxygen-Regular.ttf</fontPath>
+            <text>${systemDescription}</text>
+            <verticalAlignment>top</verticalAlignment>
+            <alignment>center</alignment>
+            <autoScroll>vertical</autoScroll>
+            <autoScrollSpeed>50</autoScrollSpeed>
+            <autoScrollDelay>5000</autoScrollDelay>
+            <color>${systemInfoColor}</color>
+            <zIndex>15</zIndex>
+        </text>
+    </view>
+</theme>

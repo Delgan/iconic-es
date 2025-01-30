@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+    <formatVersion>7</formatVersion>
+    <variables ifSubset="color-scheme:dark">
+        <systemCarouselSelectorImage>system-carousel-selector-dark-with-shadow.png</systemCarouselSelectorImage>
+        <bottomBarImage>bottom-bar-dark.png</bottomBarImage>
+        <systemInfoColor>cccccc</systemInfoColor>
+        <systemManufacturerColor>adadad</systemManufacturerColor>
+        <systemInfoSecondaryColor>a0a0a0</systemInfoSecondaryColor>
+        <helpTextColor>999999</helpTextColor>
+        <helpIconColor>999999</helpIconColor>
+        <menuBackgroundColor>151515</menuBackgroundColor>
+        <menuTitleColor>cccccc</menuTitleColor>
+        <menuGroupColor>cccccc</menuGroupColor>
+        <menuTextColor>cccccc</menuTextColor>
+        <menuFooterColor>a0a0a0</menuFooterColor>
+        <menuSelectedColor>f0f0f0</menuSelectedColor>
+        <menuSelectorColor>444444</menuSelectorColor>
+        <menuTextSeparatorColor>44444430</menuTextSeparatorColor>
+        <menuGroupSeparatorColor>444444</menuGroupSeparatorColor>
+        <gamelistBackgroundImage>gamelist-background-dark-medium.png</gamelistBackgroundImage>
+        <gamelistBackgroundImageDetailed>gamelist-metadata-background-dark-extended.png</gamelistBackgroundImageDetailed>
+        <gamelistSelectorColor>444444</gamelistSelectorColor>
+        <gamelistSelectedColor>f0f0f0</gamelistSelectedColor>
+        <gamelistPrimaryColor>cccccc</gamelistPrimaryColor>
+        <gamelistSecondaryColor>cccccc</gamelistSecondaryColor>
+        <gameMetadataColor>cccccc</gameMetadataColor>
+    </variables>
+    <variables ifSubset="color-scheme:light">
+        <systemCarouselSelectorImage>system-carousel-selector-light-with-shadow.png</systemCarouselSelectorImage>
+        <bottomBarImage>bottom-bar-light.png</bottomBarImage>
+        <systemInfoColor>555555</systemInfoColor>
+        <systemManufacturerColor>6e6e6e</systemManufacturerColor>
+        <systemInfoSecondaryColor>a0a0a0</systemInfoSecondaryColor>
+        <helpTextColor>616161</helpTextColor>
+        <helpIconColor>616161</helpIconColor>
+        <menuBackgroundColor>F0F0F0</menuBackgroundColor>
+        <menuTitleColor>555555</menuTitleColor>
+        <menuGroupColor>555555</menuGroupColor>
+        <menuTextColor>555555</menuTextColor>
+        <menuFooterColor>a0a0a0</menuFooterColor>
+        <menuSelectedColor>f0f0f0</menuSelectedColor>
+        <menuSelectorColor>666666</menuSelectorColor>
+        <menuTextSeparatorColor>6666661A</menuTextSeparatorColor>
+        <menuGroupSeparatorColor>666666</menuGroupSeparatorColor>
+        <gamelistBackgroundImage>gamelist-background-light-medium.png</gamelistBackgroundImage>
+        <gamelistBackgroundImageDetailed>gamelist-metadata-background-light-extended.png</gamelistBackgroundImageDetailed>
+        <gamelistSelectorColor>666666</gamelistSelectorColor>
+        <gamelistSelectedColor>F0F0F0</gamelistSelectedColor>
+        <gamelistPrimaryColor>555555</gamelistPrimaryColor>
+        <gamelistSecondaryColor>555555</gamelistSecondaryColor>
+        <gameMetadataColor>555555</gameMetadataColor>
+    </variables>
+</theme>

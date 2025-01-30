@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+    <formatVersion>7</formatVersion>
+    <view name="screen">
+        <controllerActivity name="controllerActivity">
+            <visible>false</visible>
+        </controllerActivity>
+        <batteryIndicator name="batteryIndicator">
+            <visible>false</visible>
+        </batteryIndicator>
+        <text name="clock">
+            <pos>1 1</pos>
+        </text>
+    </view>
+    <view name="system, basic, detailed, grid">
+        <stackpanel name="status-indicators" extra="true">
+            <h>0.022</h>
+            <w>1</w>
+            <pos>-0.0075 0.965</pos>
+            <separator>0.012</separator>
+            <zIndex>100</zIndex>
+            <orientation>horizontal</orientation>
+            <reverse>true</reverse>
+            <clock name="status-clock" extra="true">
+                <color>${helpTextColor}</color>
+                <fontSize>0.022</fontSize>
+                <lineSpacing>1</lineSpacing>
+                <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
+            </clock>
+            <batteryText name="status-battery-text" extra="true">
+                <color>${helpTextColor}</color>
+                <fontSize>0.022</fontSize>
+                <lineSpacing>1</lineSpacing>
+                <fontPath>./_inc/fonts/Gilroy-Regular.ttf</fontPath>
+            </batteryText>
+            <batteryIcon name="status-battery-icon" extra="true">
+                <maxSize>1 1</maxSize>
+                <color>${helpIconColor}</color>
+                <full>./_inc/other/battery-icon-100.svg</full>
+                <at75>./_inc/other/battery-icon-75.svg</at75>
+                <at50>./_inc/other/battery-icon-50.svg</at50>
+                <at25>./_inc/other/battery-icon-25.svg</at25>
+                <empty>./_inc/other/battery-icon-0.svg</empty>
+                <incharge>./_inc/other/battery-icon-charging.svg</incharge>
+            </batteryIcon>
+            <networkIcon name="status-network-icon" extra="true">
+                <maxSize>1 1</maxSize>
+                <color>${helpIconColor}</color>
+                <networkIcon>./_inc/other/network-icon-on.svg</networkIcon>
+                <planemodeIcon>./_inc/other/network-icon-off.svg</planemodeIcon>
+            </networkIcon>
+        </stackpanel>
+    </view>
+</theme>

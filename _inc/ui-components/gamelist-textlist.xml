@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+    <formatVersion>7</formatVersion>
+    <view name="basic, detailed">
+        <image name="game-list-background" extra="true">
+            <origin>0 0</origin>
+            <pos>0 0</pos>
+            <size>1 1</size>
+            <zIndex>12</zIndex>
+            <linearSmooth>true</linearSmooth>
+            <path>./_inc/other/${gamelistBackgroundImage}</path>
+        </image>
+        <textlist name="gamelist">
+            <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
+            <selectorColor>${gamelistSelectorColor}</selectorColor>
+            <selectedColor>${gamelistSelectedColor}</selectedColor>
+            <primaryColor>${gamelistPrimaryColor}</primaryColor>
+            <secondaryColor>${gamelistSecondaryColor}</secondaryColor>
+            <horizontalMargin>0.0083</horizontalMargin>
+            <zIndex>13</zIndex>
+            <pos>0.57491666666667 0.09</pos>
+            <size>0.348958333333333 0.7519</size>
+            <fontSize>0.030333333333333</fontSize>
+            <lines>13</lines>
+            <alignment>left</alignment>
+            <lineSpacing>1.2</lineSpacing>
+        </textlist>
+    </view>
+</theme>

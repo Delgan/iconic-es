@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+    <formatVersion>7</formatVersion>
+    <view name="basic">
+        <image name="logo" origin="0.5 0.5" linearSmooth="true">
+            <path>./_inc/system-logo/${system.theme}.webp</path>
+            <zIndex>11</zIndex>
+            <visible>true</visible>
+            <pos>0.255 0.5</pos>
+            <maxSize>0.5 .5</maxSize>
+        </image>
+    </view>
+</theme>

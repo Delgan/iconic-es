@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+    <formatVersion>7</formatVersion>
+    <view name="detailed, grid">
+        <image name="game-metadata-background-image-extended" extra="true">
+            <origin>0 0</origin>
+            <path>./_inc/other/${gamelistBackgroundImageDetailed}</path>
+            <pos>0 0</pos>
+            <size>1 1</size>
+            <zIndex>11</zIndex>
+        </image>
+        <image name="logo" origin="0.5 0.5" linearSmooth="true" extra="true">
+            <path>./_inc/system-logo/${system.theme}.webp</path>
+            <pos>0.255 0.88</pos>
+            <maxSize>0.33 .33</maxSize>
+            <saturation>0.75</saturation>
+            <opacity>0.5</opacity>
+            <zIndex>11</zIndex>
+        </image>
+        <image name="md_marquee">
+            <pos>0.37 0.10</pos>
+            <maxSize>0.21 0.16</maxSize>
+        </image>
+        <image name="md_image">
+            <pos>0.25 0.22</pos>
+            <zIndex>11</zIndex>
+            <maxSize>0.26 0.26</maxSize>
+        </image>
+        <image name="md_thumbnail">
+            <pos>0.1 0.33</pos>
+            <maxSize>0.14 0.16</maxSize>
+        </image>
+        <text name="md_name">
+            <origin>0 0</origin>
+            <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
+            <color>${gameMetadataColor}</color>
+            <lineSpacing>1</lineSpacing>
+            <value>Unknown</value>
+            <fontSize>0.024</fontSize>
+            <autoScroll>horizontal</autoScroll>
+            <autoScrollSpeed>50</autoScrollSpeed>
+            <autoScrollDelay>1000</autoScrollDelay>
+            <pos>0.05 0.437</pos>
+            <size>0.46 0.024</size>
+            <fontSize>0.024</fontSize>
+            <lineSpacing>1</lineSpacing>
+            <alignment>left</alignment>
+        </text>
+        <rating name="md_rating">
+            <origin>0.5 0.5</origin>
+            <filledPath>./_inc/other/icon-star-filled.svg</filledPath>
+            <unfilledPath>./_inc/other/icon-star-unfilled.svg</unfilledPath>
+            <color>${gameMetadataColor}</color>
+            <pos>0.085 0.506</pos>
+            <size>0 0.03</size>
+            <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
+            <fontSize>0.024</fontSize>
+            <lineSpacing>1</lineSpacing>
+            <alignment>left</alignment>
+        </rating>
+        <text name="md_genre">
+            <value>Unknown</value>
+            <forceUppercase>true</forceUppercase>
+            <origin>0 0.5</origin>
+            <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
+            <filledPath>./_inc/other/icon-star-filled.svg</filledPath>
+            <unfilledPath>./_inc/other/icon-star-unfilled.svg</unfilledPath>
+            <color>${gameMetadataColor}</color>
+            <lineSpacing>1</lineSpacing>
+            <pos>0.188 0.507</pos>
+            <size>0.32 0.024</size>
+            <fontSize>0.024</fontSize>
+            <alignment>left</alignment>
+        </text>
+        <datetime name="md_releasedate">
+            <value>Unknown</value>
+            <origin>0 0.5</origin>
+            <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
+            <filledPath>./_inc/other/icon-star-filled.svg</filledPath>
+            <unfilledPath>./_inc/other/icon-star-unfilled.svg</unfilledPath>
+            <color>${gameMetadataColor}</color>
+            <lineSpacing>1</lineSpacing>
+            <fontSize>0.024</fontSize>
+            <pos>0.05 0.564</pos>
+            <size>0.09 0.024</size>
+            <format>%m/%Y</format>
+            <alignment>left</alignment>
+        </datetime>
+        <text name="md_developer">
+            <value>Unknown</value>
+            <origin>0 0.5</origin>
+            <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
+            <filledPath>./_inc/other/icon-star-filled.svg</filledPath>
+            <unfilledPath>./_inc/other/icon-star-unfilled.svg</unfilledPath>
+            <color>${gameMetadataColor}</color>
+            <lineSpacing>1</lineSpacing>
+            <pos>0.188 0.564</pos>
+            <size>0.18 0.024</size>
+            <fontSize>0.024</fontSize>
+            <alignment>left</alignment>
+        </text>
+        <datetime name="md_lastplayed">
+            <value>Never</value>
+            <origin>0 0.5</origin>
+            <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
+            <filledPath>./_inc/other/icon-star-filled.svg</filledPath>
+            <unfilledPath>./_inc/other/icon-star-unfilled.svg</unfilledPath>
+            <color>${gameMetadataColor}</color>
+            <lineSpacing>1</lineSpacing>
+            <fontSize>0.024</fontSize>
+            <pos>0.415 0.564</pos>
+            <size>0.1 0.024</size>
+            <alignment>left</alignment>
+        </datetime>
+        <text name="md_players">
+            <value>Unknown</value>
+            <origin>0 0.5</origin>
+            <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
+            <filledPath>./_inc/other/icon-star-filled.svg</filledPath>
+            <unfilledPath>./_inc/other/icon-star-unfilled.svg</unfilledPath>
+            <color>${gameMetadataColor}</color>
+            <lineSpacing>1</lineSpacing>
+            <pos>0.05 0.621</pos>
+            <size>0.09 0.024</size>
+            <fontSize>0.024</fontSize>
+            <alignment>left</alignment>
+        </text>
+        <text name="md_publisher">
+            <value>Unknown</value>
+            <origin>0 0.5</origin>
+            <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
+            <filledPath>./_inc/other/icon-star-filled.svg</filledPath>
+            <unfilledPath>./_inc/other/icon-star-unfilled.svg</unfilledPath>
+            <color>${gameMetadataColor}</color>
+            <lineSpacing>1</lineSpacing>
+            <pos>0.188 0.621</pos>
+            <size>0.18 0.024</size>
+            <fontSize>0.024</fontSize>
+            <alignment>left</alignment>
+        </text>
+        <text name="md_gametime">
+            <value>Never</value>
+            <origin>0 0.5</origin>
+            <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
+            <filledPath>./_inc/other/icon-star-filled.svg</filledPath>
+            <unfilledPath>./_inc/other/icon-star-unfilled.svg</unfilledPath>
+            <color>${gameMetadataColor}</color>
+            <lineSpacing>1</lineSpacing>
+            <fontSize>0.024</fontSize>
+            <pos>0.415 0.621</pos>
+            <size>0.1 0.024</size>
+            <alignment>left</alignment>
+        </text>
+        <text name="md_description">
+            <origin>0 0</origin>
+            <fontPath>./_inc/fonts/Gilroy-Regular.ttf</fontPath>
+            <autoScroll>vertical</autoScroll>
+            <autoScrollSpeed>50</autoScrollSpeed>
+            <autoScrollDelay>5000</autoScrollDelay>
+            <color>${gameMetadataColor}</color>
+            <pos>0.03 0.67</pos>
+            <size>0.485 0.11</size>
+            <fontSize>0.024</fontSize>
+            <lineSpacing>1.2</lineSpacing>
+        </text>
+    </view>
+</theme>

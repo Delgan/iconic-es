@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+    <formatVersion>7</formatVersion>
+    <subset name="color-scheme" displayName="Color Scheme">
+        <include name="light" displayName="Light" />
+        <include name="dark" displayName="Dark" />
+    </subset>
+    <subset name="metadata-source" displayName="Metadata Source">
+        <include name="theme" displayName="Theme" />
+        <include name="es" displayName="EmulationStation" />
+    </subset>
+</theme>
