@@ -25,6 +25,8 @@
         <gamelistPrimaryColor>cccccc</gamelistPrimaryColor>
         <gamelistSecondaryColor>cccccc</gamelistSecondaryColor>
         <gameMetadataColor>cccccc</gameMetadataColor>
+        <splashBackground>splash-background-dark.png</splashBackground>
+        <splashProgressbarColor>E0E0E0</splashProgressbarColor>
     </variables>
     <variables ifSubset="color-scheme:light">
         <systemCarouselSelectorImage>system-carousel-selector-light-with-shadow.png</systemCarouselSelectorImage>
@@ -50,5 +52,7 @@
         <gamelistPrimaryColor>555555</gamelistPrimaryColor>
         <gamelistSecondaryColor>555555</gamelistSecondaryColor>
         <gameMetadataColor>555555</gameMetadataColor>
+        <splashBackground>splash-background-light.png</splashBackground>
+        <splashProgressbarColor>444444</splashProgressbarColor>
     </variables>
 </theme>
