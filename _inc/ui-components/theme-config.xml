@@ -5,6 +5,10 @@
         <include name="light" displayName="Light" />
         <include name="dark" displayName="Dark" />
     </subset>
+    <subset name="show-game-titles-in-grid" displayName="Show game titles in grid">
+        <include name="no" displayName="No" />
+        <include name="yes" displayName="Yes" />
+    </subset>
     <subset name="metadata-source" displayName="Metadata Source">
         <include name="theme" displayName="Theme" />
         <include name="es" displayName="EmulationStation" />

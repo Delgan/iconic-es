@@ -25,6 +25,7 @@
         <gamelistPrimaryColor>cccccc</gamelistPrimaryColor>
         <gamelistSecondaryColor>cccccc</gamelistSecondaryColor>
         <gameMetadataColor>cccccc</gameMetadataColor>
+        <gamelistGridTitleColor>999999</gamelistGridTitleColor>
         <splashBackground>splash-background-dark.png</splashBackground>
         <splashProgressbarColor>E0E0E0</splashProgressbarColor>
     </variables>
@@ -51,8 +52,15 @@
         <gamelistSelectedColor>F0F0F0</gamelistSelectedColor>
         <gamelistPrimaryColor>555555</gamelistPrimaryColor>
         <gamelistSecondaryColor>555555</gamelistSecondaryColor>
+        <gamelistGridTitleColor>121212</gamelistGridTitleColor>
         <gameMetadataColor>555555</gameMetadataColor>
         <splashBackground>splash-background-light.png</splashBackground>
         <splashProgressbarColor>444444</splashProgressbarColor>
+    </variables>
+    <variables ifSubset="show-game-titles-in-grid:yes">
+        <showGameTitlesInGrid>true</showGameTitlesInGrid>
+    </variables>
+    <variables ifSubset="show-game-titles-in-grid:no">
+        <showGameTitlesInGrid>false</showGameTitlesInGrid>
     </variables>
 </theme>
