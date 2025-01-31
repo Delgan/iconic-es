@@ -30,7 +30,8 @@
                         <path>{system:logo}</path>
                     </image>
                     <text name="logo-text-fallback">
-                        <visible>!exists("${system:logo}")</visible>
+                        <visible>false</visible>
+                        <visible>!exists("${themePath}/_inc/system-logo/" + {system:theme} + ".webp")</visible>
                         <value>{system:fullName}</value>
                         <forceUppercase>true</forceUppercase>
                         <lineSpacing>1</lineSpacing>
