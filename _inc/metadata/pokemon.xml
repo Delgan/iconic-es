@@ -4,7 +4,7 @@
     <systemDescription>View and play the Pokémon Games in your collection.</systemDescription>
     <systemManufacturer>Nintendo</systemManufacturer>
     <systemReleaseYear>Various</systemReleaseYear>
-    <systemHardwareType>Collection</systemHardwareType>
+    <systemHardwareType>Custom Collection</systemHardwareType>
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
