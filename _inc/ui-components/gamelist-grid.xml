@@ -35,26 +35,22 @@
             <autoLayoutSelectedZoom>1.05</autoLayoutSelectedZoom>
             <zIndex>11</zIndex>
             <autoLayout >3 0</autoLayout>
+            <animateSelection>false</animateSelection>
+            <centerSelection>false</centerSelection>
         </imagegrid>
         <gridtile name="default">
-            <backgroundColor>00000007</backgroundColor>
-            <backgroundEdgeColor>00000007</backgroundEdgeColor>
-            <backgroundCornerSize>11 11</backgroundCornerSize>
+            <backgroundEdgeColor>000000</backgroundEdgeColor>
+            <backgroundCenterColor>00000000</backgroundCenterColor>
+            <backgroundCornerSize>0 0</backgroundCornerSize>
             <selectionMode>image</selectionMode>
             <imageSizeMode>maxSize</imageSizeMode>
-            <padding>3.5 3.5</padding>
-            <path>./_inc/other/square-bg.png</path>
+            <padding>3 3</padding>
+            <imageColor>FFFFFF60</imageColor>
         </gridtile>
-        <image name="gridtile.image">
-            <linearSmooth>true</linearSmooth>
-            <roundCorners>10</roundCorners>
-            <scale>0.99</scale>
-        </image>
-        <ninepatch name="gridtile.background:selected">
-            <color>FFFFFF</color>
-            <animateColor>FFFFFF00</animateColor>
-            <animateColorTime>800</animateColorTime>
-            <scale>0.9</scale>
-        </ninepatch>
+        <gridtile name="selected">
+            <backgroundCenterColor>00000000</backgroundCenterColor>
+            <backgroundEdgeColor>F0F0F0</backgroundEdgeColor>
+            <imageColor>FFFFFFFF</imageColor>
+        </gridtile>
     </view>
 </theme>
