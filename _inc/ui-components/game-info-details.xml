@@ -13,8 +13,10 @@ It displays a mixin of the game images, above the game metadata.
             <size>1 1</size>
             <zIndex>11</zIndex>
         </image>
-        <image name="logo" origin="0.5 0.5" linearSmooth="true" extra="true">
+        <image name="logo">
             <path>./_inc/system-logo/${system.theme}.webp</path>
+            <origin>0.5 0.5</origin>
+            <linearSmooth>true</linearSmooth>
             <pos>0.25 0.895</pos>
             <origin>0.5 0.5</origin>
             <maxSize>0.195 .135</maxSize>
@@ -22,6 +24,24 @@ It displays a mixin of the game images, above the game metadata.
             <opacity>0.5</opacity>
             <zIndex>11</zIndex>
         </image>
+        <text name="logoText">
+            <forceUppercase>true</forceUppercase>
+            <lineSpacing>1</lineSpacing>
+            <alignment>center</alignment>
+            <verticalAlignment>center</verticalAlignment>
+            <origin>0.5 0.5</origin>
+            <pos>0.2495 0.895</pos>
+            <fontSize>0.036</fontSize>
+            <glowColor>fafafaff</glowColor>
+            <multiline>true</multiline>
+            <glowSize>2</glowSize>
+            <size>0.3 0.135</size>
+            <padding>0.04 0 0.04 0</padding>
+            <glowOffset>0 0</glowOffset>
+            <horizontalAlignment>center</horizontalAlignment>
+            <fontPath>./_inc/fonts/ChangaOne-Italic.ttf</fontPath>
+            <color>111111ff</color>
+        </text>
         <image name="md_marquee">
             <origin>0.5 0</origin>
             <pos>0.42 0.015</pos>

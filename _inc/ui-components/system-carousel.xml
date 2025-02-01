@@ -48,7 +48,7 @@ vertically on the left side of the screen.
                         <glowColor>fafafaff</glowColor>
                         <multiline>true</multiline>
                         <glowSize>2</glowSize>
-                        <size>0.74 0.45</size>
+                        <size>1 1</size>
                         <padding>0.04 0 0.04 0</padding>
                         <glowOffset>0 0</glowOffset>
                         <fontPath>./_inc/fonts/ChangaOne-Italic.ttf</fontPath>
