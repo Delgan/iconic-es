@@ -30,7 +30,7 @@ here are then used by the UI components to adjust the appearance of the theme.
         <gamelistPrimaryColor>cccccc</gamelistPrimaryColor>
         <gamelistSecondaryColor>cccccc</gamelistSecondaryColor>
         <gameMetadataColor>cccccc</gameMetadataColor>
-        <gamelistGridTitleColor>999999</gamelistGridTitleColor>
+        <gamelistGridTitleColor>BBBBBB</gamelistGridTitleColor>
         <splashBackground>splash-background-dark.png</splashBackground>
         <splashProgressbarColor>E0E0E0</splashProgressbarColor>
     </variables>

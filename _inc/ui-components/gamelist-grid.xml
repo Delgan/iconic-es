@@ -13,25 +13,25 @@ It displays a grid of the boxart images of the games of the system being viewed.
             <pos>0.55 0.05</pos>
             <size>0.45 0.85</size>
             <padding>7 7 7 7</padding>
-            <imageSource>cover</imageSource>
+            <imageSource>thumbnail </imageSource>
             <scrollbarColor>${gamelistSecondaryColor}</scrollbarColor>
             <scrollbarCorner>0.49</scrollbarCorner>
             <scrollbarSize>0.005</scrollbarSize>
             <scrollbarAlignment>right</scrollbarAlignment>
             <autoLayoutSelectedZoom>1.05</autoLayoutSelectedZoom>
             <zIndex>11</zIndex>
-            <autoLayout >3 0</autoLayout>
+            <autoLayout >3 3</autoLayout>
             <animateSelection>false</animateSelection>
             <centerSelection>false</centerSelection>
         </imagegrid>
         <gridtile name="default">
-            <backgroundEdgeColor>000000</backgroundEdgeColor>
+            <backgroundEdgeColor>444444</backgroundEdgeColor>
             <backgroundCenterColor>00000000</backgroundCenterColor>
             <backgroundCornerSize>0 0</backgroundCornerSize>
             <selectionMode>image</selectionMode>
             <imageSizeMode>maxSize</imageSizeMode>
             <padding>3 3</padding>
-            <imageColor>FFFFFF60</imageColor>
+            <imageColor>FFFFFF50</imageColor>
         </gridtile>
         <gridtile name="selected">
             <backgroundCenterColor>00000000</backgroundCenterColor>
@@ -43,8 +43,9 @@ It displays a grid of the boxart images of the games of the system being viewed.
             <color>${gamelistGridTitleColor}</color>
             <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
             <fontSize>0.024</fontSize>
-            <size>0.1 0.1</size>
+            <singleLineScroll>false</singleLineScroll>
             <alignment>center</alignment>
+            <verticalAlignment>top</verticalAlignment>
         </text>
     </view>
 </theme>
