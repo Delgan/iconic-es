@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- This component defines the style of the main carousel to select the system.
+
+The carousel is a horizontal list of system logos, with details of the selected system displayed
+vertically on the left side of the screen.
+-->
 <theme>
     <formatVersion>7</formatVersion>
     <view name="system">

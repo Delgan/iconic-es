@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- This component defines the bottom bar of all screens except the "system" view.
+
+There is also a slight transparent overlay, to make the background art less intrusive.
+
+In "system" view, the bottom bar is already integrated within another image. It might change in the
+future.
+-->
 <theme>
     <formatVersion>7</formatVersion>
     <view name="basic, detailed, grid">

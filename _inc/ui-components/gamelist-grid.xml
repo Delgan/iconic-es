@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- This component defines the right half of the screen in "grid" view.
+
+It displays a grid of the boxart images of the games of the system being viewed.
+-->
 <theme>
     <formatVersion>7</formatVersion>
     <view name="grid">

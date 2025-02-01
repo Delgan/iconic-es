@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- This component defines the style for status indicators (battery, time, network).
+
+It should be visible from all views and z-rendered above the bottom bar.
+-->
 <theme>
     <formatVersion>7</formatVersion>
     <view name="screen">

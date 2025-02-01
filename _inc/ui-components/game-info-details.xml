@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- This component defines the left half of the screen in "detailed" and "grid" views.
+
+It displays a mixin of the game images, above the game metadata.
+-->
 <theme>
     <formatVersion>7</formatVersion>
     <view name="detailed, grid">

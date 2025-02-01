@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- This component defines the right half of the screen in "basic" and "detailed" views.
+
+It displays a list of the games of the system being viewed.
+-->
 <theme>
     <formatVersion>7</formatVersion>
     <view name="basic, detailed">

@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- This component derives the theme variables based on theme configuration.
+
+This should be included after the XML config, but before other UI components. The variables defined
+here are then used by the UI components to adjust the appearance of the theme.
+-->
 <theme>
     <formatVersion>7</formatVersion>
     <variables ifSubset="color-scheme:dark">

@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- This component defines the help text (button commands) common to all views.
+
+The position is changed in "system" view to avoid overlapping with the system overlay.
+-->
 <theme>
     <formatVersion>7</formatVersion>
     <view name="system, basic, detailed, grid">
