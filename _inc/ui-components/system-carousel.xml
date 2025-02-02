@@ -60,10 +60,11 @@ vertically on the left side of the screen.
         <image name="system-image" extra="true">
             <origin>0.5 0.5</origin>
             <pos>0.25 .23</pos>
-            <size>.24 0</size>
+            <maxSize>.24 0.351</maxSize>
             <default>./_inc/controllers/_default.webp</default>
             <path>./_inc/controllers/${system.theme}.webp</path>
             <zIndex>15</zIndex>
+            <linearSmooth>false</linearSmooth>
         </image>
         <image name="system-carousel-selector" extra="true">
             <origin>0 0</origin>
