@@ -22,13 +22,12 @@ RUN apt-get update && apt-get install -y \
     apt-get clean && \
     rm -rf /var/lib/apt/lists/*
 
-
 RUN HASH="bc3c5c528ab51688091f3ee254a12457d6aa9019" && \
     cd /opt && \
     git clone --recursive https://github.com/batocera-linux/batocera-emulationstation && \
     cd batocera-emulationstation && \
     git checkout $HASH && \
-    cmake . && \
+    cmake -DSCREENSCRAPER_DEV_LOGIN="devid=jelos&devpassword=jelos" . && \
     make && \
     make install
 
