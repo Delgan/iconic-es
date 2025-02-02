@@ -40,18 +40,18 @@ It should be visible from all views and z-rendered above the bottom bar.
             <batteryIcon name="status-battery-icon" extra="true">
                 <maxSize>1 1</maxSize>
                 <color>${helpIconColor}</color>
-                <full>./_inc/other/battery-icon-100.svg</full>
-                <at75>./_inc/other/battery-icon-75.svg</at75>
-                <at50>./_inc/other/battery-icon-50.svg</at50>
-                <at25>./_inc/other/battery-icon-25.svg</at25>
-                <empty>./_inc/other/battery-icon-0.svg</empty>
-                <incharge>./_inc/other/battery-icon-charging.svg</incharge>
+                <full>./_inc/icons/battery-icon-100.svg</full>
+                <at75>./_inc/icons/battery-icon-75.svg</at75>
+                <at50>./_inc/icons/battery-icon-50.svg</at50>
+                <at25>./_inc/icons/battery-icon-25.svg</at25>
+                <empty>./_inc/icons/battery-icon-0.svg</empty>
+                <incharge>./_inc/icons/battery-icon-charging.svg</incharge>
             </batteryIcon>
             <networkIcon name="status-network-icon" extra="true">
                 <maxSize>1 1</maxSize>
                 <color>${helpIconColor}</color>
-                <networkIcon>./_inc/other/network-icon-on.svg</networkIcon>
-                <planemodeIcon>./_inc/other/network-icon-off.svg</planemodeIcon>
+                <networkIcon>./_inc/icons/network-icon-on.svg</networkIcon>
+                <planemodeIcon>./_inc/icons/network-icon-off.svg</planemodeIcon>
             </networkIcon>
         </stackpanel>
     </view>

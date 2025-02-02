@@ -76,8 +76,8 @@ It displays a mixin of the game images, above the game metadata.
         </text>
         <rating name="md_rating">
             <origin>0.5 0.5</origin>
-            <filledPath>./_inc/other/icon-star-filled.svg</filledPath>
-            <unfilledPath>./_inc/other/icon-star-unfilled.svg</unfilledPath>
+            <filledPath>./_inc/icons/icon-star-filled.svg</filledPath>
+            <unfilledPath>./_inc/icons/icon-star-unfilled.svg</unfilledPath>
             <color>${gameMetadataColor}</color>
             <pos>0.087 0.506</pos>
             <size>0 0.0375</size>
