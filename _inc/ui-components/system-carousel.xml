@@ -59,7 +59,7 @@ vertically on the left side of the screen.
         </carousel>
         <image name="system-image" extra="true">
             <origin>0.5 0.5</origin>
-            <pos>0.25 .23</pos>
+            <pos>0.25 .21</pos>
             <maxSize>.24 0.351</maxSize>
             <default>./_inc/controllers/_default.webp</default>
             <path>./_inc/controllers/${system.theme}.webp</path>
@@ -77,7 +77,7 @@ vertically on the left side of the screen.
         <text name="system-name" extra="true">
             <text>${systemName}</text>
             <origin>0.5 0.5</origin>
-            <pos>0.25 0.474</pos>
+            <pos>0.25 0.454</pos>
             <size>0.26 0.05</size>
             <autoScrollSpeed>25</autoScrollSpeed>
             <autoScrollDelay>0</autoScrollDelay>
@@ -92,7 +92,7 @@ vertically on the left side of the screen.
         </text>
         <text name="system-manufacturer" extra="true">
             <origin>0.5 0.5</origin>
-            <pos>0.25 0.506</pos>
+            <pos>0.25 0.486</pos>
             <fontSize>0.019</fontSize>
             <size>0.26 0.05</size>
             <autoScrollSpeed>25</autoScrollSpeed>
@@ -107,7 +107,7 @@ vertically on the left side of the screen.
         </text>
         <text name="system-year-type" extra="true">
             <origin>0.5 0.5</origin>
-            <pos>0.25 0.543</pos>
+            <pos>0.25 0.523</pos>
             <fontSize>0.024</fontSize>
             <size>0.26 0.05</size>
             <autoScrollSpeed>25</autoScrollSpeed>
@@ -123,7 +123,7 @@ vertically on the left side of the screen.
         </text>
         <text name="systemInfo">
             <origin>0.5 0.5</origin>
-            <pos>0.25 0.605</pos>
+            <pos>0.25 0.585</pos>
             <size>0.26 0.024</size>
             <autoScrollSpeed>25</autoScrollSpeed>
             <autoScrollDelay>0</autoScrollDelay>
@@ -138,8 +138,8 @@ vertically on the left side of the screen.
         </text>
         <text name="system-description" extra="true">
             <origin>0.5 0</origin>
-            <pos>0.25 0.635</pos>
-            <size>0.24 0.175</size>
+            <pos>0.25 0.605</pos>
+            <size>0.23 0.21</size>
             <fontSize>0.024</fontSize>
             <fontPath>./_inc/fonts/Oxygen-Regular.ttf</fontPath>
             <text>${systemDescription}</text>

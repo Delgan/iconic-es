@@ -23,6 +23,6 @@
   <rect x="220" y="-50" width="520" height="1180" filter="url(#side-shadows)" clip-path="url(#cut-in-shadows)" />
   <rect x="0" y="880" width="1920" height="200" style="fill:url(#bottom-bar-gradient);"  />
   <rect x="220" y="-50" width="520" height="1180" fill="url(#gradient)"  />
-  <rect x="270" y="475" width="420" height="1.2" clip-rule="evenodd" fill="#a0a0a0" fill-opacity="1" fill-rule="evenodd" stroke-width="3.5" stroke-linejoin="round" stroke-miterlimit="2" />
-  <rect x="270" y="620" width="420" height="1.2" clip-rule="evenodd" fill="#a0a0a0" fill-opacity="1" fill-rule="evenodd" stroke-width="3.5" stroke-linejoin="round" stroke-miterlimit="2" />
+  <rect x="265" y="450" width="430" height="1.2" clip-rule="evenodd" fill="#a0a0a0" fill-opacity="1" fill-rule="evenodd" stroke-width="3.5" stroke-linejoin="round" stroke-miterlimit="2" />
+  <rect x="265" y="595" width="430" height="1.2" clip-rule="evenodd" fill="#a0a0a0" fill-opacity="1" fill-rule="evenodd" stroke-width="3.5" stroke-linejoin="round" stroke-miterlimit="2" />
 </svg>
