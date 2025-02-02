@@ -1,0 +1,265 @@
+{
+    "systems": [
+        {
+            "name": "nes",
+            "games": [
+                "Super Mario Bros.",
+                "Metroid",
+                "Mega Man 2",
+                "Castlevania",
+                "Punch-Out!!",
+                "Kirby's Adventure",
+                "Contra",
+                "Duck Hunt",
+                "Excitebike",
+                "Bubble Bobble",
+                "Final Fantasy",
+                "Ninja Gaiden",
+                "Teenage Mutant Ninja Turtles",
+                "Blaster Master"
+            ]
+        },
+        {
+            "name": "snes",
+            "games": [
+                "Super Mario World",
+                "The Legend of Zelda: A Link to the Past",
+                "Super Metroid",
+                "Final Fantasy VI",
+                "Chrono Trigger",
+                "Donkey Kong Country",
+                "Mega Man X",
+                "Street Fighter II",
+                "F-Zero",
+                "Super Mario Kart",
+                "EarthBound",
+                "Secret of Mana",
+                "Star Fox"
+            ]
+        },
+        {
+            "name": "Sega Saturn",
+            "games": [
+                "NiGHTS into Dreams",
+                "Panzer Dragoon Saga",
+                "Panzer Dragoon II Zwei",
+                "Virtua Fighter 2",
+                "Daytona USA",
+                "Sega Rally Championship",
+                "Shining Force III",
+                "Shining the Holy Ark",
+                "Dragon Force",
+                "Burning Rangers",
+                "Guardian Heroes",
+                "Radiant Silvergun"
+            ]
+        },
+        {
+            "name": "megadrive",
+            "games": [
+                "Sonic the Hedgehog",
+                "Sonic the Hedgehog 2",
+                "Streets of Rage 2",
+                "Gunstar Heroes",
+                "Castlevania: Bloodlines",
+                "Ecco the Dolphin",
+                "Shining Force",
+                "Phantasy Star IV",
+                "ToeJam & Earl",
+                "Golden Axe",
+                "Mortal Kombat II",
+                "Earthworm Jim",
+                "Comix Zone"
+            ]
+        },
+        {
+            "name": "psx",
+            "games": [
+                "Final Fantasy VII",
+                "Metal Gear Solid",
+                "Resident Evil 2",
+                "Crash Bandicoot",
+                "Castlevania: Symphony of the Night",
+                "Gran Turismo",
+                "Silent Hill",
+                "Spyro the Dragon",
+                "Tekken 3",
+                "Tomb Raider",
+                "Parasite Eve",
+                "Vagrant Story",
+                "Tony Hawk's Pro Skater 2",
+                "Chrono Cross",
+                "Suikoden II"
+            ]
+        },
+        {
+            "name": "n64",
+            "games": [
+                "Super Mario 64",
+                "The Legend of Zelda: Ocarina of Time",
+                "GoldenEye 007",
+                "Super Smash Bros.",
+                "Mario Kart 64",
+                "Banjo-Kazooie",
+                "Star Fox 64",
+                "Perfect Dark",
+                "Donkey Kong 64",
+                "Wave Race 64",
+                "F-Zero X",
+                "Paper Mario",
+                "Diddy Kong Racing",
+                "Conker's Bad Fur Day",
+                "The Legend of Zelda: Majora's Mask",
+                "Resident Evil 2",
+                "Kirby 64: The Crystal Shards",
+                "1080° Snowboarding",
+                "Jet Force Gemini"
+            ]
+        },
+        {
+            "name": "gba",
+            "games": [
+                "The Legend of Zelda: The Minish Cap",
+                "Metroid Fusion",
+                "Advance Wars",
+                "Fire Emblem",
+                "Castlevania: Aria of Sorrow",
+                "Final Fantasy Tactics Advance",
+                "Mario Kart: Super Circuit",
+                "WarioWare, Inc.: Mega Microgames!",
+                "Golden Sun",
+                "Kirby & the Amazing Mirror",
+                "Sonic Advance",
+                "Mega Man Battle Network",
+                "Boktai: The Sun is in Your Hand",
+                "Yoshi's Island: Super Mario Advance 3",
+                "Dragon Ball Z: The Legacy of Goku II"
+            ]
+        },
+        {
+            "name": "ps2",
+            "games": [
+                "Grand Theft Auto: San Andreas",
+                "Shadow of the Colossus",
+                "Metal Gear Solid 3: Snake Eater",
+                "Final Fantasy X",
+                "Kingdom Hearts",
+                "Resident Evil 4",
+                "God of War",
+                "Silent Hill 2",
+                "Gran Turismo 4",
+                "Ratchet & Clank: Up Your Arsenal",
+                "Jak and Daxter: The Precursor Legacy",
+                "Persona 4",
+                "Devil May Cry 3",
+                "Okami",
+                "Prince of Persia: The Sands of Time",
+                "SoulCalibur II",
+                "SSX Tricky",
+                "Burnout 3: Takedown"
+            ]
+        },
+        {
+            "name": "nds",
+            "games": [
+                "The Legend of Zelda: Phantom Hourglass",
+                "Mario Kart DS",
+                "New Super Mario Bros.",
+                "Animal Crossing: Wild World",
+                "Professor Layton and the Curious Village",
+                "Castlevania: Dawn of Sorrow",
+                "Phoenix Wright: Ace Attorney",
+                "Metroid Prime: Hunters",
+                "Kirby: Canvas Curse",
+                "Final Fantasy IV"
+            ]
+        },
+        {
+            "name": "xbox360",
+            "games": [
+                "Halo 3",
+                "Gears of War",
+                "The Elder Scrolls V: Skyrim",
+                "Red Dead Redemption",
+                "Mass Effect 2",
+                "Fallout 3",
+                "Call of Duty: Modern Warfare 2",
+                "Bioshock",
+                "Dark Souls",
+                "Forza Motorsport 4",
+                "Fable II",
+                "Dead Space",
+                "Left 4 Dead 2"
+            ]
+        },
+        {
+            "name": "pico8",
+            "games": [
+                "Celeste Classic",
+                "Tower of Archeos",
+                "Dusk Child",
+                "Combo Pool",
+                "Poom",
+                "Slipways",
+                "Into Ruins"
+            ]
+        },
+        {
+            "name": "gb",
+            "games": [
+                "Tetris",
+                "The Legend of Zelda: Link's Awakening",
+                "Super Mario Land",
+                "Super Mario Land 2: 6 Golden Coins",
+                "Kirby's Dream Land",
+                "Metroid II: Return of Samus",
+                "Donkey Kong",
+                "Wario Land: Super Mario Land 3",
+                "Final Fantasy Adventure",
+                "Dr. Mario",
+                "Mega Man V",
+                "Castlevania II: Belmont's Revenge",
+                "Gargoyle's Quest",
+                "Harvest Moon GB"
+            ]
+        },
+        {
+            "name": "psp",
+            "games": [
+                "God of War: Chains of Olympus",
+                "God of War: Ghost of Sparta",
+                "Grand Theft Auto: Liberty City Stories",
+                "Grand Theft Auto: Vice City Stories",
+                "Crisis Core: Final Fantasy VII",
+                "Monster Hunter Freedom Unite",
+                "Daxter",
+                "Persona 3 Portable",
+                "Metal Gear Solid: Peace Walker",
+                "Final Fantasy Tactics: The War of the Lions",
+                "Kingdom Hearts: Birth by Sleep",
+                "Lumines",
+                "Ratchet & Clank: Size Matters",
+                "Tactics Ogre: Let Us Cling Together",
+                "Syphon Filter: Dark Mirror",
+                "Castlevania: The Dracula X Chronicles",
+                "Tekken: Dark Resurrection",
+                "Patapon 2",
+                "LocoRoco"
+            ]
+        },
+        {
+            "name": "ngp",
+            "games": [
+                "King of Fighters R-1",
+                "Fatal Fury: First Contact",
+                "Melon Chan's Growth Diary",
+                "Pocket Tennis",
+                "Rockman Battle & Fighters",
+                "Shanghai Mini",
+                "Crush Roller",
+                "Pocket Reversi",
+                "King of Fighters Battle de Paradise"
+            ]
+        }
+    ]
+}

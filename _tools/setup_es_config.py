@@ -7,6 +7,9 @@ import numpy
 import cv2
 import random
 import datetime
+import shutil
+import os
+import json
 
 
 @dataclass
@@ -19,6 +22,14 @@ class SystemMetadata:
     hardware_type: str
     cover_size: str
     cart_size: str
+
+
+def _clear_folder(folder_path: Path):
+    for file in folder_path.glob("*"):
+        if file.is_dir():
+            shutil.rmtree(file)
+        else:
+            os.remove(file)
 
 
 def _parse_system_metadata(file: Path):
@@ -218,7 +229,18 @@ if __name__ == "__main__":
     parser.add_argument(
         "dest_gamelists", type=Path, help="Path to the ES gamelists file"
     )
-    parser.add_argument("dest_roms", type=Path, help="Path to the ROMs directory")
+    parser.add_argument(
+        "dest_roms",
+        type=Path,
+        help="Path to the ROMs directory",
+    )
+    parser.add_argument(
+        "--games_data",
+        type=Path,
+        help="Path to the games JSON data file used to generate the ROMs. If not provided, dummy ROMs will be generated.",
+        default=None,
+        required=False,
+    )
     args = parser.parse_args()
 
     workspace = Path(__file__).resolve().parent.parent
@@ -231,6 +253,13 @@ if __name__ == "__main__":
 
     config_tree = ElementTree.ElementTree(ElementTree.Element("systemList"))
     config_root = config_tree.getroot()
+
+    _clear_folder(args.dest_roms)
+    _clear_folder(args.dest_gamelists)
+
+    games_data = (
+        None if args.games_data is None else json.loads(args.games_data.read_text())
+    )
 
     for system in metadata.glob("*.xml"):
         if system.name == "_builtin.xml":
@@ -247,22 +276,33 @@ if __name__ == "__main__":
         system_roms_path = args.dest_roms / system_metadata.identifier
         system_roms_path.mkdir(parents=True, exist_ok=True)
 
+        system_gameslists_path = args.dest_gamelists / system_metadata.identifier
+        system_gameslists_path.mkdir(parents=True, exist_ok=True)
+
         gamelists_tree = ElementTree.ElementTree(ElementTree.Element("gameList"))
         gamelists_root = gamelists_tree.getroot()
 
-        cover_size = tuple(map(int, system_metadata.cover_size.split("-")))
-        assert len(cover_size) == 2
+        if games_data is None:
+            cover_size = tuple(map(int, system_metadata.cover_size.split("-")))
+            assert len(cover_size) == 2
 
-        for i in range(random.randint(1, 20)):
-            game_node = _make_game_node(
-                system_roms_path, f"Dummy Game {i:02d}", cover_size
-            )
-            gamelists_root.append(game_node)
+            for i in range(random.randint(1, 20)):
+                game_node = _make_game_node(
+                    system_roms_path, f"Dummy Game {i:02d}", cover_size
+                )
+                gamelists_root.append(game_node)
+        elif system_metadata.identifier in [
+            system["name"] for system in games_data["systems"]
+        ]:
+            for system in games_data["systems"]:
+                if system["name"] != system_metadata.identifier:
+                    continue
+                for game in system["games"]:
+                    rom_name = game.lower().replace(" ", "_") + ".txt"
+                    rom_path = system_roms_path / rom_name
+                    rom_path.touch()
 
         ElementTree.indent(gamelists_tree, level=0, space="  ")
-
-        system_gameslists_path = args.dest_gamelists / system_metadata.identifier
-        system_gameslists_path.mkdir(parents=True, exist_ok=True)
 
         with open(system_gameslists_path / "gamelist.xml", "wb") as f:
             gamelists_tree.write(f, encoding="utf8", xml_declaration=True)
