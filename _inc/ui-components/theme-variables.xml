@@ -27,8 +27,8 @@ here are then used by the UI components to adjust the appearance of the theme.
         <gamelistBackgroundImageDetailed>gamelist-metadata-background-dark-extended.png</gamelistBackgroundImageDetailed>
         <gamelistSelectorColor>444444</gamelistSelectorColor>
         <gamelistSelectedColor>f0f0f0</gamelistSelectedColor>
-        <gamelistPrimaryColor>cccccc</gamelistPrimaryColor>
-        <gamelistSecondaryColor>cccccc</gamelistSecondaryColor>
+        <gamelistPrimaryColor>77777790</gamelistPrimaryColor>
+        <gamelistSecondaryColor>77777790</gamelistSecondaryColor>
         <gameMetadataColor>cccccc</gameMetadataColor>
         <gamelistGridTitleColor>BBBBBB</gamelistGridTitleColor>
         <splashBackground>splash-background-dark.png</splashBackground>
@@ -55,8 +55,8 @@ here are then used by the UI components to adjust the appearance of the theme.
         <gamelistBackgroundImageDetailed>gamelist-metadata-background-light-extended.png</gamelistBackgroundImageDetailed>
         <gamelistSelectorColor>666666</gamelistSelectorColor>
         <gamelistSelectedColor>F0F0F0</gamelistSelectedColor>
-        <gamelistPrimaryColor>555555</gamelistPrimaryColor>
-        <gamelistSecondaryColor>555555</gamelistSecondaryColor>
+        <gamelistPrimaryColor>77777790</gamelistPrimaryColor>
+        <gamelistSecondaryColor>77777790</gamelistSecondaryColor>
         <gamelistGridTitleColor>121212</gamelistGridTitleColor>
         <gameMetadataColor>555555</gameMetadataColor>
         <splashBackground>splash-background-light.png</splashBackground>

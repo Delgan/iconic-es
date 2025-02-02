@@ -6,4 +6,20 @@
         </filter>
     </defs>
     <rect x="1050" y="50" width="800" height="900" fill="#F0F0F0" fill-opacity="0.6" rx="10" ry="10" filter="url(#shadow)" />
+    <g fill="#77777730" transform="translate(1104 97)">
+        <rect x="0" y="54" width="695" height="2" />
+        <rect x="0" y="108" width="695" height="2" />
+        <rect x="0" y="162" width="695" height="2" />
+        <rect x="0" y="216" width="695" height="2" />
+        <rect x="0" y="270" width="695" height="2" />
+        <rect x="0" y="324" width="695" height="2" />
+        <rect x="0" y="378" width="695" height="2" />
+        <rect x="0" y="432" width="695" height="2" />
+        <rect x="0" y="486" width="695" height="2" />
+        <rect x="0" y="540" width="695" height="2" />
+        <rect x="0" y="594" width="695" height="2" />
+        <rect x="0" y="648" width="695" height="2" />
+        <rect x="0" y="702" width="695" height="2" />
+        <rect x="0" y="756" width="695" height="2" />
+    </g>
 </svg>

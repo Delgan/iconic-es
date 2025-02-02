@@ -20,11 +20,11 @@ It displays a list of the games of the system being viewed.
             <selectedColor>${gamelistSelectedColor}</selectedColor>
             <primaryColor>${gamelistPrimaryColor}</primaryColor>
             <secondaryColor>${gamelistSecondaryColor}</secondaryColor>
-            <horizontalMargin>0.0083</horizontalMargin>
+            <horizontalMargin>0.008333333333333</horizontalMargin>
             <zIndex>17</zIndex>
             <pos>0.575 0.09</pos>
             <size>0.362 0.7519</size>
-            <fontSize>0.03</fontSize>
+            <fontSize>0.030333333333333</fontSize>
             <lines>15</lines>
             <alignment>left</alignment>
         </textlist>
