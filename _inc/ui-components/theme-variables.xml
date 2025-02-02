@@ -32,7 +32,6 @@ here are then used by the UI components to adjust the appearance of the theme.
         <gamelistSecondaryColor>77777790</gamelistSecondaryColor>
         <gameMetadataColor>cccccc</gameMetadataColor>
         <gamelistGridTitleColor>BBBBBB</gamelistGridTitleColor>
-        <splashBackground>splash-background-dark.png</splashBackground>
         <splashProgressbarColor>E0E0E0</splashProgressbarColor>
     </variables>
     <variables ifSubset="color-scheme:light">
@@ -61,7 +60,6 @@ here are then used by the UI components to adjust the appearance of the theme.
         <gamelistSecondaryColor>77777790</gamelistSecondaryColor>
         <gamelistGridTitleColor>121212</gamelistGridTitleColor>
         <gameMetadataColor>555555</gameMetadataColor>
-        <splashBackground>splash-background-light.png</splashBackground>
         <splashProgressbarColor>444444</splashProgressbarColor>
     </variables>
     <variables ifSubset="show-game-titles-in-grid:yes">
