@@ -60,6 +60,7 @@ def _make_system_node(system_metadata: SystemMetadata, roms_path: Path):
         system_node.append(node)
 
     add_node("name", system_metadata.identifier)
+    add_node("platform", system_metadata.identifier)
     add_node("fullname", system_metadata.name)
     add_node("manufacturer", system_metadata.manufacturer)
     add_node("release", system_metadata.release_year)
