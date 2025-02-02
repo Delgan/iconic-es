@@ -8,5 +8,4 @@ python3 "$WORKSPACE_DIR/_tools/setup_es_config.py" /home/dev/.emulationstation/e
 
 cp -r "$WORKSPACE_DIR/.devcontainer/es_input.cfg" ~/.emulationstation/
 
-ln -s /opt/canvas-es ~/.emulationstation/themes/canvas-es
 ln -s "$WORKSPACE_DIR" ~/.emulationstation/themes/iconic-es

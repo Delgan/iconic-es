@@ -23,15 +23,6 @@ RUN apt-get update && apt-get install -y \
     rm -rf /var/lib/apt/lists/*
 
 
-
-RUN HASH="5e6dc2600de2a7b84b574400c2ce9e17fcad1085" && \
-    cd /opt && \
-    wget https://github.com/Siddy212/canvas-es/archive/$HASH.zip && \
-    unzip $HASH.zip && \
-    mv canvas-es-$HASH canvas-es && \
-    rm $HASH.zip
-
-
 RUN HASH="bc3c5c528ab51688091f3ee254a12457d6aa9019" && \
     cd /opt && \
     git clone --recursive https://github.com/batocera-linux/batocera-emulationstation && \
