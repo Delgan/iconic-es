@@ -57,11 +57,11 @@ vertically on the left side of the screen.
                 </container>
             </itemTemplate>
         </carousel>
-        <image name="system-carousel-selector" extra="true">
+        <image name="system-info-panel" extra="true">
             <origin>0 0</origin>
             <pos>0 0</pos>
             <size>1 1</size>
-            <path>./_inc/other/${systemCarouselSelectorImage}</path>
+            <path>./_inc/other/${systemInfoPanelImage}</path>
             <zIndex>1</zIndex>
             <linearSmooth>true</linearSmooth>
         </image>

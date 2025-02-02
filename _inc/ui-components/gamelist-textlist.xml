@@ -12,7 +12,7 @@ It displays a list of the games of the system being viewed.
             <size>1 1</size>
             <zIndex>12</zIndex>
             <linearSmooth>true</linearSmooth>
-            <path>./_inc/other/${gamelistTextlistOverlay}</path>
+            <path>./_inc/other/${gamelistPanelImage}</path>
         </image>
         <textlist name="gamelist">
             <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>

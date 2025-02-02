@@ -7,8 +7,11 @@ here are then used by the UI components to adjust the appearance of the theme.
 <theme>
     <formatVersion>7</formatVersion>
     <variables ifSubset="color-scheme:dark">
-        <systemCarouselSelectorImage>system-carousel-selector-dark-with-shadow.png</systemCarouselSelectorImage>
         <bottomBarImage>bottom-bar-dark.png</bottomBarImage>
+        <backgroudOverlayImage>overlay-dark.png</backgroudOverlayImage>
+        <systemInfoPanelImage>system-info-panel-dark.png</systemInfoPanelImage>
+        <gamelistPanelImage>gamelist-panel-dark.png</gamelistPanelImage>
+        <gameDetailsPanelImage>game-details-panel-dark.png</gameDetailsPanelImage>
         <systemInfoColor>cccccc</systemInfoColor>
         <systemManufacturerColor>adadad</systemManufacturerColor>
         <systemInfoSecondaryColor>a0a0a0</systemInfoSecondaryColor>
@@ -23,9 +26,6 @@ here are then used by the UI components to adjust the appearance of the theme.
         <menuSelectorColor>444444</menuSelectorColor>
         <menuTextSeparatorColor>44444430</menuTextSeparatorColor>
         <menuGroupSeparatorColor>444444</menuGroupSeparatorColor>
-        <backgroudOverlayImage>overlay-dark.png</backgroudOverlayImage>
-        <gamelistTextlistOverlay>gamelist-textlist-overlay-dark.png</gamelistTextlistOverlay>
-        <gamelistBackgroundImageDetailed>gamelist-metadata-background-dark-extended.png</gamelistBackgroundImageDetailed>
         <gamelistSelectorColor>444444</gamelistSelectorColor>
         <gamelistSelectedColor>f0f0f0</gamelistSelectedColor>
         <gamelistPrimaryColor>77777790</gamelistPrimaryColor>
@@ -36,8 +36,11 @@ here are then used by the UI components to adjust the appearance of the theme.
         <splashProgressbarColor>E0E0E0</splashProgressbarColor>
     </variables>
     <variables ifSubset="color-scheme:light">
-        <systemCarouselSelectorImage>system-carousel-selector-light-with-shadow.png</systemCarouselSelectorImage>
         <bottomBarImage>bottom-bar-light.png</bottomBarImage>
+        <backgroudOverlayImage>overlay-light.png</backgroudOverlayImage>
+        <systemInfoPanelImage>system-info-panel-light.png</systemInfoPanelImage>
+        <gamelistPanelImage>gamelist-panel-light.png</gamelistPanelImage>
+        <gameDetailsPanelImage>game-details-panel-light.png</gameDetailsPanelImage>
         <systemInfoColor>555555</systemInfoColor>
         <systemManufacturerColor>6e6e6e</systemManufacturerColor>
         <systemInfoSecondaryColor>a0a0a0</systemInfoSecondaryColor>
@@ -52,9 +55,6 @@ here are then used by the UI components to adjust the appearance of the theme.
         <menuSelectorColor>666666</menuSelectorColor>
         <menuTextSeparatorColor>6666661A</menuTextSeparatorColor>
         <menuGroupSeparatorColor>666666</menuGroupSeparatorColor>
-        <backgroudOverlayImage>overlay-light.png</backgroudOverlayImage>
-        <gamelistTextlistOverlay>gamelist-textlist-overlay-light.png</gamelistTextlistOverlay>
-        <gamelistBackgroundImageDetailed>gamelist-metadata-background-light-extended.png</gamelistBackgroundImageDetailed>
         <gamelistSelectorColor>666666</gamelistSelectorColor>
         <gamelistSelectedColor>F0F0F0</gamelistSelectedColor>
         <gamelistPrimaryColor>77777790</gamelistPrimaryColor>

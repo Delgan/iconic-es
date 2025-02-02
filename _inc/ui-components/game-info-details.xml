@@ -8,7 +8,7 @@ It displays a mixin of the game images, above the game metadata.
     <view name="detailed, grid">
         <image name="game-metadata-background-image-extended" extra="true">
             <origin>0 0</origin>
-            <path>./_inc/other/${gamelistBackgroundImageDetailed}</path>
+            <path>./_inc/other/${gameDetailsPanelImage}</path>
             <pos>0 0</pos>
             <size>1 1</size>
             <zIndex>11</zIndex>
