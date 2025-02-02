@@ -6,12 +6,14 @@ It only displays the system logo at the center.
 <theme>
     <formatVersion>7</formatVersion>
     <view name="basic">
-        <image name="logo" origin="0.5 0.5" linearSmooth="true">
+        <image name="logo">
+            <origin>0.5 0.5</origin>
+            <linearSmooth>true</linearSmooth>
             <path>./_inc/system-logo/${system.theme}.webp</path>
             <zIndex>11</zIndex>
             <visible>true</visible>
-            <pos>0.255 0.5</pos>
-            <maxSize>0.5 .5</maxSize>
+            <pos>0.27 0.5</pos>
+            <maxSize>0.35 0.70</maxSize>
         </image>
     </view>
 </theme>
