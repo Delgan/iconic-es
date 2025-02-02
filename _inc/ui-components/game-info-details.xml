@@ -21,7 +21,7 @@ It displays a mixin of the game images, above the game metadata.
             <origin>0.5 0.5</origin>
             <maxSize>0.195 .135</maxSize>
             <saturation>0.75</saturation>
-            <opacity>0.5</opacity>
+            <opacity>0.6</opacity>
             <zIndex>11</zIndex>
         </image>
         <text name="logoText">

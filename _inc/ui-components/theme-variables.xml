@@ -23,6 +23,7 @@ here are then used by the UI components to adjust the appearance of the theme.
         <menuSelectorColor>444444</menuSelectorColor>
         <menuTextSeparatorColor>44444430</menuTextSeparatorColor>
         <menuGroupSeparatorColor>444444</menuGroupSeparatorColor>
+        <backgroudOverlayImage>overlay-dark.png</backgroudOverlayImage>
         <gamelistTextlistOverlay>gamelist-textlist-overlay-dark.png</gamelistTextlistOverlay>
         <gamelistBackgroundImageDetailed>gamelist-metadata-background-dark-extended.png</gamelistBackgroundImageDetailed>
         <gamelistSelectorColor>444444</gamelistSelectorColor>
@@ -51,6 +52,7 @@ here are then used by the UI components to adjust the appearance of the theme.
         <menuSelectorColor>666666</menuSelectorColor>
         <menuTextSeparatorColor>6666661A</menuTextSeparatorColor>
         <menuGroupSeparatorColor>666666</menuGroupSeparatorColor>
+        <backgroudOverlayImage>overlay-light.png</backgroudOverlayImage>
         <gamelistTextlistOverlay>gamelist-textlist-overlay-light.png</gamelistTextlistOverlay>
         <gamelistBackgroundImageDetailed>gamelist-metadata-background-light-extended.png</gamelistBackgroundImageDetailed>
         <gamelistSelectorColor>666666</gamelistSelectorColor>

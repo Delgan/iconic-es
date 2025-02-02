@@ -31,38 +31,34 @@ Based on:   Iconic (ES-DE version) by Siddy212
 
         To help you find your way around, here's an overview of which view uses which components:
             - "system":
-                - background-art.xml
+                - background.xml
                 - status-indicators.xml
                 - system-carousel.xml
                 - help.xml
             - "basic":
-                - background-art.xml
+                - background.xml
                 - status-indicators.xml
-                - game-bottom-bar.xml
                 - game-info-basic.xml
                 - gamelist-textlist.xml
                 - help.xml
             - "detailed":
-                - background-art.xml
+                - background.xml
                 - status-indicators.xml
-                - games-bottom-bar.xml
                 - game-info-details.xml
                 - gamelist-textlist.xml
                 - help.xml
             - "grid":
-                - background-art.xml
+                - background.xml
                 - status-indicators.xml
-                - games-bottom-bar.xml
                 - game-info-details.xml
                 - gamelist-grid.xml
                 - help.xml
             - "menu":
                 - menu.xml
     -->
-    <include>./_inc/ui-components/background-art.xml</include>
+    <include>./_inc/ui-components/background.xml</include>
     <include>./_inc/ui-components/status-indicators.xml</include>
     <include>./_inc/ui-components/system-carousel.xml</include>
-    <include>./_inc/ui-components/games-bottom-bar.xml</include>
     <include>./_inc/ui-components/game-info-basic.xml</include>
     <include>./_inc/ui-components/game-info-details.xml</include>
     <include>./_inc/ui-components/gamelist-textlist.xml</include>

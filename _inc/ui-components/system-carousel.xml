@@ -57,6 +57,14 @@ vertically on the left side of the screen.
                 </container>
             </itemTemplate>
         </carousel>
+        <image name="system-carousel-selector" extra="true">
+            <origin>0 0</origin>
+            <pos>0 0</pos>
+            <size>1 1</size>
+            <path>./_inc/other/${systemCarouselSelectorImage}</path>
+            <zIndex>1</zIndex>
+            <linearSmooth>true</linearSmooth>
+        </image>
         <image name="system-controller" extra="true">
             <origin>0.5 0.5</origin>
             <pos>0.25 .21</pos>
@@ -65,14 +73,6 @@ vertically on the left side of the screen.
             <path>./_inc/controllers/${system.theme}.webp</path>
             <zIndex>15</zIndex>
             <linearSmooth>false</linearSmooth>
-        </image>
-        <image name="system-carousel-selector" extra="true">
-            <origin>0 0</origin>
-            <pos>0 0</pos>
-            <size>1 1</size>
-            <path>./_inc/other/${systemCarouselSelectorImage}</path>
-            <zindex>2</zindex>
-            <linearSmooth>true</linearSmooth>
         </image>
         <text name="system-name" extra="true">
             <text>${systemName}</text>
