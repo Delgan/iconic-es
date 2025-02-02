@@ -1,13 +1,5 @@
 <svg width="1920" height="1080" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <mask id="fade-mask" x="0" y="0" width="1" height="1">
-      <rect x="220" y="-50" width="520" height="1180" fill="white"/>
-      <rect x="220" y="1080" width="520" height="100" fill="url(#fade-gradient)"/>
-    </mask>
-    <linearGradient id="fade-gradient" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="white" />
-      <stop offset="100%" stop-color="black" />
-    </linearGradient>
     <clipPath id="cut-in-shadows">
       <rect x="0" y="0" width="220" height="1080" />
       <rect x="740" y="0" width="340" height="1080" />
@@ -23,7 +15,7 @@
     </linearGradient>
   </defs>
   <rect x="220" y="-50" width="520" height="1180" filter="url(#side-shadows)" clip-path="url(#cut-in-shadows)" />
-  <rect x="220" y="-50" width="520" height="1180" fill="url(#gradient)" mask="url(#fade-mask)"  />
+  <rect x="220" y="-50" width="520" height="1180" fill="url(#gradient)" />
   <rect x="265" y="450" width="430" height="1.2" clip-rule="evenodd" fill="#a0a0a0" fill-opacity="1" fill-rule="evenodd" stroke-width="3.5" stroke-linejoin="round" stroke-miterlimit="2" />
   <rect x="265" y="595" width="430" height="1.2" clip-rule="evenodd" fill="#a0a0a0" fill-opacity="1" fill-rule="evenodd" stroke-width="3.5" stroke-linejoin="round" stroke-miterlimit="2" />
 </svg>
