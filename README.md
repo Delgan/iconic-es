@@ -57,7 +57,7 @@ This theme allows customizations to artwork without the need to edit the source 
 
 The artwork used on the system view can be customized with your own images.
 
-* Create a new folder called `overlays` in the theme customizations directory mentioned above.
+* Create a new folder called `backgrounds` in the theme customizations directory mentioned above.
 * Copy your custom background images to that folder.
 * They should be named:
     - `${system.theme}.webp`
