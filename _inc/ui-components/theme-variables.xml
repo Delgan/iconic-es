@@ -62,10 +62,14 @@ here are then used by the UI components to adjust the appearance of the theme.
         <gameMetadataColor>555555</gameMetadataColor>
         <splashProgressbarColor>444444</splashProgressbarColor>
     </variables>
-    <variables ifSubset="show-game-titles-in-grid:yes">
-        <showGameTitlesInGrid>true</showGameTitlesInGrid>
+    <variables>
+        <showGameTitlesInGrid ifSubset="show-game-titles-in-grid:yes">true</showGameTitlesInGrid>
+        <showGameTitlesInGrid ifSubset="show-game-titles-in-grid:no">false</showGameTitlesInGrid>
     </variables>
-    <variables ifSubset="show-game-titles-in-grid:no">
-        <showGameTitlesInGrid>false</showGameTitlesInGrid>
+    <variables>
+        <distributionPath ifSubset="distribution:retrobat">~/.emulationstation/</distributionPath>
+        <distributionPath ifSubset="distribution:rocknix">~/roms/_userdata/</distributionPath>
+        <distributionPath ifSubset="distribution:batocera">/userdata/</distributionPath>
+        <themeCustomizationsPath>${distributionPath}theme-customizations/iconic/</themeCustomizationsPath>
     </variables>
 </theme>
