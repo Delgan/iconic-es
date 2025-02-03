@@ -9,7 +9,7 @@ It only displays the system logo at the center.
         <image name="logo">
             <origin>0.5 0.5</origin>
             <linearSmooth>true</linearSmooth>
-            <path>./_inc/system-logo/${system.theme}.webp</path>
+            <path>./_inc/logos/${system.theme}.webp</path>
             <zIndex>11</zIndex>
             <visible>true</visible>
             <pos>0.27 0.5</pos>

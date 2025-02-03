@@ -14,7 +14,7 @@ if __name__ == "__main__":
 
     metadata = resources / "metadata"
     background_art = resources / "backgrounds"
-    logo = resources / "system-logo"
+    logo = resources / "logos"
     controller = resources / "controllers"
 
     folders = [metadata, background_art, logo, controller]
