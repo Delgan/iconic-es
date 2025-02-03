@@ -4,7 +4,7 @@
 
 ![System Carousel Demo](_preview/systems-carousel-animation.gif)
 
-**Iconic** is a theme for EmulationStation (Batocera variant), based on [the ES-DE version](https://github.com/Siddy212/iconic-es-de) created by [@Siddy212](https://github.com/Siddy212).
+**Iconic** is a theme for [EmulationStation](https://github.com/batocera-linux/batocera-emulationstation) (Batocera variant), based on [the ES-DE version](https://github.com/Siddy212/iconic-es-de) created by [@Siddy212](https://github.com/Siddy212).
 
 
 </div>
