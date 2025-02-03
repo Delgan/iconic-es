@@ -69,8 +69,8 @@ It displays a mixin of the game images, above the game metadata.
             <autoScrollSpeed>50</autoScrollSpeed>
             <autoScrollDelay>1000</autoScrollDelay>
             <singleLineScroll>true</singleLineScroll>
-            <pos>0.05 0.437</pos>
-            <size>0.471 0.024</size>
+            <pos>0.05 0.488</pos>
+            <size>0.42 0.024</size>
             <fontSize>0.024</fontSize>
             <lineSpacing>1</lineSpacing>
             <alignment>left</alignment>
@@ -80,7 +80,7 @@ It displays a mixin of the game images, above the game metadata.
             <filledPath>./_inc/icons/icon-star-filled.svg</filledPath>
             <unfilledPath>./_inc/icons/icon-star-unfilled.svg</unfilledPath>
             <color>${gameMetadataColor}</color>
-            <pos>0.087 0.506</pos>
+            <pos>0.082 0.552</pos>
             <size>0 0.0375</size>
             <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
             <fontSize>0.024</fontSize>
@@ -93,8 +93,8 @@ It displays a mixin of the game images, above the game metadata.
             <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
             <color>${gameMetadataColor}</color>
             <lineSpacing>1</lineSpacing>
-            <pos>0.188 0.507</pos>
-            <size>0.332 0.024</size>
+            <pos>0.175 0.55</pos>
+            <size>0.295 0.024</size>
             <fontSize>0.024</fontSize>
             <alignment>left</alignment>
             <autoScroll>horizontal</autoScroll>
@@ -109,8 +109,8 @@ It displays a mixin of the game images, above the game metadata.
             <color>${gameMetadataColor}</color>
             <lineSpacing>1</lineSpacing>
             <fontSize>0.024</fontSize>
-            <pos>0.05 0.564</pos>
-            <size>0.095 0.024</size>
+            <pos>0.05 0.602</pos>
+            <size>0.08 0.024</size>
             <format>%Y-%m-%d</format>
             <alignment>left</alignment>
             <autoScroll>horizontal</autoScroll>
@@ -124,8 +124,8 @@ It displays a mixin of the game images, above the game metadata.
             <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
             <color>${gameMetadataColor}</color>
             <lineSpacing>1</lineSpacing>
-            <pos>0.188 0.564</pos>
-            <size>0.185 0.024</size>
+            <pos>0.175 0.602</pos>
+            <size>0.165 0.024</size>
             <fontSize>0.024</fontSize>
             <alignment>left</alignment>
             <autoScroll>horizontal</autoScroll>
@@ -140,8 +140,8 @@ It displays a mixin of the game images, above the game metadata.
             <color>${gameMetadataColor}</color>
             <lineSpacing>1</lineSpacing>
             <fontSize>0.024</fontSize>
-            <pos>0.415 0.564</pos>
-            <size>0.105 0.024</size>
+            <pos>0.38 0.602</pos>
+            <size>0.09 0.024</size>
             <alignment>left</alignment>
             <autoScroll>horizontal</autoScroll>
             <autoScrollSpeed>50</autoScrollSpeed>
@@ -154,8 +154,8 @@ It displays a mixin of the game images, above the game metadata.
             <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
             <color>${gameMetadataColor}</color>
             <lineSpacing>1</lineSpacing>
-            <pos>0.05 0.621</pos>
-            <size>0.095 0.024</size>
+            <pos>0.05 0.654</pos>
+            <size>0.08 0.024</size>
             <fontSize>0.024</fontSize>
             <alignment>left</alignment>
             <autoScroll>horizontal</autoScroll>
@@ -169,8 +169,8 @@ It displays a mixin of the game images, above the game metadata.
             <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
             <color>${gameMetadataColor}</color>
             <lineSpacing>1</lineSpacing>
-            <pos>0.188 0.621</pos>
-            <size>0.185 0.024</size>
+            <pos>0.175 0.654</pos>
+            <size>0.165 0.024</size>
             <fontSize>0.024</fontSize>
             <alignment>left</alignment>
             <autoScroll>horizontal</autoScroll>
@@ -185,8 +185,8 @@ It displays a mixin of the game images, above the game metadata.
             <color>${gameMetadataColor}</color>
             <lineSpacing>1</lineSpacing>
             <fontSize>0.024</fontSize>
-            <pos>0.415 0.621</pos>
-            <size>0.105 0.024</size>
+            <pos>0.38 0.654</pos>
+            <size>0.09 0.024</size>
             <alignment>left</alignment>
             <autoScroll>horizontal</autoScroll>
             <autoScrollSpeed>50</autoScrollSpeed>
@@ -200,8 +200,8 @@ It displays a mixin of the game images, above the game metadata.
             <autoScrollSpeed>70</autoScrollSpeed>
             <autoScrollDelay>5000</autoScrollDelay>
             <color>${gameMetadataColor}</color>
-            <pos>0.033 0.667</pos>
-            <size>0.485 0.1125</size>
+            <pos>0.033 0.6975</pos>
+            <size>0.435 0.1</size>
             <fontSize>0.024</fontSize>
             <lineSpacing>1.2</lineSpacing>
         </text>
