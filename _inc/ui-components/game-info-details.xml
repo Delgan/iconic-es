@@ -68,6 +68,7 @@ It displays a mixin of the game images, above the game metadata.
             <autoScroll>horizontal</autoScroll>
             <autoScrollSpeed>50</autoScrollSpeed>
             <autoScrollDelay>1000</autoScrollDelay>
+            <singleLineScroll>true</singleLineScroll>
             <pos>0.05 0.437</pos>
             <size>0.471 0.024</size>
             <fontSize>0.024</fontSize>
@@ -96,6 +97,10 @@ It displays a mixin of the game images, above the game metadata.
             <size>0.332 0.024</size>
             <fontSize>0.024</fontSize>
             <alignment>left</alignment>
+            <autoScroll>horizontal</autoScroll>
+            <autoScrollSpeed>50</autoScrollSpeed>
+            <autoScrollDelay>1000</autoScrollDelay>
+            <singleLineScroll>true</singleLineScroll>
         </text>
         <datetime name="md_releasedate">
             <value>Unknown</value>
@@ -108,6 +113,10 @@ It displays a mixin of the game images, above the game metadata.
             <size>0.095 0.024</size>
             <format>%Y-%m-%d</format>
             <alignment>left</alignment>
+            <autoScroll>horizontal</autoScroll>
+            <autoScrollSpeed>50</autoScrollSpeed>
+            <autoScrollDelay>1000</autoScrollDelay>
+            <singleLineScroll>true</singleLineScroll>
         </datetime>
         <text name="md_developer">
             <value>Unknown</value>
@@ -119,6 +128,10 @@ It displays a mixin of the game images, above the game metadata.
             <size>0.185 0.024</size>
             <fontSize>0.024</fontSize>
             <alignment>left</alignment>
+            <autoScroll>horizontal</autoScroll>
+            <autoScrollSpeed>50</autoScrollSpeed>
+            <autoScrollDelay>1000</autoScrollDelay>
+            <singleLineScroll>true</singleLineScroll>
         </text>
         <datetime name="md_lastplayed">
             <value>Never</value>
@@ -130,6 +143,10 @@ It displays a mixin of the game images, above the game metadata.
             <pos>0.415 0.564</pos>
             <size>0.105 0.024</size>
             <alignment>left</alignment>
+            <autoScroll>horizontal</autoScroll>
+            <autoScrollSpeed>50</autoScrollSpeed>
+            <autoScrollDelay>1000</autoScrollDelay>
+            <singleLineScroll>true</singleLineScroll>
         </datetime>
         <text name="md_players">
             <value>Unknown</value>
@@ -141,6 +158,10 @@ It displays a mixin of the game images, above the game metadata.
             <size>0.095 0.024</size>
             <fontSize>0.024</fontSize>
             <alignment>left</alignment>
+            <autoScroll>horizontal</autoScroll>
+            <autoScrollSpeed>50</autoScrollSpeed>
+            <autoScrollDelay>1000</autoScrollDelay>
+            <singleLineScroll>true</singleLineScroll>
         </text>
         <text name="md_publisher">
             <value>Unknown</value>
@@ -152,6 +173,10 @@ It displays a mixin of the game images, above the game metadata.
             <size>0.185 0.024</size>
             <fontSize>0.024</fontSize>
             <alignment>left</alignment>
+            <autoScroll>horizontal</autoScroll>
+            <autoScrollSpeed>50</autoScrollSpeed>
+            <autoScrollDelay>1000</autoScrollDelay>
+            <singleLineScroll>true</singleLineScroll>
         </text>
         <text name="md_gametime">
             <value>Never</value>
@@ -163,6 +188,10 @@ It displays a mixin of the game images, above the game metadata.
             <pos>0.415 0.621</pos>
             <size>0.105 0.024</size>
             <alignment>left</alignment>
+            <autoScroll>horizontal</autoScroll>
+            <autoScrollSpeed>50</autoScrollSpeed>
+            <autoScrollDelay>1000</autoScrollDelay>
+            <singleLineScroll>true</singleLineScroll>
         </text>
         <text name="md_description">
             <origin>0 0</origin>
