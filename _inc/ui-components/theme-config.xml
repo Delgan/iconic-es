@@ -18,6 +18,7 @@ variables are derived from the values selected here and determine the appearance
         <include name="image" displayName="Image" />
         <include name="boxart" displayName="Boxart" />
         <include name="marquee" displayName="Marquee" />
+        <include name="mix" displayName="Mix" />
     </subset>
     <subset name="metadata-source" displayName="Metadata Source">
         <include name="theme" displayName="Theme" />

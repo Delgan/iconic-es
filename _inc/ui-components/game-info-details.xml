@@ -43,28 +43,43 @@ It displays a mixin of the game images, above the game metadata.
             <color>111111ff</color>
         </text>
         <image name="md_image">
-            <origin>0.5 0.5</origin>
-            <pos>0.25 0.25</pos>
             <zIndex>11</zIndex>
-            <maxSize>0.45 0.4</maxSize>
             <visible>false</visible>
-            <visible ifSubset="media-type:image">true</visible>
+            <visible ifSubset="media-type:image|mix">true</visible>
+            <!-- Standalone mode. -->
+            <origin ifSubset="media-type:image">0.5 0.5</origin>
+            <pos ifSubset="media-type:image">0.25 0.25</pos>
+            <maxSize ifSubset="media-type:image">0.45 0.4</maxSize>
+            <!-- Mix mode. -->
+            <origin ifSubset="media-type:mix">0.5 0.5</origin>
+            <pos ifSubset="media-type:mix">0.25 0.25</pos>
+            <maxSize ifSubset="media-type:mix">0.425 0.35</maxSize>
         </image>
         <image name="md_thumbnail">
-            <origin>0.5 0.5</origin>
-            <pos>0.25 0.25</pos>
             <zIndex>11</zIndex>
-            <maxSize>0.45 0.4</maxSize>
             <visible>false</visible>
-            <visible ifSubset="media-type:boxart">true</visible>
+            <visible ifSubset="media-type:boxart|mix">true</visible>
+            <!-- Standalone mode. -->
+            <origin ifSubset="media-type:boxart">0.5 0.5</origin>
+            <pos ifSubset="media-type:boxart">0.25 0.25</pos>
+            <maxSize ifSubset="media-type:boxart">0.45 0.4</maxSize>
+            <!-- Mix mode. -->
+            <origin ifSubset="media-type:mix">0 1</origin>
+            <pos ifSubset="media-type:mix">0.025 0.45</pos>
+            <maxSize ifSubset="media-type:mix">0.15 0.25</maxSize>
         </image>
         <image name="md_marquee">
-            <origin>0.5 0.5</origin>
-            <pos>0.25 0.25</pos>
             <zIndex>11</zIndex>
-            <maxSize>0.45 0.4</maxSize>
             <visible>false</visible>
-            <visible ifSubset="media-type:marquee">true</visible>
+            <visible ifSubset="media-type:marquee|mix">true</visible>
+            <!-- Standalone mode. -->
+            <origin ifSubset="media-type:marquee">0.5 0.5</origin>
+            <pos ifSubset="media-type:marquee">0.25 0.25</pos>
+            <maxSize ifSubset="media-type:marquee">0.45 0.4</maxSize>
+            <!-- Mix mode. -->
+            <origin ifSubset="media-type:mix">1 0</origin>
+            <pos ifSubset="media-type:mix">0.475 0.025</pos>
+            <maxSize ifSubset="media-type:mix">0.175 0.125</maxSize>
         </image>
         <text name="md_name">
             <origin>0 0</origin>
