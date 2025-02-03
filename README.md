@@ -71,6 +71,7 @@ Inspiration and templates were taken from the following themes:
 
 - [Iconic (ES-DE)](https://github.com/Siddy212/iconic-es-de) by [Siddy212](https://github.com/Siddy212).
 - [Iconic (Batocera 4:3)](https://github.com/waffledork/iconic-batocera) by [waffledork](https://github.com/waffledork).
+- [Canvas (ES)](https://github.com/Siddy212/canvas-es) by [Siddy212](https://github.com/Siddy212).
 - [TechDweeb (ES)](https://github.com/anthonycaccese/techdweeb-es) by [anthonycaccese](https://github.com/anthonycaccese).
 
 
