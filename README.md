@@ -33,11 +33,12 @@ The following options can be changed directly from the main menu under `User Int
 
 | Setting | Description | Options |
 | -- | -- | -- |
+| Aspect Ratio | Enables you to select the correct aspect ratio for your screen. This will automatically set itself so you should not need to change it but if the theme layout looks odd or spacing looks incorrect you can use this setting to make sure the aspect ratio matches your screen. | `Automatic`, `16:9`, `16:10`, `4:3`, `3:2`, `1:1` |
 | Color Scheme | Sets the color scheme that is used for the theme. | `Light`, `Dark` |
-| Show Game Titles in Grid | Toggle the display of game titles in the grid view. | `Off`, `On` |
-| Metadata Image Type | Select the desired type of image displayed above game details. | `Boxart`, `Image`, `Marquee`, `Mix` |
-| Metadata Source | Select the primary source of metadata (name, release year, etc.) to associate with each systems. | `Theme`, `EmulationStation` |
-| Distribution | Used to define which folder to look in for Theme Customization files (see below). | `None`, `Batocera/Knulli`, `Retrobat`, `RockNIX` |
+| Metadata Image Type | Selects the desired type of image displayed above game details. | `Boxart`, `Image`, `Marquee`, `Mix` |
+| Show Game Titles in Grid | Toggles the display of game titles in the grid view. | `Off`, `On` |
+| Metadata Source | Selects the primary source of metadata (name, release year, etc.) to associate with each systems. | `Theme`, `EmulationStation` |
+| Distribution | Used to define which folder to look in for Theme Customization files (see below). | `None`, `Batocera/Knulli`, `RetroBat`, `ROCKNIX` |
 
 ## Customization
 
@@ -46,7 +47,7 @@ This theme allows customizations to artwork without the need to edit the source 
 
 ### Start Here
 
-- Make sure the `Distribution` setting is set to the correct value for your current OS (e.g. Batocera/Knulli, RetroBat or Rocknix)
+- Make sure the `Distribution` setting is set to the correct value for your current OS (e.g. Batocera/Knulli, RetroBat or RockNIX)
 - This value determines the folder where you will add your customizations:
     - Batocera/Knulli = `/userdata/theme-customizations/iconic/`
     - RockNIX = `/roms/_userdata/theme-customizations/iconic/`

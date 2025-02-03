@@ -8,9 +8,9 @@
             <backgroundColor>000000</backgroundColor>
         </splash>
         <image name="background">
-            <origin>0 0</origin>
-            <pos>0 0</pos>
-            <size>1 1</size>
+            <origin>0.5 0.5</origin>
+            <pos>0.5 0.5</pos>
+            <minSize>1 1</minSize>
             <linearSmooth>true</linearSmooth>
             <saturation>0.75</saturation>
             <path>./_inc/other/splash-background.png</path>

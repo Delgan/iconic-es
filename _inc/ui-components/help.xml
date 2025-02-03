@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- This component defines the help text (button commands) common to all views.
-
-The position is changed in "system" view to avoid overlapping with the system overlay.
--->
+<!-- This component defines the help text (button commands) common to all views. -->
 <theme>
     <formatVersion>7</formatVersion>
     <view name="system, basic, detailed, grid">
@@ -15,9 +12,13 @@ The position is changed in "system" view to avoid overlapping with the system ov
             <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
         </helpsystem>
     </view>
+    <!--
+        The position is changed in "system" view to avoid overlapping with the system panel info
+        (only if the resolution is wide enough to allow it).
+    -->
     <view name="system">
         <helpsystem name="help">
-            <pos>0.48 0.967</pos>
+            <pos ifSubset="aspect-ratio:16-9|16-9-auto|16-10|16-10-auto">0.48 0.967</pos>
         </helpsystem>
     </view>
 </theme>

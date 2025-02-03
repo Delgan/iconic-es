@@ -6,12 +6,13 @@ It displays a mixin of the game images, above the game metadata.
 <theme>
     <formatVersion>7</formatVersion>
     <view name="detailed, grid">
-        <image name="game-metadata-background-image-extended" extra="true">
+        <image name="game-details-panel" extra="true">
             <origin>0 0</origin>
             <path>./_inc/other/${gameDetailsPanelImage}</path>
             <pos>0 0</pos>
             <size>1 1</size>
             <zIndex>11</zIndex>
+            <linearSmooth>true</linearSmooth>
         </image>
         <image name="logo">
             <path>./_inc/logos/${system.theme}.webp</path>
@@ -19,7 +20,7 @@ It displays a mixin of the game images, above the game metadata.
             <linearSmooth>true</linearSmooth>
             <pos>0.25 0.895</pos>
             <origin>0.5 0.5</origin>
-            <maxSize>0.195 .135</maxSize>
+            <maxSize>${systemLogoGameDetailsWidthScale} 0.135</maxSize>
             <saturation>0.75</saturation>
             <opacity>0.6</opacity>
             <zIndex>11</zIndex>
@@ -104,7 +105,7 @@ It displays a mixin of the game images, above the game metadata.
             <unfilledPath>./_inc/icons/icon-star-unfilled.svg</unfilledPath>
             <color>${gameMetadataColor}</color>
             <pos>0.082 0.552</pos>
-            <size>0 0.0375</size>
+            <size>0 ${gameRatingIconsHeightScale}</size>
             <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
             <fontSize>0.024</fontSize>
             <lineSpacing>1</lineSpacing>

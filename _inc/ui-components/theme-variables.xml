@@ -6,6 +6,7 @@ here are then used by the UI components to adjust the appearance of the theme.
 -->
 <theme>
     <formatVersion>7</formatVersion>
+    <!-- Config: Color Scheme. -->
     <variables ifSubset="color-scheme:dark">
         <bottomBarImage>bottom-bar-dark.png</bottomBarImage>
         <backgroudOverlayImage>overlay-dark.png</backgroudOverlayImage>
@@ -62,14 +63,142 @@ here are then used by the UI components to adjust the appearance of the theme.
         <gameMetadataColor>555555</gameMetadataColor>
         <splashProgressbarColor>444444</splashProgressbarColor>
     </variables>
+    <!-- Config: Show game titles in grid. -->
     <variables>
         <showGameTitlesInGrid ifSubset="show-game-titles-in-grid:yes">true</showGameTitlesInGrid>
         <showGameTitlesInGrid ifSubset="show-game-titles-in-grid:no">false</showGameTitlesInGrid>
     </variables>
+    <!-- Config: Distribution. -->
     <variables>
         <distributionPath ifSubset="distribution:retrobat">~/.emulationstation/</distributionPath>
         <distributionPath ifSubset="distribution:rocknix">~/roms/_userdata/</distributionPath>
         <distributionPath ifSubset="distribution:batocera">/userdata/</distributionPath>
         <themeCustomizationsPath>${distributionPath}theme-customizations/iconic/</themeCustomizationsPath>
+    </variables>
+    <!-- Config: Aspect Ratio. -->
+    <variables ifSubset="aspect-ratio:16-9|16-9-auto">
+        <!--
+            The "<backgroundWidthScale>" is computed as follows: (16 / width_ratio) * (height_ratio / 9).
+            This is because we're using the 16:9 FHD image as a base, and we need to scale it to fit the target aspect ratio.
+            For example, for a 4:3 aspect ratio target, the background size would be (16 / 4) * (3 / 9) = 1.33333.
+            The height is always 1 (since supported aspect ratio targets are bigger than 16:9), and the width is the only scaled value.
+            The result value is the factor for the width to avoid distortion. The resized image will ultimately appear cropped.
+        -->
+        <backgroundWidthScale>1</backgroundWidthScale>
+        <!--
+            The "<backgroundHorizontalPos>" is manually adjusted to align the overlay position with the system info panel.
+            Since the panel width and position varies between aspect ratios, the background may need to be shifted to the left.
+            Note that the origin is always defined as (0, 0).
+        -->
+        <backgroundHorizontalPos>0</backgroundHorizontalPos>
+        <!--
+            The "<maxLogoCount>" is reduced for bigger aspect ratios, since there is less width available.
+        -->
+        <maxLogoCount>4</maxLogoCount>
+        <!--
+            The "<systemLogoWidthScale>" is used to adapt the logo size to the system info panel width.
+            Indeed, for some aspect ratios, the system info panel is wider, and the logo needs to be scaled up.
+            This should be computed by taking the base width for 16:9 and multiplying by the same factor as used for the panel.
+        -->
+        <systemLogoWidthScale>0.13</systemLogoWidthScale>
+        <!--
+            The "<systemLogoHorizontalPos>" is used to adjust the logo position after width scaling.
+            This is required because the built-in logo scaling isn't centered.
+            The value is computed as follows: base_pos - (new_scale_factor - base_scale_factor) / 2.
+            The "base" here refers to the 16:9 aspect ratio.
+        -->
+        <systemLogoHorizontalPos>0.185</systemLogoHorizontalPos>
+        <!--
+            The "<systemLogoGameDetailsWidthScale>" corresponds to the size of the logo in the game details view.
+            This is computed by taking the individual "<systemLogoWidthScale>" multiplied by the common "<logoScale>" (defined in the carousel).
+        -->
+        <systemLogoGameDetailsWidthScale>0.195</systemLogoGameDetailsWidthScale>
+        <!--
+            The base width of the panel is 25% of the screen width.
+            However, this looks too thin for bigger aspect ratios.
+            To make it look better in these cases, we can scale the width by some arbitrary factor.
+        -->
+        <systemInfoPanelWidthScale>1</systemInfoPanelWidthScale>
+        <!--
+            The "<systemInfoPanelHorizontalPos>" is used to adjust the system info panel position.
+            For bigger aspect ratios such as 4:3 and 1:1, the panel needs to be shifted to the left.
+            Indeed, for such resolutions, the panel is made wider, therefore it needs to be repositioned.
+        -->
+        <systemInfoPanelHorizontalPos>0</systemInfoPanelHorizontalPos>
+        <!--
+            The "<systemControllerWidthScale>" is used to adapt the controller image to the system info panel width.
+            This should be computed by taking the base width for 16:9 and multiplying by the same factor as used for the panel.
+        -->
+        <systemControllerWidthScale>0.225</systemControllerWidthScale>
+        <!--
+            The "<systemHeadersWidthScale>" is used to adapt the system headers text to the system info panel width.
+            This should be computed by taking the base width for 16:9 and multiplying by the same factor as used for the panel.
+        -->
+        <systemHeadersWidthScale>0.26</systemHeadersWidthScale>
+        <!--
+            The "<systemDescriptionWidthScale>" is used to adapt the system description text to the system info panel width.
+            This should be computed by taking the base width for 16:9 and multiplying by the same factor as used for the panel.
+        -->
+        <systemDescriptionWidthScale>0.23</systemDescriptionWidthScale>
+        <!--
+            The "<gameRatingIconsHeightScale>" is used to manually adapt the game rating icons to the scaled game details panel.
+        -->
+        <gameRatingIconsHeightScale>0.0375</gameRatingIconsHeightScale>
+    </variables>
+    <variables ifSubset="aspect-ratio:16-10|16-10-auto">
+        <backgroundWidthScale>1.11111</backgroundWidthScale>
+        <backgroundHorizontalPos>-0.035</backgroundHorizontalPos>
+        <maxLogoCount>4</maxLogoCount>
+        <systemLogoWidthScale>0.13</systemLogoWidthScale>
+        <systemLogoHorizontalPos>0.185</systemLogoHorizontalPos>
+        <systemLogoGameDetailsWidthScale>0.195</systemLogoGameDetailsWidthScale>
+        <systemInfoPanelWidthScale>1</systemInfoPanelWidthScale>
+        <systemInfoPanelHorizontalPos>0</systemInfoPanelHorizontalPos>
+        <systemControllerWidthScale>0.225</systemControllerWidthScale>
+        <systemHeadersWidthScale>0.26</systemHeadersWidthScale>
+        <systemDescriptionWidthScale>0.23</systemDescriptionWidthScale>
+        <gameRatingIconsHeightScale>0.036</gameRatingIconsHeightScale>
+    </variables>
+    <variables ifSubset="aspect-ratio:3-2|3-2-auto">
+        <backgroundWidthScale>1.18518</backgroundWidthScale>
+        <backgroundHorizontalPos>-0.04</backgroundHorizontalPos>
+        <maxLogoCount>3</maxLogoCount>
+        <systemLogoWidthScale>0.1625</systemLogoWidthScale>
+        <systemLogoHorizontalPos>0.16875</systemLogoHorizontalPos>
+        <systemLogoGameDetailsWidthScale>0.24375</systemLogoGameDetailsWidthScale>
+        <systemInfoPanelWidthScale>1.25</systemInfoPanelWidthScale>
+        <systemInfoPanelHorizontalPos>-0.0625</systemInfoPanelHorizontalPos>
+        <systemControllerWidthScale>0.28125</systemControllerWidthScale>
+        <systemHeadersWidthScale>0.325</systemHeadersWidthScale>
+        <systemDescriptionWidthScale>0.2875</systemDescriptionWidthScale>
+        <gameRatingIconsHeightScale>0.032</gameRatingIconsHeightScale>
+    </variables>
+    <variables ifSubset="aspect-ratio:4-3|4-3-auto">
+        <backgroundWidthScale>1.33333</backgroundWidthScale>
+        <backgroundHorizontalPos>-0.1</backgroundHorizontalPos>
+        <maxLogoCount>3</maxLogoCount>
+        <systemLogoWidthScale>0.1625</systemLogoWidthScale>
+        <systemLogoHorizontalPos>0.16875</systemLogoHorizontalPos>
+        <systemLogoGameDetailsWidthScale>0.24375</systemLogoGameDetailsWidthScale>
+        <systemInfoPanelWidthScale>1.25</systemInfoPanelWidthScale>
+        <systemInfoPanelHorizontalPos>-0.0625</systemInfoPanelHorizontalPos>
+        <systemControllerWidthScale>0.28125</systemControllerWidthScale>
+        <systemHeadersWidthScale>0.325</systemHeadersWidthScale>
+        <systemDescriptionWidthScale>0.2875</systemDescriptionWidthScale>
+        <gameRatingIconsHeightScale>0.027</gameRatingIconsHeightScale>
+    </variables>
+    <variables ifSubset="aspect-ratio:1-1|1-1-auto">
+        <backgroundWidthScale>1.77777</backgroundWidthScale>
+        <backgroundHorizontalPos>-0.22</backgroundHorizontalPos>
+        <maxLogoCount>3</maxLogoCount>
+        <systemLogoWidthScale>0.195</systemLogoWidthScale>
+        <systemLogoHorizontalPos>0.1525</systemLogoHorizontalPos>
+        <systemLogoGameDetailsWidthScale>0.2925</systemLogoGameDetailsWidthScale>
+        <systemInfoPanelWidthScale>1.5</systemInfoPanelWidthScale>
+        <systemInfoPanelHorizontalPos>-0.125</systemInfoPanelHorizontalPos>
+        <systemControllerWidthScale>0.3375</systemControllerWidthScale>
+        <systemHeadersWidthScale>0.39</systemHeadersWidthScale>
+        <systemDescriptionWidthScale>0.345</systemDescriptionWidthScale>
+        <gameRatingIconsHeightScale>0.0215</gameRatingIconsHeightScale>
     </variables>
 </theme>

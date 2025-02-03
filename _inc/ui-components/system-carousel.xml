@@ -12,17 +12,17 @@ vertically on the left side of the screen.
         </image>
         <carousel name="systemcarousel">
             <type>horizontal</type>
-            <origin>0 0</origin>
-            <pos>0 0</pos>
+            <origin>0.5 0</origin>
+            <pos>0.5 0</pos>
             <size>1 1</size>
-            <logoPos>0.185 0.85</logoPos>
-            <logoSize>0.13 0.09</logoSize>
+            <logoPos>${systemLogoHorizontalPos} 0.85</logoPos>
+            <logoSize>${systemLogoWidthScale} 0.09</logoSize>
+            <logoScale>1.5</logoScale>
             <color>00000000</color>
             <colorEnd>00000000</colorEnd>
             <gradientType>vertical</gradientType>
-            <logoScale>1.5</logoScale>
             <minLogoOpacity>0.5</minLogoOpacity>
-            <maxLogoCount>4</maxLogoCount>
+            <maxLogoCount>${maxLogoCount}</maxLogoCount>
             <systemInfoDelay>0</systemInfoDelay>
             <defaultTransition>instant</defaultTransition>
             <itemTemplate>
@@ -59,8 +59,8 @@ vertically on the left side of the screen.
         </carousel>
         <image name="system-info-panel" extra="true">
             <origin>0 0</origin>
-            <pos>0 0</pos>
-            <size>1 1</size>
+            <pos>${systemInfoPanelHorizontalPos} 0</pos>
+            <size>${systemInfoPanelWidthScale} 1</size>
             <path>./_inc/other/${systemInfoPanelImage}</path>
             <zIndex>1</zIndex>
             <linearSmooth>true</linearSmooth>
@@ -68,7 +68,7 @@ vertically on the left side of the screen.
         <image name="system-controller" extra="true">
             <origin>0.5 0.5</origin>
             <pos>0.25 .21</pos>
-            <maxSize>.225 0.351</maxSize>
+            <maxSize>${systemControllerWidthScale} 0.351</maxSize>
             <default>./_inc/controllers/_default.webp</default>
             <path>./_inc/controllers/${system.theme}.webp</path>
             <zIndex>15</zIndex>
@@ -78,7 +78,7 @@ vertically on the left side of the screen.
             <text>${systemName}</text>
             <origin>0.5 0.5</origin>
             <pos>0.25 0.454</pos>
-            <size>0.26 0.05</size>
+            <size>${systemHeadersWidthScale} 0.05</size>
             <autoScrollSpeed>25</autoScrollSpeed>
             <autoScrollDelay>0</autoScrollDelay>
             <singleLineScroll>true</singleLineScroll>
@@ -94,7 +94,7 @@ vertically on the left side of the screen.
             <origin>0.5 0.5</origin>
             <pos>0.25 0.486</pos>
             <fontSize>0.019</fontSize>
-            <size>0.26 0.05</size>
+            <size>${systemHeadersWidthScale} 0.05</size>
             <autoScrollSpeed>25</autoScrollSpeed>
             <autoScrollDelay>0</autoScrollDelay>
             <singleLineScroll>true</singleLineScroll>
@@ -109,7 +109,7 @@ vertically on the left side of the screen.
             <origin>0.5 0.5</origin>
             <pos>0.25 0.523</pos>
             <fontSize>0.024</fontSize>
-            <size>0.26 0.05</size>
+            <size>${systemHeadersWidthScale} 0.05</size>
             <autoScrollSpeed>25</autoScrollSpeed>
             <autoScrollDelay>0</autoScrollDelay>
             <singleLineScroll>true</singleLineScroll>
@@ -124,7 +124,7 @@ vertically on the left side of the screen.
         <text name="systemInfo">
             <origin>0.5 0.5</origin>
             <pos>0.25 0.585</pos>
-            <size>0.26 0.024</size>
+            <size>${systemHeadersWidthScale} 0.05</size>
             <autoScrollSpeed>25</autoScrollSpeed>
             <autoScrollDelay>0</autoScrollDelay>
             <singleLineScroll>true</singleLineScroll>
@@ -139,7 +139,7 @@ vertically on the left side of the screen.
         <text name="system-description" extra="true">
             <origin>0.5 0</origin>
             <pos>0.25 0.605</pos>
-            <size>0.23 0.21</size>
+            <size>${systemDescriptionWidthScale} 0.21</size>
             <fontSize>0.024</fontSize>
             <fontPath>./_inc/fonts/Oxygen-Regular.ttf</fontPath>
             <text>${systemDescription}</text>
