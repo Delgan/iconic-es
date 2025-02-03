@@ -47,6 +47,16 @@ It displays a mixin of the game images, above the game metadata.
             <pos>0.25 0.25</pos>
             <zIndex>11</zIndex>
             <maxSize>0.45 0.4</maxSize>
+            <visible>false</visible>
+            <visible ifSubset="media-type:image">true</visible>
+        </image>
+        <image name="md_thumbnail">
+            <origin>0.5 0.5</origin>
+            <pos>0.25 0.25</pos>
+            <zIndex>11</zIndex>
+            <maxSize>0.45 0.4</maxSize>
+            <visible>false</visible>
+            <visible ifSubset="media-type:boxart">true</visible>
         </image>
         <text name="md_name">
             <origin>0 0</origin>

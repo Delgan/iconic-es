@@ -14,6 +14,10 @@ variables are derived from the values selected here and determine the appearance
         <include name="no" displayName="No" />
         <include name="yes" displayName="Yes" />
     </subset>
+    <subset name="media-type" displayName="Metadata Image Type">
+        <include name="image" displayName="Image" />
+        <include name="boxart" displayName="Boxart" />
+    </subset>
     <subset name="metadata-source" displayName="Metadata Source">
         <include name="theme" displayName="Theme" />
         <include name="es" displayName="EmulationStation" />
