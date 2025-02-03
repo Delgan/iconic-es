@@ -2,7 +2,22 @@
     "version": "2.0.0",
     "tasks": [
         {
-            "label": "Run EmulationStation",
+            "label": "Run EmulationStation (FHD)",
+            "type": "shell",
+            "command": "emulationstation",
+            "args": [
+                "--windowed",
+                "--debug",
+                "--resolution",
+                "1920",
+                "1080"
+            ],
+            "options": {
+                "cwd": "/opt/batocera-emulationstation"
+            },
+        },
+        {
+            "label": "Run EmulationStation (16:9)",
             "type": "shell",
             "command": "emulationstation",
             "args": [
@@ -10,6 +25,66 @@
                 "--debug",
                 "--resolution",
                 "1280",
+                "720"
+            ],
+            "options": {
+                "cwd": "/opt/batocera-emulationstation"
+            },
+        },
+        {
+            "label": "Run EmulationStation (16:10)",
+            "type": "shell",
+            "command": "emulationstation",
+            "args": [
+                "--windowed",
+                "--debug",
+                "--resolution",
+                "1280",
+                "800"
+            ],
+            "options": {
+                "cwd": "/opt/batocera-emulationstation"
+            },
+        },
+        {
+            "label": "Run EmulationStation (4:3)",
+            "type": "shell",
+            "command": "emulationstation",
+            "args": [
+                "--windowed",
+                "--debug",
+                "--resolution",
+                "1024",
+                "768"
+            ],
+            "options": {
+                "cwd": "/opt/batocera-emulationstation"
+            },
+        },
+        {
+            "label": "Run EmulationStation (3:2)",
+            "type": "shell",
+            "command": "emulationstation",
+            "args": [
+                "--windowed",
+                "--debug",
+                "--resolution",
+                "960",
+                "640"
+            ],
+            "options": {
+                "cwd": "/opt/batocera-emulationstation"
+            },
+        },
+        {
+            "label": "Run EmulationStation (1:1)",
+            "type": "shell",
+            "command": "emulationstation",
+            "args": [
+                "--windowed",
+                "--debug",
+                "--resolution",
+                "720",
                 "720"
             ],
             "options": {
