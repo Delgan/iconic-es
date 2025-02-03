@@ -25,7 +25,7 @@ It displays a grid of the boxart images of the games of the system being viewed.
             <centerSelection>false</centerSelection>
         </imagegrid>
         <gridtile name="default">
-            <backgroundEdgeColor>444444</backgroundEdgeColor>
+            <backgroundEdgeColor>101010</backgroundEdgeColor>
             <backgroundCenterColor>00000000</backgroundCenterColor>
             <backgroundCornerSize>0 0</backgroundCornerSize>
             <selectionMode>image</selectionMode>
