@@ -24,4 +24,9 @@ variables are derived from the values selected here and determine the appearance
         <include name="theme" displayName="Theme" />
         <include name="es" displayName="EmulationStation" />
     </subset>
+    <subset name="distribution" displayName="Distribution">
+        <include name="batocera" displayName="Batocera/Knulli" />
+        <include name="retrobat" displayName="Retrobat" />
+        <include name="rocknix" displayName="RockNIX" />
+    </subset>
 </theme>

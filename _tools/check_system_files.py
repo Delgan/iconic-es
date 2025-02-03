@@ -13,7 +13,7 @@ if __name__ == "__main__":
     resources = workspace / "_inc"
 
     metadata = resources / "metadata"
-    background_art = resources / "system-background-art"
+    background_art = resources / "backgrounds"
     logo = resources / "system-logo"
     controller = resources / "controllers"
 
