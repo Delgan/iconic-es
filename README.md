@@ -6,8 +6,8 @@
 
 **Iconic** is a theme for [EmulationStation](https://github.com/batocera-linux/batocera-emulationstation) (Batocera variant), based on [the ES-DE version](https://github.com/Siddy212/iconic-es-de) created by [@Siddy212](https://github.com/Siddy212).
 
-
 </div>
+
 
 ## Preview
 
@@ -17,15 +17,17 @@
 | ![Grid View Light](_preview/grid-view-light.png) | ![List View Dark](_preview/list-view-dark.png) |
 | ![List View Light](_preview/list-view-light.png) | ![Basic View Dark](_preview/basic-view-dark.png) |
 
+
 ## Installation
 
 If your version of EmulationStation supports it, you can install this theme using [the integrated downloader](https://wiki.batocera.org/themes#emulationstation_themes) from the main menu under `Updates & Downloads > Theme`.
 
 Otherwise, you can [download this theme](https://github.com/Delgan/iconic-es/archive/refs/heads/main.zip) and uncompress it the appropriate "themes" folder of your distribution.
 
+If you find any bugs or have suggestions for improvements, please feel free to [open an issue](https://github.com/Delgan/iconic-es/issues/new/choose).
+
 
 ## Configuration
-
 
 The following options can be changed directly from the main menu under `User Interface Settings > Theme Configuration`
 
@@ -58,9 +60,9 @@ The artwork used on the system view can be customized with your own images.
 * Create a new folder called `overlays` in the theme customizations directory mentioned above.
 * Copy your custom background images to that folder.
 * They should be named:
-    - ${system.theme}.webp
+    - `${system.theme}.webp`
 * `${system.theme}.webp` should be named for the system you are looking to override.  For example if you wanted to override the artwork for `snes` you would create an image called `snes.webp` in the backgrounds folder.
-* If a given ${system.theme}.webp image is not found, then the the built-in images from the theme will be used as a fallback. This allows you to customize only the images you want and still have images displayed for all systems.
+* If a given `${system.theme}.webp` image is not found, then the the built-in images from the theme will be used as a fallback. This allows you to customize only the images you want and still have images displayed for all systems.
 
 
 ## Acknowledgments
