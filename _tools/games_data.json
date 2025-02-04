@@ -55,21 +55,20 @@
             ]
         },
         {
-            "name": "megadrive",
+            "name": "dreamcast",
             "games": [
-                "Sonic the Hedgehog",
-                "Sonic the Hedgehog 2",
-                "Streets of Rage 2",
-                "Gunstar Heroes",
-                "Castlevania: Bloodlines",
-                "Ecco the Dolphin",
-                "Shining Force",
-                "Phantasy Star IV",
-                "ToeJam & Earl",
-                "Golden Axe",
-                "Mortal Kombat II",
-                "Earthworm Jim",
-                "Comix Zone"
+                "Sonic Adventure",
+                "Shenmue",
+                "Jet Set Radio",
+                "Crazy Taxi",
+                "Skies of Arcadia",
+                "Soulcalibur",
+                "Resident Evil Code: Veronica",
+                "Power Stone 2",
+                "Phantasy Star Online",
+                "Marvel vs. Capcom 2",
+                "Grandia II",
+                "Ikaruga"
             ]
         },
         {
