@@ -27,6 +27,17 @@ listing the games of a system, the background is slightly desaturated.
             <linearSmooth>true</linearSmooth>
         </image>
     </view>
+    <!-- Override for system view only: we add the system overlay to make the image pop. -->
+    <view name="system">
+        <image name="background-art-overlay" extra="true">
+            <zIndex>100</zIndex>
+            <origin>0 0</origin>
+            <size>${backgroundWidthScale} 1</size>
+            <pos>${backgroundHorizontalPos} 0</pos>
+            <linearSmooth>true</linearSmooth>
+            <path>./_inc/overlays/${system.theme}.webp</path>
+        </image>
+    </view>
     <!-- Override for gamelist views: we add saturation and overlay on the background. -->
     <view name="basic, detailed, grid">
         <image name="background-art" extra="true">
