@@ -38,12 +38,11 @@ The following options can be changed directly from the main menu under `User Int
 | Metadata Image Type | Selects the desired type of image displayed above game details. | `Boxart`, `Image`, `Marquee`, `Mix` |
 | Show Game Titles in Grid | Toggles the display of game titles in the grid view. | `Off`, `On` |
 | Metadata Source | Selects the primary source of metadata (name, release year, etc.) to associate with each systems. | `Theme`, `EmulationStation` |
-| Distribution | Used to define which folder to look in for Theme Customization files (see below). | `None`, `Batocera/Knulli`, `RetroBat`, `ROCKNIX` |
+| Distribution | Used to define which folder to look in for theme customization files (see below). | `None`, `Batocera/Knulli`, `RetroBat`, `ROCKNIX` |
 
 ## Customization
 
 This theme allows customizations to artwork without the need to edit the source XML. This enables you to change the look of the theme and still retain any changes when the root theme is updated.
-
 
 ### Start Here
 
@@ -52,19 +51,33 @@ This theme allows customizations to artwork without the need to edit the source 
     - Batocera/Knulli = `/userdata/theme-customizations/iconic/`
     - RockNIX = `/roms/_userdata/theme-customizations/iconic/`
     - Retrobat = `C:\RetroBat\emulationstation\.emulationstation\theme-customizations\iconic\`
-- Create the folders that match your distribution and then move on to the section below.
+- Create the folders that match your distribution.
+- Within the `iconic` folder, create two additional subfolders named `backgrounds` and `overlays`.
 
 ### Backgrounds
 
 The artwork used on the system view can be customized with your own images.
 
-* Create a new folder called `backgrounds` in the theme customizations directory mentioned above.
-* Copy your custom background images to that folder.
-* They should be named:
+* Copy your custom background images to the `backgrounds` folder previously created.
+* The images must be of 1920x1080 resolution.
+* They should be named either (in order of precedence):
     - `${system.theme}.webp`
-* `${system.theme}.webp` should be named for the system you are looking to override.  For example if you wanted to override the artwork for `snes` you would create an image called `snes.webp` in the backgrounds folder.
-* If a given `${system.theme}.webp` image is not found, then the the built-in images from the theme will be used as a fallback. This allows you to customize only the images you want and still have images displayed for all systems.
+    - `${system.theme}.png`
+* The `${system.theme}` variable corresponds to the system you are looking to override. For example if you wanted to override the artwork for `snes` you would create an image called `snes.webp` in the backgrounds folder.
+* If a given system image is not found, then the built-in images from the theme will be used as a fallback. This allows you to customize only the images you want and still have images displayed for all systems.
 
+### Overlays
+
+Custom overlays can be added to help make images pop.
+
+* If you do not have an overlay for a system, you must use a fully transparent image (you can use [this one](_inc/other/fully-transparent-overlay.png)).
+* The images must be of 1920x1080 resolution.
+* Copy your custom overlay images (or the transparent ones) to the `overlays` folder previously created.
+* They should be named either (in order of precedence):
+    - `${system.theme}.webp`
+    - `${system.theme}.png`
+* As above, the `${system.theme}` variable corresponds to the system you are looking to override. This also applies to the transparent default overlay.
+* If a given system image is not found, then it should fallback to the fully transparent overlay.
 
 ## Acknowledgments
 
