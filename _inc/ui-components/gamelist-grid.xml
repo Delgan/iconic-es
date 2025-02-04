@@ -8,7 +8,6 @@ It displays a grid of the boxart images of the games of the system being viewed.
     <view name="grid">
         <imagegrid name="gamegrid">
             <cellProportion>1</cellProportion>
-            <imageSizeMode>minSize</imageSizeMode>
             <margin>0.015</margin>
             <pos>0.5 0.05</pos>
             <size>0.5 0.85</size>

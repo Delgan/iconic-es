@@ -46,7 +46,7 @@ vertically on the left side of the screen.
                         <pos>0.5 0.5</pos>
                         <fontSize>0.036</fontSize>
                         <glowColor>fafafaff</glowColor>
-                        <multiline>true</multiline>
+                        <multiLine>true</multiLine>
                         <glowSize>2</glowSize>
                         <size>1 1</size>
                         <padding>0.04 0 0.04 0</padding>

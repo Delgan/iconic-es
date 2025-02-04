@@ -24,12 +24,11 @@ It only displays the system logo at the center.
             <pos>0.27 0.5</pos>
             <fontSize>0.1</fontSize>
             <glowColor>fafafaff</glowColor>
-            <multiline>true</multiline>
+            <multiLine>true</multiLine>
             <glowSize>2</glowSize>
             <size>0.45 0.5</size>
             <padding>0.04 0 0.04 0</padding>
             <glowOffset>0 0</glowOffset>
-            <horizontalAlignment>center</horizontalAlignment>
             <fontPath>./_inc/fonts/ChangaOne-Italic.ttf</fontPath>
             <color>111111ff</color>
         </text>

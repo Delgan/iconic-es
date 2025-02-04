@@ -5,7 +5,6 @@
   <view name="menu">
     <menuBackground name="menubg">
       <color>${menuBackgroundColor}</color>
-      <selectorColor>${menuSelectorColor}</selectorColor>
       <cornerSize>20 20</cornerSize>
     </menuBackground>
     <menuText name="menutitle">
