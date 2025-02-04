@@ -13,9 +13,9 @@
 
 | Light Mode | Dark Mode|
 | :--: | :--: |
-| ![System View Light](_preview/systems-view-light.png) | ![System View Light](_preview/systems-view-dark.png) |
-| ![Grid View Light](_preview/grid-view-light.png) | ![List View Dark](_preview/list-view-dark.png) |
-| ![List View Light](_preview/list-view-light.png) | ![Basic View Dark](_preview/basic-view-dark.png) |
+| ![System View Light](_preview/systems-view-light-1.jpg) | ![System View Light](_preview/systems-view-dark-1.jpg) |
+| ![Grid View Light](_preview/grid-view-light.jpg) | ![List View Dark](_preview/list-view-dark.jpg) |
+| ![List View Light](_preview/list-view-light.jpg) | ![Basic View Dark](_preview/basic-view-dark.jpg) |
 
 
 ## Installation
