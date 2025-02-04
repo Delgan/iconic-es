@@ -7,11 +7,11 @@ variables are derived from the values selected here and determine the appearance
 <theme>
     <formatVersion>7</formatVersion>
     <subset name="aspect-ratio" displayName="Aspect Ratio">
-        <include if="{screen.ratio} == '16/9'" name="16-9-auto" displayName="Automatic" />
-        <include if="{screen.ratio} == '16/10'" name="16-10-auto" displayName="Automatic" />
-        <include if="{screen.ratio} == '4/3'" name="4-3-auto" displayName="Automatic" />
-        <include if="{screen.ratio} == '3/2'" name="3-2-auto" displayName="Automatic" />
-        <include if="{screen.ratio} == '1/1'" name="1-1-auto" displayName="Automatic" />
+        <include if="${screen.ratio} == '16/9'" name="16-9-auto" displayName="Automatic" />
+        <include if="${screen.ratio} == '16/10'" name="16-10-auto" displayName="Automatic" />
+        <include if="${screen.ratio} == '4/3'" name="4-3-auto" displayName="Automatic" />
+        <include if="${screen.ratio} == '3/2'" name="3-2-auto" displayName="Automatic" />
+        <include if="${screen.ratio} == '1/1'" name="1-1-auto" displayName="Automatic" />
         <include name="16-9" displayName="16:9" />
         <include name="16-10" displayName="16:10" />
         <include name="4-3" displayName="4:3" />

@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <theme>
     <formatVersion>7</formatVersion>
-    <include>./_inc/ui-components/theme-config.xml</include>
-    <include>./_inc/ui-components/theme-variables.xml</include>
+    <!-- We do not re-use "theme-variables.xml" because it generates "ERROR" logs (although it works). -->
+    <variables ifSubset="color-scheme:dark">
+        <backgroudOverlayImage>overlay-dark.png</backgroudOverlayImage>
+        <splashProgressbarColor>E0E0E0</splashProgressbarColor>
+    </variables>
+    <variables ifSubset="color-scheme:light">
+        <backgroudOverlayImage>overlay-light.png</backgroudOverlayImage>
+        <splashProgressbarColor>444444</splashProgressbarColor>
+    </variables>
     <view name="splash">
         <splash name="splash">
             <backgroundColor>000000</backgroundColor>
