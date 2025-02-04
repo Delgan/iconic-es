@@ -112,3 +112,4 @@ This theme would not have been possible without the dedicated work of numerous a
 - [PangolinWrestler](https://github.com/PangolinWrestler)
 - [Luis Felipe Moura](https://www.artstation.com/luizmoura)
 - [ZehB](https://www.deviantart.com/zehb)
+- [pechabberry](https://www.deviantart.com/pechabberry)
