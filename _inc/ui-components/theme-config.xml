@@ -36,6 +36,10 @@ variables are derived from the values selected here and determine the appearance
         <include name="theme" displayName="Theme" />
         <include name="es" displayName="EmulationStation" />
     </subset>
+    <subset name="smooth-resize" displayName="Smooth Resize">
+        <include name="yes" displayName="Yes" />
+        <include name="no" displayName="No" />
+    </subset>
     <subset name="distribution" displayName="Distribution">
         <include name="none" displayName="None" />
         <include name="batocera" displayName="Batocera/Knulli" />

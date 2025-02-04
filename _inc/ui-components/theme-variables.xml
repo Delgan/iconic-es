@@ -6,6 +6,23 @@ here are then used by the UI components to adjust the appearance of the theme.
 -->
 <theme>
     <formatVersion>7</formatVersion>
+    <!-- Config: Show game titles in grid. -->
+    <variables>
+        <showGameTitlesInGrid ifSubset="show-game-titles-in-grid:yes">true</showGameTitlesInGrid>
+        <showGameTitlesInGrid ifSubset="show-game-titles-in-grid:no">false</showGameTitlesInGrid>
+    </variables>
+    <!-- Config: Distribution. -->
+    <variables>
+        <distributionPath ifSubset="distribution:retrobat">~/.emulationstation/</distributionPath>
+        <distributionPath ifSubset="distribution:rocknix">~/roms/_userdata/</distributionPath>
+        <distributionPath ifSubset="distribution:batocera">/userdata/</distributionPath>
+        <themeCustomizationsPath>${distributionPath}theme-customizations/iconic/</themeCustomizationsPath>
+    </variables>
+    <!-- Config: Smooth Resize. -->
+    <variables>
+        <smoothResize ifSubset="smooth-resize:yes">true</smoothResize>
+        <smoothResize ifSubset="smooth-resize:no">false</smoothResize>
+    </variables>
     <!-- Config: Color Scheme. -->
     <variables ifSubset="color-scheme:dark">
         <bottomBarImage>bottom-bar-dark.png</bottomBarImage>
@@ -60,18 +77,6 @@ here are then used by the UI components to adjust the appearance of the theme.
         <gamelistSecondaryColor>77777790</gamelistSecondaryColor>
         <gamelistGridTitleColor>121212</gamelistGridTitleColor>
         <gameMetadataColor>555555</gameMetadataColor>
-    </variables>
-    <!-- Config: Show game titles in grid. -->
-    <variables>
-        <showGameTitlesInGrid ifSubset="show-game-titles-in-grid:yes">true</showGameTitlesInGrid>
-        <showGameTitlesInGrid ifSubset="show-game-titles-in-grid:no">false</showGameTitlesInGrid>
-    </variables>
-    <!-- Config: Distribution. -->
-    <variables>
-        <distributionPath ifSubset="distribution:retrobat">~/.emulationstation/</distributionPath>
-        <distributionPath ifSubset="distribution:rocknix">~/roms/_userdata/</distributionPath>
-        <distributionPath ifSubset="distribution:batocera">/userdata/</distributionPath>
-        <themeCustomizationsPath>${distributionPath}theme-customizations/iconic/</themeCustomizationsPath>
     </variables>
     <!-- Config: Aspect Ratio. -->
     <variables ifSubset="aspect-ratio:16-9|16-9-auto">
