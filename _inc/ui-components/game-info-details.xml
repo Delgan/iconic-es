@@ -213,8 +213,9 @@ It displays a mixin of the game images, above the game metadata.
             <color>${gameMetadataColor}</color>
             <pos>0.033 0.6975</pos>
             <size>0.435 0.1</size>
-            <fontSize>0.024</fontSize>
-            <lineSpacing>1.2</lineSpacing>
+            <!-- Font-size is 26 / 1080. -->
+            <fontSize>0.02407407407</fontSize>
+            <lineSpacing>1</lineSpacing>
         </text>
     </view>
 </theme>
