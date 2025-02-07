@@ -1,3 +1,8 @@
+# 1.0.1 (2025-02-07)
+
+* Fix some systems not recognized by Batocera due to misnaming.
+* Reduce detailed description text cut-off.
+
 # 1.0.0 (2025-02-06)
 
 * Add views for list of systems (`carousel`) and games (`detailed`, `grid` and `basic`).
