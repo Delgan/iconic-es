@@ -1,3 +1,8 @@
+# Unreleased
+
+* Add the following new system fanarts: `pico`.
+* Update the following existing sytem fanarts: `vsmile`.
+
 # 1.0.1 (2025-02-07)
 
 * Fix some systems not recognized by Batocera due to misnaming.
