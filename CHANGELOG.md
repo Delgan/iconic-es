@@ -1,6 +1,6 @@
 # Unreleased
 
-* Add the following new system fanarts: `pico`.
+* Add the following new system fanarts: `atom`, `pico`.
 * Update the following existing sytem fanarts: `vsmile`.
 
 # 1.0.1 (2025-02-07)
