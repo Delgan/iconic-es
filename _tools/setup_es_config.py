@@ -163,6 +163,29 @@ def _generate_dummy_game_markee(game_name: str):
     return image
 
 
+def _generate_dummy_game_video_frames():
+    fps = 5
+    duration_seconds = 5
+    total_frames = fps * duration_seconds
+
+    frames = []
+    for _ in range(total_frames):
+        frame = _generate_dummy_game_image()
+        frames.append(frame)
+    return frames
+
+
+def _write_video_frames_to_file(dest: Path, frames: list[numpy.ndarray]):
+    height, width, _ = frames[0].shape
+    fps = 5
+    fourcc = cv2.VideoWriter_fourcc(*"mp4v")
+
+    out = cv2.VideoWriter(dest, fourcc, fps, (width, height))
+    for frame in frames:
+        out.write(frame)
+    out.release()
+
+
 def _make_game_node(roms_directory: Path, game_title: str, cover_size: tuple[int, int]):
     game_node = ElementTree.Element("game")
 
@@ -177,11 +200,15 @@ def _make_game_node(roms_directory: Path, game_title: str, cover_size: tuple[int
     image_path = roms_directory / f"{game_name}_image.png"
     markee_path = roms_directory / f"{game_name}_markee.png"
     thumbnail_path = roms_directory / f"{game_name}_thumbnail.png"
+    video_path = roms_directory / f"{game_name}_video.mp4"
 
     rom_path.touch()
     cv2.imwrite(str(image_path), _generate_dummy_game_image())
     cv2.imwrite(str(markee_path), _generate_dummy_game_markee(game_title))
     cv2.imwrite(str(thumbnail_path), _generate_dummy_game_cover(game_title, cover_size))
+
+    frames = _generate_dummy_game_video_frames()
+    _write_video_frames_to_file(video_path, frames)
 
     add_node("path", str(rom_path))
     add_node("name", game_title)
@@ -195,6 +222,7 @@ def _make_game_node(roms_directory: Path, game_title: str, cover_size: tuple[int
     add_node("rating", str(random.random()))
     add_node("desc", f"Dummy description for the game '{game_name}'. " * 20)
     add_node("image", str(image_path))
+    add_node("video", str(video_path))
     add_node("marquee", str(markee_path))
     add_node("thumbnail", str(thumbnail_path))
 
