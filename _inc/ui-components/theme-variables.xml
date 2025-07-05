@@ -6,7 +6,12 @@ here are then used by the UI components to adjust the appearance of the theme.
 -->
 <theme>
     <formatVersion>7</formatVersion>
-    <!-- Config: Show game titles in grid. -->
+    <!-- Config: Play Video Previews of Games. -->
+    <variables>
+        <playVideoPreviewOfGames ifSubset="play-video-previews-of-games:yes">true</playVideoPreviewOfGames>
+        <playVideoPreviewOfGames ifSubset="play-video-previews-of-games:no">false</playVideoPreviewOfGames>
+    </variables>
+    <!-- Config: Show Game Titles in Grid. -->
     <variables>
         <showGameTitlesInGrid ifSubset="show-game-titles-in-grid:yes">true</showGameTitlesInGrid>
         <showGameTitlesInGrid ifSubset="show-game-titles-in-grid:no">false</showGameTitlesInGrid>

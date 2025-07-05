@@ -28,7 +28,11 @@ variables are derived from the values selected here and determine the appearance
         <include name="marquee" displayName="Marquee" />
         <include name="mix" displayName="Mix" />
     </subset>
-    <subset name="show-game-titles-in-grid" displayName="Show game titles in grid">
+    <subset name="play-video-previews-of-games" displayName="Play Video Previews of Games">
+        <include name="yes" displayName="Yes" />
+        <include name="no" displayName="No" />
+    </subset>
+    <subset name="show-game-titles-in-grid" displayName="Show Game Titles in Grid">
         <include name="no" displayName="No" />
         <include name="yes" displayName="Yes" />
     </subset>

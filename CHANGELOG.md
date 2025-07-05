@@ -1,5 +1,6 @@
 # Unreleased
 
+* Add video previews to the game details page (when available).
 * Add the following new system fanarts: `atom`, `pico`.
 * Update the following existing sytem fanarts: `vsmile`.
 
