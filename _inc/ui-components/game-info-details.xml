@@ -58,23 +58,23 @@ It displays a mixin of the game images, above the game metadata.
         <video name="md_video">
             <visible>${playVideoPreviewOfGames}</visible>
             <!-- Standalone mode. -->
-            <zIndex ifSubset="media-type:image">11</zIndex>
+            <zIndex ifSubset="media-type:image">12</zIndex>
             <origin ifSubset="media-type:image">0.5 0.5</origin>
             <pos ifSubset="media-type:image">0.25 0.25</pos>
             <maxSize ifSubset="media-type:image">0.45 0.4</maxSize>
             <!-- Mix mode. -->
-            <zIndex ifSubset="media-type:mix">11</zIndex>
+            <zIndex ifSubset="media-type:mix">12</zIndex>
             <origin ifSubset="media-type:mix">0.5 0.5</origin>
             <pos ifSubset="media-type:mix">0.25 0.25</pos>
             <maxSize ifSubset="media-type:mix">0.425 0.35</maxSize>
             <!-- Other modes. -->
-            <zIndex ifSubset="media-type:boxart|marquee">12</zIndex>
+            <zIndex ifSubset="media-type:boxart|marquee">14</zIndex>
             <origin ifSubset="media-type:boxart|marquee">0.5 0.5</origin>
             <pos ifSubset="media-type:boxart|marquee">0.25 0.25</pos>
             <maxSize ifSubset="media-type:boxart|marquee">0.45 0.4</maxSize>
         </video>
         <image name="md_thumbnail">
-            <zIndex>11</zIndex>
+            <zIndex>13</zIndex>
             <visible>false</visible>
             <visible ifSubset="media-type:boxart|mix">true</visible>
             <!-- Standalone mode. -->
@@ -87,7 +87,7 @@ It displays a mixin of the game images, above the game metadata.
             <maxSize ifSubset="media-type:mix">0.15 0.25</maxSize>
         </image>
         <image name="md_marquee">
-            <zIndex>11</zIndex>
+            <zIndex>13</zIndex>
             <visible>false</visible>
             <visible ifSubset="media-type:marquee|mix">true</visible>
             <!-- Standalone mode. -->
