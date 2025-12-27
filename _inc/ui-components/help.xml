@@ -10,6 +10,10 @@
             <textColor>${helpTextColor}</textColor>
             <iconColor>${helpIconColor}</iconColor>
             <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
+            <iconA>./_inc/icons/help-button-east.svg</iconA>
+            <iconB>./_inc/icons/help-button-south.svg</iconB>
+            <iconX>./_inc/icons/help-button-north.svg</iconX>
+            <iconY>./_inc/icons/help-button-west.svg</iconY>
         </helpsystem>
     </view>
     <!--
