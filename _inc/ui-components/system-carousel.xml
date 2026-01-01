@@ -7,8 +7,17 @@ vertically on the left side of the screen.
 <theme>
     <formatVersion>7</formatVersion>
     <view name="system">
-        <image name="logo">
+        <image name="logo" ifSubset="color-scheme:dark">
             <path>./_inc/logos/${system.theme}.webp</path>
+            <path>./_inc/logos/${system.theme}.svg</path>
+            <path>./_inc/logos/${system.theme}-dark.webp</path>
+            <path>./_inc/logos/${system.theme}-dark.svg</path>
+        </image>
+        <image name="logo" ifSubset="color-scheme:light">
+            <path>./_inc/logos/${system.theme}.webp</path>
+            <path>./_inc/logos/${system.theme}.svg</path>
+            <path>./_inc/logos/${system.theme}-light.webp</path> 
+            <path>./_inc/logos/${system.theme}-light.svg</path>
         </image>
         <carousel name="systemcarousel">
             <type>horizontal</type>
