@@ -1,0 +1,13 @@
+<theme>
+  <variables>
+    <systemName>msx2+</systemName>
+    <systemReleaseYear>1988</systemReleaseYear>
+    <systemManufacturer>Sony/Panasonic</systemManufacturer>
+    <systemDescription>After 1986, Microsoft ceased support for the MSX and ASCII standard in Japan and took over the further development of the standard, which is fully backward compatible with MSX and MSX2.</systemDescription>
+    <systemDescription lang="es">Después de 1986, Microsoft dejó de dar soporte al estándar MSX y ASCII en Japón se hizo cargo del desarrollo posterior del estándar que tiene completa retrocompatibilidad con MSX y MSX2.</systemDescription>
+    <systemHardwareType>Computer</systemHardwareType>
+    <systemHardwareType lang="es">Ordenador</systemHardwareType>
+    <systemCoverSize>1-1</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>
