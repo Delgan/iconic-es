@@ -1,10 +1,12 @@
 <theme>
   <variables>
     <systemName>Nintendo Switch</systemName>
-    <systemDescription>The Nintendo Switch is an eighth generation (2012-present) home video game console developed and distributed by Nintendo. It was released on March 3, 2017 in North America at a retail price of $299.99. The console was simultaneously released in Japan (2017), Europe (2017), South America (2017), Australia (2017) and other World Wide Markets (2017). The Switch is designed to be a hybrid console, allowing games to be played at a TV, and then on the go by undocking the system and playing from the handheld unit itself. As of this date, the console is still in production.</systemDescription>
     <systemManufacturer>Nintendo</systemManufacturer>
     <systemReleaseYear>2017</systemReleaseYear>
+    <systemDescription>The Nintendo Switch is an eighth generation (2012-present) home video game console developed and distributed by Nintendo. It was released on March 3, 2017 in North America at a retail price of $299.99. The console was simultaneously released in Japan (2017), Europe (2017), South America (2017), Australia (2017) and other World Wide Markets (2017). The Switch is designed to be a hybrid console, allowing games to be played at a TV, and then on the go by undocking the system and playing from the handheld unit itself. As of this date, the console is still in production.</systemDescription>
+    <systemDescription lang="es">La Nintendo Switch es una consola de videojuegos doméstica de octava generación (2012-presente) desarrollada y distribuida por Nintendo. Se lanzó el 3 de marzo de 2017 en Norteamérica a un precio de venta de $299.99. La consola se lanzó simultáneamente en Japón (2017), Europa (2017), Sudamérica (2017), Australia (2017) y otros mercados internacionales (2017). La Switch está diseñada como una consola híbrida, que permite jugar en un televisor y luego en cualquier lugar, desacoplando la consola y jugando desde la consola portátil.</systemDescription>
     <systemHardwareType>Console</systemHardwareType>
+    <systemHardwareType lang="es">Consola</systemHardwareType>
     <systemCoverSize>105-170</systemCoverSize>
     <systemCartSize>5-7</systemCartSize>
   </variables>
