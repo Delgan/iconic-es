@@ -6,6 +6,18 @@ variables are derived from the values selected here and determine the appearance
 -->
 <theme>
     <formatVersion>7</formatVersion>
+    <subset name="aspect-ratio" lang="es" displayName="Relación de aspecto">
+        <include if="${screen.ratio} == '16/9'" name="16-9-auto" displayName="Automatico" />
+        <include if="${screen.ratio} == '16/10'" name="16-10-auto" displayName="Automatico" />
+        <include if="${screen.ratio} == '4/3'" name="4-3-auto" displayName="Automatico" />
+        <include if="${screen.ratio} == '3/2'" name="3-2-auto" displayName="Automatico" />
+        <include if="${screen.ratio} == '1/1'" name="1-1-auto" displayName="Automatico" />
+        <include name="16-9" displayName="16:9" />
+        <include name="16-10" displayName="16:10" />
+        <include name="4-3" displayName="4:3" />
+        <include name="3-2" displayName="3:2" />
+        <include name="1-1" displayName="1:1" />
+    </subset>
     <subset name="aspect-ratio" displayName="Aspect Ratio">
         <include if="${screen.ratio} == '16/9'" name="16-9-auto" displayName="Automatic" />
         <include if="${screen.ratio} == '16/10'" name="16-10-auto" displayName="Automatic" />
@@ -18,9 +30,19 @@ variables are derived from the values selected here and determine the appearance
         <include name="3-2" displayName="3:2" />
         <include name="1-1" displayName="1:1" />
     </subset>
+    <subset name="color-scheme" lang="es" displayName="Esquema de color">
+        <include name="light" displayName="Claro" />
+        <include name="dark" displayName="Oscuro" />
+    </subset>
     <subset name="color-scheme" displayName="Color Scheme">
         <include name="light" displayName="Light" />
         <include name="dark" displayName="Dark" />
+    </subset>
+    <subset name="media-type" lang="es" displayName="Tipo de medio">
+        <include name="image" displayName="Imagen" />
+        <include name="boxart" displayName="Caja" />
+        <include name="marquee" displayName="Logotipo" />
+        <include name="mix" displayName="Mixto" />
     </subset>
     <subset name="media-type" displayName="Game Media Type">
         <include name="image" displayName="Image" />
@@ -28,21 +50,43 @@ variables are derived from the values selected here and determine the appearance
         <include name="marquee" displayName="Marquee" />
         <include name="mix" displayName="Mix" />
     </subset>
+    <subset name="play-video-previews-of-games" lang="es" displayName="Reproducir videos de previsualización">
+        <include name="yes" displayName="Si" />
+        <include name="no" displayName="No" />
+    </subset>
     <subset name="play-video-previews-of-games" displayName="Play Video Previews of Games">
         <include name="yes" displayName="Yes" />
         <include name="no" displayName="No" />
+    </subset>
+    <subset name="show-game-titles-in-grid" lang="es" displayName="Mostrar nombre del juego en la cuadrícula">
+        <include name="no" displayName="No" />
+        <include name="yes" displayName="Si" />
     </subset>
     <subset name="show-game-titles-in-grid" displayName="Show Game Titles in Grid">
         <include name="no" displayName="No" />
         <include name="yes" displayName="Yes" />
     </subset>
+    <subset name="metadata-source" lang="es" displayName="Origen de los metadatos">
+        <include name="theme" displayName="Tema" />
+        <include name="es" displayName="EmulationStation" />
+    </subset>
     <subset name="metadata-source" displayName="Metadata Source">
         <include name="theme" displayName="Theme" />
         <include name="es" displayName="EmulationStation" />
     </subset>
+    <subset name="smooth-resize" lang="es" displayName="Redimensionado suave">
+        <include name="yes" displayName="Si" />
+        <include name="no" displayName="No" />
+    </subset>
     <subset name="smooth-resize" displayName="Smooth Resize">
         <include name="yes" displayName="Yes" />
         <include name="no" displayName="No" />
+    </subset>
+    <subset name="distribution" lang="es" displayName="Distribución">
+        <include name="none" displayName="Ninguna" />
+        <include name="batocera" displayName="Batocera/Knulli" />
+        <include name="retrobat" displayName="RetroBat" />
+        <include name="rocknix" displayName="ROCKNIX" />
     </subset>
     <subset name="distribution" displayName="Distribution">
         <include name="none" displayName="None" />

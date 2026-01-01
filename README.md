@@ -81,6 +81,11 @@ Custom overlays can be added to help make images pop.
 * As above, the `${system.theme}` variable corresponds to the system you are looking to override. This also applies to the transparent default overlay.
 * If a given system image is not found, then it should fallback to the fully transparent overlay.
 
+### Multilanguage support
+
+The UI component "/_inc/ui-components/theme-config.xml" has now full support for Spanish, systems metadata is being updated to have Spanish support too.
+Spanish works with both "es" and "es MX" setting from Batocera.
+
 ## Acknowledgments
 
 Inspiration and templates were taken from the following themes:
