@@ -1,12 +1,16 @@
 <theme>
   <variables>
     <systemName>PC Engine CD-ROM²</systemName>
+    <systemManufacturer>NEC</systemManufacturer>
+    <systemReleaseYear>1988</systemReleaseYear>
     <systemDescription>The CD-ROM² (pronounced CD-ROM-ROM) is an add-on attachment for the PC Engine that was released in Japan on December 4, 1988. The add-on allows the core versions of the console to play PC Engine games in CD-ROM format in addition to standard HuCards. This made the PC Engine the first video game console to use CD-ROMs as a storage media. The add-on consisted of two devices - the CD player itself and the interface unit, which connects the CD player to the console and provides a unified power supply and output for both.
 
 It was later released as the TurboGrafx-CD in the United States in November 1989, with a remodeled interface unit in order to suit the different shape of the TurboGrafx-16 console. The TurboGrafx-CD had a launch price of $399.99 and did not include any bundled games. Fighting Street and Monster Lair were the TurboGrafx-CD launch titles; Ys Book I and II soon followed.</systemDescription>
-    <systemManufacturer>NEC</systemManufacturer>
-    <systemReleaseYear>1988</systemReleaseYear>
+    <systemDescription lang="es">El CD-ROM² (pronunciado CD-ROM-ROM) es un complemento para la PC Engine, lanzado en Japón el 4 de diciembre de 1988. Este complemento permite que las versiones principales de la consola reproduzcan juegos de PC Engine en formato CD-ROM, además de las HuCards estándar. Esto convirtió a la PC Engine en la primera consola de videojuegos en utilizar CD-ROM como medio de almacenamiento. El complemento constaba de dos dispositivos: el reproductor de CD y la unidad de interfaz, que conecta el reproductor de CD a la consola y proporciona una fuente de alimentación y salida unificadas para ambos.
+
+Posteriormente, se lanzó como TurboGrafx-CD en Estados Unidos en noviembre de 1989, con una unidad de interfaz remodelada para adaptarse al diseño diferente de la consola TurboGrafx-16. El TurboGrafx-CD tuvo un precio de lanzamiento de 399,99 $ y no incluía juegos incluidos. Fighting Street y Monster Lair fueron los títulos de lanzamiento de TurboGrafx-CD; poco después les siguieron Ys Book I y II.</systemDescription>
     <systemHardwareType>Console</systemHardwareType>
+    <systemHardwareType lang="es">Consola</systemHardwareType>
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
