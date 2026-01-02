@@ -1,11 +1,13 @@
 <theme>
   <variables>
     <systemName>Super Nintendo</systemName>
-    <systemDescription>The Super Nintendo Entertainment System (also known as the Super NES, SNES or Super Nintendo) is a 16-bit home video game console developed by Nintendo that was released in 1990 in Japan, 1991 in North America, 1992 in Europe and Australasia (Oceania), and 1993 in South America. In Japan, the system is called the Super Famicom, officially adopting the abbreviated name of its predecessor, the Family Computer, or SFC for short. In South Korea, it is known as the Super Comboy and was distributed by Hyundai Electronics. Although each version is essentially the same, several forms of regional lockout prevent the different versions from being compatible with one another.</systemDescription>
     <systemManufacturer>Nintendo</systemManufacturer>
     <systemReleaseYear>1990</systemReleaseYear>
-    <systemHardwareType>Console</systemHardwareType>
+    <systemDescription>The Super Nintendo Entertainment System (also known as the Super NES, SNES or Super Nintendo) is a 16-bit home video game console developed by Nintendo that was released in 1990 in Japan, 1991 in North America, 1992 in Europe and Australasia (Oceania), and 1993 in South America. In Japan, the system is called the Super Famicom, officially adopting the abbreviated name of its predecessor, the Family Computer, or SFC for short. In South Korea, it is known as the Super Comboy and was distributed by Hyundai Electronics. Although each version is essentially the same, several forms of regional lockout prevent the different versions from being compatible with one another.</systemDescription>
+    <systemDescription lang="es">La Super Nintendo Entertainment System (también conocida como Super NES, SNES o Super Nintendo) es una consola de videojuegos doméstica de 16 bits desarrollada por Nintendo, lanzada en 1990 en Japón, 1991 en Norteamérica, 1992 en Europa y Australasia (Oceanía) y 1993 en Sudamérica. En Japón, la consola se llama Super Famicom, adoptando oficialmente el nombre abreviado de su predecesora, Family Computer o SFC. En Corea del Sur, se conoce como Super Comboy y fue distribuida por Hyundai Electronics. Aunque todas las versiones son esencialmente iguales, diversas restricciones regionales impiden la compatibilidad entre ellas.</systemDescription>
     <systemCoverSize>4-3</systemCoverSize>
+    <systemHardwareType>Console</systemHardwareType>
+    <systemHardwareType lang="es">Consola</systemHardwareType>    
     <systemCartSize>112-67</systemCartSize>
   </variables>
 </theme>
