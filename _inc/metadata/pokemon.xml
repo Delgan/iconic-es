@@ -1,10 +1,13 @@
 <theme>
   <variables>
     <systemName>Pokémon</systemName>
-    <systemDescription>View and play the Pokémon Games in your collection.</systemDescription>
     <systemManufacturer>Nintendo</systemManufacturer>
     <systemReleaseYear>Various</systemReleaseYear>
+    <systemReleaseYear lang="es">Varios</systemReleaseYear>
+    <systemDescription>View and play the Pokémon Games in your collection.</systemDescription>
+    <systemDescription lang="es">Colección de juegos de la saga Pokémom.</systemDescription>
     <systemHardwareType>Custom Collection</systemHardwareType>
+    <systemHardwareType lang="es">Colección personalizada</systemHardwareType>
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
