@@ -1,0 +1,14 @@
+<theme>
+  <variables>
+    <systemName>Castlevania</systemName>
+    <systemManufacturer>Konami</systemManufacturer>
+    <systemReleaseYear>Various</systemReleaseYear>
+    <systemReleaseYear lang="es">Varios</systemReleaseYear>
+    <systemDescription>View and play the Castlevania Games in your collection.</systemDescription>
+    <systemDescription lang="es">Colección de juegos de la saga Castlevania.</systemDescription>
+    <systemHardwareType>Custom Collection</systemHardwareType>
+    <systemHardwareType lang="es">Colección personalizada</systemHardwareType>
+    <systemCoverSize>1-1</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>
