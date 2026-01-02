@@ -1,12 +1,16 @@
 <theme>
   <variables>
     <systemName>Master System</systemName>
+    <systemManufacturer>Sega</systemManufacturer>
+    <systemReleaseYear>1985</systemReleaseYear>
     <systemDescription>The Sega Master System is a third-generation 8-bit home video game console manufactured by Sega. It was originally a remodeled export version of the Sega Mark III, the third iteration of the SG-1000 series of consoles, which was released in Japan in 1985 and featured enhanced graphical capabilities over its predecessors. The Master System launched in North America in 1986, followed by Europe in 1987, and Brazil in 1989. A Japanese version of the Master System was also launched in 1987, which features a few enhancements over the export models (and by proxy the original Mark III): a built-in FM audio chip, a rapid-fire switch, and a dedicated port for the 3D glasses. The Master System II, a cheaper model, was released in 1990 in North America and Europe.
 
 The original Master System models use both cartridges and a credit card-sized format known as Sega Cards. Accessories for the consoles include a light gun and 3D glasses that work with a range of specially designed games. The later Master System II redesign removed the card slot, turning it into a strictly cartridge-only system and is incompatible with the 3D glasses.</systemDescription>
-    <systemManufacturer>Sega</systemManufacturer>
-    <systemReleaseYear>1985</systemReleaseYear>
+    <systemDescription lang="es">La Sega Master System es una consola de videojuegos doméstica de 8 bits de tercera generación fabricada por Sega. Originalmente era una versión de exportación remodelada de la Sega Mark III, la tercera iteración de la serie de consolas SG-1000, lanzada en Japón en 1985 y contaba con capacidades gráficas mejoradas respecto a sus predecesoras. La Master System se lanzó en Norteamérica en 1986, seguida de Europa en 1987 y Brasil en 1989. También se lanzó una versión japonesa de la Master System en 1987, que presenta algunas mejoras respecto a los modelos de exportación (y, por extensión, a la Mark III original): un chip de audio FM integrado, un interruptor de disparo rápido y un puerto dedicado para las gafas 3D. La Master System II, un modelo más económico, se lanzó en 1990 en Norteamérica y Europa.
+
+Los modelos originales de la Master System utilizan cartuchos y un formato del tamaño de una tarjeta de crédito conocido como Sega Cards. Los accesorios para las consolas incluyen una pistola de luz y gafas 3D compatibles con una gama de juegos especialmente diseñados. El posterior rediseño del Master System II eliminó la ranura para tarjetas, convirtiéndolo en un sistema estrictamente de cartuchos y es incompatible con las gafas 3D.</systemDescription>
     <systemHardwareType>Console</systemHardwareType>
+    <systemHardwareType lang="es">Consola</systemHardwareType>
     <systemCoverSize>243-340</systemCoverSize>
     <systemCartSize>112-67</systemCartSize>
   </variables>
