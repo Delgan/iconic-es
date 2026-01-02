@@ -20,11 +20,9 @@
 
 ## Installation
 
-If your version of EmulationStation supports it, you can install this theme using [the integrated downloader](https://wiki.batocera.org/themes#emulationstation_themes) from the main menu under `Updates & Downloads > Theme`.
+You can [download this theme](https://github.com/manutortosa-collab/iconic-es-next/archive/refs/heads/main.zip) and uncompress it the appropriate "themes" folder of your distribution.
 
-Otherwise, you can [download this theme](https://github.com/Delgan/iconic-es/archive/refs/heads/main.zip) and uncompress it the appropriate "themes" folder of your distribution.
-
-If you find any bugs or have suggestions for improvements, please feel free to [open an issue](https://github.com/Delgan/iconic-es/issues/new/choose).
+If you find any bugs or have suggestions for improvements, please feel free to [open an issue](https://github.com/manutortosa-collab/iconic-es-next/issues/new/choose).
 
 
 ## Configuration
