@@ -1,10 +1,12 @@
 <theme>
   <variables>
     <systemName>Amiga</systemName>
-    <systemDescription>The Amiga is a family of personal computers marketed by Commodore in the 1980s and 1990s. The first model was launched in 1985 as a high-end home computer and became popular for its graphical, audio and multi-tasking abilities. The Amiga provided a significant upgrade from 8-bit computers, such as the Commodore 64, and the platform quickly grew in popularity among computer enthusiasts. The best selling model, the Amiga 500, was introduced in 1987 and became the leading home computer of the late 1980s and early 1990s in much of Western Europe.</systemDescription>
     <systemManufacturer>Commodore</systemManufacturer>
     <systemReleaseYear>1985</systemReleaseYear>
+    <systemDescription>The Amiga is a family of personal computers marketed by Commodore in the 1980s and 1990s. The first model was launched in 1985 as a high-end home computer and became popular for its graphical, audio and multi-tasking abilities. The Amiga provided a significant upgrade from 8-bit computers, such as the Commodore 64, and the platform quickly grew in popularity among computer enthusiasts. The best selling model, the Amiga 500, was introduced in 1987 and became the leading home computer of the late 1980s and early 1990s in much of Western Europe.</systemDescription>
+    <systemDescription lang="es">Amiga es una familia de ordenadores personales comercializados por Commodore en las décadas de 1980 y 1990. El primer modelo se lanzó en 1985 como un ordenador doméstico de gama alta y se popularizó por sus capacidades gráficas, de audio y multitarea. Amiga supuso una mejora significativa respecto a los ordenadores de 8 bits, como el Commodore 64, y la plataforma se popularizó rápidamente entre los aficionados a la informática. El modelo más vendido, el Amiga 500, se presentó en 1987 y se convirtió en el ordenador doméstico líder de finales de los 80 y principios de los 90 en gran parte de Europa Occidental.</systemDescription>
     <systemHardwareType>Computer</systemHardwareType>
+    <systemHardwareType lang="es">Ordenador</systemHardwareType>
     <systemCoverSize>3-4</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
