@@ -45,7 +45,16 @@ vertically on the left side of the screen.
                     </image>
                     <text name="logo-text-fallback">
                         <visible>false</visible>
-                        <visible>!exists("${themePath}/_inc/logos/" + {system:theme} + ".webp")</visible>
+                        <visible ifSubset="color-scheme:dark">!exists("${themePath}/_inc/logos/" + {system:theme} + ".webp")
+                            && !exists("${themePath}/_inc/logos/" + {system:theme} + ".svg")
+                            && !exists("${themePath}/_inc/logos/" + {system:theme} + "-dark.svg")
+                            && !exists("${themePath}/_inc/logos/" + {system:theme} + "-dark.svg")
+                        </visible>
+                        <visible ifSubset="color-scheme:light">!exists("${themePath}/_inc/logos/" + {system:theme} + ".webp")
+                            && !exists("${themePath}/_inc/logos/" + {system:theme} + ".svg")
+                            && !exists("${themePath}/_inc/logos/" + {system:theme} + "-light.svg")
+                            && !exists("${themePath}/_inc/logos/" + {system:theme} + "-light.svg")
+                        </visible>
                         <value>{system:fullName}</value>
                         <forceUppercase>true</forceUppercase>
                         <lineSpacing>1</lineSpacing>
