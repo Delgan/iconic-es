@@ -1,6 +1,6 @@
 <div align="center">
 
-# Iconic (ES version)
+# Iconic (ES version) with Spanish language support.
 
 ![System Carousel Demo](_preview/systems-carousel-animation.gif)
 
@@ -85,6 +85,8 @@ Custom overlays can be added to help make images pop.
 
 The UI component "/_inc/ui-components/theme-config.xml" has now full support for Spanish, systems metadata is being updated to have Spanish support too.
 Spanish works with both "es" and "es MX" setting from Batocera.
+
+If you need to have translated or need the background for an specific system not yet done, just request it!
 
 ## Acknowledgments
 
