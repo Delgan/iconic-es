@@ -1,10 +1,12 @@
 <theme>
   <variables>
     <systemName>Nintendo</systemName>
-    <systemDescription>The Nintendo Entertainment System is an 8-bit video game console that was released by Nintendo in North America during 1985, in Europe during 1986 and Australia in 1987. In most of Asia, including Japan (where it was first launched in 1983), China, Vietnam, Singapore, the Middle East and Hong Kong, it was released as the Family Computer, commonly shortened as either the romanized contraction Famicom, or abbreviated to FC. In South Korea, it was known as the Hyundai Comboy, and was distributed by Hynix which then was known as Hyundai Electronics.</systemDescription>
-    <systemManufacturer>Nintendo</systemManufacturer>
     <systemReleaseYear>1983</systemReleaseYear>
+    <systemManufacturer>Nintendo</systemManufacturer>
+    <systemDescription>The Nintendo Entertainment System is an 8-bit video game console that was released by Nintendo in North America during 1985, in Europe during 1986 and Australia in 1987. In most of Asia, including Japan (where it was first launched in 1983), China, Vietnam, Singapore, the Middle East and Hong Kong, it was released as the Family Computer, commonly shortened as either the romanized contraction Famicom, or abbreviated to FC. In South Korea, it was known as the Hyundai Comboy, and was distributed by Hynix which then was known as Hyundai Electronics.</systemDescription>
+    <systemDescription lang="es">La Nintendo Entertainment System es una consola de videojuegos de 8 bits lanzada por Nintendo en Norteamérica en 1985, en Europa en 1986 y en Australia en 1987. En la mayor parte de Asia, incluyendo Japón (donde se lanzó por primera vez en 1983), China, Vietnam, Singapur, Oriente Medio y Hong Kong, se lanzó como Family Computer, comúnmente abreviado como Famicom o FC. En Corea del Sur, se conocía como Hyundai Comboy y era distribuida por Hynix, entonces conocida como Hyundai Electronics.</systemDescription>
     <systemHardwareType>Console</systemHardwareType>
+    <systemHardwareType lang="es">Consola</systemHardwareType>
     <systemCoverSize>3-4</systemCoverSize>
     <systemCartSize>373-436</systemCartSize>
   </variables>
