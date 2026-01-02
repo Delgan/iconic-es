@@ -1,12 +1,16 @@
 <theme>
   <variables>
     <systemName>Sega Saturn</systemName>
+    <systemManufacturer>Sega</systemManufacturer>
+    <systemReleaseYear>1994</systemReleaseYear>
     <systemDescription>The Sega Saturn is a home video game console developed by Sega and released on November 22, 1994 in Japan, May 11, 1995 in North America, and July 8, 1995 in Europe. Part of the fifth generation of video game consoles, it was the successor to the successful Sega Genesis. The Saturn has a dual-CPU architecture and eight processors. Its games are in CD-ROM format, and its game library contains several ports of arcade games as well as original games.
 
 Development of the Saturn began in 1992, the same year Sega's groundbreaking 3D Model 1 arcade hardware debuted. The Saturn was designed around a new CPU from Japanese electronics company Hitachi. Sega added another video display processor in early 1994 to better compete with Sony's forthcoming PlayStation.</systemDescription>
-    <systemManufacturer>Sega</systemManufacturer>
-    <systemReleaseYear>1994</systemReleaseYear>
+    <systemDescription lang="es">La Sega Saturn es una consola de videojuegos doméstica desarrollada por Sega y lanzada el 22 de noviembre de 1994 en Japón, el 11 de mayo de 1995 en Norteamérica y el 8 de julio de 1995 en Europa. Perteneciente a la quinta generación de consolas de videojuegos, fue la sucesora de la exitosa Sega Genesis. La Saturn cuenta con una arquitectura de doble CPU y ocho procesadores. Sus juegos están disponibles en formato CD-ROM y su catálogo de juegos incluye varias versiones de juegos arcade, así como juegos originales.
+
+El desarrollo de la Saturn comenzó en 1992, el mismo año en que debutó el innovador hardware arcade 3D Model 1 de Sega. La Saturn se diseñó con una nueva CPU de la compañía japonesa de electrónica Hitachi. Sega añadió otro procesador de pantalla de vídeo a principios de 1994 para competir mejor con la futura PlayStation de Sony.</systemDescription>
     <systemHardwareType>Console</systemHardwareType>
+    <systemHardwareType lang="es">Consola</systemHardwareType>
     <systemCoverSize>145-205</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
