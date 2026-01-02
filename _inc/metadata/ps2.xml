@@ -1,12 +1,17 @@
 <theme>
   <variables>
     <systemName>PlayStation 2</systemName>
+    <systemManufacturer>Sony</systemManufacturer>
+    <systemReleaseYear>2000</systemReleaseYear>
     <systemDescription>The PlayStation 2 (PS2) is a home video game console developed and marketed by Sony Computer Entertainment. It was first released in Japan on March 4, 2000, in North America on October 26, 2000, in Europe on November 24, 2000, and Australia on November 24, 2000. It is the successor to the original PlayStation, as well as the second installment in the PlayStation console line-up. A sixth-generation console, it competed with Sega's Dreamcast, Nintendo's GameCube, and Microsoft's original Xbox.
 
 Announced in 1999, the PS2 offered backward-compatibility for its predecessor's DualShock controller, as well as its games. The PS2 is the best-selling video game console of all time, having sold over 155 million units worldwide. Over 3,800 game titles have been released for the PS2, with over 1.5 billion copies sold. Sony later manufactured several smaller, lighter revisions of the console known as Slimline models in 2004.</systemDescription>
-    <systemManufacturer>Sony</systemManufacturer>
-    <systemReleaseYear>2000</systemReleaseYear>
+    <systemDescription lang="es">La PlayStation 2 (PS2) es una consola de videojuegos doméstica desarrollada y comercializada por Sony Computer Entertainment. Se lanzó por primera vez en Japón el 4 de marzo de 2000, en Norteamérica el 26 de octubre de 2000, en Europa el 24 de noviembre de 2000 y en Australia el 24 de noviembre de 2000. Es la sucesora de la PlayStation original, así como la segunda entrega de la línea de consolas PlayStation. Consola de sexta generación, compitió con la Dreamcast de Sega, la GameCube de Nintendo y la Xbox original de Microsoft.
+
+Anunciada en 1999, la PS2 ofrecía retrocompatibilidad para el mando DualShock de su predecesora, así como para sus juegos. La PS2 es la consola de videojuegos más vendida de todos los tiempos, con más de 155 millones de unidades vendidas en todo el mundo. Se han lanzado más de 3800 juegos para la PS2, con más de 1500 millones de copias vendidas. Posteriormente, Sony fabricó varias versiones más pequeñas y ligeras de la consola, conocidas como modelos Slimline, en 2004.</systemDescription>
+    
     <systemHardwareType>Console</systemHardwareType>
+    <systemHardwareType lang="es">Consola</systemHardwareType>
     <systemCoverSize>243-340</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
