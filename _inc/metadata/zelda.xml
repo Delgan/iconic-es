@@ -1,10 +1,13 @@
 <theme>
   <variables>
     <systemName>The Legend of Zelda</systemName>
-    <systemDescription>View and play the Zelda Games in your collection.</systemDescription>
     <systemManufacturer>Nintendo</systemManufacturer>
     <systemReleaseYear>Various</systemReleaseYear>
+    <systemReleaseYear lang="es">Varios</systemReleaseYear>
+    <systemDescription>View and play the Zelda Games in your collection.</systemDescription>
+    <systemDescription lang="es">Colección de juegos de la saga The Legend of Zelda.</systemDescription>
     <systemHardwareType>Custom Collection</systemHardwareType>
+    <systemHardwareType lang="es">Colección personalizada</systemHardwareType>
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
