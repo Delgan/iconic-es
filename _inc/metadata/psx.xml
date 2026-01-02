@@ -1,12 +1,16 @@
 <theme>
   <variables>
     <systemName>PlayStation</systemName>
+    <systemManufacturer>Sony</systemManufacturer>
+    <systemReleaseYear>1994</systemReleaseYear>
     <systemDescription>The Sony PlayStation, or PS for short, is a fifth generation (1993–2005) home video game console developed and distributed by Sony Interactive Entertainment. It was released on December 3, 1994 in Japan at a retail price of ¥37,000. The console was later released in North America (1995), Europe (1995), Australia (1995), and Korea (1996). The PlayStation was known for standardizing disc based games over cartridges, as well as controllers with two analog sticks and vibration feedback. The console was discontinued on March 23, 2006.
 
 PlayStation (Japanese: プレイステーション, Hepburn: Pureisutēshon, officially abbreviated as PS) is a Japanese video game brand that consists of five home video game consoles, as well as a media center, an online service, a line of controllers, two handhelds and a phone, as well as multiple magazines. The brand is produced by Sony Interactive Entertainment, a division of Sony, with the first console releasing as the PlayStation in Japan released in December 1994, and worldwide the following year.</systemDescription>
-    <systemManufacturer>Sony</systemManufacturer>
-    <systemReleaseYear>1994</systemReleaseYear>
+    <systemDescription lang="es">La Sony PlayStation, o PS, es una consola de videojuegos doméstica de quinta generación (1993-2005) desarrollada y distribuida por Sony Interactive Entertainment. Salió a la venta el 3 de diciembre de 1994 en Japón a un precio de ¥37,000. Posteriormente, se lanzó en Norteamérica (1995), Europa (1995), Australia (1995) y Corea (1996). La PlayStation fue conocida por estandarizar los juegos en disco en lugar de los cartuchos, así como por los mandos con dos joysticks analógicos y vibración. La consola se discontinuó el 23 de marzo de 2006.
+
+PlayStation (en japonés: プレイステーション, Hepburn: Pureisutēshon, abreviado oficialmente como PS) es una marca japonesa de videojuegos que consta de cinco consolas domésticas, además de un centro multimedia, un servicio en línea, una línea de mandos, dos consolas portátiles y un teléfono, además de varias revistas. La marca es producida por Sony Interactive Entertainment, una división de Sony. La primera consola, la PlayStation, se lanzó en Japón en diciembre de 1994 y a nivel mundial al año siguiente.</systemDescription>   
     <systemHardwareType>Console</systemHardwareType>
+    <systemHardwareType lang="es">Consola</systemHardwareType>
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
