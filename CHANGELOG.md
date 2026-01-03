@@ -1,13 +1,25 @@
+Iconi-es-next:
+--------------
+
+# Unreleased: Alpha 0.1 
+
+* Complete spanish config menu and theme elements support.
+* Added MSX2+ system media.
+* Added support for dark and light specific systems logos.
+* Added support for SVG logos.
+* Added support for PNG logos.
+* Added support for system language specific logos.
+* Updated fanarts, logos and overlays for several systems, added missing ones. 
+
+
+Iconic-es (Delgan):
+----------
+
 # Unreleased
 
 * Add video previews to the game details page (when available).
 * Add the following new system fanarts: `atom`, `pico`.
 * Update the following existing sytem fanarts: `vsmile`.
-* Theme config now supports Spanish.
-* Added MSX2+ system media.
-* Added support for dark and light specific systems logos.
-* Added support for SVG logos.
-* Updated fanarts, logos and overlays for several systems, added missing ones.
 
 # 1.0.1 (2025-02-07)
 
