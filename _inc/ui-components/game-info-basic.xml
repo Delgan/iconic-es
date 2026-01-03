@@ -6,10 +6,43 @@ It only displays the system logo at the center.
 <theme>
     <formatVersion>7</formatVersion>
     <view name="basic">
-        <image name="logo">
+        <image name="logo" ifSubset="color-scheme:dark">
+            <path>./_inc/logos/${system.theme}.png</path>
+            <path>./_inc/logos/${system.theme}.webp</path>
+            <path>./_inc/logos/${system.theme}.svg</path>
+            <path>./_inc/logos/${system.theme}-dark.png</path>
+            <path>./_inc/logos/${system.theme}-dark.webp</path>
+            <path>./_inc/logos/${system.theme}-dark.svg</path>
+            <!-- check if lang resources exist -->
+            <path>./_inc/logos/${system.theme}-${lang}.png</path>
+            <path>./_inc/logos/${system.theme}-${lang}.webp</path>
+            <path>./_inc/logos/${system.theme}-${lang}.svg</path>
+            <path>./_inc/logos/${system.theme}-${lang}-dark.png</path>
+            <path>./_inc/logos/${system.theme}-${lang}-dark.webp</path>
+            <path>./_inc/logos/${system.theme}-${lang}-dark.svg</path>
             <origin>0.5 0.5</origin>
             <linearSmooth>true</linearSmooth>
+            <zIndex>11</zIndex>
+            <visible>true</visible>
+            <pos>0.27 0.5</pos>
+            <maxSize>0.35 0.70</maxSize>
+        </image>
+        <image name="logo" ifSubset="color-scheme:light">
+            <path>./_inc/logos/${system.theme}.png</path>
             <path>./_inc/logos/${system.theme}.webp</path>
+            <path>./_inc/logos/${system.theme}.svg</path>
+            <path>./_inc/logos/${system.theme}-light.png</path>
+            <path>./_inc/logos/${system.theme}-light.webp</path> 
+            <path>./_inc/logos/${system.theme}-light.svg</path>
+            <!-- check if lang resources exist -->
+            <path>./_inc/logos/${system.theme}-${lang}.png</path>
+            <path>./_inc/logos/${system.theme}-${lang}.webp</path>
+            <path>./_inc/logos/${system.theme}-${lang}.svg</path>
+            <path>./_inc/logos/${system.theme}-${lang}-light.png</path>
+            <path>./_inc/logos/${system.theme}-${lang}-light.webp</path> 
+            <path>./_inc/logos/${system.theme}-${lang}-light.svg</path>
+            <origin>0.5 0.5</origin>
+            <linearSmooth>true</linearSmooth>
             <zIndex>11</zIndex>
             <visible>true</visible>
             <pos>0.27 0.5</pos>
