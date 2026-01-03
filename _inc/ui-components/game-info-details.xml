@@ -14,8 +14,43 @@ It displays a mixin of the game images, above the game metadata.
             <zIndex>11</zIndex>
             <linearSmooth>true</linearSmooth>
         </image>
-        <image name="logo">
+        <image name="logo" ifSubset="color-scheme:dark">
+            <path>./_inc/logos/${system.theme}.png</path>
             <path>./_inc/logos/${system.theme}.webp</path>
+            <path>./_inc/logos/${system.theme}.svg</path>
+            <path>./_inc/logos/${system.theme}-dark.png</path>
+            <path>./_inc/logos/${system.theme}-dark.webp</path>
+            <path>./_inc/logos/${system.theme}-dark.svg</path>
+            <!-- check if lang resources exist -->
+            <path>./_inc/logos/${system.theme}-${lang}.png</path>
+            <path>./_inc/logos/${system.theme}-${lang}.webp</path>
+            <path>./_inc/logos/${system.theme}-${lang}.svg</path>
+            <path>./_inc/logos/${system.theme}-${lang}-dark.png</path>
+            <path>./_inc/logos/${system.theme}-${lang}-dark.webp</path>
+            <path>./_inc/logos/${system.theme}-${lang}-dark.svg</path>
+            <origin>0.5 0.5</origin>
+            <linearSmooth>true</linearSmooth>
+            <pos>0.25 0.895</pos>
+            <origin>0.5 0.5</origin>
+            <maxSize>${systemLogoGameDetailsWidthScale} 0.135</maxSize>
+            <saturation>0.75</saturation>
+            <opacity>0.6</opacity>
+            <zIndex>11</zIndex>
+        </image>
+        <image name="logo" ifSubset="color-scheme:light">
+            <path>./_inc/logos/${system.theme}.png</path>
+            <path>./_inc/logos/${system.theme}.webp</path>
+            <path>./_inc/logos/${system.theme}.svg</path>
+            <path>./_inc/logos/${system.theme}-light.png</path>
+            <path>./_inc/logos/${system.theme}-light.webp</path> 
+            <path>./_inc/logos/${system.theme}-light.svg</path>
+            <!-- check if lang resources exist -->
+            <path>./_inc/logos/${system.theme}-${lang}.png</path>
+            <path>./_inc/logos/${system.theme}-${lang}.webp</path>
+            <path>./_inc/logos/${system.theme}-${lang}.svg</path>
+            <path>./_inc/logos/${system.theme}-${lang}-light.png</path>
+            <path>./_inc/logos/${system.theme}-${lang}-light.webp</path> 
+            <path>./_inc/logos/${system.theme}-${lang}-light.svg</path>
             <origin>0.5 0.5</origin>
             <linearSmooth>true</linearSmooth>
             <pos>0.25 0.895</pos>
