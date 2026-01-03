@@ -14,6 +14,7 @@ Based on:   Iconic (ES-DE version) by Siddy212
     <!-- Set default description and cart size when none is available. -->
     <variables>
         <systemDescription>View and play ${system.fullName}.</systemDescription>
+        <systemDescription lang="es">Ver y jugar a ${system.fullName}.</systemDescription>
         <systemCoverSize>1-1</systemCoverSize>
         <systemCartSize>1-1</systemCartSize>
     </variables>
