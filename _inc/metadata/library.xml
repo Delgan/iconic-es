@@ -1,7 +1,7 @@
 <theme>
   <variables>
     <systemName>Library</systemName>
-    <systemName lang="es">Librería</systemName>
+    <systemName lang="es">Biblioteca</systemName>
     <systemDescription>View your library</systemDescription>
     <systemDescription lang="es">Explora tu librería</systemDescription>
     <systemManufacturer>Misc. System</systemManufacturer>
