@@ -47,12 +47,12 @@ vertically on the left side of the screen.
                         <visible>false</visible>
                         <visible ifSubset="color-scheme:dark">!exists("${themePath}/_inc/logos/" + {system:theme} + ".webp")
                             && !exists("${themePath}/_inc/logos/" + {system:theme} + ".svg")
-                            && !exists("${themePath}/_inc/logos/" + {system:theme} + "-dark.svg")
+                            && !exists("${themePath}/_inc/logos/" + {system:theme} + "-dark.webp")
                             && !exists("${themePath}/_inc/logos/" + {system:theme} + "-dark.svg")
                         </visible>
                         <visible ifSubset="color-scheme:light">!exists("${themePath}/_inc/logos/" + {system:theme} + ".webp")
                             && !exists("${themePath}/_inc/logos/" + {system:theme} + ".svg")
-                            && !exists("${themePath}/_inc/logos/" + {system:theme} + "-light.svg")
+                            && !exists("${themePath}/_inc/logos/" + {system:theme} + "-light.webp")
                             && !exists("${themePath}/_inc/logos/" + {system:theme} + "-light.svg")
                         </visible>
                         <value>{system:fullName}</value>
