@@ -1,0 +1,14 @@
+<theme>
+  <variables>
+    <systemName>Windows Installers</systemName>
+    <systemName lang="es">Instaladores de Windows</systemName>
+    <systemDescription>Install Windows Games</systemDescription>
+    <systemDescription lang="es">Instala juegos de Windows</systemDescription>
+    <systemManufacturer>Misc. System</systemManufacturer>
+    <systemManufacturer lang="es">Misc. Sistema</systemManufacturer>
+    <systemHardwareType>Folder</systemHardwareType>
+    <systemHardwareType lang="es">Carpeta</systemHardwareType>
+    <systemCoverSize>1-1</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>
