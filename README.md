@@ -1,6 +1,6 @@
 <div align="center">
 
-# Iconic (ES version) with Spanish language support.
+# Iconic Next - Based on Iconic, with Spanish translations.
 
 ![System Carousel Demo](_preview/systems-carousel-animation.gif)
 
@@ -81,10 +81,14 @@ Custom overlays can be added to help make images pop.
 
 ### Multilanguage support
 
-The UI component "/_inc/ui-components/theme-config.xml" has now full support for Spanish, systems metadata is being updated to have Spanish support too.
-Spanish works with both "es" and "es MX" setting from Batocera.
+* The UI has now full support for Spanish.
+* Systems metadata is being updated, many systems have already Spanish translation.
+* Spanish works with both "es" and "es MX" setting from Batocera.
+* The theme now allows specific language logos, as example for the "Library" you can have:
+  library.svg, library-es.svg, library-fr.svg and so on,
+  the theme will use your ES language setting to pick the correct logo or default if is not available.
 
-If you need to have translated or need the background for an specific system not yet done, just request it!
+If you need to have translated fast an specific system just request it and i will push it asap.
 
 ## Acknowledgments
 
