@@ -1,10 +1,12 @@
 <theme>
   <variables>
     <systemName>MSX Turbo R</systemName>
-    <systemDescription>The MSX Turbo R is the last generation of MSX computers that was put to market by a household electronic brand. Only Panasonic was brave enough to put faith in the standard once again, by releasing two different models: the Panasonic FS-A1ST and the Panasonic FS-A1GT. MSX Turbo R computers were produced until 1994.</systemDescription>
-    <systemManufacturer>Microsoft</systemManufacturer>
+    <systemManufacturer>Ascii</systemManufacturer>
     <systemReleaseYear>1990</systemReleaseYear>
+    <systemDescription>The MSX Turbo R is the last generation of MSX computers that was put to market by a household electronic brand. Only Panasonic was brave enough to put faith in the standard once again, by releasing two different models: the Panasonic FS-A1ST and the Panasonic FS-A1GT. MSX Turbo R computers were produced until 1994.</systemDescription>
+    <systemDescription lang="es">El MSX Turbo R es la última generación de ordenadores MSX comercializados por una marca de electrónica doméstica. Solo Panasonic tuvo la valentía de volver a apostar por el estándar, lanzando dos modelos diferentes: el Panasonic FS-A1ST y el Panasonic FS-A1GT. Los ordenadores MSX Turbo R se fabricaron hasta 1994.</systemDescription>
     <systemHardwareType>Computer</systemHardwareType>
+    <systemHardwareType lang="es">Ordenador</systemHardwareType>
     <systemCoverSize>3-4</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
