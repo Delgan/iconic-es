@@ -11,7 +11,7 @@
 
 ## Preview
 
-| Custom Collections |
+| Custom Collections | Custom Collections |
 | :--: | :--: |
 | ![Castlevania](_preview/collections-dark-1.jpg) | ![Super Mario](_preview/collections-dark-2.jpg) |
 | ![Zelda](_preview/collections-dark-3.jpg) | ![Pokémon](_preview/collections-dark-4.jpg) |
