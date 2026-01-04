@@ -1,0 +1,13 @@
+<theme>
+  <variables>
+    <systemName>Dice</systemName>
+    <systemManufacturer>Adam Bousley</systemManufacturer>
+    <systemReleaseYear>2008</systemReleaseYear>
+    <systemDescription>DICE (Discrete Integrated Circuit Emulator) emulates old arcade machines from the early 1970's at a very high level of accuracy. Since these machines had no CPU, the emulator instead emulates discrete logic components in the circuit board. This method is very system-intensive, and getting full speed requires at least a mid-range CPU (for single thread performance) along with the 64-bit version of the emulator.</systemDescription>
+    <systemDescription lang="es">DICE (Emulador de Circuitos Integrados Discretos) emula antiguas máquinas recreativas de principios de los 70 con gran precisión. Dado que estas máquinas no tenían CPU, el emulador emula componentes lógicos discretos en la placa de circuito. Este método consume muchos recursos del sistema, y ​​para alcanzar la máxima velocidad se requiere al menos una CPU de gama media (para un rendimiento de un solo subproceso) junto con la versión de 64 bits del emulador.</systemDescription>
+    <systemHardwareType>Emulator</systemHardwareType>
+    <systemHardwareType lang="es">Emulador</systemHardwareType>
+    <systemCoverSize>1-1</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>
