@@ -1,0 +1,16 @@
+<theme>
+  <variables>
+    <systemName>Never PlayersystemName>
+    <systemName lang="es">Nunca jugados</systemName>
+    <systemDescription>View and play every game you haven't played yet!</systemDescription>
+    <systemDescription lang="es">Explora y juega cada juego de tu colección que todavía no has jugado.</systemDescription>
+    <systemManufacturer>Various</systemManufacturer>
+    <systemManufacturer lang="es">Varios</systemManufacturer>
+    <systemReleaseYear>Various</systemReleaseYear>
+    <systemReleaseYear lang="es">Varios</systemReleaseYear>
+    <systemHardwareType>Auto Collection</systemHardwareType>
+    <systemHardwareType lang="es">Collección automática</systemHardwareType>
+    <systemCoverSize>1-1</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>
