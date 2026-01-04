@@ -1,10 +1,15 @@
 <theme>
   <variables>
     <systemName>Custom Collections</systemName>
+    <systemName lang="es">Colecciones personalizadas</systemName>
     <systemDescription>Organize your games into custom collections.</systemDescription>
+    <systemDescription lang="es">Organiza tus juegos en colecciones personalizadas.</systemDescription>
     <systemManufacturer>Various</systemManufacturer>
+    <systemManufacturer lang="es">Varios</systemManufacturer>
     <systemReleaseYear>Various</systemReleaseYear>
+    <systemReleaseYear lang="es">Varios</systemReleaseYear>
     <systemHardwareType>Custom Collection</systemHardwareType>
+    <systemHardwareType lang="es">Colección personalizada</systemHardwareType>
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
