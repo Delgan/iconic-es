@@ -1,12 +1,16 @@
 <theme>
   <variables>
     <systemName>GameCube</systemName>
+    <systemManufacturer>Nintendo</systemManufacturer>
+    <systemReleaseYear>2001</systemReleaseYear>
     <systemDescription>The Nintendo GameCube is a home video game console released by Nintendo in Japan and North America in 2001 and in PAL territories in 2002. The GameCube is Nintendo's entry in the sixth generation of video game consoles and is the successor to their previous console, the Nintendo 64. The GameCube competed with Sony's PlayStation 2 and Microsoft's Xbox.
 
 The GameCube is the first Nintendo console to use optical discs as its primary storage medium. The discs are in a miniDVD-based format but the system was not designed to play full-sized DVDs or audio CDs unlike its competitors, and mainly focused on gaming instead. The console supports limited online gaming for a small number of games via a GameCube broadband or modem adapter and can connect to a Game Boy Advance with a link cable, which allows players to access exclusive in-game features using the handheld as a second screen and controller like a Wii U.</systemDescription>
-    <systemManufacturer>Nintendo</systemManufacturer>
-    <systemReleaseYear>2001</systemReleaseYear>
+    <systemDescription lang="es">La Nintendo GameCube es una consola de videojuegos doméstica lanzada por Nintendo en Japón y Norteamérica en 2001 y en territorios PAL en 2002. GameCube es la incorporación de Nintendo a la sexta generación de consolas de videojuegos y la sucesora de su consola anterior, la Nintendo 64. GameCube compitió con la PlayStation 2 de Sony y la Xbox de Microsoft.
+
+GameCube fue la primera consola de Nintendo en utilizar discos ópticos como medio de almacenamiento principal. Los discos están en formato miniDVD, pero la consola no fue diseñada para reproducir DVD o CD de audio de tamaño completo, a diferencia de sus competidores, y se centró principalmente en videojuegos. La consola admite juegos en línea limitados para un número reducido de juegos mediante un adaptador de banda ancha o módem de GameCube, y se puede conectar a una Game Boy Advance con un cable de enlace, lo que permite a los jugadores acceder a funciones exclusivas del juego utilizando la consola portátil como una segunda pantalla y un mando, como una Wii U.</systemDescription>
     <systemHardwareType>Console</systemHardwareType>
+    <systemHardwareType lang="es">Consola</systemHardwareType>
     <systemCoverSize>243-340</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
