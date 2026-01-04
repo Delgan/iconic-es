@@ -1,10 +1,12 @@
 <theme>
   <variables>
     <systemName>BBC Micro</systemName>
-    <systemDescription>The British Broadcasting Corporation Microcomputer System, BBC Microcomputer System, or best known as the BBC Micro is a series of microcomputers designed by Acorn Computers Ltd. and distributed by the BBC. The first models were released in December 1981 in Europe for £235 or £335, depending on the model. The computers were also released in North America (1983). The computers were designed with an emphasis on education, and being more rugged then other brands. The computers were manufactured until an unspecified time in 1994.</systemDescription>
     <systemManufacturer>Acorn</systemManufacturer>
     <systemReleaseYear>1981</systemReleaseYear>
+    <systemDescription>The British Broadcasting Corporation Microcomputer System, BBC Microcomputer System, or best known as the BBC Micro is a series of microcomputers designed by Acorn Computers Ltd. and distributed by the BBC. The first models were released in December 1981 in Europe for £235 or £335, depending on the model. The computers were also released in North America (1983). The computers were designed with an emphasis on education, and being more rugged then other brands. The computers were manufactured until an unspecified time in 1994.</systemDescription>
+    <systemDescription lang="es">El Sistema de Microcomputadoras de la British Broadcasting Corporation, Sistema de Microcomputadoras de la BBC, o mejor conocido como BBC Micro, es una serie de microcomputadoras diseñadas por Acorn Computers Ltd. y distribuidas por la BBC. Los primeros modelos se lanzaron en diciembre de 1981 en Europa por 235 o 335 libras esterlinas, según el modelo. También se lanzaron en Norteamérica (1983). Se diseñaron con énfasis en la educación y para ser más resistentes que otras marcas. Se fabricaron hasta una fecha no especificada en 1994.</systemDescription>
     <systemHardwareType>Computer</systemHardwareType>
+    <systemHardwareType lang="es">Ordenador</systemHardwareType>
     <systemCoverSize>3-4</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
