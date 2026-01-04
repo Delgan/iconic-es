@@ -1,10 +1,12 @@
 <theme>
   <variables>
     <systemName>Adobe Flash</systemName>
-    <systemDescription>Adobe Flash (formerly Macromedia Flash and FutureSplash) was a multimedia software platform used for production of animations, rich web applications, desktop applications, mobile apps, mobile games, and embedded web browser video players. Flash displays text, vector graphics, and raster graphics to provide animations, video games, and applications. It allows streaming of audio and video, and can capture mouse, keyboard, microphone, and camera input.</systemDescription>
     <systemManufacturer>Macromedia</systemManufacturer>
     <systemReleaseYear>1996</systemReleaseYear>
+    <systemDescription>Adobe Flash (formerly Macromedia Flash and FutureSplash) was a multimedia software platform used for production of animations, rich web applications, desktop applications, mobile apps, mobile games, and embedded web browser video players. Flash displays text, vector graphics, and raster graphics to provide animations, video games, and applications. It allows streaming of audio and video, and can capture mouse, keyboard, microphone, and camera input.</systemDescription>
+    <systemDescription lang="es">Adobe Flash (anteriormente Macromedia Flash y FutureSplash) era una plataforma de software multimedia utilizada para la producción de animaciones, aplicaciones web enriquecidas, aplicaciones de escritorio, aplicaciones móviles, juegos y reproductores de vídeo integrados en navegadores web. Flash muestra texto, gráficos vectoriales y rasterizados para ofrecer animaciones, videojuegos y aplicaciones. Permite la transmisión de audio y vídeo, y puede capturar la entrada del ratón, el teclado, el micrófono y la cámara.</systemDescription>
     <systemHardwareType>Engine</systemHardwareType>
+    <systemHardwareType lang="es">Motor</systemHardwareType>
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
