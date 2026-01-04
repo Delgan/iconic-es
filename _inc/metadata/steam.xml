@@ -1,10 +1,12 @@
 <theme>
   <variables>
     <systemName>Steam</systemName>
-    <systemDescription>Steam is a video game digital distribution service and storefront by Valve. It was launched as a software client in September 2003 as a way for Valve to provide automatic updates for their games, and expanded to distributing and offering third-party game publishers' titles in late 2005.</systemDescription>
     <systemManufacturer>Valve</systemManufacturer>
     <systemReleaseYear>2003</systemReleaseYear>
+    <systemDescription>Steam is a video game digital distribution service and storefront by Valve. It was launched as a software client in September 2003 as a way for Valve to provide automatic updates for their games, and expanded to distributing and offering third-party game publishers' titles in late 2005.</systemDescription>
+    <systemDescription lang="es">Steam es un servicio de distribución digital de videojuegos y una tienda online de Valve. Se lanzó como cliente de software en septiembre de 2003 para que Valve ofreciera actualizaciones automáticas para sus juegos, y a finales de 2005 se expandió para distribuir y ofrecer títulos de terceros.</systemDescription>
     <systemHardwareType>Folder</systemHardwareType>
+    <systemHardwareType lang="es">Carpeta</systemHardwareType>
     <systemCoverSize>3-4</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
