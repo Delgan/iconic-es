@@ -1,10 +1,15 @@
 <theme>
   <variables>
     <systemName>Last Played</systemName>
+    <systemName lang="es">Recién jugados</systemName>
     <systemDescription>View your recently played games across the entire library.</systemDescription>
+    <systemDescription lang="es">Explora los juegos jugados recientemente.</systemDescription>
     <systemManufacturer>Various</systemManufacturer>
+    <systemManufacturer lang="es">Varios</systemManufacturer>
     <systemReleaseYear>Various</systemReleaseYear>
+    <systemReleaseYear lang="es">Varios</systemReleaseYear>
     <systemHardwareType>Auto Collection</systemHardwareType>
+    <systemHardwareType lang="es">Collección automática</systemHardwareType> 
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
