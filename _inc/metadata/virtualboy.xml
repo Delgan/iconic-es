@@ -1,12 +1,16 @@
 <theme>
   <variables>
     <systemName>Virtual Boy</systemName>
+    <systemManufacturer>Nintendo</systemManufacturer>
+    <systemReleaseYear>1995</systemReleaseYear>
     <systemDescription>The Virtual Boy is a 32-bit tabletop portable video game console developed and manufactured by Nintendo. Released in 1995, it was marketed as the first console capable of displaying stereoscopic "3D" graphics. The player uses the console like a head-mounted display, placing the head against the eyepiece to see a red monochrome display.
 
 The games use a parallax effect to create the illusion of depth. Sales failed to meet targets, and Nintendo ceased distribution and game development in 1996, having released only 22 games for the system.</systemDescription>
-    <systemManufacturer>Nintendo</systemManufacturer>
-    <systemReleaseYear>1995</systemReleaseYear>
+    <systemDescription lang="es">Virtual Boy es una consola de videojuegos portátil de 32 bits, desarrollada y fabricada por Nintendo. Lanzada en 1995, se comercializó como la primera consola capaz de mostrar gráficos estereoscópicos en 3D. El jugador utiliza la consola como un visor, colocando la cabeza contra el ocular para ver una pantalla monocromática roja.
+
+Los juegos utilizan un efecto de paralaje para crear la ilusión de profundidad. Las ventas no alcanzaron los objetivos, y Nintendo cesó la distribución y el desarrollo de juegos en 1996, tras haber lanzado solo 22 juegos para la consola.</systemDescription>
     <systemHardwareType>Portable</systemHardwareType>
+    <systemHardwareType lang="es">Portátil</systemHardwareType>
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>257-229</systemCartSize>
   </variables>
