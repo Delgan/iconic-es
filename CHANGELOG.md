@@ -1,6 +1,11 @@
 Iconi-es-next:
 --------------
 
+# Beta 0.3 (not released)
+* Custom collections and automatic collections got new logos with Spanish
+  translations ones too and translated metadata.
+* Updated some backgrounds to add more overlays.
+
 
 # Beta 0.2
 
