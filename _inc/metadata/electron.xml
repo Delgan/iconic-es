@@ -1,10 +1,12 @@
 <theme>
   <variables>
     <systemName>Acorn Electron</systemName>
-    <systemDescription>The Acorn Electron (nicknamed the Elk inside Acorn and beyond) was a lower-cost alternative to the BBC Micro educational/home computer, also developed by Acorn Computers Ltd, to provide many of the features of that more expensive machine at a price more competitive with that of the ZX Spectrum. It had 32 kilobytes of RAM, and its ROM included BBC BASIC II together with the operating system. Announced in 1982 for a possible release the same year, it was eventually introduced on 25 August 1983 priced at £199</systemDescription>
     <systemManufacturer>Acorn</systemManufacturer>
     <systemReleaseYear>1983</systemReleaseYear>
+    <systemDescription>The Acorn Electron (nicknamed the Elk inside Acorn and beyond) was a lower-cost alternative to the BBC Micro educational/home computer, also developed by Acorn Computers Ltd, to provide many of the features of that more expensive machine at a price more competitive with that of the ZX Spectrum. It had 32 kilobytes of RAM, and its ROM included BBC BASIC II together with the operating system. Announced in 1982 for a possible release the same year, it was eventually introduced on 25 August 1983 priced at £199</systemDescription>
+    <systemDescription lang="es">El Acorn Electron (apodado Elk dentro y fuera de Acorn) fue una alternativa económica al ordenador educativo/doméstico BBC Micro, también desarrollado por Acorn Computers Ltd., para ofrecer muchas de las características de este último a un precio más competitivo que el del ZX Spectrum. Tenía 32 kilobytes de RAM y su ROM incluía BBC BASIC II junto con el sistema operativo. Anunciado en 1982 para su posible lanzamiento ese mismo año, finalmente se presentó el 25 de agosto de 1983 con un precio de 199 libras.</systemDescription>
     <systemHardwareType>Computer</systemHardwareType>
+    <systemHardwareType lang="es">Ordenador</systemHardwareType>
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
