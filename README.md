@@ -13,9 +13,9 @@
 
 | Custom Collections |
 | :--: | :--: |
-| ![Castlevania] (_preview/collections-dark-1.jpg) | ![Super Mario] (_preview/collections-dark-2.jpg)
-| ![Zelda] (_preview/collections-dark-3.jpg) | ![Pokémon] (_preview/collections-dark-4.jpg)
-| :--: | :--: |
+| ![Castlevania](_preview/collections-dark-1.jpg) | ![Super Mario](_preview/collections-dark-2.jpg) |
+| ![Zelda](_preview/collections-dark-3.jpg) | ![Pokémon](_preview/collections-dark-4.jpg) |
+
 | Light Mode | Dark Mode|
 | :--: | :--: |
 | ![System View Light](_preview/systems-view-light-1.jpg) | ![System View Light](_preview/systems-view-dark-1.jpg) |
