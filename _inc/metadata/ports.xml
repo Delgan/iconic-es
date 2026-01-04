@@ -2,9 +2,13 @@
   <variables>
     <systemName>Ports</systemName>
     <systemDescription>View and play all of your favorite game ports.</systemDescription>
+    <systemDescription lang="es">Explora y juega todos los ports de tus juegos favoritos.</systemDescription>
     <systemManufacturer>Various</systemManufacturer>
+    <systemManufacturer lang="es">Varios</systemManufacturer>
     <systemReleaseYear>Various</systemReleaseYear>
+    <systemReleaseYear lang="es">Various</systemReleaseYear>
     <systemHardwareType>Folder</systemHardwareType>
+    <systemHardwareType lang="es">Carpeta</systemHardwareType>
     <systemCoverSize>3-4</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
