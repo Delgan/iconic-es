@@ -1,10 +1,15 @@
 <theme>
   <variables>
     <systemName>Favorites</systemName>
+    <systemName lang="es">Favoritos</systemName>
     <systemDescription>View and play your favorite games across the entire library.</systemDescription>
+    <systemDescription lang="es">Explora y juega tus juegos favoritos de toda la colección.</systemDescription>
     <systemManufacturer>Various</systemManufacturer>
+    <systemManufacturer lang="es">Varios</systemManufacturer>
     <systemReleaseYear>Various</systemReleaseYear>
+    <systemReleaseYear lang="es">Varios</systemReleaseYear>
     <systemHardwareType>Auto Collection</systemHardwareType>
+    <systemHardwareType lang="es">Collección automática</systemHardwareType>
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>

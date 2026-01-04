@@ -1,10 +1,15 @@
 <theme>
   <variables>
     <systemName>All Games</systemName>
+    <systemName lang="es">Todos los juegos</systemName>
     <systemDescription>View and play every game across your entire library.</systemDescription>
+    <systemDescription lang="es">Explora y juega cada juego de tu colección.</systemDescription>
     <systemManufacturer>Various</systemManufacturer>
+    <systemManufacturer lang="es">Varios</systemManufacturer>
     <systemReleaseYear>Various</systemReleaseYear>
+    <systemReleaseYear lang="es">Varios</systemReleaseYear>
     <systemHardwareType>Auto Collection</systemHardwareType>
+    <systemHardwareType lang="es">Collección automática</systemHardwareType>
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
