@@ -1,7 +1,14 @@
 Iconi-es-next:
 --------------
 
-# Unreleased: Alpha 0.1 
+
+# Beta 0.2
+
+* First version for EVERY system has been added.
+* Updated many backgrounds/metadatas.
+* Added missing metadatas, specially for the custom collections.
+
+# Alpha 0.1 
 
 * Complete spanish config menu and theme elements support.
 * Added MSX2+ system media.
