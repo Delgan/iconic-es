@@ -1,12 +1,16 @@
 <theme>
   <variables>
     <systemName>PC Engine</systemName>
+    <systemManufacturer>NEC</systemManufacturer>
+    <systemReleaseYear>1987</systemReleaseYear>
     <systemDescription>The PC Engine is a 16-bit fourth-generation home video game console designed by Hudson Soft and sold by NEC Home Electronics. It was released in Japan in 1987 and in North America in 1989. The Japanese model was imported and distributed in France in 1989, and the United Kingdom and Spain received a version based on the American model known as simply TurboGrafx. It was the first console released in the 16-bit era, although it used a modified 8-bit CPU. In Japan, the system was launched as a competitor to the Famicom, but the delayed United States release meant that it ended up competing with the Sega Genesis and later the Super Nintendo Entertainment System.
 
 The PC Engine has an 8-bit CPU, a 16-bit video color encoder, and a 16-bit video display controller. The GPUs are capable of displaying 482 colors simultaneously, out of 512. With dimensions of just 14 cm × 14 cm × 3.8 cm (5.5 in × 5.5 in × 1.5 in), the Japanese PC Engine is the smallest major home game console ever made. Games were released on HuCard cartridges and later the CD-ROM optical format.</systemDescription>
-    <systemManufacturer>NEC</systemManufacturer>
-    <systemReleaseYear>1987</systemReleaseYear>
+   <systemDescription lang="es">La PC Engine es una consola de videojuegos doméstica de 16 bits de cuarta generación, diseñada por Hudson Soft y comercializada por NEC Home Electronics. Se lanzó en Japón en 1987 y en Norteamérica en 1989. El modelo japonés se importó y distribuyó en Francia en 1989, y el Reino Unido y España recibieron una versión basada en el modelo estadounidense, conocida simplemente como TurboGrafx. Fue la primera consola lanzada en la era de los 16 bits, aunque utilizaba una CPU modificada de 8 bits. En Japón, el sistema se lanzó como competidor de la Famicom, pero el retraso en su lanzamiento en Estados Unidos provocó que acabara compitiendo con la Sega Genesis y, posteriormente, con la Super Nintendo Entertainment System.
+
+La PC Engine cuenta con una CPU de 8 bits, un codificador de color de vídeo de 16 bits y un controlador de pantalla de vídeo de 16 bits. Las GPU pueden mostrar 482 colores simultáneamente, de un total de 512. Con unas dimensiones de tan solo 14 cm × 14 cm × 3,8 cm (5,5 pulgadas × 5,5 pulgadas × 1,5 pulgadas), la PC Engine japonesa es la consola de juegos doméstica más pequeña jamás fabricada. Los juegos se lanzaron en cartuchos HuCard y, posteriormente, en formato óptico CD-ROM.</systemDescription>
     <systemHardwareType>Console</systemHardwareType>
+    <systemHardwareType lang="es">Consola</systemHardwareType>
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>3-5</systemCartSize>
   </variables>
