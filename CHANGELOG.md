@@ -1,13 +1,15 @@
 Iconi-es-next:
 --------------
 
-# Beta 0.3 (not released)
+# Beta 0.3
 * Custom collections and automatic collections got new logos with Spanish
   translations ones too and translated metadata.
 * Updated some backgrounds to add more overlays.
 * All default autocollections (all games/last played/playing now/fav/never played)
   got bakgrounds with overlays.
 * Swapped backgrounds MAME <> Arcade.
+* Complete rework of the logos system to make it faster and simpler.
+* Complete rework of the Final Fantasy auto-collection.
 
 
 # Beta 0.2
