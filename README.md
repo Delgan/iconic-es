@@ -13,6 +13,7 @@
 
 | Light Mode | Dark Mode |
 | :--: | :--: |
+| ![Last Played](_preview/collections-light-3.jpg) | ![Final Fantasy](_preview/collections-dark-1.jpg) |
 | ![Castlevania](_preview/collections-light-1.jpg) | ![Super Mario](_preview/collections-dark-2.jpg) |
 | ![Zelda](_preview/collections-light-2.jpg) | ![Pokémon](_preview/collections-dark-4.jpg) |
 
