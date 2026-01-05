@@ -5,6 +5,9 @@ Iconi-es-next:
 * Custom collections and automatic collections got new logos with Spanish
   translations ones too and translated metadata.
 * Updated some backgrounds to add more overlays.
+* All default autocollections (all games/last played/playing now/fav/never played)
+  got bakgrounds with overlays.
+* Swapped backgrounds MAME <> Arcade.
 
 
 # Beta 0.2
