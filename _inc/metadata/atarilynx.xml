@@ -1,10 +1,12 @@
 <theme>
   <variables>
     <systemName>Atari Lynx</systemName>
-    <systemDescription>The Atari Lynx, usually just referred to as Lynx, is a fourth generation (1987-2004) handheld video game console developed in partnership with Epyx, Inc. and distributed by the Atari Corporation. It was released in September 1989 in North America at a retail price of $149.95. The handheld was also released in Europe (1990) and Japan (1990). The Lynx was the world's first handheld electronic game with a color LCD screen. The console was discontinued in early 1996, possibly at the time of the company's sale on April 8, 1996.</systemDescription>
     <systemManufacturer>Atari</systemManufacturer>
     <systemReleaseYear>1989</systemReleaseYear>
+    <systemDescription>The Atari Lynx, usually just referred to as Lynx, is a fourth generation (1987-2004) handheld video game console developed in partnership with Epyx, Inc. and distributed by the Atari Corporation. It was released in September 1989 in North America at a retail price of $149.95. The handheld was also released in Europe (1990) and Japan (1990). The Lynx was the world's first handheld electronic game with a color LCD screen. The console was discontinued in early 1996, possibly at the time of the company's sale on April 8, 1996.</systemDescription>
+    <systemDescription lang="es">La Atari Lynx, comúnmente conocida simplemente como Lynx, es una consola de videojuegos portátil de cuarta generación (1987-2004), desarrollada en colaboración con Epyx, Inc. y distribuida por Atari Corporation. Salió a la venta en septiembre de 1989 en Norteamérica a un precio de venta de 149,95 dólares. También se lanzó en Europa (1990) y Japón (1990). La Lynx fue la primera consola de videojuegos portátil del mundo con pantalla LCD a color. La consola se discontinuó a principios de 1996, posiblemente coincidiendo con la venta de la compañía el 8 de abril de 1996.</systemDescription>
     <systemHardwareType>Portable</systemHardwareType>
+    <systemHardwareType lang="es">Portátil</systemHardwareType>
     <systemCoverSize>3-4</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>

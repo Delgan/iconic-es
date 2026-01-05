@@ -1,10 +1,12 @@
 <theme>
   <variables>
     <systemName>Atari Jaguar CD</systemName>
-    <systemDescription>The Atari Jaguar CD is a fifth generation (1993–2005) CD-ROM peripheral for the Atari Jaguar video game console developed and distributed by Atari Corporation. It was released in September 1995 in North America at a retail price of $149.95. The peripheral was also released in Europe (1995). The Jaguar CD unit featured a double-speed (2×) drive and its own cartridge slot to allow cartridge games to be played without removing the CD drive. The peripheral was discontinued in early 1996, possibly at the time of the company's sale on April 8, 1996.</systemDescription>
     <systemManufacturer>Atari</systemManufacturer>
     <systemReleaseYear>1995</systemReleaseYear>
+    <systemDescription>The Atari Jaguar CD is a fifth generation (1993–2005) CD-ROM peripheral for the Atari Jaguar video game console developed and distributed by Atari Corporation. It was released in September 1995 in North America at a retail price of $149.95. The peripheral was also released in Europe (1995). The Jaguar CD unit featured a double-speed (2×) drive and its own cartridge slot to allow cartridge games to be played without removing the CD drive. The peripheral was discontinued in early 1996, possibly at the time of the company's sale on April 8, 1996.</systemDescription>
+    <systemDescription lang="es">El Atari Jaguar CD es un periférico de CD-ROM de quinta generación (1993-2005) para la consola de videojuegos Atari Jaguar, desarrollado y distribuido por Atari Corporation. Salió a la venta en septiembre de 1995 en Norteamérica a un precio de 149,95 dólares. El periférico también se lanzó en Europa (1995). La unidad Jaguar CD contaba con una unidad de doble velocidad (2×) y su propia ranura para cartuchos, lo que permitía jugar a juegos de cartucho sin necesidad de retirar la unidad de CD. El periférico se discontinuó a principios de 1996, posiblemente coincidiendo con la venta de la compañía el 8 de abril de 1996.</systemDescription>
     <systemHardwareType>Console</systemHardwareType>
+    <systemHardwareType lang="es">Consola</systemHardwareType>
     <systemCoverSize>3-4</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>

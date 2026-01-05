@@ -1,12 +1,16 @@
 <theme>
   <variables>
     <systemName>Uzebox</systemName>
+    <systemManufacturer>Belogic</systemManufacturer>
+    <systemReleaseYear>2008</systemReleaseYear>
     <systemDescription>The Uzebox is a retro-minimalist 8-bit open source game console. It is based on an AVR 8-bit general purpose microcontroller made by Atmel. The particularity of the system is that it uses an interrupt driven kernel and has no frame buffer. Functions such as video signal generation, tile rendering and music mixing is done in realtime by a background task so your game can easily be developed in C.
 
    The design goal was to be as simple as possible yet have good enough sound and graphics to implement interesting games. Emphasis was put on making it easy and fun to assemble and program for any hobbyists. The final design contains only two chips: an ATmega644 and an AD725 RGB-to-NTSC converter.</systemDescription>
-    <systemManufacturer>Belogic</systemManufacturer>
-    <systemReleaseYear>2008</systemReleaseYear>
+    <systemDescription lang="es">La Uzebox es una consola de juegos retro-minimalista de código abierto de 8 bits. Se basa en un microcontrolador AVR de 8 bits de propósito general fabricado por Atmel. La particularidad del sistema reside en que utiliza un núcleo controlado por interrupciones y no tiene búfer de fotogramas. Funciones como la generación de señal de vídeo, el renderizado de mosaicos y la mezcla de música se realizan en tiempo real mediante una tarea en segundo plano, lo que facilita el desarrollo del juego en C.
+
+El objetivo del diseño era que fuera lo más simple posible, pero con un sonido y gráficos lo suficientemente buenos como para implementar juegos interesantes. Se hizo hincapié en que fuera fácil y divertido de ensamblar y programar para cualquier aficionado. El diseño final contiene solo dos chips: un ATmega644 y un convertidor AD725 RGB a NTSC.</systemDescription>
     <systemHardwareType>Console</systemHardwareType>
+    <systemHardwareType lang="es">Consola</systemHardwareType>
     <systemCoverSize>3-4</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>

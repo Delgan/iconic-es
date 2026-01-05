@@ -1,10 +1,12 @@
 <theme>
   <variables>
     <systemName>TIC-80</systemName>
-    <systemDescription>TIC-80 is a free and open source fantasy computer for making, playing and sharing tiny games. There are built-in tools for development: code, sprites, maps, sound editors and the command line, which is enough to create a mini retro game. At the exit you will get a cartridge file, which can be stored and played on the website. Also, the game can be packed into a player that works on all popular platforms and distribute as you wish. To make a retro styled game the whole process of creation takes place under some technical limitations: 240x136 pixels display, 16 color palette, 256 8x8 color sprites, 4 channel sound and etc.</systemDescription>
     <systemManufacturer>Vadim Grigoruk</systemManufacturer>
     <systemReleaseYear>2016</systemReleaseYear>
+    <systemDescription>TIC-80 is a free and open source fantasy computer for making, playing and sharing tiny games. There are built-in tools for development: code, sprites, maps, sound editors and the command line, which is enough to create a mini retro game. At the exit you will get a cartridge file, which can be stored and played on the website. Also, the game can be packed into a player that works on all popular platforms and distribute as you wish. To make a retro styled game the whole process of creation takes place under some technical limitations: 240x136 pixels display, 16 color palette, 256 8x8 color sprites, 4 channel sound and etc.</systemDescription>
+    <systemDescription lang="es">TIC-80 es una computadora de fantasía gratuita y de código abierto para crear, jugar y compartir minijuegos. Incluye herramientas de desarrollo integradas: código, sprites, mapas, editores de sonido y la línea de comandos, suficiente para crear un minijuego retro. Al salir, obtendrás un archivo de cartucho que puedes guardar y jugar en el sitio web. Además, el juego se puede empaquetar en un reproductor compatible con todas las plataformas populares y distribuir como desees. Para crear un juego de estilo retro, todo el proceso de creación se realiza con ciertas limitaciones técnicas: pantalla de 240x136 píxeles, paleta de 16 colores, 256 sprites de 8x8 colores, sonido de 4 canales, etc.</systemDescription>
     <systemHardwareType>Engine</systemHardwareType>
+    <systemHardwareType lang="es">Motor</systemHardwareType>
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>

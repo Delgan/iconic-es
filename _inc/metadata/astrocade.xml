@@ -1,13 +1,18 @@
 <theme>
   <variables>
     <systemName>Bally Astrocade</systemName>
+    <systemManufacturer>Bally</systemManufacturer>
+    <systemReleaseYear>1978</systemReleaseYear>
     <systemDescription>The Bally Astrocade (also known as Bally Arcade or initially as Bally ABA-1000) is a second-generation home video game console and simple computer system designed by a team at Midway, at that time the videogame division of Bally.
 It was originally announced as the "Bally Home Library Computer" in October 1977 and initially made available for mail order in December 1977. But due to production delays, the units were first released to stores in April 1978 and its branding changed to "Bally Professional Arcade".
 
 It was marketed only for a limited time before Bally decided to exit the market. The rights were later picked up by a third-party company, who re-released it and sold it until around 1984. The Astrocade is particularly notable for its very powerful graphics capabilities for the time of release and for the difficulty in accessing those capabilities.</systemDescription>
-    <systemManufacturer>Bally</systemManufacturer>
-    <systemReleaseYear>1978</systemReleaseYear>
+    <systemDescription lang="es">La Bally Astrocade (también conocida como Bally Arcade o inicialmente como Bally ABA-1000) es una consola de videojuegos doméstica de segunda generación y un sistema informático sencillo diseñado por el equipo de Midway, por aquel entonces la división de videojuegos de Bally.
+Se anunció originalmente como "Bally Home Library Computer" en octubre de 1977 y se empezó a vender por correo en diciembre de 1977. Sin embargo, debido a retrasos en la producción, las unidades se lanzaron a las tiendas en abril de 1978 y su marca cambió a "Bally Professional Arcade".
+
+Se comercializó solo por un tiempo limitado antes de que Bally decidiera retirarse del mercado. Los derechos fueron adquiridos posteriormente por una empresa externa, que la relanzó y vendió hasta aproximadamente 1984. La Astrocade destaca especialmente por sus potentes capacidades gráficas para la época de su lanzamiento y por la dificultad para acceder a ellas.</systemDescription> 
     <systemHardwareType>Console</systemHardwareType>
+    <systemHardwareType lang="es">Consola</systemHardwareType>
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>

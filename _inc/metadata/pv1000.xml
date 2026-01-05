@@ -1,14 +1,20 @@
 <theme>
   <variables>
     <systemName>PV-1000</systemName>
+    <systemManufacturer>Casio</systemManufacturer>
+    <systemReleaseYear>1983</systemReleaseYear>
     <systemDescription>The Casio PV-1000 (ぴーぶいせん, Pi Bui-Sen) is a third-generation home video game console manufactured by Casio and released in Japan in 1983. It was discontinued less than a year after release.
 
 The PV-1000 was released in October 1983. It was only released in Japan where it sold for 14,800 yen. Casio failed to achieve a significant market share. According to retrogames.co.uk the console was pulled after several weeks; due to low sales.
 
 The PV-1000 is powered by a Zilog Z80 CPU, with 2 KB RAM, with 1 KB allocated as VRAM. It also has an additional 1 KB devoted to a character generator. Graphics were provided by a Texas Instruments TMS9918, generating a 256x192 pixel resolution with 8 colours. The console contains a NEC D65010G031 chip used to output video and sound. It had three square wave voices with 6 bits to control the period.</systemDescription>
-    <systemManufacturer>Casio</systemManufacturer>
-    <systemReleaseYear>1983</systemReleaseYear>
+<systemDescription lang="es">La Casio PV-1000 (ぴーぶいせん, Pi Bui-Sen) es una consola de videojuegos doméstica de tercera generación fabricada por Casio y lanzada en Japón en 1983. Se discontinuó menos de un año después de su lanzamiento.
+
+La PV-1000 se lanzó en octubre de 1983. Solo se lanzó en Japón, donde se vendió por 14.800 yenes. Casio no logró una cuota de mercado significativa. Según retrogames.co.uk, la consola fue retirada del mercado tras varias semanas debido a las bajas ventas.
+
+La PV-1000 está equipada con una CPU Zilog Z80, con 2 KB de RAM, de los cuales 1 KB se asigna como VRAM. También cuenta con 1 KB adicional dedicado a un generador de caracteres. Los gráficos fueron proporcionados por un Texas Instruments TMS9918, que genera una resolución de 256x192 píxeles con 8 colores. La consola contiene un chip NEC D65010G031 para la salida de vídeo y sonido. Contaba con tres voces de onda cuadrada de 6 bits para controlar el periodo.</systemDescription>
     <systemHardwareType>Console</systemHardwareType>
+    <systemHardwareType lang="es">Consola</systemHardwareType>
     <systemCoverSize>3-4</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>

@@ -1,12 +1,16 @@
 <theme>
   <variables>
     <systemName>Atari 800</systemName>
+    <systemManufacturer>Atari</systemManufacturer>
+    <systemReleaseYear>1979</systemReleaseYear>
     <systemDescription>The Atari 8-bit family is a series of 8-bit home computers introduced by Atari, Inc. in 1979 as the Atari 400 and Atari 800 and manufactured until 1992. All of the machines in the family are technically similar and differ primarily in packaging. They are based on the MOS Technology 6502 CPU running at 1.79 MHz, and were the first home computers designed with custom coprocessor chips. This architecture enabled graphics and sound more advanced than contemporary machines, and gaming was a major draw. First-person space combat simulator Star Raiders is considered the platform's killer app. The systems launched with plug and play peripherals using the Atari SIO serial bus, an early analog of USB.
 
 The Atari 400 was initially almost half the cost of the Atari 800. Instead of the 800's full-sized keyboard, the 400 has a pressure-sensitive panel. The 800 has a second cartridge slot and a larger case allowing RAM upgrades to 48K. Both models were replaced by the XL series in 1983, then–after the company was sold and reestablished as Atari Corporation–the XE models in 1985. The XL and XE are lighter in construction while having Atari BASIC built-in and 2 joystick ports instead of 4. The 130XE increased the memory to 128 KB of bank-switched RAM.</systemDescription>
-    <systemManufacturer>Atari</systemManufacturer>
-    <systemReleaseYear>1979</systemReleaseYear>
+   <systemDescription lang="es">La familia Atari de 8 bits es una serie de ordenadores domésticos de 8 bits, presentados por Atari, Inc. en 1979 con los nombres Atari 400 y Atari 800, que se fabricaron hasta 1992. Todas las máquinas de la familia son técnicamente similares y difieren principalmente en su diseño. Se basan en la CPU MOS Technology 6502 a 1,79 MHz y fueron los primeros ordenadores domésticos diseñados con chips coprocesadores personalizados. Esta arquitectura permitió gráficos y sonido más avanzados que los de las máquinas contemporáneas, y los videojuegos fueron un gran atractivo. El simulador de combate espacial en primera persona Star Raiders se considera la aplicación estrella de la plataforma. Los sistemas se lanzaron con periféricos plug and play que utilizaban el bus serie Atari SIO, un análogo temprano del USB.
+
+El Atari 400 costaba inicialmente casi la mitad que el Atari 800. En lugar del teclado de tamaño completo del 800, el 400 cuenta con un panel sensible a la presión. El 800 cuenta con una segunda ranura para cartuchos y una carcasa más grande que permite ampliar la RAM hasta 48 KB. Ambos modelos fueron reemplazados por la serie XL en 1983, y luego, después de que la compañía fuera vendida y restablecida como Atari Corporation, los modelos XE en 1985. El XL y el XE son más livianos en construcción mientras que tienen Atari BASIC incorporado y 2 puertos de joystick en lugar de 4. El 130XE aumentó la memoria a 128 KB de RAM conmutada por banco.</systemDescription>  
     <systemHardwareType>Computer</systemHardwareType>
+    <systemHardwareType lasng="es">Ordenador</systemHardwareType>
     <systemCoverSize>3-4</systemCoverSize>
     <systemCartSize>373-436</systemCartSize>
   </variables>

@@ -1,12 +1,16 @@
 <theme>
   <variables>
     <systemName>VIC-20</systemName>
+    <systemManufacturer>Commodore</systemManufacturer>
+    <systemReleaseYear>1980</systemReleaseYear>
     <systemDescription>The Commodore VIC-20 (known as the VC-20 in Germany and the VIC-1001 in Japan) is an 8-bit home computer that was sold by Commodore Business Machines. The VIC-20 was announced in 1980, roughly three years after Commodore's first personal computer, the PET. The VIC-20 was the first computer of any description to sell one million units. It was described as "one of the first anti-spectatorial, non-esoteric computers by design...no longer relegated to hobbyist/enthusiasts or those with money, the computer Commodore developed was the computer of the future.
 
 The VIC-20 was called VC-20 in Germany because the pronunciation of VIC with a German accent sounds like the German expletives "fick" or "wichsen". The term VC was marketed as though it was an abbreviation of VolksComputer ("people's computer," similar to Volkswagen and Volksempfänger).</systemDescription>
-    <systemManufacturer>Commodore</systemManufacturer>
-    <systemReleaseYear>1980</systemReleaseYear>
+    <systemDescription lang="es">El Commodore VIC-20 (conocido como VC-20 en Alemania y VIC-1001 en Japón) es un ordenador doméstico de 8 bits comercializado por Commodore Business Machines. El VIC-20 se anunció en 1980, aproximadamente tres años después del primer ordenador personal de Commodore, el PET. El VIC-20 fue el primer ordenador de cualquier tipo en vender un millón de unidades. Se describió como «uno de los primeros ordenadores antiespectatoriales, no esotéricos por diseño... ya no relegado a aficionados/entusiastas o personas con dinero, el ordenador que Commodore desarrolló fue el ordenador del futuro».
+
+El VIC-20 se llamó VC-20 en Alemania porque la pronunciación de VIC con acento alemán suena como las palabrotas alemanas «fick» o «wichsen». El término VC se comercializó como si fuera una abreviatura de VolksComputer («ordenador del pueblo», similar a Volkswagen y Volksempfänger).</systemDescription>
     <systemHardwareType>Computer</systemHardwareType>
+    <systemHardwareType lang="es">Ordenador</systemHardwareType>
     <systemCoverSize>3-4</systemCoverSize>
     <systemCartSize>99-168</systemCartSize>
   </variables>

@@ -1,14 +1,13 @@
 <theme>
   <variables>
     <systemName>FinalBurn Neo</systemName>
-    <systemDescription>FinalBurn Neo is a Multiple Arcade Emulator most popular for emulating Neo-Geo, Capcom, Konami, and Cave games. It is developed by the FinalBurn team and originated from FinalBurn by Dave and old MAME versions.
-
-FinalBurn Neo is an active fork of the FinalBurn Alpha emulator, created by many of the former FBA developers.
-
-The reason for the separation of the older branch, FB Alpha, and new spin-off branch, FB Neo, was due to an apparent disagreement between one Barry Harris and the rest of the main FBA team members over a licensing issue.</systemDescription>
     <systemManufacturer>FBA Team</systemManufacturer>
+    <systemManufacturer>El equipo de FBA</systemManufacturer>
     <systemReleaseYear>2019</systemReleaseYear>
+    <systemDescription>FinalBurn Neo is a Multiple Arcade Emulator most popular for emulating Neo-Geo, Capcom, Konami, and Cave games. It is developed by the FinalBurn team and originated from FinalBurn by Dave and old MAME versions. FinalBurn Neo is an active fork of the FinalBurn Alpha emulator, created by many of the former FBA developers. The reason for the separation of the older branch, FB Alpha, and new spin-off branch, FB Neo, was due to an apparent disagreement between one Barry Harris and the rest of the main FBA team members over a licensing issue.</systemDescription>
+    <systemDescription lang="es">FinalBurn Neo es un emulador de arcade múltiple, popular para emular juegos de Neo-Geo, Capcom, Konami y Cave. Desarrollado por el equipo de FinalBurn, se originó a partir de FinalBurn by Dave y versiones anteriores de MAME. FinalBurn Neo es una bifurcación activa del emulador FinalBurn Alpha, creado por muchos de los antiguos desarrolladores de FBA. La separación de la rama anterior, FB Alpha, y la nueva rama derivada, FB Neo, se debió a un aparente desacuerdo entre Barry Harris y el resto del equipo principal de FBA por un problema de licencia.</systemDescription>
     <systemHardwareType>Emulator</systemHardwareType>
+    <systemHardwareType lang="es">Emulador</systemHardwareType>
     <systemCoverSize>3-4</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>

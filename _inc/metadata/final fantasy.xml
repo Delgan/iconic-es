@@ -1,10 +1,17 @@
 <theme>
   <variables>
     <systemName>Final Fantasy</systemName>
-    <systemDescription>View and play the Final Fantasy Games in your collection.</systemDescription>
     <systemManufacturer>Nintendo</systemManufacturer>
     <systemReleaseYear>Various</systemReleaseYear>
+    <systemReleaseYear lang="es">Varios</systemReleaseYear>
+    <systemDescription>Final Fantasy is a Japanese fantasy anthology media franchise created by Hironobu Sakaguchi which is owned, developed, and published by Square Enix (formerly Square). The franchise centers on a series of fantasy role-playing video games. The first game in the series was released in 1987, with 16 numbered main entries having been released to date.
+
+The franchise has since branched into other video game genres such as tactical role-playing, action role-playing, massively multiplayer online role-playing, racing, third-person shooter, fighting, and rhythm.</systemDescription>
+    <systemDescription lang="es">Final Fantasy (ファイナルファンタジ) es una franquicia de medios creada por Hironobu Sakaguchi y desarrollada, distribuida y propiedad de Square Enix (antes conocida como Squaresoft). La franquicia se centra en una serie de fantasía y ciencia ficción de videojuegos RPG.
+
+La serie comenzó en 1987 con el videojuego homónimo, desarrollado por Hironobu Sakaguchi como último intento en su carrera; de ahí el título: Final Fantasy (en español, "Fantasía Final"). El juego fue todo un éxito y permitió el desarrollo de numerosas secuelas y spin-offs. La serie de videojuegos se ha ido adaptando a otros géneros, como los RPG tácticos, RPG de acción, MMORPG, musicales y carreras.</systemDescription>
     <systemHardwareType>Custom Collection</systemHardwareType>
+    <systemHardwareType lang="es">Colección personalizada</systemHardwareType>
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>

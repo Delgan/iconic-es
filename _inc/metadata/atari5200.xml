@@ -1,10 +1,12 @@
 <theme>
   <variables>
     <systemName>Atari 5200</systemName>
-    <systemDescription>The Atari 5200 SuperSystem, commonly known as the Atari 5200, is a second generation (1976–1992) video game console developed and distributed by Atari, Inc. It was released in November 1982 in North America at a retail price of $269. It was not released outside North America. The 5200's internal hardware was almost identical to Atari's 8-bit computers however it came with an innovative controller featuring a 360-degree non-centering joystick with a numeric keypad, start, pause, and reset buttons. The console was discontinued on May 21, 1984.</systemDescription>
     <systemManufacturer>Atari</systemManufacturer>
     <systemReleaseYear>1982</systemReleaseYear>
+    <systemDescription>The Atari 5200 SuperSystem, commonly known as the Atari 5200, is a second generation (1976–1992) video game console developed and distributed by Atari, Inc. It was released in November 1982 in North America at a retail price of $269. It was not released outside North America. The 5200's internal hardware was almost identical to Atari's 8-bit computers however it came with an innovative controller featuring a 360-degree non-centering joystick with a numeric keypad, start, pause, and reset buttons. The console was discontinued on May 21, 1984.</systemDescription>
+    <systemDescription lang="es">La Atari 5200 SuperSystem, comúnmente conocida como Atari 5200, es una consola de videojuegos de segunda generación (1976-1992) desarrollada y distribuida por Atari, Inc. Salió a la venta en noviembre de 1982 en Norteamérica a un precio de venta de 269 dólares. No se lanzó fuera de Norteamérica. El hardware interno de la 5200 era casi idéntico al de las computadoras Atari de 8 bits; sin embargo, incluía un innovador controlador con un joystick de 360 ​​grados no centrado, teclado numérico y botones de inicio, pausa y reinicio. La consola se discontinuó el 21 de mayo de 1984.</systemDescription>
     <systemHardwareType>Console</systemHardwareType>
+    <systemHardwareType lang="es">Consola</systemHardwareType>
     <systemCoverSize>3-4</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>

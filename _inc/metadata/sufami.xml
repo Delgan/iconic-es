@@ -1,14 +1,20 @@
 <theme>
   <variables>
     <systemName>SuFami Turbo</systemName>
+    <systemManufacturer>Bandai</systemManufacturer>
+    <systemReleaseYear>1996</systemReleaseYear>
     <systemDescription>The SuFami Turbo (スーファミターボ), often compared to the Aladdin Deck Enhancer, is an accessory released by Bandai for Nintendo's Super Famicom system and was released in 1996.
 
 This device is designed to sit on top of the Super Famicom, and features two cartridge slots. The premise is that games could be produced at a much lower cost and development time, not having to rely on Nintendo for cartridge production. Unlike the Aladdin Deck Enhancer, this device was officially approved by Nintendo under the provision that Bandai handle all the hardware manufacturing itself.
 
 The two cartridge slots are designed to share data between the games. The cartridge placed in slot 1 is the game that will be played, while the cartridge in slot 2 supplies additional data for use in the main game. Of the thirteen games released, nine of them can link up, within each game series.</systemDescription>
-    <systemManufacturer>Bandai</systemManufacturer>
-    <systemReleaseYear>1996</systemReleaseYear>
+     <systemDescription lang="es">El SuFami Turbo (スーファミターボ), a menudo comparado con el Aladdin Deck Enhancer, es un accesorio lanzado por Bandai para la consola Super Famicom de Nintendo en 1996.
+
+Este dispositivo está diseñado para instalarse sobre la Super Famicom y cuenta con dos ranuras para cartuchos. La premisa es que los juegos podrían producirse a un coste y tiempo de desarrollo mucho menores, sin tener que depender de Nintendo para la producción de cartuchos. A diferencia del Aladdin Deck Enhancer, este dispositivo fue aprobado oficialmente por Nintendo bajo la condición de que Bandai se encargara de la fabricación del hardware.
+
+Las dos ranuras para cartuchos están diseñadas para compartir datos entre los juegos. El cartucho colocado en la ranura 1 corresponde al juego que se jugará, mientras que el cartucho en la ranura 2 proporciona datos adicionales para el juego principal. De los trece juegos lanzados, nueve pueden conectarse, dentro de cada saga.</systemDescription>
     <systemHardwareType>Peripheral</systemHardwareType>
+    <systemHardwareType lang="es">Periférico</systemHardwareType>
     <systemCoverSize>3-5</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
