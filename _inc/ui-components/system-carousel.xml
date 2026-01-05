@@ -7,6 +7,15 @@ vertically on the left side of the screen.
 <theme>
     <formatVersion>7</formatVersion>
     <view name="system">
+        <image name="logo" ifSubset="color-scheme:light">
+            <path>./_inc/logos/${system.theme}.png</path>
+            <path>./_inc/logos/${system.theme}.webp</path>
+            <path>./_inc/logos/${system.theme}.svg</path>
+            <!-- check if lang resources exist -->
+            <path>./_inc/logos/${system.theme}-${lang}.png</path>
+            <path>./_inc/logos/${system.theme}-${lang}.webp</path>
+            <path>./_inc/logos/${system.theme}-${lang}.svg</path>	
+        </image>
         <image name="logo" ifSubset="color-scheme:dark">
             <path>./_inc/logos/${system.theme}.png</path>
             <path>./_inc/logos/${system.theme}.webp</path>
@@ -21,22 +30,7 @@ vertically on the left side of the screen.
             <path>./_inc/logos/${system.theme}-${lang}-dark.png</path>
             <path>./_inc/logos/${system.theme}-${lang}-dark.webp</path>
             <path>./_inc/logos/${system.theme}-${lang}-dark.svg</path>
-        </image>
-        <image name="logo" ifSubset="color-scheme:light">
-            <path>./_inc/logos/${system.theme}.png</path>
-            <path>./_inc/logos/${system.theme}.webp</path>
-            <path>./_inc/logos/${system.theme}.svg</path>
-            <path>./_inc/logos/${system.theme}-light.png</path>
-            <path>./_inc/logos/${system.theme}-light.webp</path> 
-            <path>./_inc/logos/${system.theme}-light.svg</path>
-            <!-- check if lang resources exist -->
-            <path>./_inc/logos/${system.theme}-${lang}.png</path>
-            <path>./_inc/logos/${system.theme}-${lang}.webp</path>
-            <path>./_inc/logos/${system.theme}-${lang}.svg</path>
-            <path>./_inc/logos/${system.theme}-${lang}-light.png</path>
-            <path>./_inc/logos/${system.theme}-${lang}-light.webp</path> 
-            <path>./_inc/logos/${system.theme}-${lang}-light.svg</path>
-        </image>
+        </image>     
         <carousel name="systemcarousel">
             <type>horizontal</type>
             <origin>0.5 0</origin>
@@ -63,34 +57,11 @@ vertically on the left side of the screen.
                     </image>
                     <text name="logo-text-fallback">
                         <visible>false</visible>
-                        <visible ifSubset="color-scheme:dark">
+                        <visible>
                                !exists("${themePath}/_inc/logos/" + {system:theme} + ".png")
                             && !exists("${themePath}/_inc/logos/" + {system:theme} + ".webp")
                             && !exists("${themePath}/_inc/logos/" + {system:theme} + ".svg")
-                            && !exists("${themePath}/_inc/logos/" + {system:theme} + "-dark.png")
-                            && !exists("${themePath}/_inc/logos/" + {system:theme} + "-dark.webp")
-                            && !exists("${themePath}/_inc/logos/" + {system:theme} + "-dark.svg")
-                            && !exists("${themePath}/_inc/logos/" + {system:theme} + "-${lang}.png")
-                            && !exists("${themePath}/_inc/logos/" + {system:theme} + "-${lang}.webp")
-                            && !exists("${themePath}/_inc/logos/" + {system:theme} + "-${lang}.svg")
-                            && !exists("${themePath}/_inc/logos/" + {system:theme} + "-${lang}-dark.png")
-                            && !exists("${themePath}/_inc/logos/" + {system:theme} + "-${lang}-dark.webp")
-                            && !exists("${themePath}/_inc/logos/" + {system:theme} + "-${lang}-dark.svg")
-                        </visible>
-                        <visible ifSubset="color-scheme:light">
-                               !exists("${themePath}/_inc/logos/" + {system:theme} + ".png")
-                            && !exists("${themePath}/_inc/logos/" + {system:theme} + ".webp")
-                            && !exists("${themePath}/_inc/logos/" + {system:theme} + ".svg")
-                            && !exists("${themePath}/_inc/logos/" + {system:theme} + "-light.png")
-                            && !exists("${themePath}/_inc/logos/" + {system:theme} + "-light.webp")
-                            && !exists("${themePath}/_inc/logos/" + {system:theme} + "-light.svg")
-                            && !exists("${themePath}/_inc/logos/" + {system:theme} + "-${lang}.png")
-                            && !exists("${themePath}/_inc/logos/" + {system:theme} + "-${lang}.webp")
-                            && !exists("${themePath}/_inc/logos/" + {system:theme} + "-${lang}.svg")
-                            && !exists("${themePath}/_inc/logos/" + {system:theme} + "-${lang}-light.png")
-                            && !exists("${themePath}/_inc/logos/" + {system:theme} + "-${lang}-light.webp")
-                            && !exists("${themePath}/_inc/logos/" + {system:theme} + "-${lang}-light.svg")
-                        </visible>
+                        </visible>	 		
                         <value>{system:fullName}</value>
                         <forceUppercase>true</forceUppercase>
                         <lineSpacing>1</lineSpacing>
