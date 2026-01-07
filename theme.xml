@@ -9,6 +9,7 @@ Based on:   Iconic (ES-DE version) by Siddy212
 <theme defaultTransition="instant">
     <formatVersion>7</formatVersion>
     <!-- Theme variants. -->
+    <include>./_inc/ui-components/theme-lang.xml</include>
     <include>./_inc/ui-components/theme-config.xml</include>
     <include>./_inc/ui-components/theme-variables.xml</include>
     <!-- Set default description and cart size when none is available. -->

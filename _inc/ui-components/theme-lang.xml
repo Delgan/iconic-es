@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This component defines the UI translations based on the language configured in settings.
+
+This should assign every translatable text to a variable, which can then be used in other theme
+components. In particular, this is used to define the "displayName" attributes of the configuration
+defined in "theme-config.xml". Therefore, it must be included before any other one.
+-->
+<theme>
+    <formatVersion>7</formatVersion>
+    <!-- The "en" lang is always included first, it acts as the default fallback. -->
+    <variables>
+        <i18n.aspect-ratio>Aspect Ratio</i18n.aspect-ratio>
+        <i18n.automatic>Automatic</i18n.automatic>
+        <i18n.color-scheme>Color Scheme</i18n.color-scheme>
+        <i18n.light>Light</i18n.light>
+        <i18n.dark>Dark</i18n.dark>
+        <i18n.game-media-type>Game Media Type</i18n.game-media-type>
+        <i18n.image>Image</i18n.image>
+        <i18n.boxart>Boxart</i18n.boxart>
+        <i18n.marquee>Marquee</i18n.marquee>
+        <i18n.mix>Mix</i18n.mix>
+        <i18n.play-video-previews>Play Video Previews of Games</i18n.play-video-previews>
+        <i18n.yes>Yes</i18n.yes>
+        <i18n.no>No</i18n.no>
+        <i18n.show-game-titles-in-grid>Show Game Titles in Grid</i18n.show-game-titles-in-grid>
+        <i18n.metadata-source>Metadata Source</i18n.metadata-source>
+        <i18n.theme>Theme</i18n.theme>
+        <i18n.smooth-resize>Smooth Resize</i18n.smooth-resize>
+        <i18n.distribution>Distribution</i18n.distribution>
+        <i18n.none>None</i18n.none>
+    </variables>
+    <!-- Following variables will overwrite the default ones if the "lang" matches. -->
+    <variables lang="es">
+        <i18n.aspect-ratio>Relación de aspecto</i18n.aspect-ratio>
+        <i18n.automatic>Automaticó</i18n.automatic>
+        <i18n.color-scheme>Esquema de color</i18n.color-scheme>
+        <i18n.light>Claro</i18n.light>
+        <i18n.dark>Oscuro</i18n.dark>
+        <i18n.game-media-type>Tipo de medio</i18n.game-media-type>
+        <i18n.image>Imagen</i18n.image>
+        <i18n.boxart>Caja</i18n.boxart>
+        <i18n.marquee>Logotipo</i18n.marquee>
+        <i18n.mix>Mixto</i18n.mix>
+        <i18n.play-video-previews>Reproducir videos de previsualización</i18n.play-video-previews>
+        <i18n.yes>Sí</i18n.yes>
+        <i18n.no>No</i18n.no>
+        <i18n.show-game-titles-in-grid>Mostrar nombre del juego en la cuadrícula</i18n.show-game-titles-in-grid>
+        <i18n.metadata-source>Origen de los metadatos</i18n.metadata-source>
+        <i18n.theme>Tema</i18n.theme>
+        <i18n.smooth-resize>Redimensionado suave</i18n.smooth-resize>
+        <i18n.distribution>Distribución</i18n.distribution>
+        <i18n.none>Ninguna</i18n.none>
+    </variables>
+</theme>
