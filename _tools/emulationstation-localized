@@ -1,0 +1,16 @@
+#!/bin/bash
+# Transparent wrapper for emulationstation that sets LANG from es_settings.cfg
+
+LANG_VALUE="en_US"
+if [ -f ~/.emulationstation/es_settings.cfg ]; then
+    LANG_LINE=$(grep 'name="Language"' ~/.emulationstation/es_settings.cfg)
+    if [ -n "$LANG_LINE" ]; then
+        LANG_VALUE=$(echo "$LANG_LINE" | cut -d'"' -f4)
+    fi
+fi
+
+export LANG="$LANG_VALUE"
+export LANGUAGE="$LANG_VALUE"
+
+cd /opt/batocera-emulationstation  # Required to find resources correctly.
+exec emulationstation "$@"
