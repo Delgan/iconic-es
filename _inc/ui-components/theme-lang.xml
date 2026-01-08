@@ -51,6 +51,27 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.distribution>التوزيع</i18n.distribution>
         <i18n.none>لا شيء</i18n.none>
     </variables>
+    <variables lang="bs">
+        <i18n.aspect-ratio>Omjer slike</i18n.aspect-ratio>
+        <i18n.automatic>Automatski</i18n.automatic>
+        <i18n.color-scheme>Šema boja</i18n.color-scheme>
+        <i18n.light>Svijetla</i18n.light>
+        <i18n.dark>Tamna</i18n.dark>
+        <i18n.game-media-type>Tip medija</i18n.game-media-type>
+        <i18n.image>Slika</i18n.image>
+        <i18n.boxart>Kutija</i18n.boxart>
+        <i18n.marquee>Logotip</i18n.marquee>
+        <i18n.mix>Miješano</i18n.mix>
+        <i18n.play-video-previews>Reproduciraj video preglede</i18n.play-video-previews>
+        <i18n.yes>Da</i18n.yes>
+        <i18n.no>Ne</i18n.no>
+        <i18n.show-game-titles-in-grid>Prikaži naslove igara u mreži</i18n.show-game-titles-in-grid>
+        <i18n.metadata-source>Izvor metapodataka</i18n.metadata-source>
+        <i18n.theme>Tema</i18n.theme>
+        <i18n.smooth-resize>Glatko promjena veličine</i18n.smooth-resize>
+        <i18n.distribution>Distribucija</i18n.distribution>
+        <i18n.none>Ništa</i18n.none>
+    </variables>
     <variables lang="ca">
         <i18n.aspect-ratio>Relació d'aspecte</i18n.aspect-ratio>
         <i18n.automatic>Automàtic</i18n.automatic>
@@ -135,6 +156,27 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.distribution>Distribution</i18n.distribution>
         <i18n.none>Aucune</i18n.none>
     </variables>
+    <variables lang="hr">
+        <i18n.aspect-ratio>Omjer slike</i18n.aspect-ratio>
+        <i18n.automatic>Automatski</i18n.automatic>
+        <i18n.color-scheme>Shema boja</i18n.color-scheme>
+        <i18n.light>Svijetla</i18n.light>
+        <i18n.dark>Tamna</i18n.dark>
+        <i18n.game-media-type>Tip medija</i18n.game-media-type>
+        <i18n.image>Slika</i18n.image>
+        <i18n.boxart>Kutija</i18n.boxart>
+        <i18n.marquee>Logotip</i18n.marquee>
+        <i18n.mix>Miješano</i18n.mix>
+        <i18n.play-video-previews>Reproduciraj video preglede</i18n.play-video-previews>
+        <i18n.yes>Da</i18n.yes>
+        <i18n.no>Ne</i18n.no>
+        <i18n.show-game-titles-in-grid>Prikaži naslove igara u mreži</i18n.show-game-titles-in-grid>
+        <i18n.metadata-source>Izvor metapodataka</i18n.metadata-source>
+        <i18n.theme>Tema</i18n.theme>
+        <i18n.smooth-resize>Glatko promjena veličine</i18n.smooth-resize>
+        <i18n.distribution>Distribucija</i18n.distribution>
+        <i18n.none>Ništa</i18n.none>
+    </variables>
     <variables lang="it">
         <i18n.aspect-ratio>Rapporto d'aspetto</i18n.aspect-ratio>
         <i18n.automatic>Automatico</i18n.automatic>
@@ -177,69 +219,6 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.distribution>Distributie</i18n.distribution>
         <i18n.none>Geen</i18n.none>
     </variables>
-    <variables lang="eu">
-        <i18n.aspect-ratio>Aspektu-erlazioa</i18n.aspect-ratio>
-        <i18n.automatic>Automatikoa</i18n.automatic>
-        <i18n.color-scheme>Kolore-eskema</i18n.color-scheme>
-        <i18n.light>Argia</i18n.light>
-        <i18n.dark>Iluna</i18n.dark>
-        <i18n.game-media-type>Multimedia mota</i18n.game-media-type>
-        <i18n.image>Irudia</i18n.image>
-        <i18n.boxart>Kaxa</i18n.boxart>
-        <i18n.marquee>Logoa</i18n.marquee>
-        <i18n.mix>Mistoa</i18n.mix>
-        <i18n.play-video-previews>Bideo-aurrebistak erreproduzitu</i18n.play-video-previews>
-        <i18n.yes>Bai</i18n.yes>
-        <i18n.no>Ez</i18n.no>
-        <i18n.show-game-titles-in-grid>Erakutsi joko-izenburuak saretán</i18n.show-game-titles-in-grid>
-        <i18n.metadata-source>Metadatuen iturria</i18n.metadata-source>
-        <i18n.theme>Gaia</i18n.theme>
-        <i18n.smooth-resize>Tamaina-aldaketa leuna</i18n.smooth-resize>
-        <i18n.distribution>Banaketa</i18n.distribution>
-        <i18n.none>Bat ere ez</i18n.none>
-    </variables>
-    <variables lang="gl">
-        <i18n.aspect-ratio>Relación de aspecto</i18n.aspect-ratio>
-        <i18n.automatic>Automático</i18n.automatic>
-        <i18n.color-scheme>Esquema de cores</i18n.color-scheme>
-        <i18n.light>Claro</i18n.light>
-        <i18n.dark>Escuro</i18n.dark>
-        <i18n.game-media-type>Tipo de medio</i18n.game-media-type>
-        <i18n.image>Imaxe</i18n.image>
-        <i18n.boxart>Caixa</i18n.boxart>
-        <i18n.marquee>Logo</i18n.marquee>
-        <i18n.mix>Mixto</i18n.mix>
-        <i18n.play-video-previews>Reproducir vistas previas de vídeo</i18n.play-video-previews>
-        <i18n.yes>Si</i18n.yes>
-        <i18n.no>Non</i18n.no>
-        <i18n.show-game-titles-in-grid>Mostrar títulos na grade</i18n.show-game-titles-in-grid>
-        <i18n.metadata-source>Orixe de metadatos</i18n.metadata-source>
-        <i18n.theme>Tema</i18n.theme>
-        <i18n.smooth-resize>Redimensionamento suave</i18n.smooth-resize>
-        <i18n.distribution>Distribución</i18n.distribution>
-        <i18n.none>Ningunha</i18n.none>
-    </variables>
-    <variables lang="he">
-        <i18n.aspect-ratio>יחס גובה-רוחב</i18n.aspect-ratio>
-        <i18n.automatic>אוטומטי</i18n.automatic>
-        <i18n.color-scheme>ערכת צבעים</i18n.color-scheme>
-        <i18n.light>בהיר</i18n.light>
-        <i18n.dark>כהה</i18n.dark>
-        <i18n.game-media-type>סוג מדיה</i18n.game-media-type>
-        <i18n.image>תמונה</i18n.image>
-        <i18n.boxart>קופסה</i18n.boxart>
-        <i18n.marquee>לוגו</i18n.marquee>
-        <i18n.mix>מעורב</i18n.mix>
-        <i18n.play-video-previews>הפעל תצוגות מקדימות</i18n.play-video-previews>
-        <i18n.yes>כן</i18n.yes>
-        <i18n.no>לא</i18n.no>
-        <i18n.show-game-titles-in-grid>הצג כותרות ברשת</i18n.show-game-titles-in-grid>
-        <i18n.metadata-source>מקור מטא-נתונים</i18n.metadata-source>
-        <i18n.theme>ערכת נושא</i18n.theme>
-        <i18n.smooth-resize>שינוי גודל חלק</i18n.smooth-resize>
-        <i18n.distribution>הפצה</i18n.distribution>
-        <i18n.none>ללא</i18n.none>
-    </variables>
     <variables lang="ja">
         <i18n.aspect-ratio>アスペクト比</i18n.aspect-ratio>
         <i18n.automatic>自動</i18n.automatic>
@@ -260,6 +239,27 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.smooth-resize>スムーズリサイズ</i18n.smooth-resize>
         <i18n.distribution>ディストリビューション</i18n.distribution>
         <i18n.none>なし</i18n.none>
+    </variables>
+    <variables lang="ko">
+        <i18n.aspect-ratio>화면 비율</i18n.aspect-ratio>
+        <i18n.automatic>자동</i18n.automatic>
+        <i18n.color-scheme>색 구성표</i18n.color-scheme>
+        <i18n.light>밝게</i18n.light>
+        <i18n.dark>어둡게</i18n.dark>
+        <i18n.game-media-type>미디어 유형</i18n.game-media-type>
+        <i18n.image>이미지</i18n.image>
+        <i18n.boxart>박스아트</i18n.boxart>
+        <i18n.marquee>로고</i18n.marquee>
+        <i18n.mix>혼합</i18n.mix>
+        <i18n.play-video-previews>비디오 미리보기 재생</i18n.play-video-previews>
+        <i18n.yes>예</i18n.yes>
+        <i18n.no>아니오</i18n.no>
+        <i18n.show-game-titles-in-grid>그리드에 게임 제목 표시</i18n.show-game-titles-in-grid>
+        <i18n.metadata-source>메타데이터 소스</i18n.metadata-source>
+        <i18n.theme>테마</i18n.theme>
+        <i18n.smooth-resize>부드러운 크기 조정</i18n.smooth-resize>
+        <i18n.distribution>배포판</i18n.distribution>
+        <i18n.none>없음</i18n.none>
     </variables>
     <variables lang="pl">
         <i18n.aspect-ratio>Proporcje obrazu</i18n.aspect-ratio>
@@ -303,6 +303,27 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.distribution>Distribuição</i18n.distribution>
         <i18n.none>Nenhuma</i18n.none>
     </variables>
+    <variables lang="ro">
+        <i18n.aspect-ratio>Raport de aspect</i18n.aspect-ratio>
+        <i18n.automatic>Automat</i18n.automatic>
+        <i18n.color-scheme>Schemă de culori</i18n.color-scheme>
+        <i18n.light>Deschis</i18n.light>
+        <i18n.dark>Întunecat</i18n.dark>
+        <i18n.game-media-type>Tip de media</i18n.game-media-type>
+        <i18n.image>Imagine</i18n.image>
+        <i18n.boxart>Cutie</i18n.boxart>
+        <i18n.marquee>Logo</i18n.marquee>
+        <i18n.mix>Mixt</i18n.mix>
+        <i18n.play-video-previews>Redă previzualizări video</i18n.play-video-previews>
+        <i18n.yes>Da</i18n.yes>
+        <i18n.no>Nu</i18n.no>
+        <i18n.show-game-titles-in-grid>Arată titlurile în grilă</i18n.show-game-titles-in-grid>
+        <i18n.metadata-source>Sursă metadate</i18n.metadata-source>
+        <i18n.theme>Temă</i18n.theme>
+        <i18n.smooth-resize>Redimensionare fluidă</i18n.smooth-resize>
+        <i18n.distribution>Distribuție</i18n.distribution>
+        <i18n.none>Niciunul</i18n.none>
+    </variables>
     <variables lang="ru">
         <i18n.aspect-ratio>Соотношение сторон</i18n.aspect-ratio>
         <i18n.automatic>Автоматически</i18n.automatic>
@@ -323,6 +344,27 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.smooth-resize>Плавное изменение размера</i18n.smooth-resize>
         <i18n.distribution>Дистрибутив</i18n.distribution>
         <i18n.none>Нет</i18n.none>
+    </variables>
+    <variables lang="sr">
+        <i18n.aspect-ratio>Однос слике</i18n.aspect-ratio>
+        <i18n.automatic>Аутоматски</i18n.automatic>
+        <i18n.color-scheme>Шема боја</i18n.color-scheme>
+        <i18n.light>Светла</i18n.light>
+        <i18n.dark>Тамна</i18n.dark>
+        <i18n.game-media-type>Тип медија</i18n.game-media-type>
+        <i18n.image>Слика</i18n.image>
+        <i18n.boxart>Кутија</i18n.boxart>
+        <i18n.marquee>Логотип</i18n.marquee>
+        <i18n.mix>Мешовито</i18n.mix>
+        <i18n.play-video-previews>Репродукуј видео прегледе</i18n.play-video-previews>
+        <i18n.yes>Да</i18n.yes>
+        <i18n.no>Не</i18n.no>
+        <i18n.show-game-titles-in-grid>Прикажи наслове игара у мрежи</i18n.show-game-titles-in-grid>
+        <i18n.metadata-source>Извор метаподатака</i18n.metadata-source>
+        <i18n.theme>Тема</i18n.theme>
+        <i18n.smooth-resize>Глатка промена величине</i18n.smooth-resize>
+        <i18n.distribution>Дистрибуција</i18n.distribution>
+        <i18n.none>Ништа</i18n.none>
     </variables>
     <variables lang="sv">
         <i18n.aspect-ratio>Bildförhållande</i18n.aspect-ratio>
