@@ -5,7 +5,7 @@
     <systemManufacturer>Nintendo</systemManufacturer>
     <systemReleaseYear>1983</systemReleaseYear>
     <systemHardwareType>Console</systemHardwareType>
-    <systemCoverSize>4-3</systemCoverSize>
+    <systemCoverSize>3-4</systemCoverSize>
     <systemCartSize>105-170</systemCartSize>
   </variables>
 </theme>
