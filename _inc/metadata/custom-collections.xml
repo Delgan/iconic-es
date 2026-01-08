@@ -8,4 +8,76 @@
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
+  <variables lang="ar">
+    <systemDescription>نظّم ألعابك في مجموعات مخصصة.</systemDescription>
+    <systemHardwareType>المجموعة</systemHardwareType>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>Organizirajte svoje igre u prilagođene kolekcije.</systemDescription>
+    <systemHardwareType>Zbirka</systemHardwareType>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>Organitzeu els vostres jocs en col·leccions personalitzades.</systemDescription>
+    <systemHardwareType>Collection</systemHardwareType>
+  </variables>
+  <variables lang="de">
+    <systemDescription>Organisieren Sie Ihre Spiele in benutzerdefinierten Sammlungen.</systemDescription>
+    <systemHardwareType>Sammlung</systemHardwareType>
+  </variables>
+  <variables lang="es">
+    <systemDescription>Organiza tus juegos en colecciones personalizadas.</systemDescription>
+    <systemHardwareType>Colección</systemHardwareType>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>Organisez vos jeux dans des collections personnalisées.</systemDescription>
+    <systemHardwareType>Collection</systemHardwareType>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>Organizirajte svoje igre u prilagođene kolekcije.</systemDescription>
+    <systemHardwareType>Kolekcija</systemHardwareType>
+  </variables>
+  <variables lang="it">
+    <systemDescription>Organizzate i vostri giochi in collezioni personalizzate.</systemDescription>
+    <systemHardwareType>Collezione</systemHardwareType>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>ゲームをカスタムコレクションに整理。</systemDescription>
+    <systemHardwareType>コレクション</systemHardwareType>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>게임을 사용자 지정 컬렉션으로 정리하세요.</systemDescription>
+    <systemHardwareType>컬렉션</systemHardwareType>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>Organiseer je games in aangepaste collecties.</systemDescription>
+    <systemHardwareType>Collectie</systemHardwareType>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>Organizuj swoje gry w niestandardowe kolekcje.</systemDescription>
+    <systemHardwareType>Kolekcja</systemHardwareType>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>Organize seus jogos em coleções personalizadas.</systemDescription>
+    <systemHardwareType>Coleção</systemHardwareType>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>Organizați-vă jocurile în colecții personalizate.</systemDescription>
+    <systemHardwareType>Colecție</systemHardwareType>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>Организуйте игры в пользовательские коллекции.</systemDescription>
+    <systemHardwareType>Коллекция</systemHardwareType>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>Организујте своје игре у прилагођене колекције.</systemDescription>
+    <systemHardwareType>Збирка</systemHardwareType>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>Organisera dina spel i anpassade samlingar.</systemDescription>
+    <systemHardwareType>Samling</systemHardwareType>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>将游戏整理成自定义收藏。</systemDescription>
+    <systemHardwareType>收藏品</systemHardwareType>
+  </variables>
 </theme>

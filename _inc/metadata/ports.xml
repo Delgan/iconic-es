@@ -8,4 +8,76 @@
     <systemCoverSize>3-4</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
+  <variables lang="ar">
+    <systemDescription>عرض جميع منافذ الألعاب المفضلة لديك وتشغيلها.</systemDescription>
+    <systemHardwareType>المجلد</systemHardwareType>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>Pogledajte i igrajte sve svoje omiljene portove igre.</systemDescription>
+    <systemHardwareType>Mapa</systemHardwareType>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>Veure i jugar a tots els ports de joc preferits.</systemDescription>
+    <systemHardwareType>Folder</systemHardwareType>
+  </variables>
+  <variables lang="de">
+    <systemDescription>Sie können alle Ihre Lieblingsspielportarten anzeigen und spielen.</systemDescription>
+    <systemHardwareType>Mappe</systemHardwareType>
+  </variables>
+  <variables lang="es">
+    <systemDescription>Vea y juegue a todos sus puertos de juegos favoritos.</systemDescription>
+    <systemHardwareType>Carpeta</systemHardwareType>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>Visualisez et jouez à tous vos jeux préférés.</systemDescription>
+    <systemHardwareType>Dossier</systemHardwareType>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>Pogledajte i igrajte sve svoje omiljene luke za igre.</systemDescription>
+    <systemHardwareType>Mapa</systemHardwareType>
+  </variables>
+  <variables lang="it">
+    <systemDescription>Visualizzate e giocate a tutte le vostre porte di gioco preferite.</systemDescription>
+    <systemHardwareType>Cartella</systemHardwareType>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>お気に入りのゲームポートをすべて表示してプレイできます。</systemDescription>
+    <systemHardwareType>フォルダ</systemHardwareType>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>좋아하는 게임 포트를 모두 보고 플레이하세요.</systemDescription>
+    <systemHardwareType>폴더</systemHardwareType>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>Bekijk en speel al je favoriete game ports.</systemDescription>
+    <systemHardwareType>Map</systemHardwareType>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>Przeglądaj i graj we wszystkie swoje ulubione porty gier.</systemDescription>
+    <systemHardwareType>Folder</systemHardwareType>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>Visualize e jogue todas as portas de seus jogos favoritos.</systemDescription>
+    <systemHardwareType>Pasta</systemHardwareType>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>Vizualizați și jucați toate porturile jocurilor dvs. preferate.</systemDescription>
+    <systemHardwareType>Dosar</systemHardwareType>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>Просматривайте и играйте во все свои любимые игровые порты.</systemDescription>
+    <systemHardwareType>Папка</systemHardwareType>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>Погледајте и репродукујте све своје омиљене портове за игре.</systemDescription>
+    <systemHardwareType>Мапа</systemHardwareType>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>Visa och spela alla dina favoritspelportar.</systemDescription>
+    <systemHardwareType>Mapp</systemHardwareType>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>查看并玩转您喜爱的所有游戏端口。</systemDescription>
+    <systemHardwareType>文件夹</systemHardwareType>
+  </variables>
 </theme>

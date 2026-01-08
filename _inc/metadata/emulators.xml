@@ -8,4 +8,76 @@
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
+  <variables lang="ar">
+    <systemDescription>تعديل إعدادات المحاكي وتكويناته</systemDescription>
+    <systemHardwareType>المجلد</systemHardwareType>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>Izmijenite svoje postavke i konfiguracije emulatora</systemDescription>
+    <systemHardwareType>Mapa</systemHardwareType>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>Modifiqueu la configuració i les configuracions de l'emulador</systemDescription>
+    <systemHardwareType>Folder</systemHardwareType>
+  </variables>
+  <variables lang="de">
+    <systemDescription>Ändern Sie die Einstellungen und Konfigurationen Ihres Emulators</systemDescription>
+    <systemHardwareType>Mappe</systemHardwareType>
+  </variables>
+  <variables lang="es">
+    <systemDescription>Modificar los ajustes y configuraciones del emulador</systemDescription>
+    <systemHardwareType>Carpeta</systemHardwareType>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>Modifier les paramètres et les configurations de l'émulateur</systemDescription>
+    <systemHardwareType>Dossier</systemHardwareType>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>Izmijenite svoje postavke i konfiguracije emulatora</systemDescription>
+    <systemHardwareType>Mapa</systemHardwareType>
+  </variables>
+  <variables lang="it">
+    <systemDescription>Modificare le impostazioni e le configurazioni dell'emulatore</systemDescription>
+    <systemHardwareType>Cartella</systemHardwareType>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>エミュレータの設定と構成を変更する</systemDescription>
+    <systemHardwareType>フォルダ</systemHardwareType>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>에뮬레이터 설정 및 구성 수정하기</systemDescription>
+    <systemHardwareType>폴더</systemHardwareType>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>De instellingen en configuraties van uw Emulator wijzigen</systemDescription>
+    <systemHardwareType>Map</systemHardwareType>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>Modyfikacja ustawień i konfiguracji emulatora</systemDescription>
+    <systemHardwareType>Folder</systemHardwareType>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>Modificar as definições e configurações do emulador</systemDescription>
+    <systemHardwareType>Pasta</systemHardwareType>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>Modificați setările și configurațiile emulatorului dvs.</systemDescription>
+    <systemHardwareType>Dosar</systemHardwareType>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>Изменение настроек и конфигураций эмулятора</systemDescription>
+    <systemHardwareType>Папка</systemHardwareType>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>Измените подешавања и конфигурације емулатора</systemDescription>
+    <systemHardwareType>Мапа</systemHardwareType>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>Ändra Emulator-inställningar och -konfigurationer</systemDescription>
+    <systemHardwareType>Mapp</systemHardwareType>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>修改模拟器设置和配置</systemDescription>
+    <systemHardwareType>文件夹</systemHardwareType>
+  </variables>
 </theme>
