@@ -30,6 +30,69 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.none>None</i18n.none>
     </variables>
     <!-- Following variables will overwrite the default ones if the "lang" matches. -->
+    <variables lang="ar">
+        <i18n.aspect-ratio>نسبة العرض إلى الارتفاع</i18n.aspect-ratio>
+        <i18n.automatic>تلقائي</i18n.automatic>
+        <i18n.color-scheme>نظام الألوان</i18n.color-scheme>
+        <i18n.light>فاتح</i18n.light>
+        <i18n.dark>داكن</i18n.dark>
+        <i18n.game-media-type>نوع الوسائط</i18n.game-media-type>
+        <i18n.image>صورة</i18n.image>
+        <i18n.boxart>غلاف</i18n.boxart>
+        <i18n.marquee>شعار</i18n.marquee>
+        <i18n.mix>مختلط</i18n.mix>
+        <i18n.play-video-previews>تشغيل معاينات الفيديو</i18n.play-video-previews>
+        <i18n.yes>نعم</i18n.yes>
+        <i18n.no>لا</i18n.no>
+        <i18n.show-game-titles-in-grid>عرض عناوين الألعاب في الشبكة</i18n.show-game-titles-in-grid>
+        <i18n.metadata-source>مصدر البيانات الوصفية</i18n.metadata-source>
+        <i18n.theme>السمة</i18n.theme>
+        <i18n.smooth-resize>تغيير حجم سلس</i18n.smooth-resize>
+        <i18n.distribution>التوزيع</i18n.distribution>
+        <i18n.none>لا شيء</i18n.none>
+    </variables>
+    <variables lang="ca">
+        <i18n.aspect-ratio>Relació d'aspecte</i18n.aspect-ratio>
+        <i18n.automatic>Automàtic</i18n.automatic>
+        <i18n.color-scheme>Esquema de color</i18n.color-scheme>
+        <i18n.light>Clar</i18n.light>
+        <i18n.dark>Fosc</i18n.dark>
+        <i18n.game-media-type>Tipus de mitjà</i18n.game-media-type>
+        <i18n.image>Imatge</i18n.image>
+        <i18n.boxart>Caixa</i18n.boxart>
+        <i18n.marquee>Logo</i18n.marquee>
+        <i18n.mix>Mixt</i18n.mix>
+        <i18n.play-video-previews>Reproduir previsualitzacions de vídeo</i18n.play-video-previews>
+        <i18n.yes>Sí</i18n.yes>
+        <i18n.no>No</i18n.no>
+        <i18n.show-game-titles-in-grid>Mostrar títols a la graella</i18n.show-game-titles-in-grid>
+        <i18n.metadata-source>Font de metadades</i18n.metadata-source>
+        <i18n.theme>Tema</i18n.theme>
+        <i18n.smooth-resize>Redimensionament suau</i18n.smooth-resize>
+        <i18n.distribution>Distribució</i18n.distribution>
+        <i18n.none>Cap</i18n.none>
+    </variables>
+    <variables lang="de">
+        <i18n.aspect-ratio>Seitenverhältnis</i18n.aspect-ratio>
+        <i18n.automatic>Automatisch</i18n.automatic>
+        <i18n.color-scheme>Farbschema</i18n.color-scheme>
+        <i18n.light>Hell</i18n.light>
+        <i18n.dark>Dunkel</i18n.dark>
+        <i18n.game-media-type>Medientyp</i18n.game-media-type>
+        <i18n.image>Bild</i18n.image>
+        <i18n.boxart>Verpackung</i18n.boxart>
+        <i18n.marquee>Logo</i18n.marquee>
+        <i18n.mix>Gemischt</i18n.mix>
+        <i18n.play-video-previews>Videovorschauen abspielen</i18n.play-video-previews>
+        <i18n.yes>Ja</i18n.yes>
+        <i18n.no>Nein</i18n.no>
+        <i18n.show-game-titles-in-grid>Spieltitel im Raster anzeigen</i18n.show-game-titles-in-grid>
+        <i18n.metadata-source>Metadatenquelle</i18n.metadata-source>
+        <i18n.theme>Theme</i18n.theme>
+        <i18n.smooth-resize>Sanfte Größenänderung</i18n.smooth-resize>
+        <i18n.distribution>Distribution</i18n.distribution>
+        <i18n.none>Keine</i18n.none>
+    </variables>
     <variables lang="es">
         <i18n.aspect-ratio>Relación de aspecto</i18n.aspect-ratio>
         <i18n.automatic>Automaticó</i18n.automatic>
@@ -93,27 +156,6 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.distribution>Distribuzione</i18n.distribution>
         <i18n.none>Nessuna</i18n.none>
     </variables>
-    <variables lang="de">
-        <i18n.aspect-ratio>Seitenverhältnis</i18n.aspect-ratio>
-        <i18n.automatic>Automatisch</i18n.automatic>
-        <i18n.color-scheme>Farbschema</i18n.color-scheme>
-        <i18n.light>Hell</i18n.light>
-        <i18n.dark>Dunkel</i18n.dark>
-        <i18n.game-media-type>Medientyp</i18n.game-media-type>
-        <i18n.image>Bild</i18n.image>
-        <i18n.boxart>Verpackung</i18n.boxart>
-        <i18n.marquee>Logo</i18n.marquee>
-        <i18n.mix>Gemischt</i18n.mix>
-        <i18n.play-video-previews>Videovorschauen abspielen</i18n.play-video-previews>
-        <i18n.yes>Ja</i18n.yes>
-        <i18n.no>Nein</i18n.no>
-        <i18n.show-game-titles-in-grid>Spieltitel im Raster anzeigen</i18n.show-game-titles-in-grid>
-        <i18n.metadata-source>Metadatenquelle</i18n.metadata-source>
-        <i18n.theme>Theme</i18n.theme>
-        <i18n.smooth-resize>Sanfte Größenänderung</i18n.smooth-resize>
-        <i18n.distribution>Distribution</i18n.distribution>
-        <i18n.none>Keine</i18n.none>
-    </variables>
     <variables lang="nl">
         <i18n.aspect-ratio>Beeldverhouding</i18n.aspect-ratio>
         <i18n.automatic>Automatisch</i18n.automatic>
@@ -134,48 +176,6 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.smooth-resize>Vloeiend schalen</i18n.smooth-resize>
         <i18n.distribution>Distributie</i18n.distribution>
         <i18n.none>Geen</i18n.none>
-    </variables>
-    <variables lang="ar">
-        <i18n.aspect-ratio>نسبة العرض إلى الارتفاع</i18n.aspect-ratio>
-        <i18n.automatic>تلقائي</i18n.automatic>
-        <i18n.color-scheme>نظام الألوان</i18n.color-scheme>
-        <i18n.light>فاتح</i18n.light>
-        <i18n.dark>داكن</i18n.dark>
-        <i18n.game-media-type>نوع الوسائط</i18n.game-media-type>
-        <i18n.image>صورة</i18n.image>
-        <i18n.boxart>غلاف</i18n.boxart>
-        <i18n.marquee>شعار</i18n.marquee>
-        <i18n.mix>مختلط</i18n.mix>
-        <i18n.play-video-previews>تشغيل معاينات الفيديو</i18n.play-video-previews>
-        <i18n.yes>نعم</i18n.yes>
-        <i18n.no>لا</i18n.no>
-        <i18n.show-game-titles-in-grid>عرض عناوين الألعاب في الشبكة</i18n.show-game-titles-in-grid>
-        <i18n.metadata-source>مصدر البيانات الوصفية</i18n.metadata-source>
-        <i18n.theme>السمة</i18n.theme>
-        <i18n.smooth-resize>تغيير حجم سلس</i18n.smooth-resize>
-        <i18n.distribution>التوزيع</i18n.distribution>
-        <i18n.none>لا شيء</i18n.none>
-    </variables>
-    <variables lang="ca">
-        <i18n.aspect-ratio>Relació d'aspecte</i18n.aspect-ratio>
-        <i18n.automatic>Automàtic</i18n.automatic>
-        <i18n.color-scheme>Esquema de color</i18n.color-scheme>
-        <i18n.light>Clar</i18n.light>
-        <i18n.dark>Fosc</i18n.dark>
-        <i18n.game-media-type>Tipus de mitjà</i18n.game-media-type>
-        <i18n.image>Imatge</i18n.image>
-        <i18n.boxart>Caixa</i18n.boxart>
-        <i18n.marquee>Logo</i18n.marquee>
-        <i18n.mix>Mixt</i18n.mix>
-        <i18n.play-video-previews>Reproduir previsualitzacions de vídeo</i18n.play-video-previews>
-        <i18n.yes>Sí</i18n.yes>
-        <i18n.no>No</i18n.no>
-        <i18n.show-game-titles-in-grid>Mostrar títols a la graella</i18n.show-game-titles-in-grid>
-        <i18n.metadata-source>Font de metadades</i18n.metadata-source>
-        <i18n.theme>Tema</i18n.theme>
-        <i18n.smooth-resize>Redimensionament suau</i18n.smooth-resize>
-        <i18n.distribution>Distribució</i18n.distribution>
-        <i18n.none>Cap</i18n.none>
     </variables>
     <variables lang="eu">
         <i18n.aspect-ratio>Aspektu-erlazioa</i18n.aspect-ratio>
