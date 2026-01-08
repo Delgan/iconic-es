@@ -64,8 +64,11 @@ def local_metadata_dir() -> Path:
 
 
 def transform_theme_file(remote_path: Path, local_path: Path) -> str:
-    remote_variables = ET.parse(remote_path).getroot().find("variables")
-    local_variables = ET.parse(local_path).getroot().find("variables")
+    remote_tree = ET.parse(remote_path).getroot()
+    local_tree = ET.parse(local_path).getroot()
+
+    remote_variables = remote_tree.find("variables")
+    local_variables = local_tree.find("variables")
 
     new_theme = ET.Element("theme")
     new_variables = ET.Element("variables")
@@ -86,6 +89,32 @@ def transform_theme_file(remote_path: Path, local_path: Path) -> str:
             new_variables.append(copy.deepcopy(remote_var))
 
     new_theme.append(new_variables)
+
+    lang_codes = set()
+
+    for lang_elem in remote_tree.findall("language"):
+        name = lang_elem.get("name")
+        if not name:
+            continue
+        lang_code, *_ = name.split("_")
+
+        # Mandatory to avoid duplicates such as "zh_CN / zh_TW" and "pt_BR / pt_PT".
+        # EmlulationStation does not support regional lang variants (afaik).
+        if lang_code in lang_codes:
+            continue
+
+        lang_codes.add(lang_code)
+
+        vars_elem = lang_elem.find("variables")
+        if vars_elem is None:
+            continue
+
+        localized_vars = ET.Element("variables")
+        localized_vars.set("lang", lang_code)
+        for child in vars_elem:
+            localized_vars.append(copy.deepcopy(child))
+
+        new_theme.append(localized_vars)
 
     ET.indent(new_theme, space="  ")
     text = ET.tostring(new_theme, encoding="utf-8").decode("utf-8")
@@ -110,7 +139,8 @@ def main():
             raise RuntimeError(f"Local metadata directory not found at: {local_dir}")
 
         skipped_count = 0
-        updated = set()
+        unchanged_count = 0
+        updated_count = 0
 
         remote_files = list(find_xml_files(extract_to))
 
@@ -126,20 +156,29 @@ def main():
 
             out_text = transform_theme_file(remote_path, local_path)
 
+            with open(local_path, "r", encoding="utf-8") as f:
+                data = f.read()
+
+            if data == out_text:
+                unchanged_count += 1
+                continue
+
             with open(local_path, "w", encoding="utf-8") as f:
                 f.write(out_text)
 
             print("Updated:", local_path.name)
-            updated.add(normalized)
+            updated_count += 1
 
         missing_count = 0
+        remotes = {normalize_remote_filename(f.name) for f in remote_files}
         for f in find_xml_files(local_dir):
-            if normalize_remote_filename(f.name) not in updated:
+            if normalize_remote_filename(f.name) not in remotes:
                 print(f"Missing: {f.name} (no remote equivalent)")
                 missing_count += 1
 
         print("\nSummary:")
-        print(f"  Updated files: {len(updated)}")
+        print(f"  Unchanged files: {unchanged_count}")
+        print(f"  Updated files: {updated_count}")
         print(f"  Skipped files: {skipped_count}")
         print(f"  Missing files: {missing_count}")
 
