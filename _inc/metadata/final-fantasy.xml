@@ -3,8 +3,8 @@
     <systemName>Final Fantasy</systemName>
     <systemDescription>View and play the Final Fantasy Games in your collection.</systemDescription>
     <systemManufacturer>Nintendo</systemManufacturer>
-    <systemReleaseYear>Various</systemReleaseYear>
-    <systemHardwareType>Custom Collection</systemHardwareType>
+    <systemReleaseYear>${i18n.various}</systemReleaseYear>
+    <systemHardwareType>${i18n.custom-collection}</systemHardwareType>
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>

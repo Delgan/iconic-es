@@ -2,82 +2,64 @@
   <variables>
     <systemName>Desktop Shorcuts</systemName>
     <systemDescription>View and run your Desktop shortcuts</systemDescription>
-    <systemManufacturer>Various</systemManufacturer>
-    <systemReleaseYear>Various</systemReleaseYear>
-    <systemHardwareType>Folder</systemHardwareType>
+    <systemManufacturer>${i18n.various}</systemManufacturer>
+    <systemReleaseYear>${i18n.various}</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-folder}</systemHardwareType>
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
   <variables lang="ar">
     <systemDescription>عرض اختصارات سطح المكتب وتشغيلها</systemDescription>
-    <systemHardwareType>المجلد</systemHardwareType>
   </variables>
   <variables lang="bs">
     <systemDescription>Pogledajte i pokrenite svoje prečice radne površine</systemDescription>
-    <systemHardwareType>Mapa</systemHardwareType>
   </variables>
   <variables lang="ca">
     <systemDescription>Veure i executar les dreceres d'escriptori</systemDescription>
-    <systemHardwareType>Folder</systemHardwareType>
   </variables>
   <variables lang="de">
     <systemDescription>Desktop-Verknüpfungen anzeigen und ausführen</systemDescription>
-    <systemHardwareType>Mappe</systemHardwareType>
   </variables>
   <variables lang="es">
     <systemDescription>Ver y ejecutar los accesos directos del Escritorio</systemDescription>
-    <systemHardwareType>Carpeta</systemHardwareType>
   </variables>
   <variables lang="fr">
     <systemDescription>Afficher et exécuter les raccourcis de votre bureau</systemDescription>
-    <systemHardwareType>Dossier</systemHardwareType>
   </variables>
   <variables lang="hr">
     <systemDescription>Pogledajte i pokrenite prečace na radnoj površini</systemDescription>
-    <systemHardwareType>Mapa</systemHardwareType>
   </variables>
   <variables lang="it">
     <systemDescription>Visualizzare ed eseguire i collegamenti al desktop</systemDescription>
-    <systemHardwareType>Cartella</systemHardwareType>
   </variables>
   <variables lang="ja">
     <systemDescription>デスクトップショートカットの表示と実行</systemDescription>
-    <systemHardwareType>フォルダ</systemHardwareType>
   </variables>
   <variables lang="ko">
     <systemDescription>데스크톱 바로 가기 보기 및 실행</systemDescription>
-    <systemHardwareType>폴더</systemHardwareType>
   </variables>
   <variables lang="nl">
     <systemDescription>Uw bureaubladsnelkoppelingen weergeven en uitvoeren</systemDescription>
-    <systemHardwareType>Map</systemHardwareType>
   </variables>
   <variables lang="pl">
     <systemDescription>Wyświetlanie i uruchamianie skrótów na pulpicie</systemDescription>
-    <systemHardwareType>Folder</systemHardwareType>
   </variables>
   <variables lang="pt">
     <systemDescription>Exibir e executar os atalhos da área de trabalho</systemDescription>
-    <systemHardwareType>Pasta</systemHardwareType>
   </variables>
   <variables lang="ro">
     <systemDescription>Vizualizați și rulați comenzile rapide de pe desktop</systemDescription>
-    <systemHardwareType>Dosar</systemHardwareType>
   </variables>
   <variables lang="ru">
     <systemDescription>Просмотр и запуск ярлыков на рабочем столе</systemDescription>
-    <systemHardwareType>Папка</systemHardwareType>
   </variables>
   <variables lang="sr">
     <systemDescription>Погледајте и покрените пречице за радну површину</systemDescription>
-    <systemHardwareType>Мапа</systemHardwareType>
   </variables>
   <variables lang="sv">
     <systemDescription>Visa och kör dina genvägar på skrivbordet</systemDescription>
-    <systemHardwareType>Mapp</systemHardwareType>
   </variables>
   <variables lang="zh">
     <systemDescription>查看和运行桌面快捷方式</systemDescription>
-    <systemHardwareType>文件夹</systemHardwareType>
   </variables>
 </theme>

@@ -8,7 +8,7 @@ Marketed as "edutainment", the main focus of the Pico was educational video game
 Though the Pico was sold continuously in Japan through the release of the Beena, in North America and Europe the Pico was less successful and was discontinued in early 1998, later being re-released by Majesco Entertainment. Overall, Sega claims sales of 3.4 million Pico consoles and 11.2 million game cartridges, and over 350,000 Beena consoles and 800,000 cartridges. It was succeeded by the Advanced Pico Beena, released in Japan in 2005. The ePICO, the successor to the Pico and Beena, was also released in Japan in 2024.</systemDescription>
     <systemManufacturer>Sega</systemManufacturer>
     <systemReleaseYear>1993</systemReleaseYear>
-    <systemHardwareType>Console</systemHardwareType>
+    <systemHardwareType>${i18n.hardware-console}</systemHardwareType>
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>

@@ -9,6 +9,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
     <formatVersion>7</formatVersion>
     <!-- The "en" lang is always included first, it acts as the default fallback. -->
     <variables>
+        <!-- Values used in the UI. -->
         <i18n.aspect-ratio>Aspect Ratio</i18n.aspect-ratio>
         <i18n.automatic>Automatic</i18n.automatic>
         <i18n.color-scheme>Color Scheme</i18n.color-scheme>
@@ -28,6 +29,19 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.smooth-resize>Smooth Resize</i18n.smooth-resize>
         <i18n.distribution>Distribution</i18n.distribution>
         <i18n.none>None</i18n.none>
+        <!-- Values used in the metadata. -->
+        <i18n.various>Various</i18n.various>
+        <i18n.auto-collection>Auto Collection</i18n.auto-collection>
+        <i18n.custom-collection>Custom Collection</i18n.custom-collection>
+        <i18n.hardware-computer>Computer</i18n.hardware-computer>
+        <i18n.hardware-engine>Engine</i18n.hardware-engine>
+        <i18n.hardware-arcade>Arcade</i18n.hardware-arcade>
+        <i18n.hardware-portable>Portable</i18n.hardware-portable>
+        <i18n.hardware-folder>Folder</i18n.hardware-folder>
+        <i18n.hardware-console>Console</i18n.hardware-console>
+        <i18n.hardware-peripheral>Peripheral</i18n.hardware-peripheral>
+        <i18n.hardware-emulator>Emulator</i18n.hardware-emulator>
+        <i18n.hardware-os>OS</i18n.hardware-os>
     </variables>
     <!-- Following variables will overwrite the default ones if the "lang" matches. -->
     <variables lang="ar">
@@ -50,6 +64,18 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.smooth-resize>تغيير حجم سلس</i18n.smooth-resize>
         <i18n.distribution>التوزيع</i18n.distribution>
         <i18n.none>لا شيء</i18n.none>
+        <i18n.various>متنوع</i18n.various>
+        <i18n.auto-collection>مجموعة تلقائية</i18n.auto-collection>
+        <i18n.custom-collection>مجموعة مخصصة</i18n.custom-collection>
+        <i18n.hardware-computer>الحاسب الآلي</i18n.hardware-computer>
+        <i18n.hardware-engine>المحرك</i18n.hardware-engine>
+        <i18n.hardware-arcade>أركيد</i18n.hardware-arcade>
+        <i18n.hardware-portable>محمول</i18n.hardware-portable>
+        <i18n.hardware-folder>المجلد</i18n.hardware-folder>
+        <i18n.hardware-console>وحدة التحكم</i18n.hardware-console>
+        <i18n.hardware-peripheral>محيطي</i18n.hardware-peripheral>
+        <i18n.hardware-emulator>المحاكي</i18n.hardware-emulator>
+        <i18n.hardware-os>نظام التشغيل</i18n.hardware-os>
     </variables>
     <variables lang="bs">
         <i18n.aspect-ratio>Omjer slike</i18n.aspect-ratio>
@@ -71,6 +97,18 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.smooth-resize>Glatko promjena veličine</i18n.smooth-resize>
         <i18n.distribution>Distribucija</i18n.distribution>
         <i18n.none>Ništa</i18n.none>
+        <i18n.various>Razno</i18n.various>
+        <i18n.auto-collection>Auto Kolekcija</i18n.auto-collection>
+        <i18n.custom-collection>Prilagođena Kolekcija</i18n.custom-collection>
+        <i18n.hardware-computer>Računar</i18n.hardware-computer>
+        <i18n.hardware-engine>Motor</i18n.hardware-engine>
+        <i18n.hardware-arcade>Arkada</i18n.hardware-arcade>
+        <i18n.hardware-portable>Prenosiv</i18n.hardware-portable>
+        <i18n.hardware-folder>Mapa</i18n.hardware-folder>
+        <i18n.hardware-console>Konzola</i18n.hardware-console>
+        <i18n.hardware-peripheral>Periferni</i18n.hardware-peripheral>
+        <i18n.hardware-emulator>Emulator</i18n.hardware-emulator>
+        <i18n.hardware-os>OS</i18n.hardware-os>
     </variables>
     <variables lang="ca">
         <i18n.aspect-ratio>Relació d'aspecte</i18n.aspect-ratio>
@@ -92,6 +130,18 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.smooth-resize>Redimensionament suau</i18n.smooth-resize>
         <i18n.distribution>Distribució</i18n.distribution>
         <i18n.none>Cap</i18n.none>
+        <i18n.various>Diversos</i18n.various>
+        <i18n.auto-collection>Col·lecció Automàtica</i18n.auto-collection>
+        <i18n.custom-collection>Col·lecció Personalitzada</i18n.custom-collection>
+        <i18n.hardware-computer>Ordinador</i18n.hardware-computer>
+        <i18n.hardware-engine>Motor</i18n.hardware-engine>
+        <i18n.hardware-arcade>Arcade</i18n.hardware-arcade>
+        <i18n.hardware-portable>Portàtil</i18n.hardware-portable>
+        <i18n.hardware-folder>Carpeta</i18n.hardware-folder>
+        <i18n.hardware-console>Consola</i18n.hardware-console>
+        <i18n.hardware-peripheral>Perifèric</i18n.hardware-peripheral>
+        <i18n.hardware-emulator>Emulador</i18n.hardware-emulator>
+        <i18n.hardware-os>OS</i18n.hardware-os>
     </variables>
     <variables lang="de">
         <i18n.aspect-ratio>Seitenverhältnis</i18n.aspect-ratio>
@@ -113,6 +163,18 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.smooth-resize>Sanfte Größenänderung</i18n.smooth-resize>
         <i18n.distribution>Distribution</i18n.distribution>
         <i18n.none>Keine</i18n.none>
+        <i18n.various>Verschiedene</i18n.various>
+        <i18n.auto-collection>Auto-Sammlung</i18n.auto-collection>
+        <i18n.custom-collection>Benutzerdefinierte Sammlung</i18n.custom-collection>
+        <i18n.hardware-computer>Computer</i18n.hardware-computer>
+        <i18n.hardware-engine>Motor</i18n.hardware-engine>
+        <i18n.hardware-arcade>Spielhalle</i18n.hardware-arcade>
+        <i18n.hardware-portable>Tragbar</i18n.hardware-portable>
+        <i18n.hardware-folder>Mappe</i18n.hardware-folder>
+        <i18n.hardware-console>Konsole</i18n.hardware-console>
+        <i18n.hardware-peripheral>Peripherie</i18n.hardware-peripheral>
+        <i18n.hardware-emulator>Emulator</i18n.hardware-emulator>
+        <i18n.hardware-os>OS</i18n.hardware-os>
     </variables>
     <variables lang="es">
         <i18n.aspect-ratio>Relación de aspecto</i18n.aspect-ratio>
@@ -134,6 +196,18 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.smooth-resize>Redimensionado suave</i18n.smooth-resize>
         <i18n.distribution>Distribución</i18n.distribution>
         <i18n.none>Ninguna</i18n.none>
+        <i18n.various>Varios</i18n.various>
+        <i18n.auto-collection>Colección Automática</i18n.auto-collection>
+        <i18n.custom-collection>Colección Personalizada</i18n.custom-collection>
+        <i18n.hardware-computer>Ordenador</i18n.hardware-computer>
+        <i18n.hardware-engine>Motor</i18n.hardware-engine>
+        <i18n.hardware-arcade>Arcade</i18n.hardware-arcade>
+        <i18n.hardware-portable>Portátil</i18n.hardware-portable>
+        <i18n.hardware-folder>Carpeta</i18n.hardware-folder>
+        <i18n.hardware-console>Consola</i18n.hardware-console>
+        <i18n.hardware-peripheral>Periférico</i18n.hardware-peripheral>
+        <i18n.hardware-emulator>Emulador</i18n.hardware-emulator>
+        <i18n.hardware-os>OS</i18n.hardware-os>
     </variables>
     <variables lang="fr">
         <i18n.aspect-ratio>Rapport d'aspect</i18n.aspect-ratio>
@@ -155,6 +229,18 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.smooth-resize>Redimensionnement fluide</i18n.smooth-resize>
         <i18n.distribution>Distribution</i18n.distribution>
         <i18n.none>Aucune</i18n.none>
+        <i18n.various>Divers</i18n.various>
+        <i18n.auto-collection>Collection Automatique</i18n.auto-collection>
+        <i18n.custom-collection>Collection Personnalisée</i18n.custom-collection>
+        <i18n.hardware-computer>Ordinateur</i18n.hardware-computer>
+        <i18n.hardware-engine>Moteur</i18n.hardware-engine>
+        <i18n.hardware-arcade>Arcade</i18n.hardware-arcade>
+        <i18n.hardware-portable>Portable</i18n.hardware-portable>
+        <i18n.hardware-folder>Dossier</i18n.hardware-folder>
+        <i18n.hardware-console>Console</i18n.hardware-console>
+        <i18n.hardware-peripheral>Périphérique</i18n.hardware-peripheral>
+        <i18n.hardware-emulator>Emulateur</i18n.hardware-emulator>
+        <i18n.hardware-os>OS</i18n.hardware-os>
     </variables>
     <variables lang="hr">
         <i18n.aspect-ratio>Omjer slike</i18n.aspect-ratio>
@@ -176,6 +262,18 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.smooth-resize>Glatko promjena veličine</i18n.smooth-resize>
         <i18n.distribution>Distribucija</i18n.distribution>
         <i18n.none>Ništa</i18n.none>
+        <i18n.various>Razno</i18n.various>
+        <i18n.auto-collection>Auto Kolekcija</i18n.auto-collection>
+        <i18n.custom-collection>Prilagođena Kolekcija</i18n.custom-collection>
+        <i18n.hardware-computer>Računalo</i18n.hardware-computer>
+        <i18n.hardware-engine>Motor</i18n.hardware-engine>
+        <i18n.hardware-arcade>Arkada</i18n.hardware-arcade>
+        <i18n.hardware-portable>Prenosiv</i18n.hardware-portable>
+        <i18n.hardware-folder>Mapa</i18n.hardware-folder>
+        <i18n.hardware-console>Konzola</i18n.hardware-console>
+        <i18n.hardware-peripheral>Periferni</i18n.hardware-peripheral>
+        <i18n.hardware-emulator>Emulator</i18n.hardware-emulator>
+        <i18n.hardware-os>OS</i18n.hardware-os>
     </variables>
     <variables lang="it">
         <i18n.aspect-ratio>Rapporto d'aspetto</i18n.aspect-ratio>
@@ -197,6 +295,18 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.smooth-resize>Ridimensionamento fluido</i18n.smooth-resize>
         <i18n.distribution>Distribuzione</i18n.distribution>
         <i18n.none>Nessuna</i18n.none>
+        <i18n.various>Vari</i18n.various>
+        <i18n.auto-collection>Raccolta Automatica</i18n.auto-collection>
+        <i18n.custom-collection>Raccolta Personalizzata</i18n.custom-collection>
+        <i18n.hardware-computer>Computer</i18n.hardware-computer>
+        <i18n.hardware-engine>Motore</i18n.hardware-engine>
+        <i18n.hardware-arcade>Arcade</i18n.hardware-arcade>
+        <i18n.hardware-portable>Portatile</i18n.hardware-portable>
+        <i18n.hardware-folder>Cartella</i18n.hardware-folder>
+        <i18n.hardware-console>Console</i18n.hardware-console>
+        <i18n.hardware-peripheral>Periferica</i18n.hardware-peripheral>
+        <i18n.hardware-emulator>Emulatore</i18n.hardware-emulator>
+        <i18n.hardware-os>OS</i18n.hardware-os>
     </variables>
     <variables lang="nl">
         <i18n.aspect-ratio>Beeldverhouding</i18n.aspect-ratio>
@@ -218,6 +328,18 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.smooth-resize>Vloeiend schalen</i18n.smooth-resize>
         <i18n.distribution>Distributie</i18n.distribution>
         <i18n.none>Geen</i18n.none>
+        <i18n.various>Verschillende</i18n.various>
+        <i18n.auto-collection>Automatische Collectie</i18n.auto-collection>
+        <i18n.custom-collection>Aangepaste Collectie</i18n.custom-collection>
+        <i18n.hardware-computer>Computer</i18n.hardware-computer>
+        <i18n.hardware-engine>Motor</i18n.hardware-engine>
+        <i18n.hardware-arcade>Arcade</i18n.hardware-arcade>
+        <i18n.hardware-portable>Draagbaar</i18n.hardware-portable>
+        <i18n.hardware-folder>Map</i18n.hardware-folder>
+        <i18n.hardware-console>Console</i18n.hardware-console>
+        <i18n.hardware-peripheral>Perifeer</i18n.hardware-peripheral>
+        <i18n.hardware-emulator>Emulator</i18n.hardware-emulator>
+        <i18n.hardware-os>OS</i18n.hardware-os>
     </variables>
     <variables lang="ja">
         <i18n.aspect-ratio>アスペクト比</i18n.aspect-ratio>
@@ -239,6 +361,18 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.smooth-resize>スムーズリサイズ</i18n.smooth-resize>
         <i18n.distribution>ディストリビューション</i18n.distribution>
         <i18n.none>なし</i18n.none>
+        <i18n.various>各種</i18n.various>
+        <i18n.auto-collection>自動コレクション</i18n.auto-collection>
+        <i18n.custom-collection>カスタムコレクション</i18n.custom-collection>
+        <i18n.hardware-computer>コンピューター</i18n.hardware-computer>
+        <i18n.hardware-engine>エンジン</i18n.hardware-engine>
+        <i18n.hardware-arcade>アーケード</i18n.hardware-arcade>
+        <i18n.hardware-portable>ポータブル</i18n.hardware-portable>
+        <i18n.hardware-folder>フォルダ</i18n.hardware-folder>
+        <i18n.hardware-console>コンソール</i18n.hardware-console>
+        <i18n.hardware-peripheral>ペリフェラル</i18n.hardware-peripheral>
+        <i18n.hardware-emulator>エミュレータ</i18n.hardware-emulator>
+        <i18n.hardware-os>OS</i18n.hardware-os>
     </variables>
     <variables lang="ko">
         <i18n.aspect-ratio>화면 비율</i18n.aspect-ratio>
@@ -260,6 +394,18 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.smooth-resize>부드러운 크기 조정</i18n.smooth-resize>
         <i18n.distribution>배포판</i18n.distribution>
         <i18n.none>없음</i18n.none>
+        <i18n.various>여러 가지</i18n.various>
+        <i18n.auto-collection>자동 컬렉션</i18n.auto-collection>
+        <i18n.custom-collection>사용자 지정 컬렉션</i18n.custom-collection>
+        <i18n.hardware-computer>컴퓨터</i18n.hardware-computer>
+        <i18n.hardware-engine>엔진</i18n.hardware-engine>
+        <i18n.hardware-arcade>아케이드</i18n.hardware-arcade>
+        <i18n.hardware-portable>휴대성</i18n.hardware-portable>
+        <i18n.hardware-folder>폴더</i18n.hardware-folder>
+        <i18n.hardware-console>콘솔</i18n.hardware-console>
+        <i18n.hardware-peripheral>주변기기</i18n.hardware-peripheral>
+        <i18n.hardware-emulator>에뮬레이터</i18n.hardware-emulator>
+        <i18n.hardware-os>OS</i18n.hardware-os>
     </variables>
     <variables lang="pl">
         <i18n.aspect-ratio>Proporcje obrazu</i18n.aspect-ratio>
@@ -281,6 +427,18 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.smooth-resize>Płynna zmiana rozmiaru</i18n.smooth-resize>
         <i18n.distribution>Dystrybucja</i18n.distribution>
         <i18n.none>Brak</i18n.none>
+        <i18n.various>Różne</i18n.various>
+        <i18n.auto-collection>Kolekcja Automatyczna</i18n.auto-collection>
+        <i18n.custom-collection>Kolekcja Niestandardowa</i18n.custom-collection>
+        <i18n.hardware-computer>Komputer</i18n.hardware-computer>
+        <i18n.hardware-engine>Silnik</i18n.hardware-engine>
+        <i18n.hardware-arcade>Arcade</i18n.hardware-arcade>
+        <i18n.hardware-portable>Przenośny</i18n.hardware-portable>
+        <i18n.hardware-folder>Folder</i18n.hardware-folder>
+        <i18n.hardware-console>Konsola</i18n.hardware-console>
+        <i18n.hardware-peripheral>Peryferyjne</i18n.hardware-peripheral>
+        <i18n.hardware-emulator>Emulator</i18n.hardware-emulator>
+        <i18n.hardware-os>OS</i18n.hardware-os>
     </variables>
     <variables lang="pt">
         <i18n.aspect-ratio>Proporção de aspecto</i18n.aspect-ratio>
@@ -302,6 +460,18 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.smooth-resize>Redimensionamento suave</i18n.smooth-resize>
         <i18n.distribution>Distribuição</i18n.distribution>
         <i18n.none>Nenhuma</i18n.none>
+        <i18n.various>Vários</i18n.various>
+        <i18n.auto-collection>Coleção Automática</i18n.auto-collection>
+        <i18n.custom-collection>Coleção Personalizada</i18n.custom-collection>
+        <i18n.hardware-computer>Computador</i18n.hardware-computer>
+        <i18n.hardware-engine>Motor</i18n.hardware-engine>
+        <i18n.hardware-arcade>Fliperama</i18n.hardware-arcade>
+        <i18n.hardware-portable>Portátil</i18n.hardware-portable>
+        <i18n.hardware-folder>Pasta</i18n.hardware-folder>
+        <i18n.hardware-console>Console</i18n.hardware-console>
+        <i18n.hardware-peripheral>Periférico</i18n.hardware-peripheral>
+        <i18n.hardware-emulator>Emulador</i18n.hardware-emulator>
+        <i18n.hardware-os>SO</i18n.hardware-os>
     </variables>
     <variables lang="ro">
         <i18n.aspect-ratio>Raport de aspect</i18n.aspect-ratio>
@@ -323,6 +493,18 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.smooth-resize>Redimensionare fluidă</i18n.smooth-resize>
         <i18n.distribution>Distribuție</i18n.distribution>
         <i18n.none>Niciunul</i18n.none>
+        <i18n.various>Diverse</i18n.various>
+        <i18n.auto-collection>Colecție Automată</i18n.auto-collection>
+        <i18n.custom-collection>Colecție Personalizată</i18n.custom-collection>
+        <i18n.hardware-computer>Computer</i18n.hardware-computer>
+        <i18n.hardware-engine>Motor</i18n.hardware-engine>
+        <i18n.hardware-arcade>Arcade</i18n.hardware-arcade>
+        <i18n.hardware-portable>Portabil</i18n.hardware-portable>
+        <i18n.hardware-folder>Dosar</i18n.hardware-folder>
+        <i18n.hardware-console>Consolă</i18n.hardware-console>
+        <i18n.hardware-peripheral>Periferic</i18n.hardware-peripheral>
+        <i18n.hardware-emulator>Emulator</i18n.hardware-emulator>
+        <i18n.hardware-os>SO</i18n.hardware-os>
     </variables>
     <variables lang="ru">
         <i18n.aspect-ratio>Соотношение сторон</i18n.aspect-ratio>
@@ -344,6 +526,18 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.smooth-resize>Плавное изменение размера</i18n.smooth-resize>
         <i18n.distribution>Дистрибутив</i18n.distribution>
         <i18n.none>Нет</i18n.none>
+        <i18n.various>Разные</i18n.various>
+        <i18n.auto-collection>Автоколлекция</i18n.auto-collection>
+        <i18n.custom-collection>Пользовательская Коллекция</i18n.custom-collection>
+        <i18n.hardware-computer>Компьютер</i18n.hardware-computer>
+        <i18n.hardware-engine>Двигатель</i18n.hardware-engine>
+        <i18n.hardware-arcade>Аркада</i18n.hardware-arcade>
+        <i18n.hardware-portable>Портативный</i18n.hardware-portable>
+        <i18n.hardware-folder>Папка</i18n.hardware-folder>
+        <i18n.hardware-console>Консоль</i18n.hardware-console>
+        <i18n.hardware-peripheral>Периферийное устройство</i18n.hardware-peripheral>
+        <i18n.hardware-emulator>Эмулятор</i18n.hardware-emulator>
+        <i18n.hardware-os>OS</i18n.hardware-os>
     </variables>
     <variables lang="sr">
         <i18n.aspect-ratio>Однос слике</i18n.aspect-ratio>
@@ -365,6 +559,18 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.smooth-resize>Глатка промена величине</i18n.smooth-resize>
         <i18n.distribution>Дистрибуција</i18n.distribution>
         <i18n.none>Ништа</i18n.none>
+        <i18n.various>Разно</i18n.various>
+        <i18n.auto-collection>Ауто Колекција</i18n.auto-collection>
+        <i18n.custom-collection>Прилагођена Колекција</i18n.custom-collection>
+        <i18n.hardware-computer>Рачунар</i18n.hardware-computer>
+        <i18n.hardware-engine>Мотор</i18n.hardware-engine>
+        <i18n.hardware-arcade>Аркада</i18n.hardware-arcade>
+        <i18n.hardware-portable>Преносив</i18n.hardware-portable>
+        <i18n.hardware-folder>Мапа</i18n.hardware-folder>
+        <i18n.hardware-console>Конзола</i18n.hardware-console>
+        <i18n.hardware-peripheral>Периферни</i18n.hardware-peripheral>
+        <i18n.hardware-emulator>Емулатор</i18n.hardware-emulator>
+        <i18n.hardware-os>Ос</i18n.hardware-os>
     </variables>
     <variables lang="sv">
         <i18n.aspect-ratio>Bildförhållande</i18n.aspect-ratio>
@@ -386,6 +592,18 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.smooth-resize>Mjuk storleksändring</i18n.smooth-resize>
         <i18n.distribution>Distribution</i18n.distribution>
         <i18n.none>Ingen</i18n.none>
+        <i18n.various>Olika</i18n.various>
+        <i18n.auto-collection>Automatisk Samling</i18n.auto-collection>
+        <i18n.custom-collection>Anpassad Samling</i18n.custom-collection>
+        <i18n.hardware-computer>Dator</i18n.hardware-computer>
+        <i18n.hardware-engine>Motor</i18n.hardware-engine>
+        <i18n.hardware-arcade>Arkad</i18n.hardware-arcade>
+        <i18n.hardware-portable>Bärbar</i18n.hardware-portable>
+        <i18n.hardware-folder>Mapp</i18n.hardware-folder>
+        <i18n.hardware-console>Konsol</i18n.hardware-console>
+        <i18n.hardware-peripheral>Tillbehör</i18n.hardware-peripheral>
+        <i18n.hardware-emulator>Emulator</i18n.hardware-emulator>
+        <i18n.hardware-os>Mapp</i18n.hardware-os>
     </variables>
     <variables lang="zh">
         <i18n.aspect-ratio>宽高比</i18n.aspect-ratio>
@@ -407,5 +625,17 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.smooth-resize>平滑缩放</i18n.smooth-resize>
         <i18n.distribution>发行版</i18n.distribution>
         <i18n.none>无</i18n.none>
+        <i18n.various>各种</i18n.various>
+        <i18n.auto-collection>自动合集</i18n.auto-collection>
+        <i18n.custom-collection>自定义合集</i18n.custom-collection>
+        <i18n.hardware-computer>计算机</i18n.hardware-computer>
+        <i18n.hardware-engine>发动机</i18n.hardware-engine>
+        <i18n.hardware-arcade>商场</i18n.hardware-arcade>
+        <i18n.hardware-portable>便携式</i18n.hardware-portable>
+        <i18n.hardware-folder>文件夹</i18n.hardware-folder>
+        <i18n.hardware-console>控制台</i18n.hardware-console>
+        <i18n.hardware-peripheral>外围设备</i18n.hardware-peripheral>
+        <i18n.hardware-emulator>仿真器</i18n.hardware-emulator>
+        <i18n.hardware-os>操作系统</i18n.hardware-os>
     </variables>
 </theme>

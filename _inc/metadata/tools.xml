@@ -2,82 +2,64 @@
   <variables>
     <systemName>Tools</systemName>
     <systemDescription>Programs, scripts and utilities to manage your set up.</systemDescription>
-    <systemManufacturer>Various</systemManufacturer>
-    <systemReleaseYear>Various</systemReleaseYear>
-    <systemHardwareType>Folder</systemHardwareType>
+    <systemManufacturer>${i18n.various}</systemManufacturer>
+    <systemReleaseYear>${i18n.various}</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-folder}</systemHardwareType>
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
   <variables lang="ar">
     <systemDescription>برامج ونصوص برمجية وأدوات مساعدة لإدارة إعداداتك.</systemDescription>
-    <systemHardwareType>المجلد</systemHardwareType>
   </variables>
   <variables lang="bs">
     <systemDescription>Programs, scripts and utilities to manage your set up.</systemDescription>
-    <systemHardwareType>Folder</systemHardwareType>
   </variables>
   <variables lang="ca">
     <systemDescription>Programes, scripts i serveis per gestionar la vostra configuració.</systemDescription>
-    <systemHardwareType>Folder</systemHardwareType>
   </variables>
   <variables lang="de">
     <systemDescription>Programme, Skripte und Dienstprogramme zur Verwaltung Ihrer Einrichtung.</systemDescription>
-    <systemHardwareType>Mappe</systemHardwareType>
   </variables>
   <variables lang="es">
     <systemDescription>Programas, scripts y utilidades para gestionar su instalación.</systemDescription>
-    <systemHardwareType>Carpeta</systemHardwareType>
   </variables>
   <variables lang="fr">
     <systemDescription>Programmes, scripts et utilitaires pour gérer votre installation.</systemDescription>
-    <systemHardwareType>Dossier</systemHardwareType>
   </variables>
   <variables lang="hr">
     <systemDescription>Programs, scripts and utilities to manage your set up.</systemDescription>
-    <systemHardwareType>Folder</systemHardwareType>
   </variables>
   <variables lang="it">
     <systemDescription>Programmi, script e utility per gestire la vostra configurazione.</systemDescription>
-    <systemHardwareType>Cartella</systemHardwareType>
   </variables>
   <variables lang="ja">
     <systemDescription>セットアップを管理するためのプログラム、スクリプト、ユーティリティ。</systemDescription>
-    <systemHardwareType>フォルダ</systemHardwareType>
   </variables>
   <variables lang="ko">
     <systemDescription>설정을 관리하기 위한 프로그램, 스크립트 및 유틸리티.</systemDescription>
-    <systemHardwareType>폴더</systemHardwareType>
   </variables>
   <variables lang="nl">
     <systemDescription>Programma's, scripts en hulpprogramma's om je set-up te beheren.</systemDescription>
-    <systemHardwareType>Map</systemHardwareType>
   </variables>
   <variables lang="pl">
     <systemDescription>Programy, skrypty i narzędzia do zarządzania konfiguracją.</systemDescription>
-    <systemHardwareType>Folder</systemHardwareType>
   </variables>
   <variables lang="pt">
     <systemDescription>Programas, scripts e utilitários para gerenciar sua configuração.</systemDescription>
-    <systemHardwareType>Pasta</systemHardwareType>
   </variables>
   <variables lang="ro">
     <systemDescription>Programe, scripturi și utilitare pentru a vă gestiona configurația.</systemDescription>
-    <systemHardwareType>Dosar</systemHardwareType>
   </variables>
   <variables lang="ru">
     <systemDescription>Программы, скрипты и утилиты для управления вашей системой.</systemDescription>
-    <systemHardwareType>Папка</systemHardwareType>
   </variables>
   <variables lang="sr">
     <systemDescription>Programs, scripts and utilities to manage your set up.</systemDescription>
-    <systemHardwareType>Folder</systemHardwareType>
   </variables>
   <variables lang="sv">
     <systemDescription>Program, skript och verktyg för att hantera din installation.</systemDescription>
-    <systemHardwareType>Mapp</systemHardwareType>
   </variables>
   <variables lang="zh">
     <systemDescription>用于管理设置的程序、脚本和实用工具。</systemDescription>
-    <systemHardwareType>文件夹</systemHardwareType>
   </variables>
 </theme>

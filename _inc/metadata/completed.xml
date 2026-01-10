@@ -2,82 +2,64 @@
   <variables>
     <systemName>Completed</systemName>
     <systemDescription>Keep track of the games you've finished.</systemDescription>
-    <systemManufacturer>Various</systemManufacturer>
-    <systemReleaseYear>Various</systemReleaseYear>
-    <systemHardwareType>Custom Collection</systemHardwareType>
+    <systemManufacturer>${i18n.various}</systemManufacturer>
+    <systemReleaseYear>${i18n.various}</systemReleaseYear>
+    <systemHardwareType>${i18n.custom-collection}</systemHardwareType>
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
   <variables lang="ar">
     <systemDescription>تتبع الألعاب التي أنهيتها.</systemDescription>
-    <systemHardwareType>المجموعة</systemHardwareType>
   </variables>
   <variables lang="bs">
     <systemDescription>Pratite igre koje ste završili.</systemDescription>
-    <systemHardwareType>Zbirka</systemHardwareType>
   </variables>
   <variables lang="ca">
     <systemDescription>Feu un seguiment dels jocs que heu acabat.</systemDescription>
-    <systemHardwareType>Collection</systemHardwareType>
   </variables>
   <variables lang="de">
     <systemDescription>Behalten Sie den Überblick über die Spiele, die Sie beendet haben.</systemDescription>
-    <systemHardwareType>Sammlung</systemHardwareType>
   </variables>
   <variables lang="es">
     <systemDescription>Lleva la cuenta de los juegos que has terminado.</systemDescription>
-    <systemHardwareType>Colección</systemHardwareType>
   </variables>
   <variables lang="fr">
     <systemDescription>Gardez une trace des jeux que vous avez terminés.</systemDescription>
-    <systemHardwareType>Collection</systemHardwareType>
   </variables>
   <variables lang="hr">
     <systemDescription>Pratite igre koje ste završili.</systemDescription>
-    <systemHardwareType>Kolekcija</systemHardwareType>
   </variables>
   <variables lang="it">
     <systemDescription>Tenere traccia dei giochi completati.</systemDescription>
-    <systemHardwareType>Collezione</systemHardwareType>
   </variables>
   <variables lang="ja">
     <systemDescription>終了したゲームを記録する。</systemDescription>
-    <systemHardwareType>コレクション</systemHardwareType>
   </variables>
   <variables lang="ko">
     <systemDescription>완료한 게임을 추적하세요.</systemDescription>
-    <systemHardwareType>컬렉션</systemHardwareType>
   </variables>
   <variables lang="nl">
     <systemDescription>Houd bij welke games je hebt uitgespeeld.</systemDescription>
-    <systemHardwareType>Collectie</systemHardwareType>
   </variables>
   <variables lang="pl">
     <systemDescription>Śledź ukończone gry.</systemDescription>
-    <systemHardwareType>Kolekcja</systemHardwareType>
   </variables>
   <variables lang="pt">
     <systemDescription>Mantenha o controle dos jogos que você terminou.</systemDescription>
-    <systemHardwareType>Coleção</systemHardwareType>
   </variables>
   <variables lang="ro">
     <systemDescription>Țineți evidența jocurilor pe care le-ați terminat.</systemDescription>
-    <systemHardwareType>Colecție</systemHardwareType>
   </variables>
   <variables lang="ru">
     <systemDescription>Следите за играми, которые вы закончили.</systemDescription>
-    <systemHardwareType>Коллекция</systemHardwareType>
   </variables>
   <variables lang="sr">
     <systemDescription>Пратите игре које сте завршили.</systemDescription>
-    <systemHardwareType>Збирка</systemHardwareType>
   </variables>
   <variables lang="sv">
     <systemDescription>Håll reda på vilka spel du har spelat klart.</systemDescription>
-    <systemHardwareType>Samling</systemHardwareType>
   </variables>
   <variables lang="zh">
     <systemDescription>记录您已完成的游戏。</systemDescription>
-    <systemHardwareType>收藏品</systemHardwareType>
   </variables>
 </theme>
