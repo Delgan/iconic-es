@@ -2,7 +2,7 @@
   <variables>
     <systemName>Final Fantasy</systemName>
     <systemDescription>View and play the Final Fantasy Games in your collection.</systemDescription>
-    <systemManufacturer>Nintendo</systemManufacturer>
+    <systemManufacturer>Square Enix</systemManufacturer>
     <systemReleaseYear>${i18n.various}</systemReleaseYear>
     <systemHardwareType>${i18n.custom-collection}</systemHardwareType>
     <systemCoverSize>1-1</systemCoverSize>
