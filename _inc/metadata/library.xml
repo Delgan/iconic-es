@@ -1,0 +1,14 @@
+<theme>
+  <variables>
+    <systemName>Library</systemName>
+    <systemName lang="es">Biblioteca</systemName>
+    <systemDescription>View your library</systemDescription>
+    <systemDescription lang="es">Explora tu librería</systemDescription>
+    <systemManufacturer>Misc. System</systemManufacturer>
+    <systemManufacturer lang="es">Misc. Sistema</systemManufacturer>
+    <systemHardwareType>Folder</systemHardwareType>
+    <systemHardwareType lang="es">Carpeta</systemHardwareType>
+    <systemCoverSize>1-1</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>
