@@ -1,0 +1,14 @@
+<theme>
+  <variables>
+    <systemName>Sonic</systemName>
+    <systemManufacturer>Sega</systemManufacturer>
+    <systemReleaseYear>Various</systemReleaseYear>
+    <systemReleaseYear lang="es">Varios</systemReleaseYear>
+    <systemDescription>Sonic the Hedgehog is a video game series and media franchise created by the Japanese developers Yuji Naka, Naoto Ohshima, and Hirokazu Yasuhara for Sega. The franchise follows Sonic, an anthropomorphic blue hedgehog with supersonic speed, who battles the mad scientist Doctor Eggman and his robot army. The main Sonic the Hedgehog games are platformers mostly developed by Sonic Team; other games, developed by various studios, include spin-offs in the racing, fighting, party and sports genres.</systemDescription>
+    <systemDescription lang="es">Sonic the Hedgehog​ es una serie de videojuegos y franquicia multimedia creada por los desarrolladores japoneses Yuji Naka, Naoto Ohshima e Hirokazu Yasuhara para Sega. La franquicia sigue a Sonic, un erizo azul antropomórfico que lucha contra el malvado Doctor Eggman, un científico loco. Los juegos principales de Sonic the Hedgehog son plataformeros, desarrollados principalmente por Sonic Team; otros, desarrollados por diversos estudios, incluyen spin-offs de carreras, lucha, juegos de fiesta y deportes.</systemDescription>
+    <systemHardwareType>Custom Collection</systemHardwareType>
+    <systemHardwareType lang="es">Colección Personalizada</systemHardwareType>
+    <systemCoverSize>1-1</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>
