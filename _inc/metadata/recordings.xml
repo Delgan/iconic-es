@@ -1,14 +1,14 @@
 <theme>
   <variables>
     <systemName>Recordings</systemName>
-    <systemName lang="es">Grabaciones</systemName>
     <systemDescription>View your recordings</systemDescription>
-    <systemDescription lang="es">Explora tus grabaciones</systemDescription>
-    <systemManufacturer>Misc. System</systemManufacturer>
-    <systemManufacturer lang="es">Misc. Sistema</systemManufacturer>
-    <systemHardwareType>Folder</systemHardwareType>
-    <systemHardwareType lang="es">Carpeta</systemHardwareType>
+    <systemManufacturer>${i18n.misc-system}</systemManufacturer>
+    <systemHardwareType>${i18n.hardware-folder}</systemHardwareType>
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
+  </variables>
+  <variables lang="es">
+    <systemName>Grabaciones</systemName>
+    <systemDescription>Explora tus grabaciones</systemDescription>
   </variables>
 </theme>

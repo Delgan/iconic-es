@@ -2,20 +2,16 @@
   <variables>
     <systemName>Mortal Kombat</systemName>
     <systemManufacturer>Midway Games</systemManufacturer>
-    <systemReleaseYear>Various</systemReleaseYear>
-    <systemReleaseYear lang="es">Varios</systemReleaseYear>
-
+    <systemReleaseYear>${i18n.various}</systemReleaseYear>
     <systemDescription>Mortal Kombat is an American media franchise centered on a series of fighting video games originally developed by Midway Games in 1992.
-
 The original Mortal Kombat arcade game spawned a franchise consisting of action-adventure games, a comic book series, a card game, films, an animated TV series, and a live-action tour. Mortal Kombat has become the best-selling fighting game franchise worldwide with over 100 million copies and one of the highest-grossing media franchises of all time.
-
 The series has a reputation for high levels of graphic violence, including, most notably, its fatalities, which are finishing moves that kill defeated opponents instead of knocking them out. Controversies surrounding Mortal Kombat, in part, led to the creation of the Entertainment Software Rating Board (ESRB) video game rating system. Early games in the series were noted for their realistic digitized sprites and an extensive use of palette swapping to create new characters. Following Midway's bankruptcy, the Mortal Kombat development team was acquired by Warner Bros. Entertainment and re-established as NetherRealm Studios.</systemDescription>
-    <systemDescription lang="es">Mortal Kombat (comúnmente abreviado MK) es una franquicia de videojuegos de lucha uno contra uno creada por Ed Boon y John Tobias en 1992. Las cuatro primeras entregas fueron distribuidas por Midway Games y lanzadas principalmente en máquinas arcade; posteriormente estuvieron disponibles en consolas domésticas.
-
-Los títulos de arcade fueron comprados más tarde por Acclaim Entertainment para las consolas caseras de esa época. La franquicia fue adquirida por Warner Bros en julio de 2009 y se convirtió en una parte de la Warner Bros. Interactive Entertainment.</systemDescription>
-     <systemHardwareType>Custom Collection</systemHardwareType>
-    <systemHardwareType lang="es">Colección Personalizada</systemHardwareType>
+    <systemHardwareType>${i18n.custom-collection}</systemHardwareType>
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
+  </variables>
+  <variables lang="es">
+    <systemDescription>Mortal Kombat (comúnmente abreviado MK) es una franquicia de videojuegos de lucha uno contra uno creada por Ed Boon y John Tobias en 1992. Las cuatro primeras entregas fueron distribuidas por Midway Games y lanzadas principalmente en máquinas arcade; posteriormente estuvieron disponibles en consolas domésticas.
+Los títulos de arcade fueron comprados más tarde por Acclaim Entertainment para las consolas caseras de esa época. La franquicia fue adquirida por Warner Bros en julio de 2009 y se convirtió en una parte de la Warner Bros. Interactive Entertainment.</systemDescription>
   </variables>
 </theme>

@@ -3,11 +3,12 @@
     <systemName>Zelda Classic</systemName>
     <systemManufacturer>ZeldaClassic.com</systemManufacturer>
     <systemReleaseYear>1999</systemReleaseYear>
-    <systemDescription>Though it started as a basic Legend of Zelda clone by programmer Phantom Menace in April of 1999, Zelda Classic has grown into something much bigger in the past few years.</systemDescription>   
-    <systemDescription lang="es">Aunque comenzó como un clon básico de Legend of Zelda del programador Phantom Menace en abril de 1999, Zelda Classic se ha convertido en algo mucho más grande en los últimos años.</systemDescription>
-    <systemHardwareType>Engine</systemHardwareType>
-    <systemHardwareType lang="es">Motor</systemHardwareType>
+    <systemDescription>Though it started as a basic Legend of Zelda clone by programmer Phantom Menace in April of 1999, Zelda Classic has grown into something much bigger in the past few years.</systemDescription>
+    <systemHardwareType>${i18n.hardware-engine}</systemHardwareType>
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
+  </variables>
+  <variables lang="es">
+    <systemDescription>Aunque comenzó como un clon básico de Legend of Zelda del programador Phantom Menace en abril de 1999, Zelda Classic se ha convertido en algo mucho más grande en los últimos años.</systemDescription>
   </variables>
 </theme>

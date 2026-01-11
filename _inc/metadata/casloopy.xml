@@ -3,7 +3,6 @@
     <systemName>Casio Loopy</systemName>
     <systemManufacturer>Casio</systemManufacturer>
     <systemReleaseYear>1995</systemReleaseYear>
-
     <systemDescription>The Casio Loopy (Japanese: ルーピー, Hepburn: Rūpī), subtitled My Seal Computer SV-100, is a 32-bit home video game console. Released exclusively in Japan in October 1995 with a price of 25,000¥, the marketing for it was completely targeted to female gamers.
 
 The console is powered by a Hitachi SH7021 SuperH 32-bit RISC CPU running at 16MHz, and had 1MB of RAM and 2MB of ROM. It was capable of displaying 512-color graphics and of playing 4 channels of 12-bit PCM audio.
@@ -11,14 +10,15 @@ The console is powered by a Hitachi SH7021 SuperH 32-bit RISC CPU running at 16M
 The Loopy has one controller port for use with a standard game controller or with a mouse which was sold separately.
 
 The Loopy includes a built-in thermal color printer that could be used to create stickers from game screenshots. An optional accessory, called Magical Shop (マジカルショップ, Majikaru Shoppu), was a video capture device to obtain images from VCRs and DVD players. Users may add text to these images and make stickers. Including Magical Shop's own built-in software, the Loopy library contained 11 titles.</systemDescription>
-    <systemDescription lang="es">La Casio Loopy (subtitulada My Seal Computer SV-100) es una videoconsola de 32 bits creada por Casio, la cual fue lanzada exclusivamente en Japón. Lanzada en octubre de 1995, es la única consola de la historia que fue comercializada únicamente dirigida al mercado femenino.​
+    <systemHardwareType>${i18n.hardware-console}</systemHardwareType>
+    <systemCoverSize>3-4</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+  <variables lang="es">
+    <systemDescription>La Casio Loopy (subtitulada My Seal Computer SV-100) es una videoconsola de 32 bits creada por Casio, la cual fue lanzada exclusivamente en Japón. Lanzada en octubre de 1995, es la única consola de la historia que fue comercializada únicamente dirigida al mercado femenino.​
 
 Sólo 11 juegos fueron lanzados para ella, siendo la mayoría de ellos de géneros GxB y disfraces.
 
 Una característica muy interesante de esta máquina es que incluyó una impresora térmica a color incorporada que podía ser utilizada para crear "calcomanías" de imágenes del juego.</systemDescription>
-    <systemHardwareType>Console</systemHardwareType>
-    <systemHardwareType lang="es">Consola</systemHardwareType>
-    <systemCoverSize>3-4</systemCoverSize>
-    <systemCartSize>1-1</systemCartSize>
   </variables>
 </theme>

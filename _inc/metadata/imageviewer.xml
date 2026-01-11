@@ -1,14 +1,14 @@
 <theme>
   <variables>
     <systemName>Screenshots Gallery</systemName>
-    <systemName lang="es">Pantallazos</systemName>
     <systemDescription>View your screenshots</systemDescription>
-    <systemDescription lang="es">Explora tus capturas de pantalla</systemDescription>
-    <systemManufacturer>Misc. System</systemManufacturer>
-    <systemManufacturer lang="es">Misc. Sistema</systemManufacturer>
-    <systemHardwareType>Folder</systemHardwareType>
-    <systemHardwareType lang="es">Carpeta</systemHardwareType>
+    <systemManufacturer>${i18n.misc-system}</systemManufacturer>
+    <systemHardwareType>${i18n.hardware-folder}</systemHardwareType>
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
+  </variables>
+  <variables lang="es">
+    <systemName>Pantallazos</systemName>
+    <systemDescription>Explora tus capturas de pantalla</systemDescription>
   </variables>
 </theme>

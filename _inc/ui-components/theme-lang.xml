@@ -33,6 +33,9 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.various>Various</i18n.various>
         <i18n.auto-collection>Auto Collection</i18n.auto-collection>
         <i18n.custom-collection>Custom Collection</i18n.custom-collection>
+        <i18n.misc-system>Misc. System</i18n.misc-system>
+        <i18n.misc-system>Sonstiges System</i18n.misc-system>
+        <i18n.misc-system>Sistem Divers</i18n.misc-system>
         <i18n.hardware-computer>Computer</i18n.hardware-computer>
         <i18n.hardware-engine>Engine</i18n.hardware-engine>
         <i18n.hardware-arcade>Arcade</i18n.hardware-arcade>
@@ -67,6 +70,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.various>متنوع</i18n.various>
         <i18n.auto-collection>مجموعة تلقائية</i18n.auto-collection>
         <i18n.custom-collection>مجموعة مخصصة</i18n.custom-collection>
+        <i18n.misc-system>نظام متنوع</i18n.misc-system>
         <i18n.hardware-computer>الحاسب الآلي</i18n.hardware-computer>
         <i18n.hardware-engine>المحرك</i18n.hardware-engine>
         <i18n.hardware-arcade>أركيد</i18n.hardware-arcade>
@@ -100,6 +104,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.various>Razno</i18n.various>
         <i18n.auto-collection>Auto Kolekcija</i18n.auto-collection>
         <i18n.custom-collection>Prilagođena Kolekcija</i18n.custom-collection>
+        <i18n.misc-system>Razni sistemi</i18n.misc-system>
         <i18n.hardware-computer>Računar</i18n.hardware-computer>
         <i18n.hardware-engine>Motor</i18n.hardware-engine>
         <i18n.hardware-arcade>Arkada</i18n.hardware-arcade>
@@ -133,6 +138,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.various>Diversos</i18n.various>
         <i18n.auto-collection>Col·lecció Automàtica</i18n.auto-collection>
         <i18n.custom-collection>Col·lecció Personalitzada</i18n.custom-collection>
+        <i18n.misc-system>Sistema Divers</i18n.misc-system>
         <i18n.hardware-computer>Ordinador</i18n.hardware-computer>
         <i18n.hardware-engine>Motor</i18n.hardware-engine>
         <i18n.hardware-arcade>Arcade</i18n.hardware-arcade>
@@ -166,6 +172,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.various>Verschiedene</i18n.various>
         <i18n.auto-collection>Auto-Sammlung</i18n.auto-collection>
         <i18n.custom-collection>Benutzerdefinierte Sammlung</i18n.custom-collection>
+        <i18n.misc-system>Divers systeem</i18n.misc-system>
         <i18n.hardware-computer>Computer</i18n.hardware-computer>
         <i18n.hardware-engine>Motor</i18n.hardware-engine>
         <i18n.hardware-arcade>Spielhalle</i18n.hardware-arcade>
@@ -199,6 +206,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.various>Varios</i18n.various>
         <i18n.auto-collection>Colección Automática</i18n.auto-collection>
         <i18n.custom-collection>Colección Personalizada</i18n.custom-collection>
+        <i18n.misc-system>Sistema Misceláneo</i18n.misc-system>
         <i18n.hardware-computer>Ordenador</i18n.hardware-computer>
         <i18n.hardware-engine>Motor</i18n.hardware-engine>
         <i18n.hardware-arcade>Arcade</i18n.hardware-arcade>
@@ -232,6 +240,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.various>Divers</i18n.various>
         <i18n.auto-collection>Collection Automatique</i18n.auto-collection>
         <i18n.custom-collection>Collection Personnalisée</i18n.custom-collection>
+        <i18n.misc-system>Système Divers</i18n.misc-system>
         <i18n.hardware-computer>Ordinateur</i18n.hardware-computer>
         <i18n.hardware-engine>Moteur</i18n.hardware-engine>
         <i18n.hardware-arcade>Arcade</i18n.hardware-arcade>
@@ -265,6 +274,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.various>Razno</i18n.various>
         <i18n.auto-collection>Auto Kolekcija</i18n.auto-collection>
         <i18n.custom-collection>Prilagođena Kolekcija</i18n.custom-collection>
+        <i18n.misc-system>Razni Sustavi</i18n.misc-system>
         <i18n.hardware-computer>Računalo</i18n.hardware-computer>
         <i18n.hardware-engine>Motor</i18n.hardware-engine>
         <i18n.hardware-arcade>Arkada</i18n.hardware-arcade>
@@ -298,6 +308,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.various>Vari</i18n.various>
         <i18n.auto-collection>Raccolta Automatica</i18n.auto-collection>
         <i18n.custom-collection>Raccolta Personalizzata</i18n.custom-collection>
+        <i18n.misc-system>Sistema Vario</i18n.misc-system>
         <i18n.hardware-computer>Computer</i18n.hardware-computer>
         <i18n.hardware-engine>Motore</i18n.hardware-engine>
         <i18n.hardware-arcade>Arcade</i18n.hardware-arcade>
@@ -364,6 +375,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.various>各種</i18n.various>
         <i18n.auto-collection>自動コレクション</i18n.auto-collection>
         <i18n.custom-collection>カスタムコレクション</i18n.custom-collection>
+        <i18n.misc-system>その他のシステム</i18n.misc-system>
         <i18n.hardware-computer>コンピューター</i18n.hardware-computer>
         <i18n.hardware-engine>エンジン</i18n.hardware-engine>
         <i18n.hardware-arcade>アーケード</i18n.hardware-arcade>
@@ -397,6 +409,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.various>여러 가지</i18n.various>
         <i18n.auto-collection>자동 컬렉션</i18n.auto-collection>
         <i18n.custom-collection>사용자 지정 컬렉션</i18n.custom-collection>
+        <i18n.misc-system>기타 시스템</i18n.misc-system>
         <i18n.hardware-computer>컴퓨터</i18n.hardware-computer>
         <i18n.hardware-engine>엔진</i18n.hardware-engine>
         <i18n.hardware-arcade>아케이드</i18n.hardware-arcade>
@@ -430,6 +443,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.various>Różne</i18n.various>
         <i18n.auto-collection>Kolekcja Automatyczna</i18n.auto-collection>
         <i18n.custom-collection>Kolekcja Niestandardowa</i18n.custom-collection>
+        <i18n.misc-system>Inne systemy</i18n.misc-system>
         <i18n.hardware-computer>Komputer</i18n.hardware-computer>
         <i18n.hardware-engine>Silnik</i18n.hardware-engine>
         <i18n.hardware-arcade>Arcade</i18n.hardware-arcade>
@@ -463,6 +477,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.various>Vários</i18n.various>
         <i18n.auto-collection>Coleção Automática</i18n.auto-collection>
         <i18n.custom-collection>Coleção Personalizada</i18n.custom-collection>
+        <i18n.misc-system>Sistema Diverso</i18n.misc-system>
         <i18n.hardware-computer>Computador</i18n.hardware-computer>
         <i18n.hardware-engine>Motor</i18n.hardware-engine>
         <i18n.hardware-arcade>Fliperama</i18n.hardware-arcade>
@@ -529,6 +544,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.various>Разные</i18n.various>
         <i18n.auto-collection>Автоколлекция</i18n.auto-collection>
         <i18n.custom-collection>Пользовательская Коллекция</i18n.custom-collection>
+        <i18n.misc-system>Разные системы</i18n.misc-system>
         <i18n.hardware-computer>Компьютер</i18n.hardware-computer>
         <i18n.hardware-engine>Двигатель</i18n.hardware-engine>
         <i18n.hardware-arcade>Аркада</i18n.hardware-arcade>
@@ -562,6 +578,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.various>Разно</i18n.various>
         <i18n.auto-collection>Ауто Колекција</i18n.auto-collection>
         <i18n.custom-collection>Прилагођена Колекција</i18n.custom-collection>
+        <i18n.misc-system>Остали системи</i18n.misc-system>
         <i18n.hardware-computer>Рачунар</i18n.hardware-computer>
         <i18n.hardware-engine>Мотор</i18n.hardware-engine>
         <i18n.hardware-arcade>Аркада</i18n.hardware-arcade>
@@ -595,6 +612,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.various>Olika</i18n.various>
         <i18n.auto-collection>Automatisk Samling</i18n.auto-collection>
         <i18n.custom-collection>Anpassad Samling</i18n.custom-collection>
+        <i18n.misc-system>Övrigt system</i18n.misc-system>
         <i18n.hardware-computer>Dator</i18n.hardware-computer>
         <i18n.hardware-engine>Motor</i18n.hardware-engine>
         <i18n.hardware-arcade>Arkad</i18n.hardware-arcade>
@@ -628,6 +646,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.various>各种</i18n.various>
         <i18n.auto-collection>自动合集</i18n.auto-collection>
         <i18n.custom-collection>自定义合集</i18n.custom-collection>
+        <i18n.misc-system>其他系统</i18n.misc-system>
         <i18n.hardware-computer>计算机</i18n.hardware-computer>
         <i18n.hardware-engine>发动机</i18n.hardware-engine>
         <i18n.hardware-arcade>商场</i18n.hardware-arcade>

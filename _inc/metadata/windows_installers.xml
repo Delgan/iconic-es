@@ -1,14 +1,14 @@
 <theme>
   <variables>
     <systemName>Windows Installers</systemName>
-    <systemName lang="es">Instaladores de Windows</systemName>
     <systemDescription>Install Windows Games</systemDescription>
-    <systemDescription lang="es">Instala juegos de Windows</systemDescription>
-    <systemManufacturer>Misc. System</systemManufacturer>
-    <systemManufacturer lang="es">Misc. Sistema</systemManufacturer>
-    <systemHardwareType>Folder</systemHardwareType>
-    <systemHardwareType lang="es">Carpeta</systemHardwareType>
+    <systemManufacturer>${i18n.misc-system}</systemManufacturer>
+    <systemHardwareType>${i18n.hardware-folder}</systemHardwareType>
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
+  </variables>
+  <variables lang="es">
+    <systemName>Instaladores de Windows</systemName>
+    <systemDescription>Instala juegos de Windows</systemDescription>
   </variables>
 </theme>

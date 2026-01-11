@@ -6,10 +6,11 @@
     <systemDescription>The Enterprise is a Zilog Z80-based home computer announced in 1983, but due to a series of delays, was not commercially available until 1985. It was developed by British company Intelligent Software and marketed by Enterprise Computers.
 
 The specification as released was powerful and one of the higher end in its class (though not by the margin envisaged in 1983). This was due to the use of custom ASICs for graphics and sound which took workload away from the CPU, an extensive implementation of ANSI BASIC and a bank switching system to allow for larger amounts of RAM than the Z80 natively supported. It also featured a distinctive and colourful case design, and promise of multiple expansion options. Its two variants are the Enterprise 64, with 64 KB of RAM, and the Enterprise 128, with 128 KB of RAM.</systemDescription>
-    <systemDescription lang="es">El Enterprise es un ordenador doméstico con una CPU Zilog Z80 a 4 MHz que se lanzó en 1985. Durante su desarrollo fue conocido como DPC, Samurai, Oscar, Elan y Flan, siendo finalmente llamado Enterprise. En Alemania se le conoce como el Mephisto PHC.</systemDescription>
-    <systemHardwareType>Computer</systemHardwareType>
-    <systemHardwareType lang="es">Ordenador</systemHardwareType>
+    <systemHardwareType>${i18n.hardware-computer}</systemHardwareType>
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
+  </variables>
+  <variables lang="es">
+    <systemDescription>El Enterprise es un ordenador doméstico con una CPU Zilog Z80 a 4 MHz que se lanzó en 1985. Durante su desarrollo fue conocido como DPC, Samurai, Oscar, Elan y Flan, siendo finalmente llamado Enterprise. En Alemania se le conoce como el Mephisto PHC.</systemDescription>
   </variables>
 </theme>
