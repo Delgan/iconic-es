@@ -4,6 +4,7 @@
     <systemDescription>Install Windows Games</systemDescription>
     <systemManufacturer>${i18n.misc-system}</systemManufacturer>
     <systemHardwareType>${i18n.hardware-folder}</systemHardwareType>
+    <systemReleaseYear>${i18n.various}</systemReleaseYear>
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
