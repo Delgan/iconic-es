@@ -1,0 +1,14 @@
+<theme>
+  <variables>
+    <systemName>Castlevania</systemName>
+    <systemManufacturer>Konami</systemManufacturer>
+    <systemReleaseYear>Various</systemReleaseYear>
+    <systemReleaseYear lang="es">Varios</systemReleaseYear>
+    <systemDescription>Castlevania (キャッスルヴァニア), known in Japan as Akumajō Dracula, is a 1986 platform game developed and published by Konami. It was originally released in Japan for the Famicom Disk System in September 1986, before being ported to cartridge format and released in North America for the Nintendo Entertainment System (NES) in 1987 and in Europe in 1988. It was also re-issued for the Family Computer in cartridge format in 1993. It is the first installment in the Castlevania series.</systemDescription>
+    <systemDescription lang="es">Castlevania (キャッスルヴァニア) es una serie de videojuegos, creada y desarrollada por Konami. Esta serie debutó en Japón con la primera versión de Akumajō Dracula (悪魔城ドラキュラ) para las plataformas Famicom Disk System (FDS) y un mes después para MSX 2 en 1986. Aunque la versión de MSX 2 (que fue conocida en Europa como Vampire Killer) fue la primera versión sacada a la venta fuera de Japón, esta no fue la versión original. En América no se conoció hasta que la versión FDS fue reprogramada en formato de cartucho para NES en 1987, bajo el título de Castlevania. Esto ha llevado muchas veces a la confusión sobre en qué plataforma salió primero, estando claro que fue en Famicom Disk System.</systemDescription>
+    <systemHardwareType>Custom Collection</systemHardwareType>
+    <systemHardwareType lang="es">Colección Personalizada</systemHardwareType>
+    <systemCoverSize>1-1</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>
