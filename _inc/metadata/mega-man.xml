@@ -1,0 +1,66 @@
+<theme>
+  <variables>
+    <systemName>Mega Man</systemName>
+    <systemManufacturer>Capcom</systemManufacturer>
+    <systemReleaseYear>${i18n.various}</systemReleaseYear>
+    <systemDescription>Mega Man (known as Rockman[a] in Japan) is a video game franchise developed and published by Capcom, featuring the protagonist of the same name. The original game was released for the Nintendo Entertainment System in 1987, and spawned a franchise that expanded to over 50 games on multiple systems. As of March 2025, the series had sold 43 million units worldwide.[1] Mega Man has been popular among gamers and has been reimagined and evolved as a video game character for over 30 years.
+The main series, dubbed the "Classic" series, consists of eleven games, the standalone Mega Man &amp; Bass, the spin-off Game Boy series (released in Japan as Rockman World), and various ports, remakes, and compilations. The storyline of the "Classic" series is succeeded by the Mega Man X, Mega Man Zero, Mega Man ZX, and the Mega Man Legends series, all of which set in a single continuity. Two other series, the Mega Man Battle Network and Mega Man Star Force series, take place in an alternate universe where the internet flourished rather than robotics.</systemDescription>
+    <systemHardwareType>${i18n.custom-collection}</systemHardwareType>
+    <systemCoverSize>1-1</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+  <variables lang="ar">
+    <systemDescription>Mega Man، المعروف في اليابان باسم Rockman، هي سلسلة ألعاب فيديو طورتها ونشرتها Capcom، وتضم شخصية البطل التي تحمل نفس الاسم. صدرت اللعبة الأصلية على NES في 1987 ولاحقاً توسعت السلسلة عبر منصات متعددة.</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>Mega Man (u Japanu poznat kao Rockman) je serijal videoigara koji je razvio i objavio Capcom, s protagonistom istog imena. Izvorna igra izašla je za NES 1987. i serijal se proširio na preko 50 naslova na raznim platformama.</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>Mega Man (conegut al Japó com Rockman) és una franquícia de videojocs desenvolupada i publicada per Capcom, amb el protagonista homònim. El primer joc es va publicar per al NES el 1987 i la franquícia va créixer fins a més de 50 títols en diverses plataformes.</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemDescription>Mega Man (in Japan als Rockman bekannt) ist eine von Capcom entwickelte und veröffentlichte Videospiel‑Franchise mit dem gleichnamigen Protagonisten. Das Original erschien 1987 für das NES und die Reihe wuchs auf über 50 Spiele auf mehreren Systemen an.</systemDescription>
+  </variables>
+  <variables lang="es">
+    <systemDescription>Mega Man, conocido en Japón como Rockman (ロックマン Rokkuman?), es una franquicia de videojuegos creada por Capcom, que tiene como protagonista a Mega Man o a sus contrapartes. Es uno de los personajes más reconocidos de los videojuegos, creado por Akira Kitamura en 1987 para el Nintendo Entertainment System. Aunque originalmente se propusieron los nombres de Mighty Kid, Knuckle Kid, y Rainbow Battle Kid por su capacidad de cambiar de color al momento de absorber los poderes de sus enemigos, Capcom finalmente se decidió por "Rockman" como el apodo japonés de Mega Man. Hasta marzo de 2025 la franquicia ha vendido 43 000 000 copias.</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>Mega Man (connu au Japon sous le nom de Rockman) est une franchise de jeux vidéo développée et publiée par Capcom, mettant en scène le protagoniste du même nom. Le premier jeu est sorti sur NES en 1987 et la série s'est étendue à plus de 50 titres sur diverses plateformes.</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>Mega Man (u Japanu poznat kao Rockman) je franšiza videoigara koju je razvio i izdao Capcom, s protagonistom istog imena. Izvorna igra izašla je za NES 1987., a serijal se proširio na više od 50 igara na različitim platformama.</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemDescription>Mega Man (noto in Giappone come Rockman) è un franchise di videogiochi sviluppato e pubblicato da Capcom, con protagonista l'omonimo personaggio. Il gioco originale è uscito per NES nel 1987 e la serie si è espansa in oltre 50 titoli su più piattaforme.</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>Mega Man（日本名：ロックマン）は、カプコンが開発・発売したビデオゲームシリーズで、同名の主人公を特色とします。オリジナルは1987年にNES向けに発売され、その後複数のプラットフォームで50以上の作品に拡大しました。</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>Mega Man(일본명 Rockman)는 Capcom이 개발·배급한 비디오 게임 프랜차이즈로, 동명의 주인공이 등장합니다. 원작은 1987년 NES로 출시되었고 이후 여러 플랫폼에서 50개 이상의 타이틀로 확장되었습니다.</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>Mega Man (in Japan bekend als Rockman) is een videogamefranchise ontwikkeld en uitgegeven door Capcom, met de gelijknamige hoofdpersoon. Het originele spel verscheen in 1987 voor de NES en de franchise groeide uit tot meer dan 50 titels op verschillende systemen.</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>Mega Man (w Japonii znany jako Rockman) to seria gier wideo stworzona i wydana przez Capcom, z protagonistą o tej samej nazwie. Pierwsza gra ukazała się na NES w 1987 roku, a seria rozrosła się do ponad 50 tytułów na różnych platformach.</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>Mega Man (conhecido no Japão como Rockman) é uma franquia de videojogos desenvolvida e publicada pela Capcom, com o protagonista homónimo. O jogo original foi lançado para NES em 1987 e a série expandiu‑se para mais de 50 títulos em várias plataformas.</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>Mega Man (cunoscut în Japonia ca Rockman) este o franciză de jocuri video dezvoltată și publicată de Capcom, având același nume pentru protagonist. Jocul original a apărut pe NES în 1987, iar franciza s‑a extins la peste 50 de titluri pe mai multe platforme.</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>Mega Man (в Японии известен как Rockman) — серия видеоигр, разработанная и выпущенная Capcom, с одноимённым главным героем. Оригинальная игра вышла для NES в 1987 году, и серия разрослась до более 50 игр на разных платформах.</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>Mega Man (у Јапану познат као Rockman) је серија видео игара коју је развио и објавио Capcom, са главним јунаком истог имена. Прва игра изашла је 1987. за NES, а серија се проширила на преко 50 игара на различитим платформама.</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>Mega Man (känd i Japan som Rockman) är en spelserie utvecklad och utgiven av Capcom, med en huvudkaraktär med samma namn. Originalspelet släpptes för NES 1987 och serien har vuxit till över 50 spel på flera system.</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>Mega Man（日本名：ロックマン）是卡普空开发并发行的电子游戏系列，主角同名。原作于 1987 年在 NES 发布，系列后来扩展到多个平台的 50 多款游戏。</systemDescription>
+  </variables>
+</theme>

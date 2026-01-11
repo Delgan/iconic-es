@@ -1,0 +1,65 @@
+<theme>
+  <variables>
+    <systemName>Sonic</systemName>
+    <systemManufacturer>Sega</systemManufacturer>
+    <systemReleaseYear>${i18n.various}</systemReleaseYear>
+    <systemDescription>Sonic the Hedgehog is a video game series and media franchise created by the Japanese developers Yuji Naka, Naoto Ohshima, and Hirokazu Yasuhara for Sega. The franchise follows Sonic, an anthropomorphic blue hedgehog with supersonic speed, who battles the mad scientist Doctor Eggman and his robot army. The main Sonic the Hedgehog games are platformers mostly developed by Sonic Team; other games, developed by various studios, include spin-offs in the racing, fighting, party and sports genres.</systemDescription>
+    <systemHardwareType>${i18n.custom-collection}</systemHardwareType>
+    <systemCoverSize>1-1</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+  <variables lang="ar">
+    <systemDescription>Sonic the Hedgehog هي سلسلة ألعاب فيديو وامتياز إعلامي أنشأه المطورون اليابانيون Yuji Naka و Naoto Ohshima و Hirokazu Yasuhara لشركة Sega. تتبع السلسلة Sonic، قنفذ أزرق بقدرة سرعة فوق صوتية، الذي يقاتل العالم المجنون الدكتور Eggman وجيشه من الروبوتات.</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>Sonic the Hedgehog je serijal videoigara i medijski franchise kojeg su stvorili Yuji Naka, Naoto Ohshima i Hirokazu Yasuhara za Sega. Prati Sonic‑a, antropomorfnog plavog ježa koji se bori protiv zlog znanstvenika Doctor Eggmana i njegove vojske robota.</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>Sonic the Hedgehog és una sèrie de videojocs creada per Yuji Naka, Naoto Ohshima i Hirokazu Yasuhara per a Sega. La franquícia segueix Sonic, un eriçó blau amb velocitat supersònica que lluita contra el malvat Doctor Eggman i el seu exèrcit de robots.</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemDescription>Sonic the Hedgehog ist eine Videospielreihe und Medienfranchise, geschaffen von Yuji Naka, Naoto Ohshima und Hirokazu Yasuhara für Sega. Die Reihe handelt von Sonic, einem anthropomorphen blauen Igel mit Überschallgeschwindigkeit, der gegen den verrückten Wissenschaftler Dr. Eggman und seine Roboterarmee kämpft.</systemDescription>
+  </variables>
+  <variables lang="es">
+    <systemDescription>Sonic the Hedgehog​ es una serie de videojuegos y franquicia multimedia creada por los desarrolladores japoneses Yuji Naka, Naoto Ohshima e Hirokazu Yasuhara para Sega. La franquicia sigue a Sonic, un erizo azul antropomórfico que lucha contra el malvado Doctor Eggman, un científico loco. Los juegos principales de Sonic the Hedgehog son plataformeros, desarrollados principalmente por Sonic Team; otros, desarrollados por diversos estudios, incluyen spin-offs de carreras, lucha, juegos de fiesta y deportes.</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>Sonic the Hedgehog est une série de jeux vidéo et une franchise média créée par Yuji Naka, Naoto Ohshima et Hirokazu Yasuhara pour Sega. La franchise suit Sonic, un hérisson bleu anthropomorphe à vitesse supersonique, qui affronte le savant fou Docteur Eggman et son armée de robots.</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>Sonic the Hedgehog je serija videoigara i medijska franšiza koju su stvorili Yuji Naka, Naoto Ohshima i Hirokazu Yasuhara za Sega. Prati Sonica, antropomorfnog plavog ježa s nadzvučnom brzinom koji se bori protiv ludog znanstvenika Dr. Eggmana i njegove vojske robota.</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemDescription>Sonic the Hedgehog è una serie di videogiochi e franchising multimediale creata da Yuji Naka, Naoto Ohshima e Hirokazu Yasuhara per Sega. La serie segue Sonic, un riccio blu antropomorfo con velocità supersonica, che combatte il folle scienziato Dr. Eggman e il suo esercito di robot.</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>Sonic the Hedgehog は、Yuji Naka、Naoto Ohshima、Hirokazu Yasuhara によって Sega 向けに作られたビデオゲームシリーズです。主人公のソニックは超音速の速度を持つ青いハリネズミで、狂気の科学者ドクター・エッグマンとそのロボット軍団と戦います。</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>Sonic the Hedgehog는 Yuji Naka, Naoto Ohshima, Hirokazu Yasuhara가 Sega를 위해 만든 비디오 게임 시리즈입니다. 이 프랜차이즈는 초음속 속도를 지닌 파란 고슴도치 Sonic가 악명 높은 과학자 닥터 에그맨과 그의 로봇 군대와 싸우는 이야기를 다룹니다.</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>Sonic the Hedgehog is een videogameserie en mediafranchise gecreëerd door Yuji Naka, Naoto Ohshima en Hirokazu Yasuhara voor Sega. De franchise volgt Sonic, een antropomorfe blauwe egel met supersonische snelheid, die het opneemt tegen de gestoorde wetenschapper Dr. Eggman en zijn leger robots.</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>Sonic the Hedgehog to seria gier wideo i franczyza stworzona przez Yuji Nakę, Naoto Ohshimę i Hirokazu Yasuharę dla Segi. Franczyza opowiada o Sonicu, antropomorficznym niebieskim jeżu o nadźwiękowej prędkości, który walczy z doktorem Eggmanem i jego armią robotów.</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>Sonic the Hedgehog é uma série de videojogos e franquia multimédia criada por Yuji Naka, Naoto Ohshima e Hirokazu Yasuhara para a Sega. A franquia segue Sonic, um ouriço azul antropomórfico com velocidade supersónica, que combate o cientista louco Doctor Eggman e o seu exército de robôs.</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>Sonic the Hedgehog este o serie de jocuri video și un franciz media creată de Yuji Naka, Naoto Ohshima și Hirokazu Yasuhara pentru Sega. Franciza urmărește aventurile lui Sonic, un arici albastru antropomorf cu viteză supersonică, care luptă împotriva savantului nebun Doctor Eggman și armatei sale de roboți.</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>Sonic the Hedgehog — серия видеоигр и медиа‑франшиза, созданная Yuji Naka, Naoto Ohshima и Hirokazu Yasuhara для Sega. ФРаншиза рассказывает о Сонике, антропоморфном синем ёжике со сверхзвуковой скоростью, борющемся с безумным учёным Доктором Эггманом и его армией роботов.</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>Sonic the Hedgehog је серија видео игара коју су створили Yuji Naka, Naoto Ohshima и Hirokazu Yasuhara за Sega. Практично прати Соница, антропоморфног плавог јежа са надзвучном брзином, који се бори против лудог научника Доктора Еггмана и његове армије робота.</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>Sonic the Hedgehog är en spelserie och mediefranchise skapad av Yuji Naka, Naoto Ohshima och Hirokazu Yasuhara för Sega. Serien följer Sonic, en antropomorf blå igelkott med supersonisk hastighet, som bekämpar den galne vetenskapsmannen Dr. Eggman och hans robotarmé.</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>Sonic the Hedgehog（索尼克）是由 Yuji Naka、Naoto Ohshima 和 Hirokazu Yasuhara 为 Sega 创作的电子游戏系列。该系列讲述了具有超音速速度的蓝色拟人刺猬索尼克，与疯狂科学家蛋头博士及其机器人军队作战的故事。</systemDescription>
+  </variables>
+</theme>

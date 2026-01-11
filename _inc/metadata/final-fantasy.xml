@@ -2,10 +2,64 @@
   <variables>
     <systemName>Final Fantasy</systemName>
     <systemDescription>View and play the Final Fantasy Games in your collection.</systemDescription>
-    <systemManufacturer>Nintendo</systemManufacturer>
-    <systemReleaseYear>Various</systemReleaseYear>
-    <systemHardwareType>Custom Collection</systemHardwareType>
+    <systemManufacturer>Square Enix</systemManufacturer>
+    <systemReleaseYear>${i18n.various}</systemReleaseYear>
+    <systemHardwareType>${i18n.custom-collection}</systemHardwareType>
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
+  </variables>
+  <variables lang="ar">
+    <systemDescription>عرض ولعب ألعاب Final Fantasy الموجودة في مجموعتك.</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>Pogledajte i igrajte Final Fantasy igre iz vaše kolekcije.</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>Visualitza i juga els jocs de Final Fantasy de la teva col·lecció.</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemDescription>Zeige und spiele die Final Fantasy-Spiele in deiner Sammlung.</systemDescription>
+  </variables>
+  <variables lang="es">
+    <systemDescription>Ver y jugar los juegos de Final Fantasy de tu colección.</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>Consultez et jouez aux jeux Final Fantasy de votre collection.</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>Pogledajte i igrajte Final Fantasy igre iz vaše kolekcije.</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemDescription>Visualizza e gioca ai giochi Final Fantasy nella tua collezione.</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>コレクションにあるファイナルファンタジーのゲームを表示してプレイします。</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>컬렉션에 있는 파이널 판타지 게임을 보고 플레이하세요.</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>Bekijk en speel de Final Fantasy-spellen in je collectie.</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>Przeglądaj i graj w gry Final Fantasy z twojej kolekcji.</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>Veja e jogue os jogos Final Fantasy da sua coleção.</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>Vizualizați și jucați jocurile Final Fantasy din colecția dvs.</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>Просматривайте и играйте в игры Final Fantasy из вашей коллекции.</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>Прегледајте и играјте Final Fantasy игре из ваше колекције.</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>Visa och spela Final Fantasy-spelen i din samling.</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>查看并在您的收藏中游玩最终幻想系列游戏。</systemDescription>
   </variables>
 </theme>

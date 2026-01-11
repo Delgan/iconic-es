@@ -12,7 +12,7 @@ While X1 was struggling to sell, the PC8801 (from NEC) was quickly becoming popu
 Sharp continues to sell desktop PC/TV combos in Japan through its Internet Aquos line, where an X1-style red color scheme is available.</systemDescription>
     <systemManufacturer>Sharp</systemManufacturer>
     <systemReleaseYear>1982</systemReleaseYear>
-    <systemHardwareType>Computer</systemHardwareType>
+    <systemHardwareType>${i18n.hardware-computer}</systemHardwareType>
     <systemCoverSize>3-4</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
@@ -26,7 +26,6 @@ Sharp continues to sell desktop PC/TV combos in Japan through its Internet Aquos
 بينما كان X1 يكافح من أجل البيع، كان جهاز PC8801 (من NEC) يحظى بشعبية كبيرة في السوق اليابانية. في عام 1984، أصدرت Sharp سلسلة X1 توربو X1 برسومات عالية الدقة (640 × 400، بينما كان X1 يحتوي على 640 × 200). كان بها العديد من التحسينات، لكن سرعة الساعة كانت لا تزال 4 ميجاهرتز فقط. في عام 1986، أصدرت Sharp سلسلة X1 توربو Z سلسلة X1 مع شاشة RGB تناظرية ملونة 4096. وأخيرًا تم إصدار توأم X1، الذي كان يحتوي على محرك كمبيوتر في الخزانة، كآخر جهاز من سلسلة X1 في عام 1987. ثم خلفت هذه السلسلة سلسلة X68000 سلسلة X68000.
 
 تواصل Sharp بيع أجهزة الكمبيوتر المكتبي/التلفزيون المكتبي في اليابان من خلال خط الإنترنت Aquos، حيث يتوفر نظام ألوان أحمر على غرار X1.</systemDescription>
-    <systemHardwareType>الحاسب الآلي</systemHardwareType>
   </variables>
   <variables lang="bs">
     <systemDescription>The X1 (エックスワン, Ekkusuwan), sometimes called the Sharp X1, is a series of home computers released by Sharp Corporation from 1982 to 1988. It was based on a Z80 CPU.
@@ -38,7 +37,6 @@ The RGB display monitor for the X1 had a television tuner, and a computer screen
 While X1 was struggling to sell, the PC8801 (from NEC) was quickly becoming popular in the Japanese market. In 1984, Sharp released the X1 turbo series with high resolution graphics (640x400, while X1 had 640x200). It had many improvements, but the clock speed was still only 4 MHz. In 1986, Sharp released the X1 turbo Z series with a 4096 color analog RGB monitor. An X1 twin, which had a PC-Engine in the cabinet, was finally released as the last machine of the X1 series in 1987. Then this series was succeeded by the X68000 series.
 
 Sharp continues to sell desktop PC/TV combos in Japan through its Internet Aquos line, where an X1-style red color scheme is available.</systemDescription>
-    <systemHardwareType>Computer</systemHardwareType>
   </variables>
   <variables lang="ca">
     <systemDescription>La X1 (エックスワン, Ekkusuwan), de vegades anomenada Sharp X1, és una sèrie d’ordinadors domèstics publicats per Sharp Corporation de 1982 a 1988. Es va basar en una CPU Z80.
@@ -50,7 +48,6 @@ El monitor de pantalla RGB per a la X1 tenia un sintonitzador de televisió i un
 Mentre que X1 lluitava per vendre, el PC8801 (de NEC) es va popularitzar ràpidament al mercat japonès. El 1984, Sharp va llançar la sèrie X1 Turbo amb gràfics d'alta resolució (640x400, mentre que X1 tenia 640x200). Va tenir moltes millores, però la velocitat del rellotge era de només 4 MHz. El 1986, Sharp va llançar la sèrie X Turbo Z amb un monitor RGB analògic 4096. Un bessó X1, que tenia un motor de PC al gabinet, es va publicar finalment com a última màquina de la sèrie X1 el 1987. Aleshores aquesta sèrie va ser succeïda per la sèrie X68000.
 
 Sharp continua venent combos de PC/TV d’escriptori al Japó a través de la seva línia Internet Aquos, on hi ha un esquema de colors vermell d’estil X1 disponible.</systemDescription>
-    <systemHardwareType>Computer</systemHardwareType>
   </variables>
   <variables lang="de">
     <systemDescription>Der X1 (エックスワン, Ekkusuwan), manchmal auch Sharp X1 genannt, ist eine Serie von Heimcomputern, die von 1982 bis 1988 von der Sharp Corporation herausgebracht wurde. Sie basierte auf einer Z80-CPU.
@@ -62,7 +59,6 @@ Der RGB-Monitor des X1 verfügte über einen Fernsehtuner, und ein Computerbilds
 Während sich der X1 nur schwer verkaufen ließ, wurde der PC8801 (von NEC) auf dem japanischen Markt schnell populär. 1984 brachte Sharp die X1-Turboserie mit hochauflösender Grafik (640x400, während der X1 640x200 hatte) heraus. Sie wies viele Verbesserungen auf, aber die Taktrate betrug immer noch nur 4 MHz. 1986 brachte Sharp die X1 turbo Z-Serie mit einem analogen RGB-Monitor mit 4096 Farben heraus. Ein X1-Zwilling, der eine PC-Engine im Gehäuse hatte, wurde schließlich 1987 als letztes Gerät der X1-Serie veröffentlicht. Diese Serie wurde dann von der X68000-Serie abgelöst.
 
 Sharp verkauft in Japan weiterhin Desktop-PC/TV-Kombinationen über seine Internet-Aquos-Linie, für die ein rotes Farbschema im X1-Stil erhältlich ist.</systemDescription>
-    <systemHardwareType>Computer</systemHardwareType>
   </variables>
   <variables lang="es">
     <systemDescription>El X1 (エックスワン, Ekkusuwan), a veces llamado Sharp X1, es una serie de ordenadores domésticos lanzados por Sharp Corporation entre 1982 y 1988. Se basaba en una CPU Z80.
@@ -74,7 +70,6 @@ El monitor de visualización RGB del X1 tenía un sintonizador de televisión, y
 Mientras el X1 luchaba por venderse, el PC8801 (de NEC) se hacía rápidamente popular en el mercado japonés. En 1984, Sharp lanzó la serie turbo X1 con gráficos de alta resolución (640x400, mientras que X1 tenía 640x200). Tenía muchas mejoras, pero la velocidad de reloj seguía siendo de sólo 4 MHz. En 1986, Sharp lanzó la serie X1 turbo Z con un monitor RGB analógico de 4096 colores. Un gemelo del X1, que tenía un PC-Engine en el gabinete, fue lanzado finalmente como la última máquina de la serie X1 en 1987. A esta serie le sucedió la serie X68000.
 
 Sharp sigue vendiendo combos PC/TV de sobremesa en Japón a través de su línea Internet Aquos, en la que está disponible una combinación de colores rojos al estilo X1.</systemDescription>
-    <systemHardwareType>Ordenador</systemHardwareType>
   </variables>
   <variables lang="fr">
     <systemDescription>Le X1 (エックスワン, Ekkusuwan), parfois appelé Sharp X1, est une série d'ordinateurs domestiques commercialisés par Sharp Corporation de 1982 à 1988. Il était basé sur un processeur Z80.
@@ -86,7 +81,6 @@ L'écran d'affichage RVB du X1 était équipé d'un tuner de télévision et un 
 Alors que le X1 avait du mal à se vendre, le PC8801 (de NEC) devenait rapidement populaire sur le marché japonais. En 1984, Sharp a sorti la série X1 turbo avec des graphiques à haute résolution (640x400, alors que le X1 avait 640x200). Il comportait de nombreuses améliorations, mais la vitesse d'horloge n'était toujours que de 4 MHz. En 1986, Sharp sort la série X1 turbo Z avec un moniteur analogique RVB 4096 couleurs. Un X1 twin, qui avait un moteur PC dans le boîtier, a finalement été lancé comme la dernière machine de la série X1 en 1987. Cette série a ensuite été remplacée par la série X68000.
 
 Sharp continue de vendre des combinés PC/TV de bureau au Japon par l'intermédiaire de sa ligne Internet Aquos, où un modèle de couleur rouge de type X1 est disponible.</systemDescription>
-    <systemHardwareType>Ordinateur</systemHardwareType>
   </variables>
   <variables lang="hr">
     <systemDescription>The X1 (エックスワン, Ekkusuwan), sometimes called the Sharp X1, is a series of home computers released by Sharp Corporation from 1982 to 1988. It was based on a Z80 CPU.
@@ -98,7 +92,6 @@ The RGB display monitor for the X1 had a television tuner, and a computer screen
 While X1 was struggling to sell, the PC8801 (from NEC) was quickly becoming popular in the Japanese market. In 1984, Sharp released the X1 turbo series with high resolution graphics (640x400, while X1 had 640x200). It had many improvements, but the clock speed was still only 4 MHz. In 1986, Sharp released the X1 turbo Z series with a 4096 color analog RGB monitor. An X1 twin, which had a PC-Engine in the cabinet, was finally released as the last machine of the X1 series in 1987. Then this series was succeeded by the X68000 series.
 
 Sharp continues to sell desktop PC/TV combos in Japan through its Internet Aquos line, where an X1-style red color scheme is available.</systemDescription>
-    <systemHardwareType>Computer</systemHardwareType>
   </variables>
   <variables lang="it">
     <systemDescription>L'X1 (エックスワン, Ekkusuwan), talvolta chiamato Sharp X1, è una serie di home computer rilasciati da Sharp Corporation dal 1982 al 1988. Era basato su una CPU Z80.
@@ -110,7 +103,6 @@ Il monitor RGB dell'X1 era dotato di sintonizzatore televisivo e lo schermo del 
 Mentre l'X1 faticava a vendere, il PC8801 (di NEC) stava rapidamente diventando popolare sul mercato giapponese. Nel 1984, Sharp rilasciò la serie X1 turbo con grafica ad alta risoluzione (640x400, mentre X1 aveva 640x200). Presentava molti miglioramenti, ma la velocità di clock era ancora di soli 4 MHz. Nel 1986, Sharp rilasciò la serie X1 turbo Z con un monitor RGB analogico a 4096 colori. Un gemello dell'X1, che aveva un PC-Engine nel cabinet, fu infine rilasciato come ultima macchina della serie X1 nel 1987. A questa serie successe poi la serie X68000.
 
 Sharp continua a vendere PC/TV combinati in Giappone attraverso la linea Internet Aquos, dove è disponibile una combinazione di colori rossi in stile X1.</systemDescription>
-    <systemHardwareType>Computer</systemHardwareType>
   </variables>
   <variables lang="ja">
     <systemDescription>X1（エックスワン、えくすわん）は、シャープX1と呼ばれることもある、シャープ株式会社が1982年から1988年にかけて発売した家庭用コンピュータのシリーズである。Z80 CPUをベースにしている。
@@ -122,7 +114,6 @@ X1のRGBディスプレイ・モニターにはテレビ・チューナーが搭
 X1が苦戦していた頃、日本市場ではPC8801（NEC製）が急速に普及していた。1984年、シャープは高解像度のグラフィック（X1が640x200だったのに対し、X1は640x400）を搭載したX1ターボシリーズを発売した。多くの改良が加えられたが、クロックスピードはまだ4MHzだった。1986年、シャープは4096色のアナログRGBモニターを搭載したX1ターボZシリーズを発売した。1987年、X1シリーズ最後の機種として、キャビネットにPC-Engineを搭載したX1ツインが発売された。その後、このシリーズはX68000シリーズに引き継がれた。
 
 シャープは、インターネット・アクオス・ラインを通じて、デスクトップPCとテレビのコンボ機を日本で販売し続けており、X1スタイルの赤のカラーリングが用意されている。</systemDescription>
-    <systemHardwareType>コンピューター</systemHardwareType>
   </variables>
   <variables lang="ko">
     <systemDescription>샤프 X1(エックスワン, 에쿠스완)은 1982년부터 1988년까지 샤프에서 출시한 가정용 컴퓨터 시리즈로, 샤프 X1이라고도 불립니다. Z80 CPU를 기반으로 했습니다.
@@ -134,7 +125,6 @@ X1의 RGB 디스플레이 모니터에는 텔레비전 튜너가 장착되어 �
 X1이 판매에 어려움을 겪고 있는 동안 일본 시장에서는 PC8801(NEC)이 빠르게 인기를 얻고 있었습니다. 1984년, 샤프는 고해상도 그래픽(640x400, X1은 640x200)을 갖춘 X1 터보 시리즈를 출시했습니다. 많은 개선이 이루어졌지만 클럭 속도는 여전히 4MHz에 불과했습니다. 1986년 샤프는 4096 컬러 아날로그 RGB 모니터를 장착한 X1 터보 Z 시리즈를 출시했습니다. 1987년에는 캐비닛에 PC 엔진이 탑재된 X1 트윈이 마침내 X1 시리즈의 마지막 제품으로 출시되었습니다. 그 후 이 시리즈는 X68000 시리즈로 이어졌습니다.
 
 샤프는 X1 스타일의 레드 색상을 제공하는 인터넷 아쿠오스 라인을 통해 일본에서 데스크톱 PC/TV 콤보를 계속 판매하고 있습니다.</systemDescription>
-    <systemHardwareType>컴퓨터</systemHardwareType>
   </variables>
   <variables lang="nl">
     <systemDescription>De X1 (エックスワン, Ekkusuwan), soms de Sharp X1 genoemd, is een serie thuiscomputers uitgebracht door Sharp Corporation van 1982 tot 1988. Hij was gebaseerd op een Z80 CPU.
@@ -146,7 +136,6 @@ De RGB-displaymonitor van de X1 had een televisietuner en een computerscherm kon
 Terwijl de X1 moeite had om te verkopen, werd de PC8801 (van NEC) snel populair op de Japanse markt. In 1984 bracht Sharp de X1 turbo serie uit met hoge resolutie graphics (640x400, terwijl X1 640x200 had). Er waren veel verbeteringen, maar de kloksnelheid was nog steeds slechts 4 MHz. In 1986 bracht Sharp de X1 turbo Z-serie uit met een 4096 kleuren analoge RGB-monitor. Een X1 twin, met een PC-Engine in de behuizing, werd uiteindelijk uitgebracht als laatste machine van de X1 serie in 1987. Daarna werd deze serie opgevolgd door de X68000 serie.
 
 Sharp verkoopt nog steeds desktop PC/TV combo's in Japan via haar Internet Aquos lijn, waar een X1-stijl rood kleurenschema beschikbaar is.</systemDescription>
-    <systemHardwareType>Computer</systemHardwareType>
   </variables>
   <variables lang="pl">
     <systemDescription>X1 (エックスワン, Ekkusuwan), czasami nazywany Sharp X1, to seria komputerów domowych wydanych przez Sharp Corporation w latach 1982-1988. Oparta była na procesorze Z80.
@@ -158,7 +147,6 @@ Monitor RGB dla X1 posiadał tuner telewizyjny, a ekran komputera mógł być na
 Podczas gdy X1 miał trudności ze sprzedażą, PC8801 (firmy NEC) szybko zyskiwał popularność na rynku japońskim. W 1984 roku firma Sharp wypuściła serię X1 turbo z grafiką o wysokiej rozdzielczości (640x400, podczas gdy X1 miał 640x200). Posiadał on wiele ulepszeń, ale prędkość zegara nadal wynosiła tylko 4 MHz. W 1986 roku firma Sharp wypuściła serię X1 turbo Z z analogowym monitorem RGB o 4096 kolorach. Bliźniak X1, który miał silnik PC w obudowie, został ostatecznie wydany jako ostatnia maszyna z serii X1 w 1987 roku. Następnie seria ta została zastąpiona przez serię X68000.
 
 Firma Sharp nadal sprzedaje stacjonarne komputery PC/TV w Japonii za pośrednictwem internetowej linii Aquos, w której dostępny jest czerwony schemat kolorów w stylu X1.</systemDescription>
-    <systemHardwareType>Komputer</systemHardwareType>
   </variables>
   <variables lang="pt">
     <systemDescription>O X1 (エックスワン, Ekkusuwan), às vezes chamado de Sharp X1, é uma série de computadores domésticos lançados pela Sharp Corporation de 1982 a 1988. Ele era baseado em uma CPU Z80.
@@ -170,7 +158,6 @@ O monitor RGB do X1 tinha um sintonizador de televisão e uma tela de computador
 Enquanto o X1 estava tendo dificuldades para vender, o PC8801 (da NEC) estava se tornando popular rapidamente no mercado japonês. Em 1984, a Sharp lançou a série X1 turbo com gráficos de alta resolução (640x400, enquanto o X1 tinha 640x200). Ela tinha muitas melhorias, mas a velocidade do clock ainda era de apenas 4 MHz. Em 1986, a Sharp lançou a série X1 turbo Z com um monitor RGB analógico de 4096 cores. Um gêmeo do X1, que tinha um motor de PC no gabinete, foi finalmente lançado como a última máquina da série X1 em 1987. Em seguida, essa série foi sucedida pela série X68000.
 
 A Sharp continua a vender combinações de PC/TV de mesa no Japão por meio de sua linha Aquos para Internet, onde um esquema de cores vermelho no estilo do X1 está disponível.</systemDescription>
-    <systemHardwareType>Computador</systemHardwareType>
   </variables>
   <variables lang="ro">
     <systemDescription>X1 (エックスワン, Ekkusuwan), uneori numit Sharp X1, este o serie de computere de acasă lansate de Sharp Corporation din 1982 până în 1988. Acesta a fost bazat pe un CPU Z80.
@@ -182,7 +169,6 @@ Monitorul de afișare RGB pentru X1 avea un tuner de televiziune, iar un ecran d
 În timp ce X1 se lupta să se vândă, PC8801 (de la NEC) devenea rapid popular pe piața japoneză. În 1984, Sharp a lansat seria X1 turbo cu grafică de înaltă rezoluție (640x400, în timp ce X1 avea 640x200). Avea multe îmbunătățiri, dar viteza de ceas era încă de numai 4 MHz. În 1986, Sharp a lansat seria X1 turbo Z cu un monitor RGB analogic cu 4096 de culori. Un X1 twin, care avea un PC-Engine în cabinet, a fost lansat în cele din urmă ca ultima mașină din seria X1 în 1987. Apoi, această serie a fost succedată de seria X68000.
 
 Sharp continuă să vândă combinații desktop PC/TV în Japonia prin linia sa Internet Aquos, unde este disponibilă o schemă de culori roșii în stilul X1.</systemDescription>
-    <systemHardwareType>Computer</systemHardwareType>
   </variables>
   <variables lang="ru">
     <systemDescription>X1 (エックスワン, Ekkusuwan), иногда называемый Sharp X1, - серия домашних компьютеров, выпущенных корпорацией Sharp с 1982 по 1988 год. Они были построены на базе процессора Z80.
@@ -194,7 +180,6 @@ RGB-монитор для X1 был оснащен телевизионным т
 В то время как X1 с трудом продавался, PC8801 (от NEC) быстро становился популярным на японском рынке. В 1984 году Sharp выпустила серию X1 turbo с высоким разрешением графики (640x400, в то время как у X1 было 640x200). В ней было много улучшений, но тактовая частота по-прежнему составляла всего 4 МГц. В 1986 году Sharp выпустила серию X1 turbo Z с аналоговым RGB-монитором с разрешением 4096 цветов. Близнец X1, в корпусе которого находился PC-Engine, был выпущен в качестве последней машины серии X1 в 1987 году. Затем на смену этой серии пришла серия X68000.
 
 Sharp продолжает продавать настольные ПК/телевизоры в Японии через свою интернет-линию Aquos, где доступна красная цветовая схема в стиле X1.</systemDescription>
-    <systemHardwareType>Компьютер</systemHardwareType>
   </variables>
   <variables lang="sr">
     <systemDescription>The X1 (エックスワン, Ekkusuwan), sometimes called the Sharp X1, is a series of home computers released by Sharp Corporation from 1982 to 1988. It was based on a Z80 CPU.
@@ -206,7 +191,6 @@ The RGB display monitor for the X1 had a television tuner, and a computer screen
 While X1 was struggling to sell, the PC8801 (from NEC) was quickly becoming popular in the Japanese market. In 1984, Sharp released the X1 turbo series with high resolution graphics (640x400, while X1 had 640x200). It had many improvements, but the clock speed was still only 4 MHz. In 1986, Sharp released the X1 turbo Z series with a 4096 color analog RGB monitor. An X1 twin, which had a PC-Engine in the cabinet, was finally released as the last machine of the X1 series in 1987. Then this series was succeeded by the X68000 series.
 
 Sharp continues to sell desktop PC/TV combos in Japan through its Internet Aquos line, where an X1-style red color scheme is available.</systemDescription>
-    <systemHardwareType>Computer</systemHardwareType>
   </variables>
   <variables lang="sv">
     <systemDescription>X1 (エックスワン, Ekkusuwan), ibland kallad Sharp X1, är en serie hemdatorer som släpptes av Sharp Corporation mellan 1982 och 1988. Den var baserad på en Z80-processor.
@@ -218,7 +202,6 @@ RGB-bildskärmen för X1 hade en TV-tuner och en datorskärm kunde läggas ovanp
 Medan X1 hade svårt att sälja blev PC8801 (från NEC) snabbt populär på den japanska marknaden. 1984 släppte Sharp X1 turbo-serien med högupplöst grafik (640x400, medan X1 hade 640x200). Den hade många förbättringar, men klockfrekvensen var fortfarande bara 4 MHz. 1986 lanserade Sharp X1 turbo Z-serien med en analog RGB-monitor med 4096 färger. En X1-tvilling, som hade en PC-motor i kabinettet, släpptes slutligen som den sista maskinen i X1-serien 1987. Därefter efterträddes denna serie av X68000-serien.
 
 Sharp fortsätter att sälja stationära PC/TV-kombinationer i Japan genom sin Internet Aquos-linje, där en röd färgskala i X1-stil finns tillgänglig.</systemDescription>
-    <systemHardwareType>Dator</systemHardwareType>
   </variables>
   <variables lang="zh">
     <systemDescription>X1（エックスワン，Ekkusuwan），有时也称为夏普 X1，是夏普公司于 1982 年至 1988 年间推出的一系列家用电脑。它基于 Z80 CPU。
@@ -230,6 +213,5 @@ X1 的 RGB 显示屏带有电视调谐器，可以在电视上叠加电脑屏幕
 就在 X1 销量惨淡的时候，PC8801（来自 NEC）在日本市场迅速走红。1984 年，夏普发布了具有高分辨率图形（640x400，而 X1 为 640x200）的 X1 turbo 系列。它有许多改进，但时钟速度仍然只有 4 MHz。1986 年，夏普发布了配备 4096 色模拟 RGB 显示器的 X1 turbo Z 系列。1987 年，X1 系列的最后一款机型 X1 twin 终于面世，它在机箱中安装了 PC 引擎。随后，X68000 系列接替了该系列。
 
 夏普继续通过其 Internet Aquos 系列在日本销售台式 PC/TV 组合机，并提供 X1 风格的红色配色方案。</systemDescription>
-    <systemHardwareType>计算机</systemHardwareType>
   </variables>
 </theme>

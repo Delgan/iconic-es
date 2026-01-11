@@ -1,0 +1,75 @@
+<theme>
+  <variables>
+    <systemName>Casio Loopy</systemName>
+    <systemManufacturer>Casio</systemManufacturer>
+    <systemReleaseYear>1995</systemReleaseYear>
+    <systemDescription>The Casio Loopy (Japanese: ルーピー, Hepburn: Rūpī), subtitled My Seal Computer SV-100, is a 32-bit home video game console. Released exclusively in Japan in October 1995 with a price of 25,000¥, the marketing for it was completely targeted to female gamers.
+
+The console is powered by a Hitachi SH7021 SuperH 32-bit RISC CPU running at 16MHz, and had 1MB of RAM and 2MB of ROM. It was capable of displaying 512-color graphics and of playing 4 channels of 12-bit PCM audio.
+
+The Loopy has one controller port for use with a standard game controller or with a mouse which was sold separately.
+
+The Loopy includes a built-in thermal color printer that could be used to create stickers from game screenshots. An optional accessory, called Magical Shop (マジカルショップ, Majikaru Shoppu), was a video capture device to obtain images from VCRs and DVD players. Users may add text to these images and make stickers. Including Magical Shop's own built-in software, the Loopy library contained 11 titles.</systemDescription>
+    <systemHardwareType>${i18n.hardware-console}</systemHardwareType>
+    <systemCoverSize>3-4</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+  <variables lang="ar">
+    <systemDescription>Casio Loopy هي جهاز ألعاب منزلي 32-بت صدر حصريًا في اليابان في أكتوبر 1995، واستهدفت تسويقه اللاعبات الأنثويات. تضمنت طابعة حرارية ملونة مدمجة يمكن استخدامها لصنع ملصقات من لقطات الألعاب.</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>Casio Loopy je 32-bitna kućna konzola izdana isključivo u Japanu u listopadu 1995. Dizajnirana je i oglašavana za žensku publiku. Konzola ima ugrađeni termalni pisač u boji koji je mogao ispisivati naljepnice iz snimki igre.</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>La Casio Loopy és una consola de 32 bits llançada exclusivament al Japó l'octubre de 1995, orientada al públic femení. Incloïa una impressora tèrmica a color integrada que permetia crear adhesius a partir de captures del joc.</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemDescription>Die Casio Loopy ist eine 32-Bit-Heimkonsole, die im Oktober 1995 ausschließlich in Japan veröffentlicht wurde und sich an ein weibliches Publikum richtete. Sie verfügte über einen eingebauten Farb-Thermodrucker, mit dem Aufkleber aus Spielscreenshots erstellt werden konnten.</systemDescription>
+  </variables>
+  <variables lang="es">
+    <systemDescription>La Casio Loopy (subtitulada My Seal Computer SV-100) es una videoconsola de 32 bits creada por Casio, la cual fue lanzada exclusivamente en Japón. Lanzada en octubre de 1995, es la única consola de la historia que fue comercializada únicamente dirigida al mercado femenino.​
+
+Sólo 11 juegos fueron lanzados para ella, siendo la mayoría de ellos de géneros GxB y disfraces.
+
+Una característica muy interesante de esta máquina es que incluyó una impresora térmica a color incorporada que podía ser utilizada para crear "calcomanías" de imágenes del juego.</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>La Casio Loopy est une console 32 bits sortie exclusivement au Japon en octobre 1995, destinée essentiellement à un public féminin. Elle disposait d'une imprimante thermique couleur intégrée permettant de créer des autocollants à partir de captures d'écran de jeux.</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>Casio Loopy je 32-bitna kućna konzola izdana isključivo u Japanu u listopadu 1995., namijenjena pretežno ženskoj publici. Imala je ugrađeni termalni pisač u boji koji je omogućavao izradu naljepnica iz snimaka ekrana igre.</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemDescription>La Casio Loopy è una console domestica a 32 bit rilasciata esclusivamente in Giappone nell'ottobre 1995 e destinata principalmente al pubblico femminile. Includeva una stampante termica a colori integrata per creare adesivi dalle schermate di gioco.</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>Casio Loopy（ルーピー）は、1995年10月に日本で発売された32ビットの家庭用ゲーム機で、主に女性向けに販売されました。本体にはカートリッジとともにゲームのスクリーンショットからステッカーを作れるカラーサーマルプリンタが内蔵されていました。</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>Casio Loopy는 1995년 10월 일본에서 독점 출시된 32비트 가정용 게임기이며 주로 여성 게이머를 대상으로 판매되었습니다. 본체에는 게임 화면에서 스티커를 만들 수 있는 컬러 열전사 프린터가 내장되어 있습니다.</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>De Casio Loopy is een 32-bit thuisconsole die exclusief in Japan in oktober 1995 werd uitgebracht en gericht was op vrouwelijke gamers. De console had een ingebouwde kleurenthermische printer waarmee stickers van schermafbeeldingen konden worden gemaakt.</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>Casio Loopy to 32-bitowa konsola domowa wydana wyłącznie w Japonii w październiku 1995 roku, skierowana głównie do żeńskiej części publiczności. Konsola posiadała wbudowaną kolorową drukarkę termiczną pozwalającą tworzyć naklejki ze zrzutów ekranu gier.</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>O Casio Loopy é uma consola doméstica de 32 bits lançada exclusivamente no Japão em outubro de 1995, dirigida principalmente ao público feminino. Tinha uma impressora térmica a cores integrada que permitia criar autocolantes a partir de capturas do ecrã do jogo.</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>Casio Loopy este o consolă de 32 biți lansată exclusiv în Japonia în octombrie 1995, orientată în principal către publicul feminin. Consola avea o imprimantă termică color încorporată, folosită pentru a crea autocolante din capturi de ecran ale jocurilor.</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>Casio Loopy — 32-битная домашняя консоль, выпущенная эксклюзивно в Японии в октябре 1995 года и ориентированная в основном на женскую аудиторию. Консоль имела встроенный цветной термопринтер, позволявший создавать наклейки из скриншотов игр.</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>Casio Loopy је 32-битна кућна конзола објављена искључиво у Јапану у октобру 1995. и намењена углавном женској публици. Конзола је имала уграђен термални штампач у боји који је омогућавао прављење налепница од снимака екрана игара.</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>Casio Loopy är en 32-bitars hemmakonsol som släpptes exklusivt i Japan i oktober 1995 och som marknadsfördes mot kvinnliga spelare. Den hade en inbyggd färgtermisk skrivare för att skapa klistermärken från spelskärmbilder.</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>Casio Loopy 是一款 32 位家用游戏机，于 1995 年 10 月在日本独家发布，主要面向女性玩家。该机内置彩色热敏打印机，可将游戏截图打印为贴纸。</systemDescription>
+  </variables>
+</theme>

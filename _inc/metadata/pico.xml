@@ -8,8 +8,134 @@ Marketed as "edutainment", the main focus of the Pico was educational video game
 Though the Pico was sold continuously in Japan through the release of the Beena, in North America and Europe the Pico was less successful and was discontinued in early 1998, later being re-released by Majesco Entertainment. Overall, Sega claims sales of 3.4 million Pico consoles and 11.2 million game cartridges, and over 350,000 Beena consoles and 800,000 cartridges. It was succeeded by the Advanced Pico Beena, released in Japan in 2005. The ePICO, the successor to the Pico and Beena, was also released in Japan in 2024.</systemDescription>
     <systemManufacturer>Sega</systemManufacturer>
     <systemReleaseYear>1993</systemReleaseYear>
-    <systemHardwareType>Console</systemHardwareType>
+    <systemHardwareType>${i18n.hardware-console}</systemHardwareType>
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
+  </variables>
+  <variables lang="ar">
+    <systemDescription>Sega Pico، المعروف أيضًا باسم Kids Computer Pico، هو جهاز ألعاب فيديو تعليمي من Sega Toys. صدر الـ Pico في يونيو 1993 في اليابان ونوفمبر 1994 في أمريكا الشمالية وأوروبا، ووصل لاحقًا إلى الصين في 2002.
+
+تم تسويق Pico على أنه منتج "تعليمي وترفيهي"، وكان التركيز الرئيسي عليه هو ألعاب تعليمية للأطفال بين 3 و7 سنوات. كانت إصدارات Pico موجهة للتعليم واحتوت على عناوين مدعومة بشخصيات رسوم متحركة مرخّصة، بما في ذلك سلسلة Sonic the Hedgehog الخاصة بسِغا.
+
+بالرغم من استمرار بيع Pico في اليابان طوال فترة إصدار Beena، إلا أنه لم يحقق نجاحًا كبيرًا في أمريكا الشمالية وأوروبا وتم إيقافه في أوائل 1998، ثم أعيد إصداره لاحقًا بواسطة Majesco Entertainment. إجمالًا، تعلن Sega عن مبيعات بلغت 3.4 مليون وحدة Pico و11.2 مليون خرطوشة ألعاب، وأكثر من 350,000 وحدة Beena و800,000 خرطوشة. تلاه جهاز Advanced Pico Beena، الصادر في اليابان عام 2005، كما صدر ePICO كخلف للجهازين في اليابان عام 2024.</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>Sega Pico, također poznat kao Kids Computer Pico, je edukativna video igra konzola tvrtke Sega Toys. Pico je objavljen u lipnju 1993. u Japanu i studenom 1994. u Sjevernoj Americi i Europi, te je kasnije stigao u Kinu 2002.
+
+Pico je bio tržišno predstavljen kao "edutainment" s naglaskom na edukativne video igre za djecu od 3 do 7 godina. Izdavanja za Pico bila su fokusirana na obrazovanje djece i uključivala su naslove s licenciranim animiranim likovima, uključujući Sonic the Hedgehog serijal iz Segae.
+
+Iako je Pico nastavio uspješno prodavanje u Japanu tijekom izdanja Beena, u Sjevernoj Americi i Europi nije bio toliko uspješan i obustavljen je početkom 1998., da bi ga kasnije ponovno izdala tvrtka Majesco Entertainment. Sega navodi ukupne prodaje od 3,4 milijuna konzola Pico i 11,2 milijuna igračih kazeta, te preko 350.000 Beena konzola i 800.000 kazeta. Naslijedio ga je Advanced Pico Beena izdan u Japanu 2005., a ePICO kao nasljednik Pic-a i Beene također je objavljen u Japanu 2024.</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>El Sega Pico, també conegut com Kids Computer Pico, és una consola de videojocs educativa de Sega Toys. El Pico es va llançar al juny de 1993 al Japó i al novembre de 1994 a Amèrica del Nord i Europa, i més tard va arribar a la Xina el 2002.
+
+Comercialitzat com a "edutainment", l'objectiu principal del Pico eren els jocs educatius per a nens de 3 a 7 anys. Les publicacions per al Pico estaven centrades en l'educació infantil i incloïen títols amb personatges animats amb llicència, incloent la pròpia sèrie Sonic the Hedgehog de Sega.
+
+Encara que el Pico es va vendre de manera continuada al Japó amb el llançament del Beena, a Amèrica del Nord i Europa va tenir menys èxit i es va descontinuar a principis de 1998, sent reeditat més tard per Majesco Entertainment. En total, Sega declara vendes de 3,4 milions de consoles Pico i 11,2 milions de cartutxos, i més de 350.000 consoles Beena i 800.000 cartutxos. El seu successor va ser l'Advanced Pico Beena, llançat al Japó el 2005, i l'ePICO, successor del Pico i Beena, també es va llançar al Japó el 2024.</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemDescription>Der Sega Pico, auch bekannt als Kids Computer Pico, ist eine pädagogische Videospielkonsole von Sega Toys. Der Pico wurde im Juni 1993 in Japan und im November 1994 in Nordamerika und Europa veröffentlicht und erreichte später 2002 China.
+
+Als "Edutainment" vermarktet, lag der Schwerpunkt des Pico auf Lernspielen für Kinder im Alter von 3 bis 7 Jahren. Veröffentlichungen für den Pico konzentrierten sich auf Kinderbildung und umfassten Titel mit lizenzierten Zeichentrickfiguren, einschließlich Segas eigener Sonic the Hedgehog-Reihe.
+
+Obwohl der Pico in Japan während der Veröffentlichung der Beena kontinuierlich verkauft wurde, war er in Nordamerika und Europa weniger erfolgreich und wurde Anfang 1998 eingestellt, später jedoch von Majesco Entertainment neu aufgelegt. Insgesamt gibt Sega Verkäufe von 3,4 Millionen Pico-Konsolen und 11,2 Millionen Spielkassetten sowie über 350.000 Beena-Konsolen und 800.000 Kassetten an. Er wurde vom Advanced Pico Beena abgelöst, das 2005 in Japan veröffentlicht wurde; der ePICO, Nachfolger von Pico und Beena, wurde ebenfalls 2024 in Japan veröffentlicht.</systemDescription>
+  </variables>
+  <variables lang="es">
+    <systemDescription>La Sega Pico, también conocida como Kids Computer Pico, es una consola de videojuegos educativa de Sega Toys. La Pico se lanzó en junio de 1993 en Japón y en noviembre de 1994 en Norteamérica y Europa, llegando más tarde a China en 2002.
+
+Comercializada como "edutainment", el objetivo principal de la Pico eran los videojuegos educativos para niños de entre 3 y 7 años. Los lanzamientos para la Pico se centraron en la educación infantil e incluyeron títulos con personajes animados con licencia, incluida la propia serie Sonic the Hedgehog de Sega.
+
+Aunque la Pico se vendió continuamente en Japón durante el lanzamiento de la Beena, en Norteamérica y Europa tuvo menos éxito y se descontinuó a principios de 1998, siendo reeditada más tarde por Majesco Entertainment. En total, Sega declara ventas de 3,4 millones de consolas Pico y 11,2 millones de cartuchos, y más de 350.000 consolas Beena y 800.000 cartuchos. Fue sucedida por la Advanced Pico Beena, lanzada en Japón en 2005; el ePICO, sucesor del Pico y Beena, también se lanzó en Japón en 2024.</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>La Sega Pico, également connue sous le nom de Kids Computer Pico, est une console de jeux vidéo éducative de Sega Toys. Le Pico est sorti en juin 1993 au Japon et en novembre 1994 en Amérique du Nord et en Europe, atteignant plus tard la Chine en 2002.
+
+Commercialisé comme de "l'edutainment", l'objectif principal du Pico était les jeux éducatifs pour les enfants de 3 à 7 ans. Les sorties pour le Pico se concentraient sur l'éducation des enfants et comprenaient des titres soutenus par des personnages animés sous licence, y compris la propre série Sonic the Hedgehog de Sega.
+
+Bien que le Pico ait été vendu en continu au Japon durant la sortie du Beena, en Amérique du Nord et en Europe, le Pico a été moins réussi et a été interrompu au début de 1998, puis réédité plus tard par Majesco Entertainment. Dans l'ensemble, Sega annonce des ventes de 3,4 millions de consoles Pico et 11,2 millions de cartouches de jeux, et plus de 350 000 consoles Beena et 800 000 cartouches. Il a été remplacé par l'Advanced Pico Beena, sorti au Japon en 2005 ; l'ePICO, successeur du Pico et du Beena, est également sorti au Japon en 2024.</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>Sega Pico, također poznat kao Kids Computer Pico, je edukativna igraća konzola proizvedena od strane Sega Toys. Pico je objavljen u lipnju 1993. u Japanu i u studenom 1994. u Sjevernoj Americi i Europi, a kasnije je stigao u Kinu 2002.
+
+Tržišno pozicioniran kao "edutainment", glavni fokus Pico konzole bili su edukativne videoigre za djecu između 3 i 7 godina. Izdavanja za Pico bila su usmjerena na dječje obrazovanje i uključivala su naslove s licenciranim animiranim likovima, uključujući Seginu seriju Sonic the Hedgehog.
+
+Iako se Pico kontinuirano prodavao u Japanu tijekom izdavanja Beena, u Sjevernoj Americi i Europi bio je manje uspješan te je ukinut početkom 1998., a kasnije ga je ponovno izdala tvrtka Majesco Entertainment. Sega navodi prodaju od 3,4 milijuna Pico konzola i 11,2 milijuna igračih kazeta, te preko 350.000 Beena konzola i 800.000 kazeta. Naslijedio ga je Advanced Pico Beena, objavljen u Japanu 2005., a ePICO, nasljednik Pic-a i Beene, također je objavljen u Japanu 2024.</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemDescription>Il Sega Pico, noto anche come Kids Computer Pico, è una console educativa di Sega Toys. Il Pico è stato rilasciato nel giugno 1993 in Giappone e nel novembre 1994 in Nord America e Europa, raggiungendo più tardi la Cina nel 2002.
+
+Commercializzato come "edutainment", l'obiettivo principale del Pico erano i giochi educativi per bambini dai 3 ai 7 anni. Le uscite per il Pico si concentravano sull'educazione dei bambini e includevano titoli con personaggi animati con licenza, compresa la serie Sonic the Hedgehog di Sega.
+
+Sebbene il Pico sia stato venduto continuamente in Giappone durante il rilascio del Beena, in Nord America e in Europa ha avuto meno successo ed è stato interrotto all'inizio del 1998, per poi essere ripubblicato da Majesco Entertainment. Complessivamente, Sega dichiara vendite di 3,4 milioni di console Pico e 11,2 milioni di cartucce di gioco, e oltre 350.000 console Beena e 800.000 cartucce. È stato succeduto dall'Advanced Pico Beena, rilasciato in Giappone nel 2005, e l'ePICO, successore di Pico e Beena, è stato anch'esso rilasciato in Giappone nel 2024.</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>Sega Pico（別名 Kids Computer Pico）は、Sega Toys による教育用ゲーム機です。Pico は1993年6月に日本で、1994年11月に北米とヨーロッパで発売され、その後2002年に中国で発売されました。
+
+「エデュテインメント」として販売され、Pico の主な目的は3〜7歳の子供向けの教育用ビデオゲームでした。Pico 向けのリリースは子供の教育に焦点を当て、ソニック・ザ・ヘッジホッグなどのライセンスアニメキャラクターを使用したタイトルが含まれていました。
+
+Pico は Beena のリリース中も日本で継続的に販売されましたが、北米と欧州ではあまり成功せず、1998 年初頭に生産が中止され、その後 Majesco Entertainment によって再発売されました。総合的に、Sega は Pico 本体を340万台、ゲームカートリッジを1120万本、Beena 本体を35万台、カートリッジを80万本以上販売したと発表しています。Advanced Pico Beena が2005年に日本で発売され Pico の後継となり、ePICO が 2024 年に日本で発売され Pico と Beena の後継となりました。</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>Sega Pico(일명 Kids Computer Pico)는 Sega Toys의 교육용 비디오 게임 콘솔입니다. Pico는 1993년 6월 일본에서, 1994년 11月 북미 및 유럽에서 출시되었고 2002년 중국에 출시되었습니다.
+
+"에듀테인먼트"로 판매된 Pico의 주요 초점은 3세에서 7세 사이의 어린이를 위한 교육용 비디오 게임이었습니다. Pico용 출시작은 아동 교육에 중점을 두었으며, Sonic the Hedgehog 시리즈 등 라이선스 애니메이션 캐릭터를 사용하는 타이틀이 포함되었습니다.
+
+Pico는 Beena 출시 기간 동안 일본에서 계속 판매되었지만 북미와 유럽에서는 성공적이지 못해 1998년 초 단종되었고 이후 Majesco Entertainment에 의해 재발매되었습니다. Sega는 Pico 콘솔 340만대와 게임 카트리지 1120만개, Beena 콘솔 35만대 이상과 카트리지 80만개 이상을 판매했다고 발표했습니다. 후속 모델인 Advanced Pico Beena는 2005년 일본에서 출시되었으며, Pico와 Beena의 후속작인 ePICO도 2024년 일본에서 출시되었습니다。</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>De Sega Pico, ook bekend als Kids Computer Pico, is een educatieve spelconsole van Sega Toys. De Pico werd in juni 1993 in Japan uitgebracht en in november 1994 in Noord-Amerika en Europa, en bereikte later China in 2002.
+
+Op de markt gebracht als "edutainment", was de hoofdfocus van de Pico educatieve videogames voor kinderen tussen de 3 en 7 jaar. Releases voor de Pico waren gericht op onderwijs voor kinderen en omvatten titels met gelicentieerde animatiepersonages, waaronder Sega's eigen Sonic the Hedgehog-serie.
+
+Hoewel de Pico in Japan continu werd verkocht tijdens de uitgave van de Beena, was de Pico minder succesvol in Noord-Amerika en Europa en werd begin 1998 stopgezet, later opnieuw uitgebracht door Majesco Entertainment. In totaal meldt Sega verkoopcijfers van 3,4 miljoen Pico-consoles en 11,2 miljoen spelcartridges, en meer dan 350.000 Beena-consoles en 800.000 cartridges. Het werd opgevolgd door de Advanced Pico Beena, uitgebracht in Japan in 2005; de ePICO, de opvolger van Pico en Beena, werd ook in 2024 in Japan uitgebracht.</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>Sega Pico, znana również jako Kids Computer Pico, to edukacyjna konsola wideo wyprodukowana przez Sega Toys. Pico została wydana w czerwcu 1993 roku w Japonii i w listopadzie 1994 roku w Ameryce Północnej i Europie, a następnie trafiła do Chin w 2002 roku.
+
+Sprzedawana jako "edutainment", głównym celem Pico były edukacyjne gry wideo dla dzieci w wieku od 3 do 7 lat. Wydania na Pico skupiały się na edukacji dzieci i obejmowały tytuły z licencjonowanymi postaciami kreskówkowymi, w tym serię Sonic the Hedgehog od Sega.
+
+Chociaż Pico była sprzedawana w Japonii w czasie premiery Beena, w Ameryce Północnej i Europie odniosła mniejszy sukces i została wycofana na początku 1998 roku, a później wznowiona przez Majesco Entertainment. Sega deklaruje łączne sprzedaże na poziomie 3,4 mln konsol Pico i 11,2 mln kartridży oraz ponad 350 000 konsol Beena i 800 000 kartridży. Została zastąpiona przez Advanced Pico Beena, wydaną w Japonii w 2005 roku; ePICO, następca Pico i Beena, również został wydany w Japonii w 2024 roku.</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>O Sega Pico, também conhecido como Kids Computer Pico, é uma consola de videojogos educativa da Sega Toys. O Pico foi lançado em junho de 1993 no Japão e em novembro de 1994 na América do Norte e na Europa, chegando mais tarde à China em 2002.
+
+Comercializado como "edutainment", o foco principal do Pico eram jogos educativos para crianças entre os 3 e os 7 anos. Lançamentos para o Pico estavam focados na educação infantil e incluíam títulos com personagens animados licenciados, incluindo a própria série Sonic the Hedgehog da Sega.
+
+Embora o Pico tenha sido vendido continuamente no Japão durante o lançamento do Beena, na América do Norte e na Europa foi menos bem sucedido e foi descontinuado no início de 1998, sendo mais tarde reeditado pela Majesco Entertainment. No total, a Sega declara vendas de 3,4 milhões de consolas Pico e 11,2 milhões de cartuchos, e mais de 350.000 consolas Beena e 800.000 cartuchos. Foi sucedido pelo Advanced Pico Beena, lançado no Japão em 2005; o ePICO, sucessor do Pico e do Beena, também foi lançado no Japão em 2024.</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>Sega Pico, cunoscut și sub numele de Kids Computer Pico, este o consolă video educațională produsă de Sega Toys. Pico a fost lansat în iunie 1993 în Japonia și în noiembrie 1994 în America de Nord și Europa, ajungând ulterior în China în 2002.
+
+Promovat ca „edutainment”, principalul obiectiv al Pico a fost jocurile video educaționale pentru copii între 3 și 7 ani. Lansările pentru Pico s-au concentrat pe educația copiilor și au inclus titluri susținute de personaje animate licențiate, inclusiv seria Sonic the Hedgehog a celor de la Sega.
+
+Deși Pico a fost vândut continuu în Japonia în perioada lansării Beena, în America de Nord și Europa Pico a avut mai puțin succes și a fost întrerupt la începutul anului 1998, fiind relansat ulterior de Majesco Entertainment. În total, Sega afirmă vânzări de 3,4 milioane de console Pico și 11,2 milioane de cartele de joc, și peste 350.000 de console Beena și 800.000 de cartele. A fost succedat de Advanced Pico Beena, lansat în Japonia în 2005; ePICO, succesorul Pico și Beena, a fost de asemenea lansat în Japonia în 2024.</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>Sega Pico, также известная как Kids Computer Pico, — это образовательная игровая консоль от Sega Toys. Pico была выпущена в июне 1993 года в Японии и в ноябре 1994 года в Северной Америке и Европе, а позже добралась до Китая в 2002 году.
+
+Рекламировавшаяся как «edutainment», основная цель Pico заключалась в образовательных видеоиграх для детей в возрасте от 3 до 7 лет. Выпуски для Pico были ориентированы на обучение детей и включали игры с лицензированными анимационными персонажами, включая собственную серию Sonic the Hedgehog от Sega.
+
+Хотя Pico продавался в Японии постоянно во время выхода Beena, в Северной Америке и Европе он имел меньше успеха и был снят с производства в начале 1998 года, позже переиздан Majesco Entertainment. В целом Sega заявляет о продажах 3,4 млн консолей Pico и 11,2 млн картриджей, и более 350 000 консолей Beena и 800 000 картриджей. Его преемником стал Advanced Pico Beena, выпущенный в Японии в 2005 году; ePICO, наследник Pico и Beena, также был выпущен в Японии в 2024 году.</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>Sega Pico, познат и као Kids Computer Pico, је едукативна видео-играчка конзола компаније Sega Toys. Pico је објављен у јуну 1993. у Јапану и у новембру 1994. у Северној Америци и Европи, а касније је стигао и у Кину 2002.
+
+Позициониран као "едутеинмент", главни фокус Pico-а били су образовни видео-игре за децу узраста од 3 до 7 година. Издања за Pico била су усредсређена на образовање деце и укључивала су наслове са лиценцираним анимираним ликовима, укључујући Seginu серију Sonic the Hedgehog.
+
+Иако се Pico континуирано продавао у Јапану током издавања Beena, у Северној Америци и Европи није био толико успешан и дисконтиниран је почетком 1998., да би га касније поново издала компанија Majesco Entertainment. Укупно, Sega наводи продају од 3,4 милиона Pico конзола и 11,2 милиона картриджа, и преко 350.000 Beena конзола и 800.000 картриджа. Наследио га је Advanced Pico Beena, објављен у Јапану 2005., а ePICO, наследник Pico-а и Beene, такође је објављен у Јапану 2024.</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>Sega Pico, även känd som Kids Computer Pico, är en pedagogisk spelkonsol från Sega Toys. Pico lanserades i juni 1993 i Japan och i november 1994 i Nordamerika och Europa, och nådde senare Kina 2002.
+
+Marknadsfört som "edutainment" var Picos huvudsakliga fokus utbildningsvideospel för barn mellan 3 och 7 år. Utgåvor för Pico fokuserade på barnutbildning och inkluderade titlar med licensierade animerade karaktärer, inklusive Segas egen Sonic the Hedgehog-serie.
+
+Även om Pico såldes kontinuerligt i Japan under Beena-lanseringen, var Pico mindre framgångsrik i Nordamerika och Europa och avvecklades i början av 1998, men återutgavs senare av Majesco Entertainment. Sammantaget uppger Sega försäljning på 3,4 miljoner Pico-konsoler och 11,2 miljoner spelkassetter, samt över 350 000 Beena-konsoler och 800 000 kassetter. Den efterföljdes av Advanced Pico Beena, som släpptes i Japan 2005; ePICO, efterföljaren till Pico och Beena, släpptes också i Japan 2024.</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>Sega Pico，也称为 Kids Computer Pico，是 Sega Toys 的一款教育类游戏主机。Pico 于 1993 年 6 月在日本发布，1994 年 11 月在北美和欧洲发布，后来于 2002 年进入中国市场。
+
+Pico 以“教育娱乐（edutainment）”为卖点，主要面向 3 至 7 岁儿童的教育类电子游戏。Pico 的发行以儿童教育为主，包含许多获得授权的动画角色作品，包括世嘉的 Sonic the Hedgehog 系列。
+
+尽管 Pico 在 Beena 发布期间在日本持续销售，但在北美和欧洲的表现不佳，于 1998 年初停产，后来由 Majesco Entertainment 再次发行。总体而言，世嘉宣布 Pico 主机销量为 340 万台，游戏卡带销量达 1120 万份，Beena 主机销量超过 35 万台，卡带 80 万份以上。它的继任者是 2005 年在日本发布的 Advanced Pico Beena，而作为 Pico 与 Beena 继任者的 ePICO 也在 2024 年于日本发布。</systemDescription>
   </variables>
 </theme>

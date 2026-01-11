@@ -1,0 +1,82 @@
+<theme>
+  <variables>
+    <systemName>Recordings</systemName>
+    <systemDescription>View your recordings</systemDescription>
+    <systemManufacturer>${i18n.misc-system}</systemManufacturer>
+    <systemHardwareType>${i18n.hardware-folder}</systemHardwareType>
+    <systemCoverSize>1-1</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+  <variables lang="ar">
+    <systemName>التسجيلات</systemName>
+    <systemDescription>عرض تسجيلاتك</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemName>Snimci</systemName>
+    <systemDescription>Pogledajte svoje snimke</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemName>Gravacions</systemName>
+    <systemDescription>Mostra les teves gravacions</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemName>Aufnahmen</systemName>
+    <systemDescription>Sieh dir deine Aufnahmen an</systemDescription>
+  </variables>
+  <variables lang="es">
+    <systemName>Grabaciones</systemName>
+    <systemDescription>Explora tus grabaciones</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemName>Enregistrements</systemName>
+    <systemDescription>Voir vos enregistrements</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemName>Snimke</systemName>
+    <systemDescription>Pogledajte svoje snimke</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemName>Registrazioni</systemName>
+    <systemDescription>Visualizza le tue registrazioni</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemName>録画</systemName>
+    <systemDescription>録画を表示します</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemName>녹화</systemName>
+    <systemDescription>녹화를 확인하세요</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemName>Opnames</systemName>
+    <systemDescription>Bekijk je opnames</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemName>Nagrania</systemName>
+    <systemDescription>Przeglądaj swoje nagrania</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemName>Gravações</systemName>
+    <systemDescription>Veja as suas gravações</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemName>Înregistrări</systemName>
+    <systemDescription>Vizualizează înregistrările tale</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemName>Записи</systemName>
+    <systemDescription>Просмотреть ваши записи</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemName>Снимци</systemName>
+    <systemDescription>Пogледајте своје снимке</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemName>Inspelningar</systemName>
+    <systemDescription>Visa dina inspelningar</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemName>录制</systemName>
+    <systemDescription>查看你的录制</systemDescription>
+  </variables>
+</theme>

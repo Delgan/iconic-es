@@ -1,0 +1,65 @@
+<theme>
+  <variables>
+    <systemName>Castlevania</systemName>
+    <systemManufacturer>Konami</systemManufacturer>
+    <systemReleaseYear>${i18n.various}</systemReleaseYear>
+    <systemDescription>Castlevania (キャッスルヴァニア), known in Japan as Akumajō Dracula, is a 1986 platform game developed and published by Konami. It was originally released in Japan for the Famicom Disk System in September 1986, before being ported to cartridge format and released in North America for the Nintendo Entertainment System (NES) in 1987 and in Europe in 1988. It was also re-issued for the Family Computer in cartridge format in 1993. It is the first installment in the Castlevania series.</systemDescription>
+    <systemHardwareType>${i18n.custom-collection}</systemHardwareType>
+    <systemCoverSize>1-1</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+  <variables lang="ar">
+    <systemDescription>Castlevania (キャッスルヴァニア)، المعروفة في اليابان باسم Akumajō Dracula، هي سلسلة ألعاب منصات بدأت عام 1986 تم تطويرها ونشرها بواسطة Konami. النسخة الأصلية صدرت في اليابان على Famicom Disk System في سبتمبر 1986 ثم تم تحويلها إلى خرطوشة ونشرت في أمريكا الشمالية على NES في 1987 وأوروبا في 1988. تُعد هذه اللعبة أولى أجزاء سلسلة Castlevania.</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>Castlevania je serija videoigara koju je razvio i objavio Konami. Prvi naslov pojavio se 1986. u Japanu kao Akumajō Dracula za Famicom Disk System, prije nego što je prenešen na kartridž i objavljen u Sjevernoj Americi za NES 1987. i u Europi 1988.</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>Castlevania és una sèrie de videojocs de Konami que va començar el 1986 amb Akumajō Dracula al Famicom Disk System. Posteriorment va ser adaptada a cartutx per a NES i llançada a Amèrica del Nord el 1987 i a Europa el 1988. És la primera entrega de la saga Castlevania.</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemDescription>Castlevania (キャッスルヴァニア), in Japan als Akumajō Dracula bekannt, ist ein 1986 von Konami entwickeltes und veröffentlichtes Plattformspiel. Es erschien ursprünglich in Japan für das Famicom Disk System im September 1986 und wurde später in Cartridge-Form für das NES 1987 in Nordamerika und 1988 in Europa veröffentlicht. Es ist der erste Teil der Castlevania-Reihe.</systemDescription>
+  </variables>
+  <variables lang="es">
+    <systemDescription>Castlevania (キャッスルヴァニア) es una serie de videojuegos, creada y desarrollada por Konami. Esta serie debutó en Japón con la primera versión de Akumajō Dracula (悪魔城ドラキュラ) para las plataformas Famicom Disk System (FDS) y un mes después para MSX 2 en 1986. Aunque la versión de MSX 2 (que fue conocida en Europa como Vampire Killer) fue la primera versión sacada a la venta fuera de Japón, esta no fue la versión original. En América no se conoció hasta que la versión FDS fue reprogramada en formato de cartucho para NES en 1987, bajo el título de Castlevania. Esto ha llevado muchas veces a la confusión sobre en qué plataforma salió primero, estando claro que fue en Famicom Disk System.</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>Castlevania (キャッスルヴァニア), connu au Japon sous le nom d'Akumajō Dracula, est un jeu de plates-formes de 1986 développé et édité par Konami. Il est sorti au Japon sur Famicom Disk System en septembre 1986, puis adapté en cartouche et publié en Amérique du Nord sur NES en 1987 et en Europe en 1988. C'est le premier épisode de la série Castlevania.</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>Castlevania je serija videoigara koju je razvio i objavio Konami. Prvi naslov objavljen je 1986. u Japanu za Famicom Disk System kao Akumajō Dracula, a kasnije je prenešen na kartridž i izdan za NES 1987. u Sjevernoj Americi i 1988. u Europi. To je prvi nastavak u seriji Castlevania.</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemDescription>Castlevania (キャッスルヴァニア), noto in Giappone come Akumajō Dracula, è un platform del 1986 sviluppato e pubblicato da Konami. È stato pubblicato originariamente in Giappone per il Famicom Disk System nel settembre 1986, poi convertito in cartuccia e rilasciato in Nord America per NES nel 1987 e in Europa nel 1988. È il primo capitolo della serie Castlevania.</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>Castlevania（キャッスルヴァニア）は、コナミが開発・発売した1986年のアクション・プラットフォームゲームで、日本では『悪魔城ドラキュラ』として知られています。1986年9月にファミコンディスクシステム向けに日本で発売され、その後カートリッジ形式でNES向けに北米で1987年、欧州で1988年に発売されました。Castlevaniaシリーズの最初の作品です。</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>Castlevania(キャッスルヴァニア)은 일본에서 Akumajō Dracula로 알려진 1986년 Konami가 개발 및 발행한 플랫폼 게임입니다. 원래 1986년 9월 일본의 Famicom Disk System으로 출시되었고, 이후 카트리지 형식으로 이식되어 1987년 북미 NES, 1988년 유럽에 출시되었습니다. 시리즈의 첫 번째 작품입니다.</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>Castlevania (キャッスルヴァニア), in Japan bekend als Akumajō Dracula, is een in 1986 door Konami ontwikkeld platformspel. Het werd oorspronkelijk uitgebracht in Japan voor het Famicom Disk System in september 1986 en later als cartridge voor de NES in Noord-Amerika in 1987 en in Europa in 1988 uitgebracht. Het is het eerste deel in de Castlevania-serie.</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>Castlevania (キャッスルヴァニア), znana w Japonii jako Akumajō Dracula, to gra platformowa z 1986 roku opracowana i wydana przez Konami. Początkowo wydana w Japonii na Famicom Disk System we wrześniu 1986, później przeniesiona na kartridż i wydana w Ameryce Północnej na NES w 1987 i w Europie w 1988. To pierwsza część serii Castlevania.</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>Castlevania (キャッスルヴァニア), conhecido no Japão como Akumajō Dracula, é um jogo de plataforma de 1986 desenvolvido e publicado pela Konami. Foi lançado originalmente no Japão para o Famicom Disk System em setembro de 1986, antes de ser portado para cartucho e lançado na América do Norte para o NES em 1987 e na Europa em 1988. É o primeiro capítulo da série Castlevania.</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>Castlevania (キャッスルヴァニア), cunoscut în Japonia ca Akumajō Dracula, este un joc platformă din 1986 dezvoltat și publicat de Konami. A fost lansat inițial în Japonia pentru Famicom Disk System în septembrie 1986 și ulterior portat pe cartuș și lansat în America de Nord pentru NES în 1987 și în Europa în 1988. Este prima parte din seria Castlevania.</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>Castlevania (キャッスルヴァニア), известная в Японии как Akumajō Dracula, — платформер 1986 года, разработанный и изданный Konami. Изначально выпущена в Японии для Famicom Disk System в сентябре 1986 года, затем портирована на картридж и издана в Северной Америке для NES в 1987 и в Европе в 1988. Это первая игра серии Castlevania.</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>Castlevania је серија видео игара коју је развио и објавио Konami. Први наслов из серије објављен је 1986. у Јапану као Akumajō Dracula за Famicom Disk System, а касније је пренет на кертридж и издат за NES 1987. у Северној Америци и 1988. у Европи. Ово је први део серије Castlevania.</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>Castlevania (キャッスルヴァニア), känt i Japan som Akumajō Dracula, är ett plattformsspel från 1986 utvecklat och publicerat av Konami. Det släpptes ursprungligen i Japan för Famicom Disk System i september 1986 och portades senare till kassettformat och släpptes i Nordamerika för NES 1987 och i Europa 1988. Det är det första spelet i Castlevania-serien.</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>Castlevania（キャッスルヴァニア），在日本被称为《恶魔城》，是 Konami 于 1986 年开发并发行的一款平台游戏。最初于 1986 年 9 月在日本为 Famicom Disk System 发布，随后以卡带形式移植并于 1987 年在北美为 NES 发布，1988 年在欧洲发布。它是 Castlevania 系列的第一部作品。</systemDescription>
+  </variables>
+</theme>

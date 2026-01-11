@@ -4,80 +4,62 @@
     <systemDescription>The Arduboy is a handheld game console with open source software, based on the Arduino hardware platform.</systemDescription>
     <systemManufacturer>Kevin Bates</systemManufacturer>
     <systemReleaseYear>2015</systemReleaseYear>
-    <systemHardwareType>Portable</systemHardwareType>
+    <systemHardwareType>${i18n.hardware-portable}</systemHardwareType>
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
   <variables lang="ar">
     <systemDescription>Arduboy هو جهاز ألعاب محمول باليد مزود ببرنامج مفتوح المصدر، يعتمد على منصة أجهزة Arduino.</systemDescription>
-    <systemHardwareType>محمول</systemHardwareType>
   </variables>
   <variables lang="bs">
     <systemDescription>Arduboy je ručna igra za igru s otvorenim Soverom zasnovanom na bazira na bazi Arduino hardverske platforme.</systemDescription>
-    <systemHardwareType>Prenosiv</systemHardwareType>
   </variables>
   <variables lang="ca">
     <systemDescription>L’Arduboy és una consola de joc de mà amb programari de codi obert, basada en la plataforma de maquinari Arduino.</systemDescription>
-    <systemHardwareType>Portable</systemHardwareType>
   </variables>
   <variables lang="de">
     <systemDescription>Der Arduboy ist eine tragbare Spielkonsole mit Open-Source-Software, die auf der Arduino-Hardwareplattform basiert.</systemDescription>
-    <systemHardwareType>Tragbar</systemHardwareType>
   </variables>
   <variables lang="es">
     <systemDescription>El Arduboy es una videoconsola portátil con software de código abierto, basada en la plataforma de hardware Arduino.</systemDescription>
-    <systemHardwareType>Portátil</systemHardwareType>
   </variables>
   <variables lang="fr">
     <systemDescription>L'Arduboy est une console de jeu portable dotée d'un logiciel libre, basée sur la plate-forme matérielle Arduino.</systemDescription>
-    <systemHardwareType>Portable</systemHardwareType>
   </variables>
   <variables lang="hr">
     <systemDescription>Arduboy je ručna konzola za igru s softverom otvorenog koda, temeljenog na hardverskoj platformi Arduino.</systemDescription>
-    <systemHardwareType>Prenosiv</systemHardwareType>
   </variables>
   <variables lang="it">
     <systemDescription>Arduboy è una console di gioco portatile con software open source, basata sulla piattaforma hardware Arduino.</systemDescription>
-    <systemHardwareType>Portatile</systemHardwareType>
   </variables>
   <variables lang="ja">
     <systemDescription>Arduboyは、Arduinoハードウェアプラットフォームをベースにしたオープンソースソフトウェアの携帯ゲーム機です。</systemDescription>
-    <systemHardwareType>ポータブル</systemHardwareType>
   </variables>
   <variables lang="ko">
     <systemDescription>아두보이는 아두이노 하드웨어 플랫폼에 기반한 오픈 소스 소프트웨어가 탑재된 휴대용 게임 콘솔입니다.</systemDescription>
-    <systemHardwareType>휴대성</systemHardwareType>
   </variables>
   <variables lang="nl">
     <systemDescription>De Arduboy is een draagbare spelconsole met open source software, gebaseerd op het Arduino-hardwareplatform.</systemDescription>
-    <systemHardwareType>Draagbaar</systemHardwareType>
   </variables>
   <variables lang="pl">
     <systemDescription>Arduboy to przenośna konsola do gier z oprogramowaniem open source, oparta na platformie sprzętowej Arduino.</systemDescription>
-    <systemHardwareType>Przenośny</systemHardwareType>
   </variables>
   <variables lang="pt">
     <systemDescription>O Arduboy é um console de jogos portátil com software de código aberto, baseado na plataforma de hardware Arduino.</systemDescription>
-    <systemHardwareType>Portátil</systemHardwareType>
   </variables>
   <variables lang="ro">
     <systemDescription>Arduboy este o consolă de jocuri portabilă cu software open source, bazată pe platforma hardware Arduino.</systemDescription>
-    <systemHardwareType>Portabil</systemHardwareType>
   </variables>
   <variables lang="ru">
     <systemDescription>Arduboy - это портативная игровая консоль с открытым исходным кодом, основанная на аппаратной платформе Arduino.</systemDescription>
-    <systemHardwareType>Портативный</systemHardwareType>
   </variables>
   <variables lang="sr">
     <systemDescription>АРДУБОИ је ручна игарска конзола са софтвером отвореног кода, заснована на хардверској платформи АРДУИНО.</systemDescription>
-    <systemHardwareType>Преносив</systemHardwareType>
   </variables>
   <variables lang="sv">
     <systemDescription>Arduboy är en handhållen spelkonsol med programvara med öppen källkod, baserad på hårdvaruplattformen Arduino.</systemDescription>
-    <systemHardwareType>Bärbar</systemHardwareType>
   </variables>
   <variables lang="zh">
     <systemDescription>Arduboy 是一款基于 Arduino 硬件平台的掌上游戏机，采用开源软件。</systemDescription>
-    <systemHardwareType>便携式</systemHardwareType>
   </variables>
 </theme>

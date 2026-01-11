@@ -2,82 +2,82 @@
   <variables>
     <systemName>Now Playing</systemName>
     <systemDescription>Play and complete the games on your backlog.</systemDescription>
-    <systemManufacturer>Various</systemManufacturer>
-    <systemReleaseYear>Various</systemReleaseYear>
-    <systemHardwareType>Custom Collection</systemHardwareType>
+    <systemManufacturer>${i18n.various}</systemManufacturer>
+    <systemReleaseYear>${i18n.various}</systemReleaseYear>
+    <systemHardwareType>${i18n.custom-collection}</systemHardwareType>
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
   <variables lang="ar">
+    <systemName>الآن قيد التشغيل</systemName>
     <systemDescription>العب وأكمل الألعاب المتراكمة لديك.</systemDescription>
-    <systemHardwareType>المجموعة</systemHardwareType>
   </variables>
   <variables lang="bs">
+    <systemName>Sada Se Igra</systemName>
     <systemDescription>Igrajte i dovršite igre na svom zaostatku.</systemDescription>
-    <systemHardwareType>Zbirka</systemHardwareType>
   </variables>
   <variables lang="ca">
+    <systemName>Ara Jugant</systemName>
     <systemDescription>Juga i completa els jocs al back -back.</systemDescription>
-    <systemHardwareType>Collection</systemHardwareType>
   </variables>
   <variables lang="de">
+    <systemName>Jetzt Spielen</systemName>
     <systemDescription>Spiele und schließe die Spiele in deiner Warteschlange ab.</systemDescription>
-    <systemHardwareType>Sammlung</systemHardwareType>
   </variables>
   <variables lang="es">
+    <systemName>Jugando Ahora</systemName>
     <systemDescription>Juega y completa los juegos pendientes.</systemDescription>
-    <systemHardwareType>Colección</systemHardwareType>
   </variables>
   <variables lang="fr">
+    <systemName>En Cours</systemName>
     <systemDescription>Jouez et terminez les jeux de votre carnet de commandes.</systemDescription>
-    <systemHardwareType>Collection</systemHardwareType>
   </variables>
   <variables lang="hr">
+    <systemName>Sada Se Igra</systemName>
     <systemDescription>Igrajte i dovršite igre na zaostatku.</systemDescription>
-    <systemHardwareType>Kolekcija</systemHardwareType>
   </variables>
   <variables lang="it">
+    <systemName>In Riproduzione</systemName>
     <systemDescription>Giocate e completate i giochi in arretrato.</systemDescription>
-    <systemHardwareType>Collezione</systemHardwareType>
   </variables>
   <variables lang="ja">
+    <systemName>プレイ中</systemName>
     <systemDescription>バックログにあるゲームをプレイしてクリアする。</systemDescription>
-    <systemHardwareType>コレクション</systemHardwareType>
   </variables>
   <variables lang="ko">
+    <systemName>지금 플레이 중</systemName>
     <systemDescription>백로그에 있는 게임을 플레이하고 완료하세요.</systemDescription>
-    <systemHardwareType>컬렉션</systemHardwareType>
   </variables>
   <variables lang="nl">
+    <systemName>Nu Spelen</systemName>
     <systemDescription>Speel en voltooi de games in je achterstand.</systemDescription>
-    <systemHardwareType>Collectie</systemHardwareType>
   </variables>
   <variables lang="pl">
+    <systemName>Aktualnie Grane</systemName>
     <systemDescription>Graj i ukończ gry z listy zaległości.</systemDescription>
-    <systemHardwareType>Kolekcja</systemHardwareType>
   </variables>
   <variables lang="pt">
+    <systemName>A Jogar Agora</systemName>
     <systemDescription>Jogue e conclua os jogos em sua lista de pendências.</systemDescription>
-    <systemHardwareType>Coleção</systemHardwareType>
   </variables>
   <variables lang="ro">
+    <systemName>În Curs</systemName>
     <systemDescription>Joacă și finalizează jocurile din portofoliul tău.</systemDescription>
-    <systemHardwareType>Colecție</systemHardwareType>
   </variables>
   <variables lang="ru">
+    <systemName>Сейчас Играю</systemName>
     <systemDescription>Играйте и завершайте игры, находящиеся в вашем запасе.</systemDescription>
-    <systemHardwareType>Коллекция</systemHardwareType>
   </variables>
   <variables lang="sr">
+    <systemName>У Току</systemName>
     <systemDescription>Играјте и довршите игре на заостатку.</systemDescription>
-    <systemHardwareType>Збирка</systemHardwareType>
   </variables>
   <variables lang="sv">
+    <systemName>Spelas Nu</systemName>
     <systemDescription>Spela och slutför spelen i din backlog.</systemDescription>
-    <systemHardwareType>Samling</systemHardwareType>
   </variables>
   <variables lang="zh">
+    <systemName>正在游玩</systemName>
     <systemDescription>玩并完成积压的游戏。</systemDescription>
-    <systemHardwareType>收藏品</systemHardwareType>
   </variables>
 </theme>

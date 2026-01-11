@@ -1,0 +1,65 @@
+<theme>
+  <variables>
+    <systemName>MSX2+</systemName>
+    <systemReleaseYear>1988</systemReleaseYear>
+    <systemManufacturer>Sony/Panasonic</systemManufacturer>
+    <systemDescription>After 1986, Microsoft ceased support for the MSX standard and ASCII in Japan took over the further development of the standard, which is fully backward compatible with MSX and MSX2.</systemDescription>
+    <systemHardwareType>${i18n.hardware-computer}</systemHardwareType>
+    <systemCoverSize>1-1</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+  <variables lang="ar">
+    <systemDescription>بعد عام 1986 توقفت مايكروسوفت عن دعم معيار MSX وتولت شركة ASCII في اليابان مواصلة تطوير المعيار، مع الحفاظ على التوافق الخلفي الكامل مع MSX وMSX2.</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>Nakon 1986. Microsoft je prekinuo podršku za MSX standard, a ASCII u Japanu preuzeo je dalji razvoj standarda, koji je potpuno unatrag kompatibilan s MSX i MSX2.</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>Després del 1986, Microsoft va deixar de donar suport a l'estàndard MSX i ASCII al Japó es va fer càrrec del desenvolupament, mantenint la compatibilitat amb MSX i MSX2.</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemDescription>Nach 1986 stellte Microsoft die Unterstützung des MSX‑Standards ein, und ASCII in Japan übernahm die weitere Entwicklung des Standards, der vollständig abwärtskompatibel zu MSX und MSX2 ist.</systemDescription>
+  </variables>
+  <variables lang="es">
+    <systemDescription>Después de 1986, Microsoft dejó de dar soporte al estándar MSX y ASCII en Japón se hizo cargo del desarrollo posterior del estándar que tiene completa retrocompatibilidad con MSX y MSX2.</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>Après 1986, Microsoft a cessé le support du standard MSX et ASCII au Japon a pris en charge le développement ultérieur du standard, qui reste totalement rétrocompatible avec MSX et MSX2.</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>Nakon 1986. Microsoft je prestao podržavati MSX standard, a ASCII u Japanu preuzeo je daljnji razvoj standarda koji je potpuno unatrag kompatibilan s MSX i MSX2.</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemDescription>Dopo il 1986 Microsoft ha interrotto il supporto per lo standard MSX e ASCII in Giappone ha assunto lo sviluppo successivo dello standard, che è pienamente retrocompatibile con MSX e MSX2.</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>1986年以降、MicrosoftはMSX標準のサポートを終了し、日本のASCIIがその後の規格開発を引き継ぎました。MSXおよびMSX2との下位互換性は維持されています。</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>1986년 이후 Microsoft는 MSX 표준에 대한 지원을 중단했으며, 일본의 ASCII가 이후 표준 개발을 인수했습니다. 이는 MSX 및 MSX2와 완전한 하위 호환성을 유지합니다。</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>Na 1986 stopte Microsoft de ondersteuning voor de MSX‑standaard en nam ASCII in Japan de verdere ontwikkeling van de standaard over, die volledig achterwaarts compatibel is met MSX en MSX2.</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>Po 1986 roku Microsoft zaprzestał wsparcia standardu MSX, a ASCII w Japonii przejęło dalszy rozwój standardu, który jest w pełni wstecznie zgodny z MSX i MSX2.</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>Após 1986, a Microsoft deixou de suportar o padrão MSX e a ASCII no Japão assumiu o desenvolvimento do padrão, que é totalmente retrocompatível com MSX e MSX2.</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>După 1986, Microsoft a încetat suportul pentru standardul MSX, iar ASCII din Japonia a preluat dezvoltarea ulterioară a standardului, care rămâne pe deplin retrocompatibil cu MSX și MSX2.</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>После 1986 года Microsoft прекратила поддержку стандарта MSX, и компания ASCII в Японии взяла на себя дальнейшую разработку стандарта, который полностью обратно совместим с MSX и MSX2.</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>Након 1986. Microsoft је престао да подржава MSX стандард, а ASCII у Јапану је преузео даљи развој стандарда, који је у потпуности уназад компатибилан са MSX и MSX2.</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>Efter 1986 upphörde Microsoft stödet för MSX‑standarden och ASCII i Japan tog över vidare utveckling av standarden, som är fullt bakåtkompatibel med MSX och MSX2.</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>1986 年后，微软停止对 MSX 标准的支持，日本的 ASCII 接手了该标准的后续开发，且该标准与 MSX 与 MSX2 完全向后兼容。</systemDescription>
+  </variables>
+</theme>

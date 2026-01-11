@@ -1,0 +1,82 @@
+<theme>
+  <variables>
+    <systemName>Never Played</systemName>
+    <systemDescription>View and play every game you haven't played yet!</systemDescription>
+    <systemManufacturer>{i18n.various}</systemManufacturer>
+    <systemReleaseYear>{i18n.various}</systemReleaseYear>
+    <systemCoverSize>1-1</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+  <variables lang="ar">
+    <systemName>لم تُلعَب</systemName>
+    <systemDescription>استعرض ولعب كل لعبة في مجموعتك لم تقم بلعبها بعد!</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemName>Nikad Igrano</systemName>
+    <systemDescription>Pogledajte i odigrajte svaku igru koju još niste odigrali!</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemName>Mai Jugats</systemName>
+    <systemDescription>Fes una ullada i juga cada joc que encara no has jugat!</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemName>Noch Nie Gespielt</systemName>
+    <systemDescription>Sieh dir alle Spiele an und spiele jedes, das du noch nicht gespielt hast!</systemDescription>
+  </variables>
+  <variables lang="es">
+    <systemName>Nunca jugados</systemName>
+    <systemDescription>Explora y juega cada juego de tu colección que todavía no has jugado.</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemName>Jamais Joués</systemName>
+    <systemDescription>Parcourez et jouez à chaque jeu que vous n'avez pas encore essayé !</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemName>Nikad Odigrano</systemName>
+    <systemDescription>Pogledajte i zaigrajte svaku igru koju još niste odigrali!</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemName>Mai Giocati</systemName>
+    <systemDescription>Visualizza e gioca ogni gioco che non hai ancora giocato!</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemName>未プレイ</systemName>
+    <systemDescription>まだ遊んでいないすべてのゲームを表示して遊びましょう！</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemName>아직 안한 게임</systemName>
+    <systemDescription>아직 플레이하지 않은 모든 게임을 보고 플레이하세요!</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemName>Nooit Gespeeld</systemName>
+    <systemDescription>Bekijk en speel elk spel dat je nog niet hebt gespeeld!</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemName>Nigdy Nie Grane</systemName>
+    <systemDescription>Przeglądaj i graj we wszystkie gry, których jeszcze nie grałeś!</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemName>Nunca Jogados</systemName>
+    <systemDescription>Veja e jogue todos os jogos que ainda não jogou!</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemName>Niciodată Jucate</systemName>
+    <systemDescription>Vizualizează și joacă fiecare joc pe care încă nu l-ai jucat!</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemName>Никогда не играли</systemName>
+    <systemDescription>Просмотрите и сыграйте в каждую игру, в которую вы ещё не играли!</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemName>Никада Није Играно</systemName>
+    <systemDescription>Погледајте и одиграјте сваку игру коју још нисте играли!</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemName>Aldrig Spelade</systemName>
+    <systemDescription>Se och spela varje spel som du inte har spelat än!</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemName>未玩的</systemName>
+    <systemDescription>查看并玩你还没有玩的每一款游戏！</systemDescription>
+  </variables>
+</theme>

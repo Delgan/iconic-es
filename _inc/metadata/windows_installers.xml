@@ -1,0 +1,82 @@
+<theme>
+  <variables>
+    <systemName>Windows Installers</systemName>
+    <systemDescription>Install Windows Games</systemDescription>
+    <systemManufacturer>${i18n.misc-system}</systemManufacturer>
+    <systemHardwareType>${i18n.hardware-folder}</systemHardwareType>
+    <systemCoverSize>1-1</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+  <variables lang="ar">
+    <systemName>مُثَبِّتات ويندوز</systemName>
+    <systemDescription>تثبيت ألعاب Windows</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemName>Windows Instalateri</systemName>
+    <systemDescription>Instaliraj Windows igre</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemName>Instal·ladors de Windows</systemName>
+    <systemDescription>Instal·la jocs de Windows</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemName>Windows‑Installer</systemName>
+    <systemDescription>Installiere Windows‑Spiele</systemDescription>
+  </variables>
+  <variables lang="es">
+    <systemName>Instaladores de Windows</systemName>
+    <systemDescription>Instala juegos de Windows</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemName>Installateurs Windows</systemName>
+    <systemDescription>Installer des jeux Windows</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemName>Windows Instalateri</systemName>
+    <systemDescription>Instaliraj Windows igre</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemName>Installatori Windows</systemName>
+    <systemDescription>Installa giochi per Windows</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemName>Windows インストーラー</systemName>
+    <systemDescription>Windows用ゲームをインストール</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemName>Windows 설치 프로그램</systemName>
+    <systemDescription>Windows 게임을 설치합니다</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemName>Windows Installers</systemName>
+    <systemDescription>Installeer Windows‑games</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemName>Instalatory Windows</systemName>
+    <systemDescription>Zainstaluj gry Windows</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemName>Instaladores do Windows</systemName>
+    <systemDescription>Instale jogos do Windows</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemName>Instalatoare Windows</systemName>
+    <systemDescription>Instalează jocuri Windows</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemName>Установщики Windows</systemName>
+    <systemDescription>Установить игры для Windows</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemName>Windows Инсталатери</systemName>
+    <systemDescription>Инсталирај Windows игре</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemName>Windows‑installatörer</systemName>
+    <systemDescription>Installera Windows‑spel</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemName>Windows 安装程序</systemName>
+    <systemDescription>安装 Windows 游戏</systemDescription>
+  </variables>
+</theme>

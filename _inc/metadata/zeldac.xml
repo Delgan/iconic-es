@@ -1,0 +1,65 @@
+<theme>
+  <variables>
+    <systemName>Zelda Classic</systemName>
+    <systemManufacturer>ZeldaClassic.com</systemManufacturer>
+    <systemReleaseYear>1999</systemReleaseYear>
+    <systemDescription>Though it started as a basic Legend of Zelda clone by programmer Phantom Menace in April of 1999, Zelda Classic has grown into something much bigger in the past few years.</systemDescription>
+    <systemHardwareType>${i18n.hardware-engine}</systemHardwareType>
+    <systemCoverSize>1-1</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+  <variables lang="ar">
+    <systemDescription>على الرغم من أنه بدأ باعتباره استنساخًا بسيطًا للعبة Legend of Zelda من قبل المبرمج Phantom Menace في أبريل 1999، فقد تطور Zelda Classic ليصبح مشروعًا أكبر بكثير خلال السنوات الأخيرة.</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>Iako je započeo kao osnovni klon Legend of Zelda autora Phantom Menace u travnju 1999., Zelda Classic se posljednjih godina razvila u puno veći projekt.</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>Encara que va començar com un clon bàsic de The Legend of Zelda fet per Phantom Menace l'abril de 1999, Zelda Classic ha crescut molt en els darrers anys.</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemDescription>Obwohl es als einfacher Clone von The Legend of Zelda des Programmierers Phantom Menace im April 1999 begann, ist Zelda Classic in den letzten Jahren deutlich gewachsen.</systemDescription>
+  </variables>
+  <variables lang="es">
+    <systemDescription>Aunque comenzó como un clon básico de Legend of Zelda del programador Phantom Menace en abril de 1999, Zelda Classic se ha convertido en algo mucho más grande en los últimos años.</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>Bien qu'à l'origine il ait débuté comme un simple clone de The Legend of Zelda par le programmeur Phantom Menace en avril 1999, Zelda Classic est devenu beaucoup plus important ces dernières années.</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>Iako je započeo kao osnovni klon Legend of Zelda autora Phantom Menace u travnju 1999., Zelda Classic se u posljednjih nekoliko godina znatno proširio.</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemDescription>Nonostante sia iniziato come un semplice clone di The Legend of Zelda realizzato dal programmatore Phantom Menace nell'aprile 1999, Zelda Classic è cresciuto molto negli ultimi anni.</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>元は1999年4月に開発者 Phantom Menace による単純な『The Legend of Zelda』のクローンとして始まりましたが、Zelda Classic はここ数年で大きく成長しました。</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>원래 1999년 4월 프로그래머 Phantom Menace가 만든 간단한 Legend of Zelda 복제작으로 시작했지만, Zelda Classic은 지난 몇 년 동안 훨씬 크게 성장했습니다。</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>Hoewel het begon als een eenvoudige Legend of Zelda‑klon door programmeur Phantom Menace in april 1999, is Zelda Classic de afgelopen jaren veel groter geworden.</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>Chociaż zaczęło się jako prosty klon The Legend of Zelda autorstwa programisty Phantom Menace w kwietniu 1999, Zelda Classic w ciągu ostatnich lat znacznie się rozrosło.</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>Embora tenha começado como um clone básico de The Legend of Zelda feito pelo programador Phantom Menace em abril de 1999, o Zelda Classic cresceu muito nos últimos anos.</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>Deși a început ca un clon simplu al The Legend of Zelda de către programatorul Phantom Menace în aprilie 1999, Zelda Classic a crescut foarte mult în ultimii ani.</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>Хотя изначально это был простой клон The Legend of Zelda от программиста Phantom Menace в апреле 1999 года, Zelda Classic за последние годы значительно разросся.</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>Iако je почео као основни клон The Legend of Zelda који је у априлу 1999. направио програмер Phantom Menace, Zelda Classic је током последњих година значајно порастао.</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>Även om det började som en enkel Legend of Zelda‑klon av programmeraren Phantom Menace i april 1999, har Zelda Classic vuxit till något mycket större under de senaste åren.</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>尽管它最初是由程序员 Phantom Menace 在 1999 年 4 月制作的一个简单的《塞尔达传说》克隆项目，但 Zelda Classic 在过去几年中发展成了一个规模更大的项目。</systemDescription>
+  </variables>
+</theme>
