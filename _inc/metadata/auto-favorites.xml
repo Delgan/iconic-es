@@ -9,57 +9,75 @@
     <systemCartSize>1-1</systemCartSize>
   </variables>
   <variables lang="ar">
+    <systemName>الألعاب المفضلة</systemName>
     <systemDescription>عرض ألعابك المفضلة وتشغيلها عبر المكتبة بأكملها.</systemDescription>
   </variables>
   <variables lang="bs">
+    <systemName>Favoriti</systemName>
     <systemDescription>Pogledajte i igrajte svoje omiljene igre u cijeloj biblioteci.</systemDescription>
   </variables>
   <variables lang="ca">
+    <systemName>Preferits</systemName>
     <systemDescription>Veure i jugar els teus jocs preferits a tota la biblioteca.</systemDescription>
   </variables>
   <variables lang="de">
+    <systemName>Favoriten</systemName>
     <systemDescription>Sie können Ihre Lieblingsspiele in der gesamten Bibliothek anzeigen und spielen.</systemDescription>
   </variables>
   <variables lang="es">
+    <systemName>Favoritos</systemName>
     <systemDescription>Vea y juegue a sus juegos favoritos en toda la biblioteca.</systemDescription>
   </variables>
   <variables lang="fr">
+    <systemName>Favoris</systemName>
     <systemDescription>Affichez et jouez à vos jeux préférés dans l'ensemble de la bibliothèque.</systemDescription>
   </variables>
   <variables lang="hr">
+    <systemName>Favoriti</systemName>
     <systemDescription>Pogledajte i igrajte svoje omiljene igre u cijeloj knjižnici.</systemDescription>
   </variables>
   <variables lang="it">
+    <systemName>Preferiti</systemName>
     <systemDescription>Visualizzate e giocate ai vostri giochi preferiti nell'intera libreria.</systemDescription>
   </variables>
   <variables lang="ja">
+    <systemName>お気に入り</systemName>
     <systemDescription>ライブラリ全体でお気に入りのゲームを表示、プレイできます。</systemDescription>
   </variables>
   <variables lang="ko">
+    <systemName>즐겨찾기</systemName>
     <systemDescription>전체 라이브러리에서 좋아하는 게임을 보고 플레이하세요.</systemDescription>
   </variables>
   <variables lang="nl">
+    <systemName>Favorieten</systemName>
     <systemDescription>Bekijk en speel je favoriete games in de hele bibliotheek.</systemDescription>
   </variables>
   <variables lang="pl">
+    <systemName>Ulubione</systemName>
     <systemDescription>Przeglądaj i graj w swoje ulubione gry w całej bibliotece.</systemDescription>
   </variables>
   <variables lang="pt">
+    <systemName>Favoritos</systemName>
     <systemDescription>Visualize e jogue seus jogos favoritos em toda a biblioteca.</systemDescription>
   </variables>
   <variables lang="ro">
+    <systemName>Favorite</systemName>
     <systemDescription>Vizualizați și jucați jocurile dvs. preferate în întreaga bibliotecă.</systemDescription>
   </variables>
   <variables lang="ru">
+    <systemName>Избранное</systemName>
     <systemDescription>Просматривайте и играйте в любимые игры во всей библиотеке.</systemDescription>
   </variables>
   <variables lang="sr">
+    <systemName>Омиљено</systemName>
     <systemDescription>Погледајте и репродукујте своје омиљене игре у целој библиотеци.</systemDescription>
   </variables>
   <variables lang="sv">
+    <systemName>Favoriter</systemName>
     <systemDescription>Visa och spela dina favoritspel i hela biblioteket.</systemDescription>
   </variables>
   <variables lang="zh">
+    <systemName>收藏</systemName>
     <systemDescription>在整个游戏库中查看和玩你最喜欢的游戏。</systemDescription>
   </variables>
 </theme>

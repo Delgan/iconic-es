@@ -7,8 +7,76 @@
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
+  <variables lang="ar">
+    <systemName>معرض لقطات الشاشة</systemName>
+    <systemDescription>عرض لقطات الشاشة الخاصة بك</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemName>Galerija Snimaka</systemName>
+    <systemDescription>Pogledajte svoje snimke zaslona</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemName>Galeria de Captures</systemName>
+    <systemDescription>Mostra les teves captures de pantalla</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemName>Screenshot‑Galerie</systemName>
+    <systemDescription>Betrachte deine Screenshots</systemDescription>
+  </variables>
   <variables lang="es">
     <systemName>Pantallazos</systemName>
     <systemDescription>Explora tus capturas de pantalla</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemName>Galerie de captures</systemName>
+    <systemDescription>Voir vos captures d'écran</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemName>Galerija Snimaka</systemName>
+    <systemDescription>Pogledajte svoje snimke zaslona</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemName>Galleria Screenshot</systemName>
+    <systemDescription>Visualizza i tuoi screenshot</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemName>スクリーンショットギャラリー</systemName>
+    <systemDescription>スクリーンショットを表示します</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemName>스크린샷 갤러리</systemName>
+    <systemDescription>스크린샷을 확인하세요</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemName>Screenshotgalerij</systemName>
+    <systemDescription>Bekijk je screenshots</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemName>Galeria zrzutów</systemName>
+    <systemDescription>Przeglądaj swoje zrzuty ekranu</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemName>Galeria de Capturas</systemName>
+    <systemDescription>Veja as suas capturas de ecrã</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemName>Galerie de Capturi</systemName>
+    <systemDescription>Vizualizează capturile tale de ecran</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemName>Галерея скриншотов</systemName>
+    <systemDescription>Просмотреть ваши скриншоты</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemName>Галерија Снимка</systemName>
+    <systemDescription>Пogледајте своје снимке екрана</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemName>Skärmdumpsgalleri</systemName>
+    <systemDescription>Visa dina skärmdumpar</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemName>截图库</systemName>
+    <systemDescription>查看你的截图</systemDescription>
   </variables>
 </theme>

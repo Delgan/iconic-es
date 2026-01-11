@@ -8,7 +8,58 @@
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
+  <variables lang="ar">
+    <systemDescription>يقوم DICE (محاكي الدوائر المتكاملة المنفصلة) بمحاكاة ماكينات الألعاب القديمة من أوائل السبعينيات بدقة عالية. بما أن هذه الآلات لم تكن تحتوي على وحدة معالجة مركزية، يقوم المحاكي بمحاكاة مكونات المنطق المنفصلة على لوحة الدائرة. تتطلب هذه الطريقة موارد نظام كبيرة، وللحصول على سرعة كاملة يلزم على الأقل معالج متوسط الأداء وإصدار 64-بت من المحاكي.</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>DICE (Discrete Integrated Circuit Emulator) emulira stare arkadne mašine iz ranih 1970-ih s velikom preciznošću. Budući da te mašine nisu imale CPU, emulator umjesto toga oponaša diskretne logičke komponente na ploči. Ova metoda zahtijeva mnogo resursa sustava; za punu brzinu potrebna je barem procesorska snaga srednjeg ranga i 64‑bitna verzija emulatora.</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>DICE (Emulador de Circuit Integrat Discret) emula antigues màquines d'arcade dels primers anys 70 amb gran precisió. Com que aquestes màquines no tenien CPU, l'emulador simula components lògics discretes a la placa de circuit. Aquest mètode és exigent per al sistema; per obtenir total velocitat cal una CPU de gamma mitjana i la versió de 64 bits de l'emulador.</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemDescription>DICE (Discrete Integrated Circuit Emulator) emuliert alte Arcade‑Geräte aus den frühen 1970er Jahren mit hoher Genauigkeit. Da diese Geräte keine CPU hatten, emuliert der Emulator stattdessen diskrete logische Komponenten auf der Leiterplatte. Diese Methode ist sehr ressourcenintensiv; für volle Geschwindigkeit ist mindestens eine CPU mittlerer Leistung und die 64‑Bit‑Version des Emulators erforderlich.</systemDescription>
+  </variables>
   <variables lang="es">
     <systemDescription>DICE (Emulador de Circuitos Integrados Discretos) emula antiguas máquinas recreativas de principios de los 70 con gran precisión. Dado que estas máquinas no tenían CPU, el emulador emula componentes lógicos discretos en la placa de circuito. Este método consume muchos recursos del sistema, y ​​para alcanzar la máxima velocidad se requiere al menos una CPU de gama media (para un rendimiento de un solo subproceso) junto con la versión de 64 bits del emulador.</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>DICE (Discrete Integrated Circuit Emulator) émule d'anciennes machines d'arcade du début des années 1970 avec une grande précision. Comme ces machines n'avaient pas de CPU, l'émulateur reproduit à la place les composants logiques discrets de la carte. Cette méthode est très gourmande en ressources ; pour obtenir la vitesse maximale, il faut au minimum un CPU milieu de gamme et la version 64 bits de l'émulateur.</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>DICE (Discrete Integrated Circuit Emulator) emulira stare arkadne strojeve iz ranih 1970-ih s visokom točnošću. Budući da ti strojevi nisu imali CPU, emulator oponaša diskretne logičke komponente na ploči. Ova metoda je vrlo zahtjevna za sustav; za punu brzinu potreban je barem procesor srednjeg ranga i 64‑bitna verzija emulatora.</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemDescription>DICE (Discrete Integrated Circuit Emulator) emula vecchie macchine da sala giochi dei primi anni '70 con grande accuratezza. Poiché queste macchine non avevano una CPU, l'emulatore riproduce i componenti logici discreti sulla scheda. Questo approccio è molto intensivo in termini di risorse: per ottenere piena velocità serve almeno una CPU di fascia media e la versione a 64 bit dell'emulatore.</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>DICE（Discrete Integrated Circuit Emulator）は、1970年代初頭の古いアーケード筐体を高精度でエミュレートします。これらの筐体にはCPUがなかったため、エミュレータは回路基板上の個別論理部品をエミュレートします。この方法は非常にシステム負荷が高く、フルスピードで動作させるには少なくともミッドレンジのCPUと64ビット版エミュレータが必要です。</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>DICE(Discrete Integrated Circuit Emulator)는 1970년대 초의 오래된 아케이드 기기를 높은 정확도로 에뮬레이트합니다. 이러한 기기들은 CPU가 없었기 때문에 에뮬레이터는 회로 기판의 개별 로직 부품을 에뮬레이트합니다. 이 방식은 시스템 리소스를 많이 사용하므로 전체 속도를 내려면 최소한 중급 CPU와 64비트 버전의 에뮬레이터가 필요합니다.</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>DICE (Discrete Integrated Circuit Emulator) emuleert oude arcademachines uit het begin van de jaren 70 met hoge nauwkeurigheid. Omdat deze machines geen CPU hadden, emuleert de emulator de discrete logische componenten op het printplaatje. Deze methode is erg systeemintensief; voor volledige snelheid is minimaal een mid-range CPU en de 64‑bit versie van de emulator benodigd.</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>DICE (Discrete Integrated Circuit Emulator) emuluje stare maszyny arkadowe z początku lat 70. z dużą dokładnością. Ponieważ te maszyny nie miały CPU, emulator emuluje dyskretne elementy logiczne na płytce. Ta metoda jest bardzo wymagająca; aby osiągnąć pełną prędkość potrzebny jest co najmniej procesor klasy średniej oraz 64-bitowa wersja emulatora.</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>DICE (Discrete Integrated Circuit Emulator) emula antigas máquinas de arcade do início dos anos 70 com grande precisão. Como essas máquinas não tinham CPU, o emulador emula os componentes lógicos discretos na placa de circuito. Este método é muito exigente para o sistema; para obter velocidade total é necessário pelo menos uma CPU de gama média e a versão de 64 bits do emulador.</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>DICE (Discrete Integrated Circuit Emulator) emulează vechile aparate arcade de la începutul anilor 1970 cu un nivel ridicat de acuratețe. Deoarece aceste aparate nu aveau CPU, emulatorul emulează componente logice discrete de pe placa de circuite. Această metodă este foarte solicitantă pentru sistem; pentru viteză maximă este necesar cel puțin un CPU mid‑range și versiunea pe 64 de biți a emulatorului.</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>DICE (Discrete Integrated Circuit Emulator) эмулирует старые аркадные автоматы начала 1970-х с высокой точностью. Поскольку у этих машин не было CPU, эмулятор воспроизводит дискретные логические компоненты на плате. Этот подход очень требователен к ресурсам: для полной скорости требуется как минимум процессор среднего уровня и 64‑битная версия эмулятора.</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>DICE (Discrete Integrated Circuit Emulator) емул�ира старе аркадне машине из раних 1970-их с високим нивоом тачности. Пошто те машине нису имале CPU, емулатор емул�ира дискретне логичке компоненте на плочи. Ова метода захтева много ресурса; за пуне перформансе потребан је минимум процесор средњег ранга и 64‑битна верзија емулатора.</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>DICE (Discrete Integrated Circuit Emulator) emulerar gamla arkadmaskiner från början av 1970‑talet med hög noggrannhet. Eftersom dessa maskiner saknade CPU emulerar programmet diskreta logiska komponenter på kretskortet. Denna metod är mycket systemkrävande; för full hastighet krävs åtminstone en CPU i mellansegmentet och 64‑bitversionen av emulatorkoden.</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>DICE（离散集成电路模拟器）以很高精度模拟 1970 年代早期的旧街机。由于这些机器没有 CPU，模拟器模拟的是电路板上的离散逻辑组件。此方法非常耗费系统资源，想要达到全速需要至少一颗中端 CPU 以及 64 位版本的模拟器。</systemDescription>
   </variables>
 </theme>

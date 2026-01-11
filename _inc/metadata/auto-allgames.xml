@@ -9,57 +9,75 @@
     <systemCartSize>1-1</systemCartSize>
   </variables>
   <variables lang="ar">
+    <systemName>كل الألعاب</systemName>
     <systemDescription>عرض كل لعبة وتشغيلها عبر مكتبتك بالكامل.</systemDescription>
   </variables>
   <variables lang="bs">
+    <systemName>Sve Igre</systemName>
     <systemDescription>Pogledajte i igrajte svaku igru širom cijele vaše biblioteke.</systemDescription>
   </variables>
   <variables lang="ca">
+    <systemName>Tots Els Jocs</systemName>
     <systemDescription>Veure i jugar a tots els jocs a tota la biblioteca.</systemDescription>
   </variables>
   <variables lang="de">
+    <systemName>Alle Spiele</systemName>
     <systemDescription>Sie können jedes Spiel in Ihrer gesamten Bibliothek anzeigen und spielen.</systemDescription>
   </variables>
   <variables lang="es">
+    <systemName>Todos Los Juegos</systemName>
     <systemDescription>Visualiza y juega a todos los juegos de tu biblioteca.</systemDescription>
   </variables>
   <variables lang="fr">
+    <systemName>Tous Les Jeux</systemName>
     <systemDescription>Visualisez et jouez à tous les jeux de votre bibliothèque.</systemDescription>
   </variables>
   <variables lang="hr">
+    <systemName>Sve Igre</systemName>
     <systemDescription>Pogledajte i igrajte svaku igru u cijeloj knjižnici.</systemDescription>
   </variables>
   <variables lang="it">
+    <systemName>Tutti I Giochi</systemName>
     <systemDescription>Visualizzate e giocate a tutti i giochi della vostra libreria.</systemDescription>
   </variables>
   <variables lang="ja">
+    <systemName>すべてのゲーム</systemName>
     <systemDescription>ライブラリ全体のすべてのゲームを表示し、再生します。</systemDescription>
   </variables>
   <variables lang="ko">
+    <systemName>모든 게임</systemName>
     <systemDescription>전체 라이브러리에서 모든 게임을 보고 플레이하세요.</systemDescription>
   </variables>
   <variables lang="nl">
+    <systemName>Alle Spellen</systemName>
     <systemDescription>Bekijk en speel elke game in je hele bibliotheek.</systemDescription>
   </variables>
   <variables lang="pl">
+    <systemName>Wszystkie Gry</systemName>
     <systemDescription>Przeglądaj i graj w każdą grę w całej swojej bibliotece.</systemDescription>
   </variables>
   <variables lang="pt">
+    <systemName>Todos Os Jogos</systemName>
     <systemDescription>Visualize e jogue todos os jogos de toda a sua biblioteca.</systemDescription>
   </variables>
   <variables lang="ro">
+    <systemName>Toate Jocurile</systemName>
     <systemDescription>Vizualizați și jucați fiecare joc din întreaga dvs. bibliotecă.</systemDescription>
   </variables>
   <variables lang="ru">
+    <systemName>Все Игры</systemName>
     <systemDescription>Просматривайте и играйте в каждую игру из всей вашей библиотеки.</systemDescription>
   </variables>
   <variables lang="sr">
+    <systemName>Све Игре</systemName>
     <systemDescription>Погледајте и играјте сваку утакмицу у целој целиј библиотеци.</systemDescription>
   </variables>
   <variables lang="sv">
+    <systemName>Alla Spel</systemName>
     <systemDescription>Visa och spela varje spel i hela ditt bibliotek.</systemDescription>
   </variables>
   <variables lang="zh">
+    <systemName>所有游戏</systemName>
     <systemDescription>查看并玩遍整个游戏库中的每款游戏。</systemDescription>
   </variables>
 </theme>

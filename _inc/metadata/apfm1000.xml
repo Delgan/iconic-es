@@ -8,7 +8,58 @@
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
+  <variables lang="ar">
+    <systemDescription>نظام APF Microcomputer هو جهاز ألعاب منزلي ثنائي الجيل 8-بت يعمل بالخرطوشة وتم إصداره في أكتوبر 1978 من قبل APF Electronics Inc مع ست خرطوشات. غالبًا ما يُشار إلى الوحدة باسم M-1000 أو MP-1000، وهي أرقام الطراز. تأتي APF-MP1000 مدمجة مع لعبة Rocket Patrol وتعد جزءًا من APF Imagination Machine.</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>APF Microcomputer System je 8-bitna konzola zasnovana na ketridžima, izdana u listopadu 1978. često nazvana M-1000 ili MP-1000. APF-MP1000 dolazi s igrom Rocket Patrol i dio je APF Imagination Machine.</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>El sistema APF Microcomputer és una consola de videojocs de 8 bits basada en cartutxos llançada a l'octubre de 1978 per APF Electronics Inc amb sis cartutxos. Sovint es coneix com M-1000 o MP-1000. L'APF-MP1000 inclou el joc Rocket Patrol i forma part de l'APF Imagination Machine.</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemDescription>Das APF Microcomputer System ist eine 8-Bit-Heimvideospielkonsole mit Modulen der zweiten Generation, die im Oktober 1978 von APF Electronics Inc. mit sechs Modulen veröffentlicht wurde. Die Konsole wird häufig als M-1000 oder MP-1000 bezeichnet. Die APF-MP1000 enthält das Spiel Rocket Patrol und ist Teil der APF Imagination Machine.</systemDescription>
+  </variables>
   <variables lang="es">
     <systemDescription>La APF Microcomputer System es una consola de videojuegos de 8 bits basada en cartuchos de segunda generación lanzada en 1978 por APF Electronics Inc con seis cartuchos. A menudo se refiere a la consola como M-1000 o MP-1000, que son los dos números de modelo de la consola. Los controles son joysticks no desmontables que también tienen teclados numéricos. La APF-MP1000 viene incorporado con el juego Rocket Patrol. La APF-MP1000 es una parte de la APF Imagination Machine.</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>Le système APF Microcomputer est une console de jeux vidéo domestique 8 bits à cartouches de deuxième génération sortie en octobre 1978 par APF Electronics Inc avec six cartouches. Elle est souvent appelée M-1000 ou MP-1000. L'APF-MP1000 inclut le jeu Rocket Patrol et fait partie de l'APF Imagination Machine.</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>APF Microcomputer System je 8-bitna konzola na ketridže druge generacije izdana u listopadu 1978. od strane APF Electronics Inc s šest ketridža. Često se naziva M-1000 ili MP-1000. APF-MP1000 dolazi s igrom Rocket Patrol i dio je APF Imagination Machine.</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemDescription>Il sistema APF Microcomputer è una console domestica a cartucce a 8 bit di seconda generazione rilasciata nell'ottobre 1978 da APF Electronics Inc con sei cartucce. È spesso chiamata M-1000 o MP-1000. L'APF-MP1000 include il gioco Rocket Patrol ed è parte della APF Imagination Machine.</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>APF Microcomputer System は、1978年10月に APF Electronics Inc. により発売された、6本のカートリッジを持つ第2世代の8ビット家庭用ゲーム機です。M-1000 や MP-1000 と呼ばれることが多く、APF-MP1000 には Rocket Patrol が内蔵され、APF Imagination Machine の一部です。</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>APF Microcomputer System은 1978년 10월 APF Electronics Inc.에서 여섯 개의 카트리지를 가진 2세대 8비트 카트리지 기반 가정용 게임기입니다. 종종 M-1000 또는 MP-1000으로 불리며, APF-MP1000에는 Rocket Patrol이 내장되어 APF Imagination Machine의 일부입니다.</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>Het APF Microcomputer System is een tweede generatie 8-bit cartridge-gebaseerde thuisconsole uitgebracht in oktober 1978 door APF Electronics Inc met zes cartridges. De console wordt vaak aangeduid als M-1000 of MP-1000. De APF-MP1000 wordt geleverd met Rocket Patrol en maakt deel uit van de APF Imagination Machine.</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>APF Microcomputer System to 8-bitowa konsola domowa oparta na kartridżach drugiej generacji, wydana w październiku 1978 przez APF Electronics Inc z sześcioma kartridżami. Często nazywana M-1000 lub MP-1000. APF-MP1000 zawiera grę Rocket Patrol i jest częścią APF Imagination Machine.</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>O APF Microcomputer System é uma consola doméstica de 8 bits baseada em cartuchos de segunda geração lançada em outubro de 1978 pela APF Electronics Inc com seis cartuchos. Frequentemente é chamada de M-1000 ou MP-1000. A APF-MP1000 inclui o jogo Rocket Patrol e faz parte da APF Imagination Machine.</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>Sistemul APF Microcomputer este o consolă de jocuri pe cartuşe pe 8 biţi de a doua generaţie, lansată în octombrie 1978 de APF Electronics Inc cu şase cartuşe. Adesea este numită M-1000 sau MP-1000. APF-MP1000 include jocul Rocket Patrol şi face parte din APF Imagination Machine.</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>Система APF Microcomputer — это 8-битная домашняя игровая консоль на картриджах второго поколения, выпущенная в октябре 1978 года компанией APF Electronics Inc с шестью картриджами. Консоль часто именуют M-1000 или MP-1000. APF-MP1000 включает игру Rocket Patrol и является частью APF Imagination Machine.</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>APF Microcomputer System је 8-битна кућна конзола заснована на кертриджима, друге генерације, изашла у октобру 1978. године од стране APF Electronics Inc са шест кертриджа. Често се назива M-1000 или MP-1000. APF-MP1000 долази са игром Rocket Patrol и део је APF Imagination Machine.</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>APF Microcomputer System är en andra generations 8-bitars kassettbaserad hemkonsol som släpptes i oktober 1978 av APF Electronics Inc med sex kassettspel. Konsolen kallas ofta M-1000 eller MP-1000. APF-MP1000 levereras med spelet Rocket Patrol och är en del av APF Imagination Machine.</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>APF Microcomputer System 是一款第二代基于卡带的 8 位家用游戏机，由 APF Electronics Inc 于 1978 年 10 月发布，随附六个卡带。该机常被称为 M-1000 或 MP-1000。APF-MP1000 内置游戏 Rocket Patrol，属于 APF Imagination Machine。</systemDescription>
   </variables>
 </theme>

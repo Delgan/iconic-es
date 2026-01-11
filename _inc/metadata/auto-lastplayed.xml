@@ -9,57 +9,75 @@
     <systemCartSize>1-1</systemCartSize>
   </variables>
   <variables lang="ar">
+    <systemName>الألعاب الأخيرة</systemName>
     <systemDescription>عرض الألعاب التي لعبتها مؤخراً عبر المكتبة بأكملها.</systemDescription>
   </variables>
   <variables lang="bs">
+    <systemName>Posljednje Igrano</systemName>
     <systemDescription>Pogledajte svoje nedavno reproducirane igre širom cijele biblioteke.</systemDescription>
   </variables>
   <variables lang="ca">
+    <systemName>Jugats Recentment</systemName>
     <systemDescription>Consulteu els jocs recentment jugats a tota la biblioteca.</systemDescription>
   </variables>
   <variables lang="de">
+    <systemName>Zuletzt Gespielt</systemName>
     <systemDescription>Zeigen Sie Ihre zuletzt gespielten Spiele in der gesamten Bibliothek an.</systemDescription>
   </variables>
   <variables lang="es">
+    <systemName>Jugados Recientemente</systemName>
     <systemDescription>Consulta los juegos que has jugado recientemente en toda la biblioteca.</systemDescription>
   </variables>
   <variables lang="fr">
+    <systemName>Récemment Joués</systemName>
     <systemDescription>Affichez vos jeux récents dans l'ensemble de la bibliothèque.</systemDescription>
   </variables>
   <variables lang="hr">
+    <systemName>Nedavno Igrano</systemName>
     <systemDescription>Pogledajte svoje nedavno igrane igre u cijeloj knjižnici.</systemDescription>
   </variables>
   <variables lang="it">
+    <systemName>Giocati Di Recente</systemName>
     <systemDescription>Visualizzare i giochi giocati di recente nell'intera libreria.</systemDescription>
   </variables>
   <variables lang="ja">
+    <systemName>最近プレイした</systemName>
     <systemDescription>最近プレイしたゲームをライブラリ全体で表示。</systemDescription>
   </variables>
   <variables lang="ko">
+    <systemName>최근 플레이한</systemName>
     <systemDescription>전체 라이브러리에서 최근에 플레이한 게임을 확인합니다.</systemDescription>
   </variables>
   <variables lang="nl">
+    <systemName>Recent Gespeeld</systemName>
     <systemDescription>Bekijk je recent gespeelde games in de hele bibliotheek.</systemDescription>
   </variables>
   <variables lang="pl">
+    <systemName>Ostatnio Grane</systemName>
     <systemDescription>Wyświetlanie ostatnio granych gier w całej bibliotece.</systemDescription>
   </variables>
   <variables lang="pt">
+    <systemName>Jogos Recentes</systemName>
     <systemDescription>Veja seus jogos jogados recentemente em toda a biblioteca.</systemDescription>
   </variables>
   <variables lang="ro">
+    <systemName>Jucate Recent</systemName>
     <systemDescription>Vizualizați jocurile jucate recent în întreaga bibliotecă.</systemDescription>
   </variables>
   <variables lang="ru">
+    <systemName>Недавно сыгранные</systemName>
     <systemDescription>Просматривайте недавно сыгранные игры во всей библиотеке.</systemDescription>
   </variables>
   <variables lang="sr">
+    <systemName>Недавно Одиграно</systemName>
     <systemDescription>Погледајте своје недавно одигране игре у целој библиотеци.</systemDescription>
   </variables>
   <variables lang="sv">
+    <systemName>Senast Spelade</systemName>
     <systemDescription>Visa dina senast spelade spel i hela biblioteket.</systemDescription>
   </variables>
   <variables lang="zh">
+    <systemName>最近玩过的</systemName>
     <systemDescription>在整个游戏库中查看最近玩过的游戏。</systemDescription>
   </variables>
 </theme>

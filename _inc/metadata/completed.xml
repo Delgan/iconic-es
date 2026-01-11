@@ -9,57 +9,75 @@
     <systemCartSize>1-1</systemCartSize>
   </variables>
   <variables lang="ar">
+    <systemName>مكتملة</systemName>
     <systemDescription>تتبع الألعاب التي أنهيتها.</systemDescription>
   </variables>
   <variables lang="bs">
+    <systemName>Dovršeno</systemName>
     <systemDescription>Pratite igre koje ste završili.</systemDescription>
   </variables>
   <variables lang="ca">
+    <systemName>Completats</systemName>
     <systemDescription>Feu un seguiment dels jocs que heu acabat.</systemDescription>
   </variables>
   <variables lang="de">
+    <systemName>Abgeschlossen</systemName>
     <systemDescription>Behalten Sie den Überblick über die Spiele, die Sie beendet haben.</systemDescription>
   </variables>
   <variables lang="es">
+    <systemName>Completados</systemName>
     <systemDescription>Lleva la cuenta de los juegos que has terminado.</systemDescription>
   </variables>
   <variables lang="fr">
+    <systemName>Terminés</systemName>
     <systemDescription>Gardez une trace des jeux que vous avez terminés.</systemDescription>
   </variables>
   <variables lang="hr">
+    <systemName>Dovršeno</systemName>
     <systemDescription>Pratite igre koje ste završili.</systemDescription>
   </variables>
   <variables lang="it">
+    <systemName>Completati</systemName>
     <systemDescription>Tenere traccia dei giochi completati.</systemDescription>
   </variables>
   <variables lang="ja">
+    <systemName>完了</systemName>
     <systemDescription>終了したゲームを記録する。</systemDescription>
   </variables>
   <variables lang="ko">
+    <systemName>완료</systemName>
     <systemDescription>완료한 게임을 추적하세요.</systemDescription>
   </variables>
   <variables lang="nl">
+    <systemName>Voltooid</systemName>
     <systemDescription>Houd bij welke games je hebt uitgespeeld.</systemDescription>
   </variables>
   <variables lang="pl">
+    <systemName>Ukończone</systemName>
     <systemDescription>Śledź ukończone gry.</systemDescription>
   </variables>
   <variables lang="pt">
+    <systemName>Completados</systemName>
     <systemDescription>Mantenha o controle dos jogos que você terminou.</systemDescription>
   </variables>
   <variables lang="ro">
+    <systemName>Finalizate</systemName>
     <systemDescription>Țineți evidența jocurilor pe care le-ați terminat.</systemDescription>
   </variables>
   <variables lang="ru">
+    <systemName>Завершённые</systemName>
     <systemDescription>Следите за играми, которые вы закончили.</systemDescription>
   </variables>
   <variables lang="sr">
+    <systemName>Завршено</systemName>
     <systemDescription>Пратите игре које сте завршили.</systemDescription>
   </variables>
   <variables lang="sv">
+    <systemName>Avslutade</systemName>
     <systemDescription>Håll reda på vilka spel du har spelat klart.</systemDescription>
   </variables>
   <variables lang="zh">
+    <systemName>已完成</systemName>
     <systemDescription>记录您已完成的游戏。</systemDescription>
   </variables>
 </theme>

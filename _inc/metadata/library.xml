@@ -7,8 +7,76 @@
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
+  <variables lang="ar">
+    <systemName>المكتبة</systemName>
+    <systemDescription>عرض المكتبة الخاصة بك</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemName>Biblioteka</systemName>
+    <systemDescription>Pogledajte svoju biblioteku</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemName>Biblioteca</systemName>
+    <systemDescription>Mostra la teva biblioteca</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemName>Bibliothek</systemName>
+    <systemDescription>Durchsuche deine Bibliothek</systemDescription>
+  </variables>
   <variables lang="es">
     <systemName>Biblioteca</systemName>
     <systemDescription>Explora tu librería</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemName>Bibliothèque</systemName>
+    <systemDescription>Voir votre bibliothèque</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemName>Biblioteka</systemName>
+    <systemDescription>Pogledajte svoju biblioteku</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemName>Libreria</systemName>
+    <systemDescription>Visualizza la tua libreria</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemName>ライブラリ</systemName>
+    <systemDescription>ライブラリを表示します</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemName>라이브러리</systemName>
+    <systemDescription>라이브러리를 확인하세요</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemName>Bibliotheek</systemName>
+    <systemDescription>Bekijk je bibliotheek</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemName>Biblioteka</systemName>
+    <systemDescription>Przeglądaj swoją bibliotekę</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemName>Biblioteca</systemName>
+    <systemDescription>Veja a sua biblioteca</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemName>Bibliotecă</systemName>
+    <systemDescription>Vizualizează biblioteca ta</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemName>Библиотека</systemName>
+    <systemDescription>Просмотреть вашу библиотеку</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemName>Библиотека</systemName>
+    <systemDescription>Погледајте своју библиотеку</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemName>Bibliotek</systemName>
+    <systemDescription>Visa ditt bibliotek</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemName>库</systemName>
+    <systemDescription>查看你的库</systemDescription>
   </variables>
 </theme>

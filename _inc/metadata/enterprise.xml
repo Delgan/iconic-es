@@ -10,7 +10,58 @@ The specification as released was powerful and one of the higher end in its clas
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
+  <variables lang="ar">
+    <systemDescription>Enterprise هو حاسوب منزلي مبني على Zilog Z80 أعلن عنه عام 1983، لكنه لم يتوفر تجارياً حتى 1985 بسبب سلسلة من التأخيرات. تميز بوجود ASICs مخصصة للرسوميات والصوت ونظام تحويل بنوك الذاكرة لدعم ذاكرة أكبر.</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>Enterprise je kućno računalo temeljeno na Zilog Z80 najavljeno 1983., ali komercijalno dostupno tek 1985. zbog kašnjenja. Ima prilagođene ASIC‑ove za grafiku i zvuk te bank switching za veće količine RAM‑a.</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>L'Enterprise és un ordinador domèstic basat en Zilog Z80 anunciat el 1983 però disponible comercialment el 1985 a causa de retards. Destaca per l'ús d'ASICs per a gràfics i so i per un sistema de canvi de bancs de memòria.</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemDescription>Der Enterprise ist ein auf dem Zilog Z80 basierender Heimcomputer, der 1983 angekündigt, aber wegen Verzögerungen erst 1985 kommerziell verfügbar war. Er zeichnete sich durch kundenspezifische ASICs für Grafik und Sound sowie Bank‑Switching für mehr RAM aus.</systemDescription>
+  </variables>
   <variables lang="es">
     <systemDescription>El Enterprise es un ordenador doméstico con una CPU Zilog Z80 a 4 MHz que se lanzó en 1985. Durante su desarrollo fue conocido como DPC, Samurai, Oscar, Elan y Flan, siendo finalmente llamado Enterprise. En Alemania se le conoce como el Mephisto PHC.</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>L'Enterprise est un ordinateur domestique à base de Zilog Z80 annoncé en 1983 mais commercialisé seulement en 1985 suite à des retards. Il se distingue par l'utilisation d'ASICs dédiés pour la vidéo et le son et par un système de commutation de banques mémoire pour supporter plus de RAM.</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>Enterprise je kućno računalo temeljeno na Zilog Z80 najavljeno 1983., ali komercijalno dostupno tek 1985. zbog kašnjenja. Ističe se prilagođenim ASIC‑ovima za grafiku i zvuk te bank switching sustavom za veće količine RAM‑a.</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemDescription>Enterprise è un computer domestico basato sul Zilog Z80 annunciato nel 1983 ma disponibile commercialmente solo nel 1985 a causa di ritardi. Si distingue per l'uso di ASIC personalizzati per grafica e audio e per un sistema di bank switching per supportare più RAM.</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>EnterpriseはZilog Z80ベースの家庭用コンピュータで、1983年に発表されましたが遅延により商用販売は1985年になりました。グラフィックとサウンド用のカスタムASICや、より大きなRAMを可能にするバンク切替システムが特徴です。</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>Enterprise는 Zilog Z80 기반의 가정용 컴퓨터로 1983년에 발표되었지만 지연으로 인해 1985년에야 상용화되었습니다. 그래픽과 사운드를 위한 맞춤형 ASIC과 더 큰 RAM을 지원하는 뱅크 스위칭 시스템이 특징입니다.</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>De Enterprise is een Zilog Z80‑gebaseerde homecomputer die in 1983 werd aangekondigd maar door vertragingen pas in 1985 commercieel beschikbaar was. Hij onderscheidt zich door custom ASICs voor graphics en geluid en bank‑switching om meer RAM te ondersteunen.</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>Enterprise to komputer domowy oparty na Zilog Z80, zapowiedziany w 1983, lecz z powodu opóźnień dostępny komercyjnie dopiero w 1985. Wyróżniał się użyciem układów ASIC do grafiki i dźwięku oraz systemem przełączania banków pamięci dla obsługi większej ilości RAM.</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>O Enterprise é um computador doméstico baseado no Zilog Z80 anunciado em 1983, mas devido a atrasos só esteve comercialmente disponível em 1985. Destaca‑se pelo uso de ASICs personalizados para gráficos e som e por um sistema de bank switching para suportar mais RAM.</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>Enterprise este un computer de uz casnic bazat pe Zilog Z80, anunţat în 1983, dar disponibil comercial abia în 1985 din cauza unor întârzieri. Se remarcă prin utilizarea de ASIC‑uri pentru grafică şi sunet şi printr‑un sistem de comutare a bancurilor de memorie pentru a suporta mai mult RAM.</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>Enterprise — это домашний компьютер на базе Zilog Z80, анонсированный в 1983 году, но ставший коммерчески доступен лишь в 1985 году из‑за задержек. Он выделялся использованием кастомных ASIC для графики и звука и системой переключения банков памяти для поддержки большего объёма RAM.</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>Enterprise је кућни рачунар заснован на Zilog Z80 најављен 1983, али комерцијално доступан тек 1985. због кашњења. Карактеришу га прилагођени ASIC‑ови за графику и звук и систем пребацивања банака меморије за подршку већег RAM‑а.</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>Enterprise är en Zilog Z80‑baserad hemdator som tillkännagavs 1983 men på grund av förseningar inte blev kommersiellt tillgänglig förrän 1985. Den utmärker sig genom special‑ASIC för grafik och ljud och bank‑switching för att stödja mer RAM.</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>Enterprise 是一款基于 Zilog Z80 的家用电脑，1983 年公布但因延期直到 1985 年才商业化发售。其特色包括用于图形和声音的定制 ASIC 以及支持更多 RAM 的银行切换系统。</systemDescription>
   </variables>
 </theme>

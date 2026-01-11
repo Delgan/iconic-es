@@ -9,57 +9,75 @@
     <systemCartSize>1-1</systemCartSize>
   </variables>
   <variables lang="ar">
+    <systemName>المحاكيات</systemName>
     <systemDescription>تعديل إعدادات المحاكي وتكويناته</systemDescription>
   </variables>
   <variables lang="bs">
+    <systemName>Emulatori</systemName>
     <systemDescription>Izmijenite svoje postavke i konfiguracije emulatora</systemDescription>
   </variables>
   <variables lang="ca">
+    <systemName>Emuladors</systemName>
     <systemDescription>Modifiqueu la configuració i les configuracions de l'emulador</systemDescription>
   </variables>
   <variables lang="de">
+    <systemName>Emulatoren</systemName>
     <systemDescription>Ändern Sie die Einstellungen und Konfigurationen Ihres Emulators</systemDescription>
   </variables>
   <variables lang="es">
+    <systemName>Emuladores</systemName>
     <systemDescription>Modificar los ajustes y configuraciones del emulador</systemDescription>
   </variables>
   <variables lang="fr">
+    <systemName>Émulateurs</systemName>
     <systemDescription>Modifier les paramètres et les configurations de l'émulateur</systemDescription>
   </variables>
   <variables lang="hr">
+    <systemName>Emulatori</systemName>
     <systemDescription>Izmijenite svoje postavke i konfiguracije emulatora</systemDescription>
   </variables>
   <variables lang="it">
+    <systemName>Emulatori</systemName>
     <systemDescription>Modificare le impostazioni e le configurazioni dell'emulatore</systemDescription>
   </variables>
   <variables lang="ja">
+    <systemName>エミュレータ</systemName>
     <systemDescription>エミュレータの設定と構成を変更する</systemDescription>
   </variables>
   <variables lang="ko">
+    <systemName>에뮬레이터</systemName>
     <systemDescription>에뮬레이터 설정 및 구성 수정하기</systemDescription>
   </variables>
   <variables lang="nl">
+    <systemName>Emulators</systemName>
     <systemDescription>De instellingen en configuraties van uw Emulator wijzigen</systemDescription>
   </variables>
   <variables lang="pl">
+    <systemName>Emulatory</systemName>
     <systemDescription>Modyfikacja ustawień i konfiguracji emulatora</systemDescription>
   </variables>
   <variables lang="pt">
+    <systemName>Emuladores</systemName>
     <systemDescription>Modificar as definições e configurações do emulador</systemDescription>
   </variables>
   <variables lang="ro">
+    <systemName>Emulatoare</systemName>
     <systemDescription>Modificați setările și configurațiile emulatorului dvs.</systemDescription>
   </variables>
   <variables lang="ru">
+    <systemName>Эмуляторы</systemName>
     <systemDescription>Изменение настроек и конфигураций эмулятора</systemDescription>
   </variables>
   <variables lang="sr">
+    <systemName>Емулатори</systemName>
     <systemDescription>Измените подешавања и конфигурације емулатора</systemDescription>
   </variables>
   <variables lang="sv">
+    <systemName>Emulatorer</systemName>
     <systemDescription>Ändra Emulator-inställningar och -konfigurationer</systemDescription>
   </variables>
   <variables lang="zh">
+    <systemName>模拟器</systemName>
     <systemDescription>修改模拟器设置和配置</systemDescription>
   </variables>
 </theme>

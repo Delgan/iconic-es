@@ -9,57 +9,75 @@
     <systemCartSize>1-1</systemCartSize>
   </variables>
   <variables lang="ar">
+    <systemName>الآن قيد التشغيل</systemName>
     <systemDescription>العب وأكمل الألعاب المتراكمة لديك.</systemDescription>
   </variables>
   <variables lang="bs">
+    <systemName>Sada Se Igra</systemName>
     <systemDescription>Igrajte i dovršite igre na svom zaostatku.</systemDescription>
   </variables>
   <variables lang="ca">
+    <systemName>Ara Jugant</systemName>
     <systemDescription>Juga i completa els jocs al back -back.</systemDescription>
   </variables>
   <variables lang="de">
+    <systemName>Jetzt Spielen</systemName>
     <systemDescription>Spiele und schließe die Spiele in deiner Warteschlange ab.</systemDescription>
   </variables>
   <variables lang="es">
+    <systemName>Jugando Ahora</systemName>
     <systemDescription>Juega y completa los juegos pendientes.</systemDescription>
   </variables>
   <variables lang="fr">
+    <systemName>En Cours</systemName>
     <systemDescription>Jouez et terminez les jeux de votre carnet de commandes.</systemDescription>
   </variables>
   <variables lang="hr">
+    <systemName>Sada Se Igra</systemName>
     <systemDescription>Igrajte i dovršite igre na zaostatku.</systemDescription>
   </variables>
   <variables lang="it">
+    <systemName>In Riproduzione</systemName>
     <systemDescription>Giocate e completate i giochi in arretrato.</systemDescription>
   </variables>
   <variables lang="ja">
+    <systemName>プレイ中</systemName>
     <systemDescription>バックログにあるゲームをプレイしてクリアする。</systemDescription>
   </variables>
   <variables lang="ko">
+    <systemName>지금 플레이 중</systemName>
     <systemDescription>백로그에 있는 게임을 플레이하고 완료하세요.</systemDescription>
   </variables>
   <variables lang="nl">
+    <systemName>Nu Spelen</systemName>
     <systemDescription>Speel en voltooi de games in je achterstand.</systemDescription>
   </variables>
   <variables lang="pl">
+    <systemName>Aktualnie Grane</systemName>
     <systemDescription>Graj i ukończ gry z listy zaległości.</systemDescription>
   </variables>
   <variables lang="pt">
+    <systemName>A Jogar Agora</systemName>
     <systemDescription>Jogue e conclua os jogos em sua lista de pendências.</systemDescription>
   </variables>
   <variables lang="ro">
+    <systemName>În Curs</systemName>
     <systemDescription>Joacă și finalizează jocurile din portofoliul tău.</systemDescription>
   </variables>
   <variables lang="ru">
+    <systemName>Сейчас Играю</systemName>
     <systemDescription>Играйте и завершайте игры, находящиеся в вашем запасе.</systemDescription>
   </variables>
   <variables lang="sr">
+    <systemName>У Току</systemName>
     <systemDescription>Играјте и довршите игре на заостатку.</systemDescription>
   </variables>
   <variables lang="sv">
+    <systemName>Spelas Nu</systemName>
     <systemDescription>Spela och slutför spelen i din backlog.</systemDescription>
   </variables>
   <variables lang="zh">
+    <systemName>正在游玩</systemName>
     <systemDescription>玩并完成积压的游戏。</systemDescription>
   </variables>
 </theme>

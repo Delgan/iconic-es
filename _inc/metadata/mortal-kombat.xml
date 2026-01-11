@@ -10,8 +10,59 @@ The series has a reputation for high levels of graphic violence, including, most
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
+  <variables lang="ar">
+    <systemDescription>Mortal Kombat هي سلسلة ألعاب قتال أمريكية ابتداءً من لعبة الأركيد 1992 التي طورتها Midway. تشتهر السلسلة بعنفها الرسومي وحركات الانتهاء (fatalities). لاحقاً استحوذت Warner Bros على حقوق تطوير السلسلة.</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>Mortal Kombat je američki medijski serijal zasnovan na borbenim videoigrama, započet 1992. razvojem u Midway Games. Serijal je poznat po grafičkoj nasilnosti i 'fatality' potezima. Kasnije je prava preuzela Warner Bros.</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>Mortal Kombat és una franquícia nord-americana de jocs de lluita iniciada amb l'arcade de 1992 desenvolupat per Midway. La sèrie és coneguda pels seus nivells de violència gràfica i pels moviments 'fatality'. Posteriorment Warner Bros va adquirir la franquícia.</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemDescription>Mortal Kombat ist ein US‑amerikanisches Medienfranchise rund um eine Reihe von Prügelspielen, die 1992 von Midway entwickelt wurden. Die Serie ist für ihre grafische Gewalt und die 'Fatalities' bekannt. Später übernahm Warner Bros. die Rechte.</systemDescription>
+  </variables>
   <variables lang="es">
     <systemDescription>Mortal Kombat (comúnmente abreviado MK) es una franquicia de videojuegos de lucha uno contra uno creada por Ed Boon y John Tobias en 1992. Las cuatro primeras entregas fueron distribuidas por Midway Games y lanzadas principalmente en máquinas arcade; posteriormente estuvieron disponibles en consolas domésticas.
 Los títulos de arcade fueron comprados más tarde por Acclaim Entertainment para las consolas caseras de esa época. La franquicia fue adquirida por Warner Bros en julio de 2009 y se convirtió en una parte de la Warner Bros. Interactive Entertainment.</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>Mortal Kombat est une franchise américaine centrée sur une série de jeux de combat, initialement développée par Midway en 1992. La série est connue pour son niveau élevé de violence graphique, notamment les 'fatalities'. Warner Bros a ensuite repris la licence.</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>Mortal Kombat je američka franšiza usredotočena na seriju borbenih videoigara, izvorno razvijenu 1992. u Midway Games. Serija je poznata po grafičkom nasilju i 'fatality' završnim potezima. Kasnije su prava preuzeli Warner Bros.</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemDescription>Mortal Kombat è un franchise statunitense incentrato su una serie di picchiaduro, originariamente sviluppata da Midway nel 1992. La serie è nota per i suoi elevati livelli di violenza grafica e per le 'fatalities'. Successivamente i diritti sono passati a Warner Bros.</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>Mortal Kombatは、1992年にMidwayが開発した対戦格闘ゲームを中心とするアメリカのメディアフランチャイズです。シリーズは残虐表現やフィニッシュ技（フェイタリティ）で知られ、後にWarner Bros.が権利を取得しました。</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>Mortal Kombat는 1992년 Midway가 개발한 대전 격투 게임을 중심으로 한 미국 미디어 프랜차이즈입니다. 이 시리즈는 잔혹한 그래픽과 '페이탈리티'로 유명하며, 이후 워너 브라더스가 권리를 인수했습니다.</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>Mortal Kombat is een Amerikaanse mediafranchise rond een serie vechtspellen, oorspronkelijk ontwikkeld door Midway in 1992. De serie staat bekend om zijn grafisch geweld en 'fatalities'. Later werden de rechten overgenomen door Warner Bros.</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>Mortal Kombat to amerykańska franczyza medialna skoncentrowana na serii gier walki, pierwotnie rozwinięta przez Midway w 1992 roku. Seria jest znana z dużego poziomu przemocy graficznej i 'fatalities'. Później prawa przejęło Warner Bros.</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>Mortal Kombat é uma franquia de média americana centrada numa série de jogos de luta, originalmente desenvolvida pela Midway em 1992. A série é conhecida pelos seus níveis elevados de violência gráfica, incluindo as 'fatalities'. Mais tarde, a Warner Bros adquiriu os direitos.</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>Mortal Kombat este o franciză americană concentrată pe o serie de jocuri de lupte, iniţial dezvoltate de Midway în 1992. Seria este cunoscută pentru nivelurile ridicate de violenţă grafică şi pentru 'fatalities'. Drepturile au fost ulterior preluate de Warner Bros.</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>Mortal Kombat — американская медиа‑франшиза, основанная на серии файтинг‑игр, первоначально разработанных Midway в 1992 году. Серия известна высоким уровнем графического насилия и «фаталити». Позднее права перешли к Warner Bros.</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>Mortal Kombat је америчка медијска франшиза заснована на серији борбених видео игара изворно развијених од Midway 1992. године. Серija је позната по графичком насиљу и 'фeиталити' покретима. Права је касније преузео Warner Bros.</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>Mortal Kombat är en amerikansk mediavärld centrerad kring en serie fighting‑spel, ursprungligen utvecklad av Midway 1992. Serien är känd för hög grad av grafiskt våld, i synnerhet 'fatalities'. Rättigheterna togs senare över av Warner Bros.</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>真人快打（Mortal Kombat）是一个美国媒体系列，始于 1992 年 Midway 开发的格斗类电子游戏。该系列以高度的暴力画面和终结技（fatalities）闻名，后由华纳兄弟收购权利。</systemDescription>
   </variables>
 </theme>
