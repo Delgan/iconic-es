@@ -8,4 +8,58 @@
     <systemCoverSize>3-4</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
+  <variables lang="ar">
+    <systemDescription>لوحة ألعاب الأركيد Sega Model 1 صدرت من Sega في عام 1992 وهي الخلف لـ Sega System 32 (1990). بينما كانت أجهزة Sega السابقة قادرة على التعامل مع مضلعات ثلاثية الأبعاد، كان Model 1 أول جهاز مصمم خصيصاً لرسوميات المضلعات ثلاثية الأبعاد.</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>Sega Model 1 je arcade ploča koju je Sega izdala 1992. i nasljednik je Sega System 32 (1990). Dok su raniji Sega hardveri bili sposobni za rad s 3D poligonima, Model 1 je bio prvi hardver tvrtke posebno dizajniran za 3D poligonsku grafiku.</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>La placa d'arcade Sega Model 1 va ser llançada per Sega el 1992 i és la successora de la Sega System 32 (1990). Mentre l'hardware anterior de Sega podia manejar polígons 3D, el Model 1 va ser el primer maquinari de Sega dissenyat específicament per a gràfics de polígons 3D.</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemDescription>Das Sega Model 1 ist eine Arcade-Systemplatine, die Sega 1992 herausbrachte und der Nachfolger des Sega System 32 (1990) ist. Während frühere Sega-Hardware bereits 3D-Polygone verarbeiten konnte, war das Model 1 Segas erste Hardware, die speziell für 3D-Polygon-Grafik ausgelegt war.</systemDescription>
+  </variables>
+  <variables lang="es">
+    <systemDescription>La placa arcade Sega Model 1 fue lanzada por Sega en 1992 y es la sucesora de la Sega System 32 (1990). Mientras que el hardware anterior de Sega podía manejar polígonos 3D, el Model 1 fue el primer hardware de Sega específicamente diseñado para gráficos de polígonos 3D.</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>La carte arcade Sega Model 1 est sortie chez Sega en 1992 et succède à la Sega System 32 (1990). Alors que le matériel Sega précédent était capable de gérer des polygones 3D, le Model 1 fut le premier matériel de Sega spécifiquement conçu pour les graphiques polygonaux 3D.</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>Sega Model 1 je arkadna ploča koju je Sega izdala 1992. i nasljednik je Sega System 32 (1990). Dok je raniji Sega hardver mogao prikazivati 3D poligone, Model 1 je bio prvi hardver tvrtke posebno dizajniran za 3D poligonsku grafiku.</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemDescription>La scheda arcade Sega Model 1 è stata rilasciata da Sega nel 1992 ed è la successore della Sega System 32 (1990). Mentre l'hardware Sega precedente era in grado di gestire poligoni 3D, il Model 1 è stato il primo hardware di Sega progettato specificamente per la grafica a poligoni 3D.</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>Sega Model 1 は 1992 年に Sega がリリースしたアーケード基板で、Sega System 32（1990 年）の後継機です。以前の Sega ハードウェアが 3D ポリゴンを扱うことができた一方で、Model 1 は 3D ポリゴングラフィックス専用に設計された Sega 初のハードウェアでした。</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>Sega Model 1은 1992년 Sega에서 출시한 아케이드 시스템 보드로, Sega System 32(1990)의 후속 모델입니다. 이전의 Sega 하드웨어도 3D 폴리곤을 처리할 수 있었지만, Model 1은 3D 폴리곤 그래픽을 위해 특별히 설계된 Sega의 첫 하드웨어였습니다。</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>De Sega Model 1 is een arcade-systeemkaart die in 1992 door Sega werd uitgebracht en de opvolger is van de Sega System 32 (1990). Terwijl eerdere Sega-hardware 3D-polygons kon verwerken, was de Model 1 Segas eerste hardware die specifiek voor 3D-polygonengrafiek was ontworpen.</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>Sega Model 1 to arkadowa płyta systemowa wydana przez Segę w 1992 roku, będąca następcą Sega System 32 (1990). Podczas gdy wcześniejszy sprzęt Segi potrafił obsługiwać trójwymiarowe wielokąty, Model 1 był pierwszym sprzętem Segi zaprojektowanym specjalnie do grafiki 3D opartej na poligonach.</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>A Sega Model 1 é uma placa de sistema arcade lançada pela Sega em 1992 e é a sucessora da Sega System 32 (1990). Enquanto o hardware anterior da Sega era capaz de lidar com polígonos 3D, o Model 1 foi o primeiro hardware da Sega especificamente projetado para gráficos de polígonos 3D.</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>Sega Model 1 este o board arcade lansat de Sega în 1992 și este succesorul Sega System 32 (1990). În timp ce hardware-ul Sega anterior putea gestiona poligoane 3D, Model 1 a fost primul hardware Sega proiectat special pentru grafica cu poligoane 3D.</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>Sega Model 1 — аркадная системная плата, выпущенная Sega в 1992 году, ставшая преемницей Sega System 32 (1990). В то время как более раннее оборудование Sega могло работать с 3D-полигонами, Model 1 был первым оборудованием Sega, специально разработанным для отображения 3D-полигональной графики.</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>Sega Model 1 је аркадна плоча коју је Sega објавила 1992. године и наследник је Sega System 32 (1990). Док је ранији Sega хардвер могао руковати 3D полигонима, Model 1 је био први хардвер компаније посебно дизајниран за 3D полигонску графику.</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>Sega Model 1 är ett arkadsystemkort som släpptes av Sega 1992 och är efterföljaren till Sega System 32 (1990). Medan tidigare Sega-hårdvara kunde hantera 3D-polygona, var Model 1 Segas första hårdvara som specifikt utformats för 3D-polygongrafik.</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>Sega Model 1 是世嘉在 1992 年推出的街机系统主板，是 Sega System 32（1990 年）的继任者。虽然早期的世嘉硬件已能处理 3D 多边形，但 Model 1 是世嘉首款专门为 3D 多边形图形设计的硬件。</systemDescription>
+  </variables>
 </theme>

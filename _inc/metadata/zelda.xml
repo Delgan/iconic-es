@@ -8,4 +8,58 @@
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
+  <variables lang="ar">
+    <systemDescription>عرض ولعب ألعاب The Legend of Zelda الموجودة في مجموعتك.</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>Pogledajte i igrajte Zelda igre iz vaše kolekcije.</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>Visualitza i juga als jocs de The Legend of Zelda de la teva col·lecció.</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemDescription>Zeige und spiele die Zelda-Spiele in deiner Sammlung.</systemDescription>
+  </variables>
+  <variables lang="es">
+    <systemDescription>Ver y jugar los juegos de The Legend of Zelda de tu colección.</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>Consultez et jouez aux jeux The Legend of Zelda de votre collection.</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>Pogledajte i igrajte Zelda igre iz vaše kolekcije.</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemDescription>Visualizza e gioca ai giochi di The Legend of Zelda nella tua collezione.</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>コレクションにあるゼルダシリーズのゲームを表示してプレイします。</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>컬렉션에 있는 젤다 시리즈 게임을 보고 플레이하세요.</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>Bekijk en speel de The Legend of Zelda-spellen in je collectie.</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>Przeglądaj i graj w gry z serii The Legend of Zelda z twojej kolekcji.</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>Veja e jogue os jogos The Legend of Zelda da sua coleção.</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>Vizualizați și jucați jocurile The Legend of Zelda din colecția dvs.</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>Просматривайте и играйте в игры The Legend of Zelda из вашей коллекции.</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>Прегледајте и играјте Zelda игре из ваше колекције.</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>Visa och spela The Legend of Zelda-spelen i din samling.</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>查看并游玩您收藏中的《塞尔达传说》系列游戏。</systemDescription>
+  </variables>
 </theme>
