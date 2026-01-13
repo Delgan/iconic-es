@@ -7,7 +7,16 @@ It should be visible from all views and z-rendered above the bottom bar.
     <formatVersion>7</formatVersion>
     <view name="screen">
         <controllerActivity name="controllerActivity">
-            <visible>false</visible>
+           <pos>0.01 0.012</pos>
+           <size>0.185 0.023</size>
+           <itemSpacing>0.003</itemSpacing>
+           <color>${helpIconColor}</color>
+           <!-- controllers -->
+           <imagePath>./_inc/icons/gamepad.svg</imagePath>
+           <gunPath>./_inc/icons/gun.svg</gunPath>
+           <wheelPath>./_inc/icons/wheel.svg</wheelPath>
+           <activityColor>A0A0FFC0</activityColor>
+           <hotkeyColor>FFA0A0C0</hotkeyColor>
         </controllerActivity>
         <batteryIndicator name="batteryIndicator">
             <visible>false</visible>
@@ -53,6 +62,6 @@ It should be visible from all views and z-rendered above the bottom bar.
                 <networkIcon>./_inc/icons/network-icon-on.svg</networkIcon>
                 <planemodeIcon>./_inc/icons/network-icon-off.svg</planemodeIcon>
             </networkIcon>
-        </stackpanel>
+       </stackpanel>
     </view>
 </theme>
