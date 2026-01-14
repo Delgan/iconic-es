@@ -32,7 +32,15 @@ def _clear_folder(folder_path: Path):
             os.remove(file)
 
 
-def _parse_system_metadata(file: Path):
+def _substitute_variables(text: str, variables: dict[str, str]):
+    # We can't use `string.Template` because it does not support "." in variable names.
+    for key, value in variables.items():
+        placeholder = f"${{{key}}}"
+        text = text.replace(placeholder, value)
+    return text
+
+
+def _parse_system_metadata(file: Path, substitution_variables: dict[str, str]):
     tree = ElementTree.parse(file)
     root = tree.getroot()
 
@@ -48,7 +56,7 @@ def _parse_system_metadata(file: Path):
         if node.text is None:
             raise ValueError(f"Empty {name} node in {file}")
 
-        return node.text
+        return _substitute_variables(node.text, substitution_variables)
 
     return SystemMetadata(
         identifier=file.stem,
@@ -60,6 +68,21 @@ def _parse_system_metadata(file: Path):
         cover_size=get_variable_value("systemCoverSize"),
         cart_size=get_variable_value("systemCartSize"),
     )
+
+
+def _read_substitution_variables(lang_file: Path):
+    tree = ElementTree.parse(lang_file)
+    root = tree.getroot()
+
+    variables_node = root.find("variables")
+    if variables_node is None:
+        raise ValueError(f"Missing variables node in {lang_file}")
+
+    variables = {}
+    for node in variables_node:
+        variables[node.tag] = node.text
+
+    return variables
 
 
 def _make_system_node(system_metadata: SystemMetadata, roms_path: Path):
@@ -273,11 +296,14 @@ if __name__ == "__main__":
 
     workspace = Path(__file__).resolve().parent.parent
     metadata = workspace / "_inc" / "metadata"
+    theme_lang = workspace / "_inc" / "ui-components" / "theme-lang.xml"
 
     collections = [
         line.strip()
         for line in (workspace / "collections.info").read_text().splitlines()
     ]
+
+    i18n_variables = _read_substitution_variables(theme_lang)
 
     config_tree = ElementTree.ElementTree(ElementTree.Element("systemList"))
     config_root = config_tree.getroot()
@@ -293,7 +319,7 @@ if __name__ == "__main__":
         if system.name == "_builtin.xml":
             continue
 
-        system_metadata = _parse_system_metadata(system)
+        system_metadata = _parse_system_metadata(system, i18n_variables)
 
         if _is_collection(system_metadata, collections):
             continue
