@@ -9,7 +9,9 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
     <formatVersion>7</formatVersion>
     <!-- The "en" lang is always included first, it acts as the default fallback. -->
     <variables>
-        <!-- Values used in the UI. -->
+        <!-- Default description for when the system is unknown. -->
+        <systemDescription>View and play ${system.fullName}.</systemDescription>
+        <!-- Values used in the UI for theme configuration. -->
         <i18n.aspect-ratio>Aspect Ratio</i18n.aspect-ratio>
         <i18n.automatic>Automatic</i18n.automatic>
         <i18n.color-scheme>Color Scheme</i18n.color-scheme>
@@ -29,7 +31,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.smooth-resize>Smooth Resize</i18n.smooth-resize>
         <i18n.distribution>Distribution</i18n.distribution>
         <i18n.none>None</i18n.none>
-        <!-- Values used in the metadata. -->
+        <!-- Values used in the systems metadata. -->
         <i18n.various>Various</i18n.various>
         <i18n.auto-collection>Auto Collection</i18n.auto-collection>
         <i18n.custom-collection>Custom Collection</i18n.custom-collection>
@@ -48,6 +50,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
     </variables>
     <!-- Following variables will overwrite the default ones if the "lang" matches. -->
     <variables lang="ar">
+        <systemDescription>عرض ولعب ${system.fullName}.</systemDescription>
         <i18n.aspect-ratio>نسبة العرض إلى الارتفاع</i18n.aspect-ratio>
         <i18n.automatic>تلقائي</i18n.automatic>
         <i18n.color-scheme>نظام الألوان</i18n.color-scheme>
@@ -82,6 +85,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.hardware-os>نظام التشغيل</i18n.hardware-os>
     </variables>
     <variables lang="bs">
+        <systemDescription>Pogledajte i igrajte ${system.fullName}.</systemDescription>
         <i18n.aspect-ratio>Omjer slike</i18n.aspect-ratio>
         <i18n.automatic>Automatski</i18n.automatic>
         <i18n.color-scheme>Šema boja</i18n.color-scheme>
@@ -116,6 +120,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.hardware-os>OS</i18n.hardware-os>
     </variables>
     <variables lang="ca">
+        <systemDescription>Veure i jugar a ${system.fullName}.</systemDescription>
         <i18n.aspect-ratio>Relació d'aspecte</i18n.aspect-ratio>
         <i18n.automatic>Automàtic</i18n.automatic>
         <i18n.color-scheme>Esquema de color</i18n.color-scheme>
@@ -150,6 +155,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.hardware-os>OS</i18n.hardware-os>
     </variables>
     <variables lang="de">
+        <systemDescription>Ansehen und spielen ${system.fullName}.</systemDescription>
         <i18n.aspect-ratio>Seitenverhältnis</i18n.aspect-ratio>
         <i18n.automatic>Automatisch</i18n.automatic>
         <i18n.color-scheme>Farbschema</i18n.color-scheme>
@@ -184,6 +190,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.hardware-os>OS</i18n.hardware-os>
     </variables>
     <variables lang="es">
+        <systemDescription>Ver y jugar a ${system.fullName}.</systemDescription>
         <i18n.aspect-ratio>Relación de aspecto</i18n.aspect-ratio>
         <i18n.automatic>Automaticó</i18n.automatic>
         <i18n.color-scheme>Esquema de color</i18n.color-scheme>
@@ -218,6 +225,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.hardware-os>OS</i18n.hardware-os>
     </variables>
     <variables lang="fr">
+        <systemDescription>Voir et jouer à ${system.fullName}.</systemDescription>
         <i18n.aspect-ratio>Rapport d'aspect</i18n.aspect-ratio>
         <i18n.automatic>Automatique</i18n.automatic>
         <i18n.color-scheme>Jeu de couleurs</i18n.color-scheme>
@@ -252,6 +260,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.hardware-os>OS</i18n.hardware-os>
     </variables>
     <variables lang="hr">
+        <systemDescription>Pogledajte i igrajte ${system.fullName}.</systemDescription>
         <i18n.aspect-ratio>Omjer slike</i18n.aspect-ratio>
         <i18n.automatic>Automatski</i18n.automatic>
         <i18n.color-scheme>Shema boja</i18n.color-scheme>
@@ -286,6 +295,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.hardware-os>OS</i18n.hardware-os>
     </variables>
     <variables lang="it">
+        <systemDescription>Visualizza e gioca ${system.fullName}.</systemDescription>
         <i18n.aspect-ratio>Rapporto d'aspetto</i18n.aspect-ratio>
         <i18n.automatic>Automatico</i18n.automatic>
         <i18n.color-scheme>Schema colore</i18n.color-scheme>
@@ -320,6 +330,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.hardware-os>OS</i18n.hardware-os>
     </variables>
     <variables lang="nl">
+        <systemDescription>Bekijk en speel ${system.fullName}.</systemDescription>
         <i18n.aspect-ratio>Beeldverhouding</i18n.aspect-ratio>
         <i18n.automatic>Automatisch</i18n.automatic>
         <i18n.color-scheme>Kleurenschema</i18n.color-scheme>
@@ -353,6 +364,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.hardware-os>OS</i18n.hardware-os>
     </variables>
     <variables lang="ja">
+        <systemDescription>${system.fullName}を表示してプレイする。</systemDescription>
         <i18n.aspect-ratio>アスペクト比</i18n.aspect-ratio>
         <i18n.automatic>自動</i18n.automatic>
         <i18n.color-scheme>カラースキーム</i18n.color-scheme>
@@ -387,6 +399,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.hardware-os>OS</i18n.hardware-os>
     </variables>
     <variables lang="ko">
+        <systemDescription>${system.fullName}을(를) 보고 플레이하세요.</systemDescription>
         <i18n.aspect-ratio>화면 비율</i18n.aspect-ratio>
         <i18n.automatic>자동</i18n.automatic>
         <i18n.color-scheme>색 구성표</i18n.color-scheme>
@@ -421,6 +434,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.hardware-os>OS</i18n.hardware-os>
     </variables>
     <variables lang="pl">
+        <systemDescription>Wyświetl i graj ${system.fullName}.</systemDescription>
         <i18n.aspect-ratio>Proporcje obrazu</i18n.aspect-ratio>
         <i18n.automatic>Automatyczny</i18n.automatic>
         <i18n.color-scheme>Schemat kolorów</i18n.color-scheme>
@@ -455,6 +469,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.hardware-os>OS</i18n.hardware-os>
     </variables>
     <variables lang="pt">
+        <systemDescription>Visualize e jogue ${system.fullName}.</systemDescription>
         <i18n.aspect-ratio>Proporção de aspecto</i18n.aspect-ratio>
         <i18n.automatic>Automático</i18n.automatic>
         <i18n.color-scheme>Esquema de cores</i18n.color-scheme>
@@ -489,6 +504,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.hardware-os>SO</i18n.hardware-os>
     </variables>
     <variables lang="ro">
+        <systemDescription>Vizualizați și jucați ${system.fullName}.</systemDescription>
         <i18n.aspect-ratio>Raport de aspect</i18n.aspect-ratio>
         <i18n.automatic>Automat</i18n.automatic>
         <i18n.color-scheme>Schemă de culori</i18n.color-scheme>
@@ -522,6 +538,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.hardware-os>SO</i18n.hardware-os>
     </variables>
     <variables lang="ru">
+        <systemDescription>Просмотреть и играть в ${system.fullName}.</systemDescription>
         <i18n.aspect-ratio>Соотношение сторон</i18n.aspect-ratio>
         <i18n.automatic>Автоматически</i18n.automatic>
         <i18n.color-scheme>Цветовая схема</i18n.color-scheme>
@@ -556,6 +573,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.hardware-os>OS</i18n.hardware-os>
     </variables>
     <variables lang="sr">
+        <systemDescription>Погледајте и играјте ${system.fullName}.</systemDescription>
         <i18n.aspect-ratio>Однос слике</i18n.aspect-ratio>
         <i18n.automatic>Аутоматски</i18n.automatic>
         <i18n.color-scheme>Шема боја</i18n.color-scheme>
@@ -590,6 +608,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.hardware-os>Ос</i18n.hardware-os>
     </variables>
     <variables lang="sv">
+        <systemDescription>Visa och spela ${system.fullName}.</systemDescription>
         <i18n.aspect-ratio>Bildförhållande</i18n.aspect-ratio>
         <i18n.automatic>Automatisk</i18n.automatic>
         <i18n.color-scheme>Färgschema</i18n.color-scheme>
@@ -624,6 +643,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.hardware-os>Mapp</i18n.hardware-os>
     </variables>
     <variables lang="zh">
+        <systemDescription>查看并游玩 ${system.fullName}。</systemDescription>
         <i18n.aspect-ratio>宽高比</i18n.aspect-ratio>
         <i18n.automatic>自动</i18n.automatic>
         <i18n.color-scheme>配色方案</i18n.color-scheme>
