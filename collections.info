@@ -1,3 +1,10 @@
+# This file is used to declare the custom collections supported by the theme.
+# User's collections present in this list will gain their own system view instead
+# of being bundled in a generic "Custom Collections" group.
+# Built-in collections do not need to be listed here, but I'm adding them for
+# completeness and easier reference.
+# Note also that using a space as delimiter is required: it permits EmulationStation
+# to automatically populate the list of games based on the collection's name.
 now-playing
 completed
 zelda
@@ -8,3 +15,10 @@ castlevania
 final fantasy
 mega man
 mortal kombat
+# Built-in collections follows.
+arcade
+auto-allgames
+auto-favorites
+auto-lastplayed
+auto-neverplayed
+custom-collections
