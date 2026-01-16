@@ -1,7 +1,9 @@
 <theme>
   <variables>
     <systemName>Pokémon</systemName>
-    <systemDescription>View and play the Pokémon Games in your collection.</systemDescription>
+    <systemDescription>The Pokémon video game franchise, also referred to as a video game called Pokémon, consists of role-playing video games developed primarily by Game Freak and sold for Nintendo handheld consoles.
+
+The series is divided into generations, which are groups of games released during a certain period of time and that share a number of similar characteristics, specifically the characters, the creatures (Pokémon) and the region where the story takes place. These generations usually correspond to the generations of the consoles.</systemDescription>
     <systemManufacturer>Nintendo</systemManufacturer>
     <systemReleaseYear>${i18n.various}</systemReleaseYear>
     <systemHardwareType>${i18n.custom-collection}</systemHardwareType>
@@ -9,59 +11,93 @@
     <systemCartSize>1-1</systemCartSize>
   </variables>
   <variables lang="ar">
-    <systemDescription>عرض ولعب ألعاب بوكيمون الموجودة في مجموعتك.</systemDescription>
+    <systemDescription>سلسلة ألعاب فيديو بوكيمون، والمعروفة أيضاً بلعبة فيديو تُدعى بوكيمون، تتألف من ألعاب تقمص أدوار تُطوَّر في المقام الأول بواسطة Game Freak وتُباع لأجهزة نينتندو المحمولة.
+
+تنقسم السلسلة إلى أجيال، وهي مجموعات من الألعاب التي صدرت خلال فترة زمنية معينة وتشارك عدداً من الخصائص المماثلة، وتحديداً الشخصيات والمخلوقات (بوكيمون) والمنطقة التي تدور فيها القصة. عادةً ما تتوافق هذه الأجيال مع أجيال الأجهزة.</systemDescription>
   </variables>
   <variables lang="bs">
-    <systemDescription>Pogledajte i igrajte Pokémon igre iz vaše kolekcije.</systemDescription>
+    <systemDescription>Franšiza videoigara Pokémon, također nazivana videoigrom Pokémon, sastoji se od igara u žanru role‑playing koje prvenstveno razvija Game Freak i koje se prodaju za Nintendo prijenosne konzole.
+
+Serija je podijeljena na generacije, koje su skupine igara objavljene u određenom vremenskom razdoblju i koje dijele niz sličnih karakteristika, konkretno likove, stvorenja (Pokémon) i regiju u kojoj se odvija priča. Te generacije obično odgovaraju generacijama konzola.</systemDescription>
   </variables>
   <variables lang="ca">
-    <systemDescription>Visualitza i juga als jocs de Pokémon de la teva col·lecció.</systemDescription>
+    <systemDescription>La franquícia de videojocs Pokémon, també referida com a videojoc anomenat Pokémon, està composta per jocs de rol desenvolupats principalment per Game Freak i venuts per a consoles portàtils de Nintendo.
+
+La sèrie es divideix en generacions, que són grups de videojocs llançats durant un període determinat i que comparteixen una sèrie de característiques similars, concretament els personatges, les criatures (Pokémon) i la regió on té lloc la història. Aquestes generacions solen correspondre's amb les generacions de les consoles.</systemDescription>
   </variables>
   <variables lang="de">
-    <systemDescription>Zeige und spiele die Pokémon-Spiele in deiner Sammlung.</systemDescription>
+    <systemDescription>Die Videospiel‑Franchise Pokémon, auch als Videospiel namens Pokémon bezeichnet, besteht aus Rollenspielen, die hauptsächlich von Game Freak entwickelt und für tragbare Konsolen von Nintendo verkauft werden.
+
+Die Serie ist in Generationen unterteilt, das sind Gruppen von Spielen, die in einem bestimmten Zeitraum veröffentlicht wurden und eine Reihe ähnlicher Merkmale teilen, insbesondere die Charaktere, die Kreaturen (Pokémon) und die Region, in der die Geschichte stattfindet. Diese Generationen entsprechen meist den Konsolengenerationen.</systemDescription>
   </variables>
   <variables lang="es">
-    <systemDescription>La franquicia de videojuegos de Pokémon, también referida como un videojuego llamado Pokémon, son videojuegos de rol desarrollados principalmente por Game Freak y vendido para videoconsolas portátiles de Nintendo.
+    <systemDescription>La franquicia de videojuegos de Pokémon, también referida como un videojuego llamado Pokémon, son videojuegos de rol desarrollados principalmente por Game Freak y vendidos para videoconsolas portátiles de Nintendo.
 
-La serie se divide en generaciones las cuales son los grupos de videojuegos lanzados en un cierto período de tiempo y que comparten una serie de características similares, concretamente los personajes, las criaturas (Pokémon) y la región donde se sucede la historia. Estas generaciones suelen corresponderse con las generaciones de las consolas.</systemDescription>
+La serie se divide en generaciones, las cuales son los grupos de videojuegos lanzados en un cierto período de tiempo y que comparten una serie de características similares, concretamente los personajes, las criaturas (Pokémon) y la región donde se sucede la historia. Estas generaciones suelen corresponderse con las generaciones de las consolas.</systemDescription>
   </variables>
   <variables lang="fr">
-    <systemDescription>Consultez et jouez aux jeux Pokémon de votre collection.</systemDescription>
+    <systemDescription>La franchise de jeux vidéo Pokémon, également désignée par un jeu vidéo appelé Pokémon, se compose de jeux de rôle développés principalement par Game Freak et commercialisés sur les consoles portables de Nintendo.
+
+La série est divisée en générations, qui sont des groupes de jeux publiés sur une certaine période et partageant un ensemble de caractéristiques similaires, notamment les personnages, les créatures (Pokémon) et la région où se déroule l'histoire. Ces générations correspondent généralement aux générations de consoles.</systemDescription>
   </variables>
   <variables lang="hr">
-    <systemDescription>Pogledajte i igrajte Pokémon igre iz vaše kolekcije.</systemDescription>
+    <systemDescription>Franchise videoigara Pokémon, također poznata kao igra pod nazivom Pokémon, sastoji se od RPG igara koje prvenstveno razvija Game Freak i koje se prodaju za prijenosne konzole tvrtke Nintendo.
+
+Serija je podijeljena na generacije, koje su skupine igara izdane tijekom određenog vremenskog razdoblja i koje dijele niz sličnih značajki, točnije likove, stvorenja (Pokémon) i regiju u kojoj se priča odvija. Te se generacije obično podudaraju s generacijama konzola.</systemDescription>
   </variables>
   <variables lang="it">
-    <systemDescription>Visualizza e gioca ai giochi di Pokémon nella tua collezione.</systemDescription>
+    <systemDescription>La serie di videogiochi Pokémon, talvolta riferita anche al videogioco chiamato Pokémon, è composta da giochi di ruolo sviluppati principalmente da Game Freak e venduti per le console portatili di Nintendo.
+
+La serie è suddivisa in generazioni, che sono gruppi di giochi pubblicati in un determinato periodo di tempo e che condividono una serie di caratteristiche simili, in particolare i personaggi, le creature (Pokémon) e la regione in cui si svolge la storia. Queste generazioni solitamente corrispondono alle generazioni delle console.</systemDescription>
   </variables>
   <variables lang="ja">
-    <systemDescription>コレクションにあるポケモンのゲームを表示してプレイします。</systemDescription>
+    <systemDescription>「ポケモン」シリーズのビデオゲームフランチャイズは、単に「ポケモン」と呼ばれることもあり、主にGame Freakによって開発され、任天堂の携帯型ゲーム機向けに販売されているロールプレイングゲームのシリーズです。
+
+シリーズは世代に分かれており、それぞれの世代はある期間に発売されたゲーム群で、登場人物、クリーチャー（ポケモン）、そして物語が展開する地域といった類似した特徴を共有します。これらの世代は通常、ハードウェアの世代に対応しています。</systemDescription>
   </variables>
   <variables lang="ko">
-    <systemDescription>컬렉션에 있는 포켓몬 게임을 보고 플레이하세요.</systemDescription>
+    <systemDescription>포켓몬 비디오게임 프랜차이즈(또는 단순히 '포켓몬'이라는 이름의 비디오게임)는 주로 Game Freak에서 개발하고 닌텐도의 휴대용 콘솔용으로 판매되는 롤플레잉 비디오게임 시리즈입니다。
+
+이 시리즈는 세대(generation)로 나뉘며, 각 세대는 특정 기간 동안 출시된 게임 그룹으로서 등장인물, 생물(포켓몬) 및 이야기의 무대가 되는 지역 등 여러 유사한 특징을 공유합니다. 이러한 세대는 보통 콘솔 세대와 대응합니다。</systemDescription>
   </variables>
   <variables lang="nl">
-    <systemDescription>Bekijk en speel de Pokémon-spellen in je collectie.</systemDescription>
+    <systemDescription>De Pokémon‑videogamefranchise, ook wel aangeduid met een videospel genaamd Pokémon, bestaat uit role‑playing videogames die voornamelijk door Game Freak worden ontwikkeld en voor Nintendo‑handhelds worden verkocht.
+
+De serie is verdeeld in generaties; dit zijn groepen spellen die in een bepaalde periode zijn uitgebracht en een aantal vergelijkbare kenmerken delen, met name de personages, de wezens (Pokémon) en de regio waar het verhaal zich afspeelt. Deze generaties komen meestal overeen met de generaties van de consoles.</systemDescription>
   </variables>
   <variables lang="pl">
-    <systemDescription>Przeglądaj i graj w gry Pokémon z twojej kolekcji.</systemDescription>
+    <systemDescription>Franczyza gier wideo Pokémon, również określana jako gra wideo o nazwie Pokémon, to serie gier fabularnych (RPG) opracowanych głównie przez Game Freak i sprzedawanych na przenośne konsole Nintendo.
+
+Seria dzieli się na generacje, które są grupami gier wydanych w określonym okresie czasu i które dzielą szereg podobnych cech, konkretnie postacie, stworzenia (Pokémon) oraz region, w którym toczy się fabuła. Te generacje zwykle odpowiadają generacjom konsol.</systemDescription>
   </variables>
   <variables lang="pt">
-    <systemDescription>Veja e jogue os jogos Pokémon da sua coleção.</systemDescription>
+    <systemDescription>A franquia de videojogos Pokémon, também referida como um videojogo chamado Pokémon, consiste em jogos de role‑playing desenvolvidos principalmente pela Game Freak e vendidos para consolas portáteis da Nintendo.
+
+A série divide‑se em gerações, que são grupos de videojogos lançados durante um determinado período de tempo e que partilham uma série de características semelhantes, concretamente as personagens, as criaturas (Pokémon) e a região onde decorre a história. Estas gerações geralmente correspondem às gerações das consolas.</systemDescription>
   </variables>
   <variables lang="ro">
-    <systemDescription>Vizualizați și jucați jocurile Pokémon din colecția dvs.</systemDescription>
+    <systemDescription>Franciza de jocuri video Pokémon, uneori denumită și joc video numit Pokémon, este alcătuită din jocuri de tip role‑playing dezvoltate în principal de Game Freak și vândute pentru console portabile Nintendo.
+
+Seria este împărțită în generații, care sunt grupuri de jocuri lansate într-o anumită perioadă de timp și care împărtășesc o serie de caracteristici similare, în special personajele, creaturile (Pokémon) și regiunea în care are loc povestea. Aceste generații corespund de obicei generațiilor de console.</systemDescription>
   </variables>
   <variables lang="ru">
-    <systemDescription>Просматривайте и играйте в игры Pokémon из вашей коллекции.</systemDescription>
+    <systemDescription>Франшиза видеоигр Pokémon, также именуемая видеоигрой Pokémon, представляет собой серию ролевых игр, разработанных в основном компанией Game Freak и продаваемых для портативных консолей Nintendo.
+
+Серия разделена на поколения — группы игр, выпущенных в определённый период времени и имеющих ряд схожих характеристик, в частности персонажей, существа (Покемоны) и регион, где разворачивается история. Эти поколения обычно соответствуют поколениям консолей.</systemDescription>
   </variables>
   <variables lang="sr">
-    <systemDescription>Прегледајте и играјте Pokémon игре из ваше колекције.</systemDescription>
+    <systemDescription>Франшиза видео‑игара Pokémon, такође позната по видео игри која се зове Pokémon, састоји се од RPG игара које углавном развија компанија Game Freak и које се продају за преносне конзоле компаније Nintendo.
+
+Серија је подељена на генерације, које су групе игара издате у одређеном временском периоду и које деле низ сличних карактеристика, конкретно ликове, створења (Pokémon) и регију у којој се прича одвија. Ове генерације обично одговарају генерацијама конзола.</systemDescription>
   </variables>
   <variables lang="sv">
-    <systemDescription>Visa och spela Pokémon-spelen i din samling.</systemDescription>
+    <systemDescription>Pokémon‑videospelsserien, även hänvisad till som ett videospel kallat Pokémon, består av rollspel utvecklade huvudsakligen av Game Freak och sålda för Nintendos handhållna konsoler.
+
+Serien är indelad i generationer, vilka är grupper av spel som släppts under en viss tidsperiod och som delar ett antal liknande egenskaper, specifikt karaktärerna, varelserna (Pokémon) och den region där berättelsen utspelar sig. Dessa generationer motsvarar vanligtvis konsolgenerationerna.</systemDescription>
   </variables>
   <variables lang="zh">
-    <systemDescription>查看并游玩您收藏中的宝可梦系列游戏。</systemDescription>
+    <systemDescription>宝可梦视频游戏系列（有时也称为名为 Pokémon 的电子游戏）是一系列主要由 Game Freak 开发，并在任天堂掌上游戏机上发售的角色扮演游戏。
+
+该系列被划分为世代，世代是指在某一时间段内发行并共享一系列相似特征的游戏群体，具体包括角色、生物（宝可梦）以及故事发生的地区。这些世代通常与主机的世代相对应。</systemDescription>
   </variables>
 </theme>

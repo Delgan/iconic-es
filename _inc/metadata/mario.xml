@@ -1,7 +1,7 @@
 <theme>
   <variables>
     <systemName>Super Mario</systemName>
-    <systemDescription>View and play the Mario Games in your collection.</systemDescription>
+    <systemDescription>The Mario franchise (マリオ) is a Japanese franchise created by Japanese video game designer Shigeru Miyamoto for the video game company Nintendo, which produces and publishes its releases. It is headlined by the Italian plumber Mario. The franchise's first release was Mario Bros. in 1983, although Mario made his first appearance in the 1981 arcade game Donkey Kong, and had already appeared in several games in the Donkey Kong and Game &amp; Watch series. Mario video games have been developed by a wide variety of developers, including Nintendo, Hudson Soft and AlphaDream. Mario video games have been released almost exclusively for Nintendo's various home consoles and handheld devices from the third generation onward.</systemDescription>
     <systemManufacturer>Nintendo</systemManufacturer>
     <systemReleaseYear>${i18n.various}</systemReleaseYear>
     <systemHardwareType>${i18n.custom-collection}</systemHardwareType>
@@ -9,57 +9,57 @@
     <systemCartSize>1-1</systemCartSize>
   </variables>
   <variables lang="ar">
-    <systemDescription>عرض ولعب ألعاب ماريو الموجودة في مجموعتك.</systemDescription>
+    <systemDescription>سلسلة سوبر ماريو (マリオ) هي سلسلة يابانية ابتكرها مصمم ألعاب الفيديو الياباني Shigeru Miyamoto لشركة ألعاب الفيديو Nintendo، التي تنتج وتُنشر إصداراتها. تتصدرها شخصية السباك الإيطالي ماريو. كانت أولى إصدارات السلسلة Mario Bros. عام 1983، رغم أن ماريو ظهر لأول مرة في لعبة الأركيد Donkey Kong عام 1981، وقد سبق أن ظهر في عدة ألعاب من سلاسل Donkey Kong وGame &amp; Watch. تم تطوير ألعاب ماريو على يد مجموعة واسعة من المطورين، بما في ذلك Nintendo وHudson Soft وAlphaDream. ونُشرت ألعاب ماريو تقريبًا حصريًا لأجهزة الألعاب المنزلية والوحدات المحمولة من Nintendo منذ الجيل الثالث فصاعدًا.</systemDescription>
   </variables>
   <variables lang="bs">
-    <systemDescription>Pogledajte i igrajte Mario igre iz vaše kolekcije.</systemDescription>
+    <systemDescription>Franšiza Mario (マリオ) je japanska franšiza koju je stvorio japanski dizajner videoigara Shigeru Miyamoto za tvrtku za videoigre Nintendo, koja proizvodi i izdaje njene naslove. Glavni lik je talijanski vodoinstalater Mario. Prvi naslov franšize bio je Mario Bros. iz 1983., iako je Mario prvi put nastupio u arkadnoj igri Donkey Kong iz 1981. i već se pojavljivao u nekoliko igara iz serija Donkey Kong i Game &amp; Watch. Mario igre razvijale su razne razvojne ekipe, uključujući Nintendo, Hudson Soft i AlphaDream. Mario igre objavljivane su gotovo isključivo za različite Nintendo konzole i prijenosne uređaje od treće generacije nadalje.</systemDescription>
   </variables>
   <variables lang="ca">
-    <systemDescription>Visualitza i juga els jocs de Mario de la teva col·lecció.</systemDescription>
+    <systemDescription>La franquícia Mario (マリオ) és una franquícia japonesa creada pel dissenyador de videojocs japonès Shigeru Miyamoto per a l'empresa de videojocs Nintendo, que produeix i publica les seves entregues. Protagonitzada pel lampista italià Mario. La primera entrega de la franquícia va ser Mario Bros. de 1983, encara que Mario va fer la seva primera aparició al videojoc arcade Donkey Kong de 1981, i ja havia aparegut en diversos videojocs de les sèries Donkey Kong i Game &amp; Watch. Els videojocs de Mario han estat desenvolupats per una àmplia varietat de desenvolupadors, incloent Nintendo, Hudson Soft i AlphaDream. Els videojocs de Mario s'han llançat gairebé exclusivament per a les diferents consoles i dispositius portàtils de Nintendo, des de la tercera generació endavant.</systemDescription>
   </variables>
   <variables lang="de">
-    <systemDescription>Zeige und spiele die Mario-Spiele in deiner Sammlung.</systemDescription>
+    <systemDescription>Die Mario-Franchise (マリオ) ist eine japanische Reihe, die vom japanischen Spieledesigner Shigeru Miyamoto für das Videospielunternehmen Nintendo geschaffen wurde, das ihre Veröffentlichungen produziert und vertreibt. Im Mittelpunkt steht der italienische Klempner Mario. Der erste Teil der Reihe war Mario Bros. aus dem Jahr 1983, obwohl Mario sein Debüt bereits im Arcade-Spiel Donkey Kong von 1981 hatte und zuvor in mehreren Titeln der Donkey Kong- und Game &amp; Watch-Serien auftauchte. Die Mario-Videospiele wurden von einer Vielzahl von Entwicklern entwickelt, darunter Nintendo, Hudson Soft und AlphaDream. Mario-Spiele wurden nahezu ausschließlich für die verschiedenen Nintendo-Heimkonsolen und Handhelds ab der dritten Generation veröffentlicht.</systemDescription>
   </variables>
   <variables lang="es">
-    <systemDescription>La franquicia Mario (マリオ) es una franquicia japonesa creada por el diseñador de videojuegos japonés Shigeru Miyamoto para la empresa de videojuegos Nintendo, que produce y publica sus entregas. Es protagonizada por el fontanero italiano Mario. La primera entrega de la franquicia fue Mario Bros. de 1983, aunque Mario había hecho su primera aparición en el videojuego arcade Donkey Kong de 1981, y ya había aparecido en varios videojuegos de las series Donkey Kong y Game &amp; Watch. Los videojuegos de Mario han sido desarrollados por una amplia variedad de desarrolladores, incluidos Nintendo, Hudson Soft y AlphaDream. Los videojuegos de Mario se han lanzado casi exclusivamente para las distintas consolas de videojuegos y dispositivos portátiles de Nintendo, desde la tercera generación en adelante</systemDescription>
+    <systemDescription>La franquicia Mario (マリオ) es una franquicia japonesa creada por el diseñador de videojuegos japonés Shigeru Miyamoto para la empresa de videojuegos Nintendo, que produce y publica sus entregas. Es protagonizada por el fontanero italiano Mario. La primera entrega de la franquicia fue Mario Bros. de 1983, aunque Mario había hecho su primera aparición en el videojuego arcade Donkey Kong de 1981, y ya había aparecido en varios videojuegos de las series Donkey Kong y Game &amp; Watch. Los videojuegos de Mario han sido desarrollados por una amplia variedad de desarrolladores, incluidos Nintendo, Hudson Soft y AlphaDream. Los videojuegos de Mario se han lanzado casi exclusivamente para las distintas consolas de videojuegos y dispositivos portátiles de Nintendo, desde la tercera generación en adelante.</systemDescription>
   </variables>
   <variables lang="fr">
-    <systemDescription>Consultez y jouez aux jeux Mario de votre collection.</systemDescription>
+    <systemDescription>La franchise Mario (マリオ) est une franchise japonaise créée par le concepteur de jeux vidéo japonais Shigeru Miyamoto pour l'entreprise de jeux vidéo Nintendo, qui produit et publie ses titres. Elle met en scène le plombier italien Mario. Le premier épisode de la franchise fut Mario Bros. en 1983, bien que Mario ait fait sa première apparition dans le jeu d'arcade Donkey Kong en 1981 et qu'il soit déjà apparu dans plusieurs jeux des séries Donkey Kong et Game &amp; Watch. Les jeux vidéo Mario ont été développés par une grande variété de studios, dont Nintendo, Hudson Soft et AlphaDream. Les jeux Mario ont été publiés presque exclusivement pour les différentes consoles et appareils portables de Nintendo, à partir de la troisième génération.</systemDescription>
   </variables>
   <variables lang="hr">
-    <systemDescription>Pogledajte i igrajte Mario igre iz vaše kolekcije.</systemDescription>
+    <systemDescription>Franšiza Mario (マリオ) je japanska franšiza koju je stvorio japanski dizajner videoigara Shigeru Miyamoto za tvrtku Nintendo, koja proizvodi i izdaje naslove iz serije. Glavni lik je talijanski vodoinstalater Mario. Prva igra u franšizi bila je Mario Bros. iz 1983. godine, iako se Mario prvi put pojavio u arkadnoj igri Donkey Kong iz 1981. i već se pojavljivao u nekoliko igara iz serija Donkey Kong i Game &amp; Watch. Igru su razvijali različiti developeri, uključujući Nintendo, Hudson Soft i AlphaDream. Mario igre objavljivane su gotovo isključivo za različite Nintendo konzole i prijenosne uređaje od treće generacije nadalje.</systemDescription>
   </variables>
   <variables lang="it">
-    <systemDescription>Visualizza e gioca ai giochi di Mario nella tua collezione.</systemDescription>
+    <systemDescription>La franchise di Mario (マリオ) è una serie giapponese creata dal designer di videogiochi giapponese Shigeru Miyamoto per l'azienda di videogiochi Nintendo, che produce e pubblica i suoi titoli. Protagonista è l'idraulico italiano Mario. Il primo titolo della serie fu Mario Bros. del 1983, sebbene Mario abbia fatto la sua prima apparizione nel videogioco arcade Donkey Kong del 1981 ed era già comparso in diversi giochi delle serie Donkey Kong e Game &amp; Watch. I videogiochi di Mario sono stati sviluppati da un'ampia varietà di sviluppatori, tra cui Nintendo, Hudson Soft e AlphaDream. I giochi di Mario sono stati pubblicati quasi esclusivamente per le diverse console e dispositivi portatili Nintendo, a partire dalla terza generazione in poi.</systemDescription>
   </variables>
   <variables lang="ja">
-    <systemDescription>コレクションにあるマリオのゲームを表示してプレイします。</systemDescription>
+    <systemDescription>マリオシリーズ（マリオ）は、日本のゲームデザイナー宮本茂がゲーム会社Nintendoのために作った日本発のフランチャイズで、任天堂が作品を制作・発売しています。主人公はイタリア出身の配管工マリオです。シリーズの最初の作品は1983年の『Mario Bros.』ですが、マリオは1981年のアーケードゲーム『Donkey Kong』で初登場しており、その後も『Donkey Kong』やGame &amp; Watchシリーズの複数の作品に登場していました。マリオのゲームはNintendo、Hudson Soft、AlphaDreamなど多くの開発者によって制作されてきました。マリオのゲームは第3世代以降、ほぼ例外なく任天堂の各種家庭用ゲーム機および携帯機向けに発売されています。</systemDescription>
   </variables>
   <variables lang="ko">
-    <systemDescription>컬렉션에 있는 마리오 게임을 보고 플레이하세요。</systemDescription>
+    <systemDescription>마리오 프랜차이즈(マリオ)는 일본의 게임 디자이너 시게루 미야모토가 비디오 게임 회사 닌텐도를 위해 만든 일본 발(日本発)의 프랜차이즈로, 닌텐도가 작품을 제작하고 배급합니다. 주인공은 이탈리아인 배관공 마리오입니다. 시리즈의 첫 작품은 1983년의 Mario Bros.였지만, 마리오는 1981년의 아케이드 게임 Donkey Kong에서 처음 등장했으며 이미 Donkey Kong과 Game &amp; Watch 시리즈의 여러 게임에 출연한 바 있습니다. 마리오 게임은 닌텐도, Hudson Soft, AlphaDream 등 다양한 개발사에 의해 개발되었습니다. 마리오 게임은 3세대 이후부터 거의 예외 없이 닌텐도의 여러 가정용 콘솔 및 휴대용 기기용으로 출시되었습니다.</systemDescription>
   </variables>
   <variables lang="nl">
-    <systemDescription>Bekijk en speel de Mario-spellen in je collectie.</systemDescription>
+    <systemDescription>De Mario-franchise (マリオ) is een Japanse franchise die is bedacht door de Japanse gamedesigner Shigeru Miyamoto voor het videogamebedrijf Nintendo, dat de titels produceert en uitgeeft. De serie draait om de Italiaanse loodgieter Mario. De eerste uitgave van de franchise was Mario Bros. uit 1983, hoewel Mario zijn eerste verschijning maakte in het arcadespel Donkey Kong uit 1981 en al in verschillende spellen uit de Donkey Kong- en Game &amp; Watch-series was verschenen. De Mario-videogames zijn ontwikkeld door een grote verscheidenheid aan ontwikkelaars, waaronder Nintendo, Hudson Soft en AlphaDream. Mario-spellen zijn vrijwel exclusief uitgebracht voor de verschillende Nintendo-consoles en draagbare apparaten vanaf de derde generatie.</systemDescription>
   </variables>
   <variables lang="pl">
-    <systemDescription>Przeglądaj i graj w gry z serii Mario z twojej kolekcji.</systemDescription>
+    <systemDescription>Franczyza Mario (マリオ) to japońska franczyza stworzona przez japońskiego projektanta gier wideo Shigeru Miyamoto dla firmy Nintendo, która produkuje i wydaje jej tytuły. Głównym bohaterem jest włoski hydraulik Mario. Pierwszą odsłoną serii było Mario Bros. z 1983 roku, chociaż Mario po raz pierwszy pojawił się w automacie Donkey Kong z 1981 roku i już występował w kilku grach z serii Donkey Kong i Game &amp; Watch. Gry z serii Mario były tworane przez szerokie grono deweloperów, w tym Nintendo, Hudson Soft i AlphaDream. Gry Mario były wydawane niemal wyłącznie na różne konsole i urządzenia przenośne Nintendo od trzeciej generacji wzwyż.</systemDescription>
   </variables>
   <variables lang="pt">
-    <systemDescription>Veja e jogue os jogos de Mario da sua coleção.</systemDescription>
+    <systemDescription>A franquia Mario (マリオ) é uma franquia japonesa criada pelo designer de videojogos japonês Shigeru Miyamoto para a empresa de videojogos Nintendo, que produz e publica os seus títulos. É protagonizada pelo canalizador italiano Mario. A primeira entrega da franquia foi Mario Bros. de 1983, embora Mario tenha feito a sua primeira aparição no videojogo arcade Donkey Kong de 1981, e já tivesse aparecido em vários videojogos das séries Donkey Kong e Game &amp; Watch. Os videojogos de Mario foram desenvolvidos por uma grande variedade de estúdios, incluindo Nintendo, Hudson Soft e AlphaDream. Os videojogos de Mario foram lançados quase exclusivamente para as diferentes consolas e dispositivos portáteis da Nintendo, desde a terceira geração em diante.</systemDescription>
   </variables>
   <variables lang="ro">
-    <systemDescription>Vizualizați și jucați jocurile Mario din colecția dvs.</systemDescription>
+    <systemDescription>Franciza Mario (マリオ) este o franciză japoneză creată de designerul de jocuri video japonez Shigeru Miyamoto pentru compania de jocuri video Nintendo, care produce și publică titlurile sale. Protagonist este instalatorul italian Mario. Prima lansare a francizei a fost Mario Bros. din 1983, deși Mario și-a făcut prima apariție în jocul arcade Donkey Kong din 1981 și apăruse deja în mai multe jocuri din seriile Donkey Kong și Game &amp; Watch. Jocurile Mario au fost dezvoltate de o gamă largă de dezvoltatori, inclusiv Nintendo, Hudson Soft și AlphaDream. Jocurile Mario au fost lansate aproape exclusiv pentru diferitele console și dispozitive portabile Nintendo, începând cu a treia generație încoace.</systemDescription>
   </variables>
   <variables lang="ru">
-    <systemDescription>Просматривайте и играйте игры серии Mario из вашей коллекции.</systemDescription>
+    <systemDescription>Франшиза Mario (マリオ) — это японская франшиза, созданная японским дизайнером видеоигр Сигэру Миямото для компании Nintendo, которая производит и издаёт её игры. В центре внимания — итальянский водопроводчик Марио. Первой игрой франшизы была Mario Bros. 1983 года, хотя Марио впервые появился в аркадной игре Donkey Kong 1981 года и уже появлялся во множестве игр серий Donkey Kong и Game &amp; Watch. Видеоигры про Марио разрабатывались различными студиями, включая Nintendo, Hudson Soft и AlphaDream. Игры про Марио выпускались почти исключительно для различных консолей и портативных устройств Nintendo, начиная с третьего поколения.</systemDescription>
   </variables>
   <variables lang="sr">
-    <systemDescription>Прегледајте и играјте Mario игре из ваше колекције.</systemDescription>
+    <systemDescription>Франшиза Марио (マリオ) је јапанска франшиза коју је створио јапански дизајнер видео-игара Шигеру Мијамото за компанију Nintendo, која производи и издаје њене наслове. У центру је италијански водоинсталатер Марио. Први наслов франшизе био је Mario Bros. из 1983. године, иако се Марио први пут појавио у аркадној игри Donkey Kong из 1981. и већ је наступао у више игара из серија Donkey Kong и Game &amp; Watch. Марио игре развијали су различити студији, укључујући Nintendo, Hudson Soft и AlphaDream. Марио игре су објављиване готово искључиво за различите Nintendo конзоле и преносне уређаје од треће генерације наовамо.</systemDescription>
   </variables>
   <variables lang="sv">
-    <systemDescription>Visa och spela Mario-spelen i din samling.</systemDescription>
+    <systemDescription>Mario-franchisen (マリオ) är en japansk franchise skapad av den japanske speldesignern Shigeru Miyamoto för spelbolaget Nintendo, som producerar och ger ut dess titlar. I centrum står den italienske rörmokaren Mario. Den första utgåvan i serien var Mario Bros. från 1983, även om Mario gjorde sitt första framträdande i arkadspelet Donkey Kong 1981 och redan hade förekommit i flera spel i Donkey Kong- och Game &amp; Watch-serierna. Mario-videospel har utvecklats av en rad olika utvecklare, inklusive Nintendo, Hudson Soft och AlphaDream. Mario-spelen har släppts nästan uteslutande för Nintendos olika konsoler och bärbara enheter från tredje generationen och framåt.</systemDescription>
   </variables>
   <variables lang="zh">
-    <systemDescription>查看并游玩您收藏中的马里奥系列游戏。</systemDescription>
+    <systemDescription>马里奥系列（マリオ）是由日本游戏设计师宫本茂为游戏公司任天堂创作的日本系列，任天堂负责制作和发行这些作品。该系列以意大利籍水管工马里奥为主角。该系列的第一款作品是1983年的《Mario Bros.》，但马里奥首次亮相是在1981年的街机游戏《Donkey Kong》中，并且已经出现在多款《Donkey Kong》和Game &amp; Watch系列的游戏中。马里奥游戏由包括任天堂、Hudson Soft 和 AlphaDream 在内的多家开发者开发。自第三代以来，马里奥的游戏几乎专门在任天堂的各类家用主机和掌上设备上发行。</systemDescription>
   </variables>
 </theme>

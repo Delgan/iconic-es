@@ -1,7 +1,9 @@
 <theme>
   <variables>
     <systemName>The Legend of Zelda</systemName>
-    <systemDescription>View and play the Zelda Games in your collection.</systemDescription>
+    <systemDescription>The Legend of Zelda (ゼルダの伝説でんせつ) is an action-adventure video game series created by Japanese designers Shigeru Miyamoto and Takashi Tezuka, developed by Nintendo, the company that also handles its international distribution. Its plot generally follows the heroic adventures of the young warrior Link, who must face dangers and solve puzzles to help Princess Zelda defeat Ganondorf and save his home, the kingdom of Hyrule.
+
+Since the release of the first game in 1986, The Legend of Zelda has achieved notable popularity accompanied by favorable criticism within the video game industry, translating into considerable commercial success worldwide. The chronological continuity of the games has been the subject of debate over time, due to uncertainty in identifying the links between certain titles. Nintendo published the definitive chronology of The Legend of Zelda in the book Hyrule Historia (2011), which explains that there are three different timelines, which depend primarily on Link.</systemDescription>
     <systemManufacturer>Nintendo</systemManufacturer>
     <systemReleaseYear>${i18n.various}</systemReleaseYear>
     <systemHardwareType>${i18n.custom-collection}</systemHardwareType>
@@ -9,59 +11,93 @@
     <systemCartSize>1-1</systemCartSize>
   </variables>
   <variables lang="ar">
-    <systemDescription>عرض ولعب ألعاب The Legend of Zelda الموجودة في مجموعتك.</systemDescription>
+    <systemDescription>سلسلة The Legend of Zelda (ゼルダの伝説でんせつ) هي سلسلة ألعاب فيديو من نوع الحركة والمغامرة أُنشئت بواسطة المصممين اليابانيين شيجيرو مياموتو وتاكاشي تيزوكا، وطورتها شركة نينتندو، التي تتولى أيضًا توزيعها دوليًا. عادةً ما تروي حبكتها مغامرات البطل الشاب لينك البطولية، حيث يواجه أخطارًا ويحل الألغاز لمساعدة الأميرة زيلدا على هزيمة غانوندورف وإنقاذ موطنه، مملكة هيرول.
+
+منذ إصدار اللعبة الأولى عام 1986، حققت سلسلة The Legend of Zelda شعبية ملحوظة ومراجعات إيجابية في صناعة ألعاب الفيديو، ما تُرجم إلى نجاح تجاري كبير على المستوى الدولي. لقد كانت استمرارية ترتيب الألعاب الزمني موضوع نقاش عبر الزمن، بسبب عدم اليقين في تحديد الروابط بين بعض العناوين. نشرت نينتندو التسلسل الزمني النهائي لسلسلة The Legend of Zelda في كتاب Hyrule Historia (2011)، الذي يوضح وجود ثلاثة مسارات زمنية مختلفة تعتمد في المقام الأول على لينك.</systemDescription>
   </variables>
   <variables lang="bs">
-    <systemDescription>Pogledajte i igrajte Zelda igre iz vaše kolekcije.</systemDescription>
+    <systemDescription>Serija The Legend of Zelda (ゼルダの伝説でんせつ) je serija videoigara akcijsko-avanturističkog žanra koju su stvorili japanski dizajneri Shigeru Miyamoto i Takashi Tezuka, a razvila ju je kompanija Nintendo, koja također brine o njenoj međunarodnoj distribuciji. Radnja obično opisuje herojske pustolovine mladog ratnika Linka, koji se mora suočiti s opasnostima i rješavati zagonetke kako bi pomogao princezi Zeldi da porazi Ganondorfa i spasi svoj dom, kraljevstvo Hyrule.
+
+Od izlaska prve igre 1986. godine, The Legend of Zelda je stekla značajnu popularnost praćenu pozitivnim kritikama u industriji videoigara, što se pretvorilo u znatan komercijalni uspjeh na međunarodnoj razini. Kronološka povezanost igara bila je predmet rasprava tijekom vremena, zbog neizvjesnosti pri utvrđivanju veza između određenih naslova. Nintendo je objavio konačnu kronologiju The Legend of Zelda u knjizi Hyrule Historia (2011.), u kojoj se objašnjava da postoje tri različite vremenske linije koje prvenstveno ovise o Linku.</systemDescription>
   </variables>
   <variables lang="ca">
-    <systemDescription>Visualitza i juga als jocs de The Legend of Zelda de la teva col·lecció.</systemDescription>
+    <systemDescription>La llegenda de Zelda (ゼルダの伝説でんせつ) és una sèrie de videojocs d'acció i aventura creada pels dissenyadors japonesos Shigeru Miyamoto i Takashi Tezuka, desenvolupada per Nintendo, empresa que també s'encarrega de la seva distribució internacional. La seva trama generalment descriu les heroïques aventures del jove guerrer Link, que ha d'enfrontar-se a perills i resoldre enigmes per ajudar la Princesa Zelda a derrotar en Ganondorf i salvar la seva llar, el regne d'Hyrule.
+
+Des del llançament del primer joc el 1986, The Legend of Zelda ha assolit una notable popularitat acompanyada de crítiques favorables a la indústria dels videojocs, traduïda en un considerable èxit comercial a nivell internacional. La continuïtat cronològica dels jocs ha estat objecte de debat amb el pas del temps, a causa de la incertesa en la identificació dels vincles entre certs títols. Nintendo va publicar la cronologia definitiva de The Legend of Zelda al llibre Hyrule Historia (2011), en la qual s'explica que existeixen tres línies temporals diferents, que depenen principalment de Link.</systemDescription>
   </variables>
   <variables lang="de">
-    <systemDescription>Zeige und spiele die Zelda-Spiele in deiner Sammlung.</systemDescription>
+    <systemDescription>Die Legend of Zelda (ゼルダの伝説でんせつ) ist eine Reihe von Action-Adventure-Videospielen, die von den japanischen Designern Shigeru Miyamoto und Takashi Tezuka geschaffen und von Nintendo entwickelt wird, dem Unternehmen, das auch für den internationalen Vertrieb verantwortlich ist. Die Handlung beschreibt meist die heldenhaften Abenteuer des jungen Kriegers Link, der Gefahren bestehen und Rätsel lösen muss, um Prinzessin Zelda dabei zu helfen, Ganondorf zu besiegen und seine Heimat, das Königreich Hyrule, zu retten.
+
+Seit der Veröffentlichung des ersten Spiels im Jahr 1986 hat The Legend of Zelda eine bemerkenswerte Popularität und positive Kritiken in der Videospielbranche erlangt, was sich in einem beträchtlichen internationalen kommerziellen Erfolg niederschlägt. Die chronologische Kontinuität der Spiele ist im Laufe der Zeit Gegenstand von Debatten gewesen, aufgrund von Unsicherheiten bei der Identifizierung der Verbindungen zwischen bestimmten Titeln. Nintendo veröffentlichte die endgültige Chronologie von The Legend of Zelda im Buch Hyrule Historia (2011), in dem erklärt wird, dass es drei verschiedene Zeitlinien gibt, die in erster Linie von Link abhängen.</systemDescription>
   </variables>
   <variables lang="es">
-    <systemDescription>The Legend of Zelda (ゼルダの伝説でんせつ , tdl. «La leyenda de Zelda») es una serie de videojuegos de acción-aventura creada por los diseñadores japoneses Shigeru Miyamoto y Takashi Tezuka, desarrollada por Nintendo, empresa que también se encarga de su distribución internacional. Su trama por lo general describe las heroicas aventuras del joven guerrero Link, que debe enfrentarse a peligros y resolver acertijos para ayudar a la Princesa Zelda a derrotar a Ganondorf y salvar su hogar, el reino de Hyrule.
+    <systemDescription>The Legend of Zelda (ゼルダの伝説でんせつ) es una serie de videojuegos de acción-aventura creada por los diseñadores japoneses Shigeru Miyamoto y Takashi Tezuka, desarrollada por Nintendo, empresa que también se encarga de su distribución internacional. Su trama por lo general describe las heroicas aventuras del joven guerrero Link, que debe enfrentarse a peligros y resolver acertijos para ayudar a la Princesa Zelda a derrotar a Ganondorf y salvar su hogar, el reino de Hyrule.
 
-A partir del lanzamiento del primer juego en 1986, The Legend of Zelda ha logrado una notable popularidad acompañada de críticas favorables en la industria de los videojuegos, traducidas en un cuantioso éxito comercial a nivel internacional. La continuidad cronológica de los juegos ha sido objeto de debate con el transcurso del tiempo, debido a la incertidumbre en la identificación de los vínculos entre ciertos títulos. Nintendo publicó la cronología definitiva de The Legend of Zelda en el libro Hyrule Historia (2011), en la cual se explica que existen tres líneas de tiempo diferentes, las cuales dependen primordialmente de Link.​</systemDescription>
+A partir del lanzamiento del primer juego en 1986, The Legend of Zelda ha logrado una notable popularidad acompañada de críticas favorables en la industria de los videojuegos, traducidas en un cuantioso éxito comercial a nivel internacional. La continuidad cronológica de los juegos ha sido objeto de debate con el transcurso del tiempo, debido a la incertidumbre en la identificación de los vínculos entre ciertos títulos. Nintendo publicó la cronología definitiva de The Legend of Zelda en el libro Hyrule Historia (2011), en la cual se explica que existen tres líneas de tiempo diferentes, las cuales dependen primordialmente de Link.</systemDescription>
   </variables>
   <variables lang="fr">
-    <systemDescription>Consultez et jouez aux jeux The Legend of Zelda de votre collection.</systemDescription>
+    <systemDescription>La série The Legend of Zelda (ゼルダの伝説でんせつ) est une franchise de jeux vidéo d'action-aventure créée par les concepteurs japonais Shigeru Miyamoto et Takashi Tezuka, développée par Nintendo, société qui assure également sa distribution internationale. Son intrigue décrit généralement les aventures héroïques du jeune guerrier Link, qui doit affronter des dangers et résoudre des énigmes pour aider la princesse Zelda à vaincre Ganondorf et sauver son foyer, le royaume d'Hyrule.
+
+Depuis la sortie du premier jeu en 1986, The Legend of Zelda a connu une popularité notable accompagnée de critiques favorables dans l'industrie du jeu vidéo, se traduisant par un succès commercial important à l'échelle internationale. La continuité chronologique des jeux a fait l'objet de débats au fil du temps, en raison de l'incertitude quant à l'identification des liens entre certains titres. Nintendo a publié la chronologie définitive de The Legend of Zelda dans le livre Hyrule Historia (2011), dans lequel il est expliqué qu'il existe trois lignes temporelles différentes, qui dépendent principalement de Link.</systemDescription>
   </variables>
   <variables lang="hr">
-    <systemDescription>Pogledajte i igrajte Zelda igre iz vaše kolekcije.</systemDescription>
+    <systemDescription>Serija The Legend of Zelda (ゼルダの伝説でんせつ) je serija videoigara iz akcijsko-avanturističkog žanra koju su stvorili japanski dizajneri Shigeru Miyamoto i Takashi Tezuka, a razvila ju je kompanija Nintendo, koja se također bavi njenom međunarodnom distribucijom. Radnja obično opisuje herojske avanture mladog ratnika Linka, koji mora da se suoči sa opasnostima i rešava zagonetke kako bi pomogao princezi Zeldi da porazi Ganondorfa i spasi svoj dom, kraljevstvo Hyrule.
+
+Od izlaska prve igre 1986. godine, The Legend of Zelda je stekla značajnu popularnost praćenu povoljnim kritikama u industriji video-igara, što se pretvorilo u znatan komercijalni uspeh na međunarodnom nivou. Hronološka kontinuitet igara bio je predmet debata tokom vremena, zbog neizvesnosti u identifikaciji veza između određenih naslova. Nintendo je objavio konačnu hronologiju The Legend of Zelda u knjizi Hyrule Historia (2011), u kojoj se objašnjava da postoje tri različite vremenske linije koje prvenstveno zavise od Linka.</systemDescription>
   </variables>
   <variables lang="it">
-    <systemDescription>Visualizza e gioca ai giochi di The Legend of Zelda nella tua collezione.</systemDescription>
+    <systemDescription>La serie The Legend of Zelda (ゼルダの伝説でんせつ) è una serie di videogiochi d'azione e avventura creata dai designer giapponesi Shigeru Miyamoto e Takashi Tezuka, sviluppata da Nintendo, la società che si occupa anche della sua distribuzione internazionale. La trama descrive in genere le avventure eroiche del giovane guerriero Link, che deve affrontare pericoli e risolvere enigmi per aiutare la Principessa Zelda a sconfiggere Ganondorf e salvare la sua casa, il regno di Hyrule.
+
+Dalla pubblicazione del primo gioco nel 1986, The Legend of Zelda ha ottenuto una notevole popolarità accompagnata da critiche favorevoli nell'industria dei videogiochi, tradottasi in un considerevole successo commerciale a livello internazionale. La continuità cronologica dei giochi è stata oggetto di dibattito nel tempo, a causa dell'incertezza nell'identificazione dei legami tra alcuni titoli. Nintendo ha pubblicato la cronologia definitiva di The Legend of Zelda nel libro Hyrule Historia (2011), nel quale si spiega che esistono tre linee temporali diverse, che dipendono principalmente da Link.</systemDescription>
   </variables>
   <variables lang="ja">
-    <systemDescription>コレクションにあるゼルダシリーズのゲームを表示してプレイします。</systemDescription>
+    <systemDescription>『The Legend of Zelda』（ゼルダの伝説でんせつ）は、日本のデザイナーである宮本茂と手塚卓志によって生み出され、任天堂が開発・国際配給も担当するアクションアドベンチャーゲームのシリーズです。物語は一般に、若き戦士リンクの英雄的な冒険を描き、リンクは様々な危険に立ち向かい、パズルを解きながら、ゼルダ姫がガノンドロフを打倒し、故郷であるハイラル王国を救うのを助けます。
+
+1986年の第1作発売以来、『The Legend of Zelda』はゲーム業界で高い人気と好意的な批評を獲得し、国際的に大きな商業的成功を収めてきました。作品間の年代的な連続性は、特定のタイトル間の関連性の特定に不確実性があるため、時とともに議論の対象となってきました。任天堂は2011年の書籍『Hyrule Historia』で『The Legend of Zelda』の正式な年表を発表し、主にリンクにより分岐する三つの異なる時間軸が存在することを説明しています。</systemDescription>
   </variables>
   <variables lang="ko">
-    <systemDescription>컬렉션에 있는 젤다 시리즈 게임을 보고 플레이하세요.</systemDescription>
+    <systemDescription>『The Legend of Zelda (ゼルダの伝説でんせつ)』는 일본 디자이너 미야모토 시게루와 테즈카 타카시가 창작한 액션 어드벤처 비디오 게임 시리즈로, 개발 및 국제 유통은 닌텐도가 담당합니다. 이야기의 줄거리는 대체로 젊은 전사 링크의 영웅적인 모험을 그리며, 그는 위험에 맞서고 퍼즐을 풀어 공주 젤다를 도와 가논도르프를 물리치고 자신의 고향인 하이랄 왕국을 구해야 합니다.
+
+1986년 첫 게임 출시 이후, The Legend of Zelda는 비디오 게임 업계에서 호평과 함께 상당한 인기를 얻었고, 이는 국제적인 상업적 성공으로 이어졌습니다. 게임들의 연대적 연속성은 일부 타이틀 간의 연관성을 규명하는 데 불확실성이 있어 시간이 지나면서 논쟁의 대상이 되어 왔습니다. 닌텐도는 2011년 저서 'Hyrule Historia'에서 The Legend of Zelda의 최종 연대기를 발표했으며, 그 책에서는 주로 링크를 중심으로 세 가지 다른 타임라인이 존재함을 설명합니다。</systemDescription>
   </variables>
   <variables lang="nl">
-    <systemDescription>Bekijk en speel de The Legend of Zelda-spellen in je collectie.</systemDescription>
+    <systemDescription>De Legend of Zelda (ゼルダの伝説でんせつ) is een reeks actie-avontuur videospellen bedacht door de Japanse ontwerpers Shigeru Miyamoto en Takashi Tezuka, ontwikkeld door Nintendo, het bedrijf dat ook verantwoordelijk is voor de internationale distributie. De verhaallijn beschrijft doorgaans de heroïsche avonturen van de jonge krijger Link, die gevaren het hoofd moet bieden en puzzels moet oplossen om prinses Zelda te helpen Ganondorf te verslaan en zijn thuis, het koninkrijk Hyrule, te redden.
+
+Sinds de release van het eerste spel in 1986 heeft The Legend of Zelda een opmerkelijke populariteit en positieve kritieken in de videogame-industrie verworven, wat heeft geleid tot aanzienlijk commercieel succes wereldwijd. De chronologische continuïteit van de spellen is in de loop der tijd onderwerp van discussie geweest, vanwege onzekerheid bij het identificeren van de verbanden tussen bepaalde titels. Nintendo publiceerde de definitieve chronologie van The Legend of Zelda in het boek Hyrule Historia (2011), waarin wordt uitgelegd dat er drie verschillende tijdlijnen bestaan die voornamelijk van Link afhangen.</systemDescription>
   </variables>
   <variables lang="pl">
-    <systemDescription>Przeglądaj i graj w gry z serii The Legend of Zelda z twojej kolekcji.</systemDescription>
+    <systemDescription>Seria The Legend of Zelda (ゼルダの伝説でんせつ) to cykl gier wideo z gatunku action-adventure stworzony przez japońskich projektantów Shigeru Miyamoto i Takashi Tezuka, opracowany przez Nintendo, firmę odpowiedzialną również za jego międzynarodową dystrybucję. Fabuła zazwyczaj opisuje bohaterskie przygody młodego wojownika Linka, który musi stawić czoła niebezpieczeństwom i rozwiązywać zagadki, aby pomóc księżniczce Zeldzie pokonać Ganondorfa i ocalić swój dom, królestwo Hyrule.
+
+Od wydania pierwszej gry w 1986 roku The Legend of Zelda zyskała znaczną popularność i pozytywne recenzje w branży gier wideo, co przełożyło się na duży sukces komercyjny na arenie międzynarodowej. Chronologiczna ciągłość gier była przedmiotem debat na przestrzeni czasu z powodu niepewności co do powiązań między niektórymi tytułami. Nintendo opublikowało ostateczną chronologię The Legend of Zelda w książce Hyrule Historia (2011), w której wyjaśniono, że istnieją trzy różne linie czasowe, które zależą przede wszystkim od Linka.</systemDescription>
   </variables>
   <variables lang="pt">
-    <systemDescription>Veja e jogue os jogos The Legend of Zelda da sua coleção.</systemDescription>
+    <systemDescription>A série The Legend of Zelda (ゼルダの伝説でんせつ) é uma série de videojogos de ação-aventura criada pelos designers japoneses Shigeru Miyamoto e Takashi Tezuka, desenvolvida pela Nintendo, empresa que também se encarrega da sua distribuição internacional. A sua trama geralmente descreve as heroicas aventuras do jovem guerreiro Link, que deve enfrentar perigos e resolver enigmas para ajudar a Princesa Zelda a derrotar Ganondorf e salvar o seu lar, o reino de Hyrule.
+
+A partir do lançamento do primeiro jogo em 1986, The Legend of Zelda alcançou uma notável popularidade acompanhada de críticas favoráveis na indústria dos videojogos, traduzidas num considerável sucesso comercial a nível internacional. A continuidade cronológica dos jogos tem sido objeto de debate ao longo do tempo, devido à incerteza na identificação das ligações entre certos títulos. A Nintendo publicou a cronologia definitiva de The Legend of Zelda no livro Hyrule Historia (2011), no qual se explica que existem três linhas do tempo diferentes, que dependem principalmente de Link.</systemDescription>
   </variables>
   <variables lang="ro">
-    <systemDescription>Vizualizați și jucați jocurile The Legend of Zelda din colecția dvs.</systemDescription>
+    <systemDescription>Seria The Legend of Zelda (ゼルダの伝説でんせつ) este o serie de jocuri video de acțiune-aventură creată de designerii japonezi Shigeru Miyamoto și Takashi Tezuka, dezvoltată de Nintendo, compania care se ocupă și de distribuția sa internațională. Povestea descrie de obicei aventurile eroice ale tânărului războinic Link, care trebuie să înfrunte pericole și să rezolve enigme pentru a o ajuta pe prințesa Zelda să-l învingă pe Ganondorf și să-și salveze căminul, regatul Hyrule.
+
+Începând cu lansarea primului joc în 1986, The Legend of Zelda a obținut o popularitate remarcabilă însoțită de recenzii favorabile în industria jocurilor video, traduse într-un succes comercial considerabil la nivel internațional. Continuitatea cronologică a jocurilor a fost subiect de dezbatere de-a lungul timpului, din cauza incertitudinii în identificarea legăturilor dintre anumite titluri. Nintendo a publicat cronologia definitivă a seriei The Legend of Zelda în cartea Hyrule Historia (2011), în care se explică că există trei linii temporale diferite, care depind în principal de Link.</systemDescription>
   </variables>
   <variables lang="ru">
-    <systemDescription>Просматривайте и играйте в игры The Legend of Zelda из вашей коллекции.</systemDescription>
+    <systemDescription>Серия The Legend of Zelda (ゼルダの伝説でんせつ) — это серия видеоигр в жанре action-adventure, созданная японскими дизайнерами Сигеру Миямото и Такаши Тэзукой, разработанная компанией Nintendo, которая также занимается её международным распространением. Сюжет, как правило, описывает героические приключения молодого воина Линка, которому предстоит противостоять опасностям и решать головоломки, чтобы помочь принцессе Зельде победить Ганондорфа и спасти свой дом, королевство Хайрул.
+
+С момента выхода первой игры в 1986 году The Legend of Zelda приобрела заметную популярность и получила положительные отзывы в игровой индустрии, что вылилось в значительный коммерческий успех на международном уровне. Хронологическая преемственность игр была предметом споров с течением времени из‑за неуверенности в определении связей между некоторыми тайтлами. Nintendo опубликовала окончательную хронологию The Legend of Zelda в книге Hyrule Historia (2011), в которой объясняется, что существует три разные временные линии, зависящие в первую очередь от Линка.</systemDescription>
   </variables>
   <variables lang="sr">
-    <systemDescription>Прегледајте и играјте Zelda игре из ваше колекције.</systemDescription>
+    <systemDescription>Serija The Legend of Zelda (ゼルダの伝説でんせつ) je serija video-igara iz žanra akcijsko-avanturističkih igara koju su stvorili japanski dizajneri Shigeru Miyamoto i Takashi Tezuka, a razvila ju je kompanija Nintendo, koja se takođe bavi njenom međunarodnom distribucijom. Radnja obično opisuje herojske avanture mladog ratnika Linka, koji mora da se suoči sa opasnostima i rešava zagonetke kako bi pomogao princezi Zeldi da porazi Ganondorfa i spasi svoj dom, kraljevstvo Hyrule.
+
+Od izlaska prve igre 1986. godine, The Legend of Zelda je stekla značajnu popularnost praćenu povoljnim kritikama u industriji video-igara, što se pretvorilo u znatan komercijalni uspeh na međunarodnom nivou. Hronološka kontinuitet igara bio je predmet debata tokom vremena, zbog neizvesnosti u identifikaciji veza između određenih naslova. Nintendo je objavio konačnu hronologiju The Legend of Zelda u knjizi Hyrule Historia (2011), u kojoj se objašnjava da postoje tri različite vremenske linije koje prvenstveno zavise od Linka.</systemDescription>
   </variables>
   <variables lang="sv">
-    <systemDescription>Visa och spela The Legend of Zelda-spelen i din samling.</systemDescription>
+    <systemDescription>The Legend of Zelda (ゼルダの伝説でんせつ) är en serie actionäventyrsspel skapad av de japanska formgivarna Shigeru Miyamoto och Takashi Tezuka, utvecklad av Nintendo, företaget som också sköter dess internationella distribution. Handlingarna beskriver vanligen de heroisk äventyren hos den unge krigaren Link, som måste möta faror och lösa gåtor för att hjälpa prinsessan Zelda att besegra Ganondorf och rädda sitt hem, kungariket Hyrule.
+
+Sedan lanseringen av det första spelet 1986 har The Legend of Zelda uppnått en anmärkningsvärd popularitet tillsammans med positiva recensioner inom spelindustrin, vilket resulterat i en betydande kommersiell framgång internationellt. Spelens kronologiska kontinuitet har varit föremål för debatt över tid, på grund av osäkerhet kring att identifiera samband mellan vissa titlar. Nintendo publicerade den definitiva kronologin för The Legend of Zelda i boken Hyrule Historia (2011), där det förklaras att det finns tre olika tidslinjer som främst beror på Link.</systemDescription>
   </variables>
   <variables lang="zh">
-    <systemDescription>查看并游玩您收藏中的《塞尔达传说》系列游戏。</systemDescription>
+    <systemDescription>《The Legend of Zelda》（ゼルダの伝説でんせつ）是一部由日本设计师宫本茂和手塚卓志创作的动作冒险类电子游戏系列，由任天堂开发并负责其国际发行。其剧情通常描绘年轻战士林克的英雄冒险，他必须面对危险并解开谜题，帮助塞尔达公主击败加农多夫并拯救他的家乡——海拉尔王国。
+
+自1986年首款游戏发行以来，《The Legend of Zelda》在电子游戏行业获得了显著的人气和好评，并转化为在国际范围内的商业成功。随着时间推移，关于各作之间年代顺序的连续性一直存在争议，原因在于难以确定某些作品之间的关联。任天堂在其著作《Hyrule Historia》（2011）中公布了《The Legend of Zelda》的最终时间线，解释了存在三条不同的时间线，这些时间线主要取决于林克。</systemDescription>
   </variables>
 </theme>

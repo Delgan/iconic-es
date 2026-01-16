@@ -1,7 +1,9 @@
 <theme>
   <variables>
     <systemName>Final Fantasy</systemName>
-    <systemDescription>View and play the Final Fantasy Games in your collection.</systemDescription>
+    <systemDescription>Final Fantasy (ファイナルファンタジ) is a media franchise created by Hironobu Sakaguchi and developed, published, and owned by Square Enix (formerly known as Squaresoft). The franchise centers on a series of fantasy- and science-fiction–themed RPG video games.
+
+The series began in 1987 with the eponymous video game, developed by Hironobu Sakaguchi as a last-ditch effort in his career; hence the title: Final Fantasy. The game was a success and enabled the development of numerous sequels and spin-offs. The video game series has expanded into other genres, such as tactical RPGs, action RPGs, MMORPGs, rhythm/music games, and racing titles.</systemDescription>
     <systemManufacturer>Square Enix</systemManufacturer>
     <systemReleaseYear>${i18n.various}</systemReleaseYear>
     <systemHardwareType>${i18n.custom-collection}</systemHardwareType>
@@ -9,59 +11,93 @@
     <systemCartSize>1-1</systemCartSize>
   </variables>
   <variables lang="ar">
-    <systemDescription>عرض ولعب ألعاب Final Fantasy الموجودة في مجموعتك.</systemDescription>
+    <systemDescription>Final Fantasy (ファイナルファンタジ) هي سلسلة وسائط أنشأها هيرونوبي ساكاجوتشي وطورت ونشرتها وتملكها شركة سكوير إينكس (المعروفة سابقًا باسم Squaresoft). تركز السلسلة على ألعاب فيديو تقمص أدوار ذات طابع فانتازي وخيال علمي.
+
+بدأت السلسلة في عام 1987 مع لعبة الفيديو التي تحمل الاسم نفسه، والتي طورها هيرونوبي ساكاجوتشي كمحاولة أخيرة في مسيرته؛ ومن هنا جاء العنوان: Final Fantasy. كانت اللعبة ناجحة للغاية مما أتاح تطوير العديد من الأجزاء والتفرعات. توسعت سلسلة ألعاب الفيديو لتشمل أنواعًا أخرى مثل ألعاب تقمص الأدوار التكتيكية، ألعاب تقمص الأدوار الحركية، الألعاب متعددة اللاعبين عبر الإنترنت (MMORPG)، ألعاب الإيقاع/الموسيقى وألعاب السباقات.</systemDescription>
   </variables>
   <variables lang="bs">
-    <systemDescription>Pogledajte i igrajte Final Fantasy igre iz vaše kolekcije.</systemDescription>
+    <systemDescription>Final Fantasy (ファイナルファンタジ) je multimedijalna franšiza koju je stvorio Hironobu Sakaguchi, a razvija, izdaje i posjeduje Square Enix (ranije poznat kao Squaresoft). Franšiza se fokusira na seriju RPG videoigara s elementima fantazije i znanstvene fantastike.
+
+Serija je započela 1987. godine naslovnom videoigrom, koju je razvio Hironobu Sakaguchi kao posljednji pokušaj u svojoj karijeri; otuda naslov: Final Fantasy. Igra je bila veliki uspjeh i omogućila razvoj brojnih nastavaka i spin-offova. Serija videoigara proširila se i na druge žanrove, poput taktičkih RPG-ova, akcijskih RPG-ova, MMORPG-ova, glazbenih igara i utrka.</systemDescription>
   </variables>
   <variables lang="ca">
-    <systemDescription>Visualitza i juga els jocs de Final Fantasy de la teva col·lecció.</systemDescription>
+    <systemDescription>Final Fantasy (ファイナルファンタジ) és una franquícia mediàtica creada per Hironobu Sakaguchi i desenvolupada, publicada i propietat de Square Enix (abans coneguda com Squaresoft). La franquícia se centra en una sèrie de videojocs RPG de fantasia i ciència-ficció.
+
+La sèrie va començar el 1987 amb el videojoc homònim, desenvolupat per Hironobu Sakaguchi com un últim intent en la seva carrera; d'aquí el títol: Final Fantasy. El joc va ser tot un èxit i va permetre el desenvolupament de nombroses seqüeles i spin-offs. La sèrie de videojocs s'ha anat adaptant a altres gèneres, com els RPG tàctics, els RPG d'acció, els MMORPG, els jocs musicals i de curses.</systemDescription>
   </variables>
   <variables lang="de">
-    <systemDescription>Zeige und spiele die Final Fantasy-Spiele in deiner Sammlung.</systemDescription>
+    <systemDescription>Final Fantasy (ファイナルファンタジ) ist ein Medien-Franchise, das von Hironobu Sakaguchi geschaffen und von Square Enix (früher bekannt als Squaresoft) entwickelt, veröffentlicht und besessen wird. Das Franchise konzentriert sich auf eine Reihe von Fantasy- und Science-Fiction-Rollenspiel-Videospielen.
+
+Die Reihe begann 1987 mit dem gleichnamigen Videospiel, das von Hironobu Sakaguchi als letzter Versuch seiner Karriere entwickelt wurde; daher der Titel: Final Fantasy. Das Spiel war ein großer Erfolg und ermöglichte die Entwicklung zahlreicher Fortsetzungen und Spin-offs. Die Videospielreihe wurde auch auf andere Genres ausgeweitet, wie taktische RPGs, Action-RPGs, MMORPGs, Musikspiele und Rennspiele.</systemDescription>
   </variables>
   <variables lang="es">
     <systemDescription>Final Fantasy (ファイナルファンタジ) es una franquicia de medios creada por Hironobu Sakaguchi y desarrollada, distribuida y propiedad de Square Enix (antes conocida como Squaresoft). La franquicia se centra en una serie de fantasía y ciencia ficción de videojuegos RPG.
 
-La serie comenzó en 1987 con el videojuego homónimo, desarrollado por Hironobu Sakaguchi como último intento en su carrera; de ahí el título: Final Fantasy (en español, "Fantasía Final"). El juego fue todo un éxito y permitió el desarrollo de numerosas secuelas y spin-offs. La serie de videojuegos se ha ido adaptando a otros géneros, como los RPG tácticos, RPG de acción, MMORPG, musicales y carreras.</systemDescription>
+La serie comenzó en 1987 con el videojuego homónimo, desarrollado por Hironobu Sakaguchi como último intento en su carrera; de ahí el título: Final Fantasy. El juego fue todo un éxito y permitió el desarrollo de numerosas secuelas y spin-offs. La serie de videojuegos se ha ido adaptando a otros géneros, como los RPG tácticos, RPG de acción, MMORPG, musicales y carreras.</systemDescription>
   </variables>
   <variables lang="fr">
-    <systemDescription>Consultez et jouez aux jeux Final Fantasy de votre collection.</systemDescription>
+    <systemDescription>Final Fantasy (ファイナルファンタジ) est une franchise multimédia créée par Hironobu Sakaguchi et développée, éditée et détenue par Square Enix (anciennement connue sous le nom de Squaresoft). La franchise se concentre sur une série de jeux vidéo RPG mêlant fantasy et science-fiction.
+
+La série a débuté en 1987 avec le jeu vidéo éponyme, développé par Hironobu Sakaguchi comme une dernière tentative dans sa carrière ; d'où le titre : Final Fantasy. Le jeu a été un véritable succès et a permis le développement de nombreuses suites et spin-offs. La série s'est adaptée à d'autres genres, tels que les RPG tactiques, les RPG d'action, les MMORPG, les jeux musicaux et de course.</systemDescription>
   </variables>
   <variables lang="hr">
-    <systemDescription>Pogledajte i igrajte Final Fantasy igre iz vaše kolekcije.</systemDescription>
+    <systemDescription>Final Fantasy (ファイナルファンタジ) je multimedijalna franšiza koju je stvorio Hironobu Sakaguchi, a koju razvija, distribuira i posjeduje Square Enix (ranije poznat kao Squaresoft). Franšiza se fokusira na seriju RPG videoigara smještenih u žanrove fantastike i znanstvene fantastike.
+
+Serija je započela 1987. godine naslovnom videoigrom, koju je razvio Hironobu Sakaguchi kao posljednji pokušaj u svojoj karijeri; otud naslov: Final Fantasy. Igra je bila veliki uspjeh i omogućila razvoj brojnih nastavaka i spin-offova. Serija videoigara prilagodila se i drugim žanrovima, poput taktičkih RPG-ova, akcijskih RPG-ova, MMORPG-ova, glazbenih igara i utrka.</systemDescription>
   </variables>
   <variables lang="it">
-    <systemDescription>Visualizza e gioca ai giochi Final Fantasy nella tua collezione.</systemDescription>
+    <systemDescription>Final Fantasy (ファイナルファンタジ) è un franchise multimediale creato da Hironobu Sakaguchi e sviluppato, pubblicato e di proprietà di Square Enix (precedentemente nota come Squaresoft). Il franchise è incentrato su una serie di videogiochi RPG di fantasia e fantascienza.
+
+La serie è iniziata nel 1987 con l'omonimo videogioco, sviluppato da Hironobu Sakaguchi come ultimo tentativo nella sua carriera; da qui il titolo: Final Fantasy. Il gioco ebbe un grande successo e consentì lo sviluppo di numerosi sequel e spin-off. La serie di videogiochi si è poi adattata ad altri generi, come gli RPG tattici, gli action-RPG, gli MMORPG, i giochi musicali e di corse.</systemDescription>
   </variables>
   <variables lang="ja">
-    <systemDescription>コレクションにあるファイナルファンタジーのゲームを表示してプレイします。</systemDescription>
+    <systemDescription>Final Fantasy（ファイナルファンタジ）は坂口博信によって創造され、スクウェア・エニックス（旧称 Squaresoft）によって開発・配信・所有されているメディアフランチャイズです。フランチャイズはファンタジーとSF的要素を持つRPGビデオゲームのシリーズを中心としています。
+
+シリーズは1987年、同名のビデオゲームで始まり、坂口博信が自身のキャリアでの最後の望みとして開発しました；そこからタイトルの由来：Final Fantasy。そのゲームは大成功を収め、多数の続編やスピンオフの開発を可能にしました。シリーズはタクティカルRPG、アクションRPG、MMORPG、音楽ゲーム、レースゲームなど、他のジャンルにも展開しています。</systemDescription>
   </variables>
   <variables lang="ko">
-    <systemDescription>컬렉션에 있는 파이널 판타지 게임을 보고 플레이하세요.</systemDescription>
+    <systemDescription>Final Fantasy (ファイナルファンタジ)는 사카구치 히로노부가 창작하고 Square Enix(이전 명칭 Squaresoft)가 개발·배급·소유하는 미디어 프랜차이즈입니다. 이 프랜차이즈는 판타지와 공상과학 요소를 결합한 RPG 비디오 게임 시리즈를 중심으로 합니다.
+
+시리즈는 1987년 동명 비디오 게임으로 시작되었으며, 사카구치 히로노부가 자신의 경력에서 마지막 시도로 개발했기 때문에 제목이 붙었습니다: Final Fantasy. 이 게임은 큰 성공을 거두어 수많은 속편과 스핀오프의 개발을 가능하게 했습니다. 이 비디오 게임 시리즈는 전술 RPG, 액션 RPG, MMORPG, 음악 게임 및 레이싱 등 다른 장르로도 확장되었습니다.</systemDescription>
   </variables>
   <variables lang="nl">
-    <systemDescription>Bekijk en speel de Final Fantasy-spellen in je collectie.</systemDescription>
+    <systemDescription>Final Fantasy (ファイナルファンタジ) is een mediavertakking gecreëerd door Hironobu Sakaguchi en ontwikkeld, uitgegeven en eigendom van Square Enix (voorheen bekend als Squaresoft). De franchise draait om een reeks fantasy- en sciencefiction-RPG-videogames.
+
+De serie begon in 1987 met het gelijknamige videospel, ontwikkeld door Hironobu Sakaguchi als een laatste poging in zijn carrière; vandaar de titel: Final Fantasy. Het spel was een groot succes en maakte de ontwikkeling van talrijke vervolg- en spin-offtitels mogelijk. De videogameserie heeft zich ook aangepast aan andere genres, zoals tactische RPG's, actie-RPG's, MMORPG's, muziekspellen en racegames.</systemDescription>
   </variables>
   <variables lang="pl">
-    <systemDescription>Przeglądaj i graj w gry Final Fantasy z twojej kolekcji.</systemDescription>
+    <systemDescription>Final Fantasy (ファイナルファンタジ) to franczyza medialna stworzona przez Hironobu Sakaguchi, rozwijana, wydawana i będąca własnością Square Enix (dawniej znana jako Squaresoft). Franczyza skupia się na serii gier RPG o tematyce fantasy i science fiction.
+
+Seria rozpoczęła się w 1987 roku od gry wideo o tej samej nazwie, stworzonej przez Hironobu Sakaguchi jako ostatnią próbę w jego karierze; stąd tytuł: Final Fantasy. Gra odniosła ogromny sukces i umożliwiła rozwój licznych kontynuacji i spin-offów. Seria gier wideo rozwinęła się też w inne gatunki, takie jak taktyczne RPG, action RPG, MMORPG, gry muzyczne i wyścigowe.</systemDescription>
   </variables>
   <variables lang="pt">
-    <systemDescription>Veja e jogue os jogos Final Fantasy da sua coleção.</systemDescription>
+    <systemDescription>Final Fantasy (ファイナルファンタジ) é uma franquia multimédia criada por Hironobu Sakaguchi e desenvolvida, distribuída e propriedade da Square Enix (anteriormente conhecida como Squaresoft). A franquia centra-se numa série de jogos de vídeo RPG de fantasia e ficção científica.
+
+A série começou em 1987 com o videojogo homónimo, desenvolvido por Hironobu Sakaguchi como uma última tentativa na sua carreira; daí o título: Final Fantasy. O jogo foi um grande sucesso e permitiu o desenvolvimento de numerosas sequências e spin-offs. A série de videojogos adaptou-se a outros géneros, como RPGs táticos, action RPGs, MMORPGs, jogos musicais e de corridas.</systemDescription>
   </variables>
   <variables lang="ro">
-    <systemDescription>Vizualizați și jucați jocurile Final Fantasy din colecția dvs.</systemDescription>
+    <systemDescription>Final Fantasy (ファイナルファンタジ) este o franciză media creată de Hironobu Sakaguchi și dezvoltată, distribuită și deținută de Square Enix (anterior cunoscută ca Squaresoft). Franciza se concentrează pe o serie de jocuri video RPG cu tematică fantasy și science-fiction.
+
+Seria a început în 1987 cu jocul video omonim, dezvoltat de Hironobu Sakaguchi ca o ultimă încercare în cariera sa; de aici titlul: Final Fantasy. Jocul a avut un mare succes și a permis dezvoltarea multor continuări și spin-offuri. Seria de jocuri video s-a extins și către alte genuri, precum RPG-uri tactice, action RPG-uri, MMORPG-uri, jocuri muzicale și de curse.</systemDescription>
   </variables>
   <variables lang="ru">
-    <systemDescription>Просматривайте и играйте в игры Final Fantasy из вашей коллекции.</systemDescription>
+    <systemDescription>Final Fantasy (ファイナルファンタジ) — это медиа‑франшиза, созданная Хиронобу Сакагути и разработанная, изданная и принадлежащая компании Square Enix (ранее известной как Squaresoft). Франшиза сосредоточена на серии RPG‑видеоигр в жанрах фэнтези и научной фантастики.
+
+Серия началась в 1987 году с одноимённой видеоигры, разработанной Хиронобу Сакагути как последняя попытка в его карьере; отсюда и название: Final Fantasy. Игра имела большой успех и позволила разработку многочисленных сиквелов и спин‑оффов. Со временем серия видеоигр адаптировалась к другим жанрам, таким как тактические RPG, action‑RPG, MMORPG, музыкальные игры и гонки.</systemDescription>
   </variables>
   <variables lang="sr">
-    <systemDescription>Прегледајте и играјте Final Fantasy игре из ваше колекције.</systemDescription>
+    <systemDescription>Final Fantasy (ファイナルファンタジ) је медијска франшиза коју је створио Хиронобу Сакагучи, а коју развија, дистрибуира и поседује Square Enix (раније познат као Squaresoft). Франшиза се фокусира на серију RPG видео-игара у жанровима фантазије и научне фантастике.
+
+Серија је почела 1987. године са истоименом видео-игром коју је развио Хиронобу Сакагучи као последњи покушај у својој каријери; одакле и наслов: Final Fantasy. Игра је постигла велики успех и омогућила развој бројних наставка и спин-офова. Серија видео-игара проширила се и на друге жанрове, као што су тактички RPG-ови, акционе RPG-ове, MMORPG-ови, музичке игре и трке.</systemDescription>
   </variables>
   <variables lang="sv">
-    <systemDescription>Visa och spela Final Fantasy-spelen i din samling.</systemDescription>
+    <systemDescription>Final Fantasy (ファイナルファンタジ) är en mediefranchise skapad av Hironobu Sakaguchi och utvecklad, utgiven och ägd av Square Enix (tidigare känt som Squaresoft). Franchisen kretsar kring en serie fantasy- och science‑fiction‑inspirerade RPG‑videospel.
+
+Serien började 1987 med det självbetitlade videospelspelet, utvecklat av Hironobu Sakaguchi som ett sista försök i hans karriär; därav titeln: Final Fantasy. Spelet blev en stor framgång och möjliggjorde utvecklingen av många uppföljare och spin-offs. Videospelsserien har anpassats till andra genrer, såsom taktiska RPG, action‑RPG, MMORPG, musikspel och racingspel.</systemDescription>
   </variables>
   <variables lang="zh">
-    <systemDescription>查看并在您的收藏中游玩最终幻想系列游戏。</systemDescription>
+    <systemDescription>Final Fantasy (ファイナルファンタジ) 是由坂口博信创作、由史克威尔艾尼克斯（Square Enix，原名 Squaresoft）开发、发行并拥有的媒体系列。该系列以一系列奇幻与科幻题材的角色扮演（RPG）电子游戏为核心。
+
+该系列始于1987年的同名电子游戏，由坂口博信作为其职业生涯中的最后一搏开发；因此取名为 Final Fantasy。该游戏大获成功，使得随后开发众多续作与衍生作品成为可能。该电子游戏系列也逐渐扩展到其他类型，如策略类 RPG、动作 RPG、大型多人在线角色扮演游戏（MMORPG）、音乐类游戏和竞速类游戏。</systemDescription>
   </variables>
 </theme>

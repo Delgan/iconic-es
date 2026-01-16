@@ -2,6 +2,9 @@
   <variables>
     <systemName>Wario</systemName>
     <systemDescription>View and play the Wario Games in your collection.</systemDescription>
+    <systemDescription>Wario (ワリオ) is a fictional character in Nintendo video games who was originally designed as Mario's arch‑rival. He first appeared in Super Mario Land 2: 6 Golden Coins (1992) as the primary antagonist and final boss. His name is a blend of the name Mario and the Japanese word warui (悪い), which means "bad." Wario was designed by Hiroji Kiyotake, and was voiced by Charles Martinet from 1993 to 2023.
+
+  Wario has become the protagonist and antihero of the Wario Land and WarioWare video game series, spanning both home console and handheld markets. In addition to appearances in Mario franchise spin‑offs, he makes cameo appearances in Kirby Super Star Ultra, Densetsu no Stafy 3 and Pilotwings 64. He has also appeared in other media, such as the Super Mario Adventures graphic novel. The character has received largely positive critical reception and has become a well‑established mascot for Nintendo.</systemDescription>
     <systemManufacturer>Nintendo</systemManufacturer>
     <systemReleaseYear>${i18n.various}</systemReleaseYear>
     <systemHardwareType>${i18n.custom-collection}</systemHardwareType>
@@ -9,16 +12,24 @@
     <systemCartSize>1-1</systemCartSize>
   </variables>
   <variables lang="ar">
-    <systemDescription>شاهد والعب ألعاب واريو في مجموعتك</systemDescription>
+    <systemDescription>Wario (ワリオ) هو شخصية خيالية في ألعاب فيديو نينتندو صُممت في الأصل كمنافس شرس لماريو. ظهر لأول مرة في Super Mario Land 2: 6 Golden Coins (1992)، بصفته الخصم الرئيسي والزعم النهائي. اسمه مزيج من اسم Mario والكلمة اليابانية warui (悪い)، التي تعني «سيئ» أو «شرير». صممه Hiroji Kiyotake، وقد أدّى صوته Charles Martinet من 1993 حتى 2023.
+
+Wario تحول إلى بطل وقِصّي‑البطل (antihero) في سلسلتي ألعاب Wario Land وWarioWare، ممتداً عبر أسواق أجهزة الألعاب المنزلية والمحمولة. بالإضافة إلى الظهور في سبين‑أوفات من سلسلة ماريو، يظهر في لقطات خاطفة (cameo) في Kirby Super Star Ultra وDensetsu no Stafy 3 وPilotwings 64. كما ظهر في وسائل أخرى، مثل الرواية المصورة Super Mario Adventures. لقد لاقى الشخصية ترحيباً نقدياً إيجابياً إلى حد كبير وأصبح تميمة راسخة لشركة Nintendo.</systemDescription>
   </variables>
   <variables lang="bs">
-    <systemDescription>Pogledajte i igrajte Wario igre iz vaše kolekcije.</systemDescription>
+    <systemDescription>Wario (ワリオ) je izmišljeni lik iz Nintendo videoigara koji je izvorno dizajniran kao arčin-suparnik Marija. Pojavio se prvi put u Super Mario Land 2: 6 Golden Coins (1992) kao glavni antagonist i završni boss. Njegovo ime je mješavina imena Mario i japanske riječi warui (悪い), što znači „loš“. Wario je osmislio Hiroji Kiyotake, a glas mu je davao Charles Martinet od 1993. do 2023.
+
+Wario je postao protagonist i antiheroj serija Wario Land i WarioWare, obuhvaćajući tržišta kućnih i prijenosnih konzola. Osim nastupa u spin‑offovima franšize Mario, pojavljuje se u cameo ulogama u Kirby Super Star Ultra, Densetsu no Stafy 3 i Pilotwings 64. Također se pojavio u drugim medijima, poput grafičke novelе Super Mario Adventures. Lik je u velikoj mjeri dobio pozitivne kritike i postao dobro etablirana maskota za Nintendo.</systemDescription>
   </variables>
   <variables lang="ca">
-    <systemDescription>Visualitza i juga els jocs de Wario de la teva col·lecció.</systemDescription>
+    <systemDescription>Wario (ワリオ) és un personatge fictici dels videojocs de Nintendo que va ser dissenyat originalment com a gran rival de Mario. Va aparèixer per primera vegada a Super Mario Land 2: 6 Golden Coins (1992), com a antagonista principal i cap final. El seu nom és una barreja del nom Mario i de la paraula japonesa warui (悪い), que significa «dolent». Wario va ser dissenyat per Hiroji Kiyotake i va ser interpretat per Charles Martinet des de 1993 fins al 2023.
+
+Wario s'ha convertit en el protagonista i antiheroi de les sèries de videojocs Wario Land i WarioWare, abastant els mercats de consoles de sobretaula i portàtils. A més de les aparicions en spin‑offs de la franquícia Mario, apareix en cameos a Kirby Super Star Ultra, Densetsu no Stafy 3 i Pilotwings 64. També ha aparegut en altres mitjans, com la novel·la gràfica Super Mario Adventures. El personatge ha rebut, en gran mesura, una acollida crítica positiva i s'ha consolidat com una mascota ben establerta per a Nintendo.</systemDescription>
   </variables>
   <variables lang="de">
-    <systemDescription>Zeige und spiele die Wario-Spiele in deiner Sammlung.</systemDescription>
+    <systemDescription>Wario (ワリオ) ist eine fiktive Figur aus Nintendo‑Videospielen, die ursprünglich als Erzfeind von Mario entworfen wurde. Er trat erstmals in Super Mario Land 2: 6 Golden Coins (1992) als Hauptantagonist und Endgegner auf. Sein Name ist eine Mischung aus dem Namen Mario und dem japanischen Wort warui (悪い), das „schlecht“ bedeutet. Wario wurde von Hiroji Kiyotake entworfen und von Charles Martinet von 1993 bis 2023 gesprochen.
+
+Wario wurde zum Protagonisten und Antihelden der Spieleserien Wario Land und WarioWare, die sowohl den Heimkonsolen‑ als auch den Handheld‑Markt abdecken. Neben Auftritten in Spin‑offs der Mario‑Reihe hat er Cameo‑Auftritte in Kirby Super Star Ultra, Densetsu no Stafy 3 und Pilotwings 64. Er trat auch in anderen Medien auf, etwa in der Graphic Novel Super Mario Adventures. Die Figur erhielt überwiegend positive Kritiken und ist zu einer fest etablierten Maskottchenfigur für Nintendo geworden.</systemDescription>
   </variables>
   <variables lang="es">
     <systemDescription>Wario (ワリオ) es un personaje ficticio de los videojuegos de Nintendo que originalmente fue diseñado como archirrival de Mario. Apareció por primera vez en Super Mario Land 2: 6 Golden Coins (1992), como el principal antagonista y jefe final. Su nombre es una mezcla del nombre de Mario y la palabra japonesa warui (悪 い), que significa "malo". Wario fue diseñado por Hiroji Kiyotake, y fue interpretado por Charles Martinet desde 1993 hasta 2023.
@@ -26,42 +37,68 @@
 Wario se ha convertido en el protagonista y antihéroe de las series de videojuegos Wario Land y WarioWare, abarcando los mercados de consolas de mesa y portátiles. Además de las apariciones en spin-offs de la franquicia de Mario, aparece en cameos para Kirby Super Star Ultra, Densetsu no Stafy 3 y Pilotwings 64. También ha aparecido en otros medios, como la novela gráfica de Super Mario Adventures. El personaje ha tenido una recepción crítica en gran medida positiva y se ha convertido en una mascota bien establecida para Nintendo.</systemDescription>
   </variables>
   <variables lang="fr">
-    <systemDescription>Consultez y jouez aux jeux Wario de votre collection.</systemDescription>
+    <systemDescription>Wario (ワリオ) est un personnage fictif des jeux vidéo de Nintendo qui a été initialement conçu comme l'ennemi juré de Mario. Il est apparu pour la première fois dans Super Mario Land 2: 6 Golden Coins (1992), en tant que principal antagoniste et boss final. Son nom est un mélange du nom Mario et du mot japonais warui (悪い), qui signifie «mauvais». Wario a été conçu par Hiroji Kiyotake et a été interprété par Charles Martinet de 1993 à 2023.
+
+Wario est devenu le protagoniste et l'anti‑héros des séries de jeux Wario Land et WarioWare, couvrant les marchés des consoles de salon et portables. En plus d'apparitions dans des spin‑offs de la franchise Mario, il fait des caméos dans Kirby Super Star Ultra, Densetsu no Stafy 3 et Pilotwings 64. Il est également apparu dans d'autres médias, comme la bande dessinée Super Mario Adventures. Le personnage a reçu un accueil critique globalement positif et est devenu une mascotte bien établie pour Nintendo.</systemDescription>
   </variables>
   <variables lang="hr">
-    <systemDescription>Pogledajte i igrajte Wario igre iz vaše kolekcije.</systemDescription>
+    <systemDescription>Wario (ワリオ) je izmišljeni lik iz Nintendo videoigara koji je izvorno dizajniran kao glavni suparnik Marija. Pojavio se prvi put u Super Mario Land 2: 6 Golden Coins (1992) kao glavni antagonist i završni boss. Njegovo ime je spoj imena Mario i japanske riječi warui (悪い), što znači „loš“. Wario je dizajnirao Hiroji Kiyotake, a glas mu je davao Charles Martinet od 1993. do 2023.
+
+Wario je postao protagonist i antiheroj serija Wario Land i WarioWare, obuhvaćajući tržišta kućnih i prijenosnih konzola. Osim pojavljivanja u spin‑offovima franšize Mario, pojavljuje se u cameo ulogama u Kirby Super Star Ultra, Densetsu no Stafy 3 i Pilotwings 64. Također se pojavio u drugim medijima, poput grafičke novelе Super Mario Adventures. Lik je u velikoj mjeri dobio pozitivne kritike i postao dobro uspostavljena maskota za Nintendo.</systemDescription>
   </variables>
   <variables lang="it">
-    <systemDescription>Visualizza e gioca ai giochi di Wario nella tua collezione.</systemDescription>
+    <systemDescription>Wario (ワリオ) è un personaggio immaginario dei videogiochi Nintendo originariamente creato come arci‑rivale di Mario. È apparso per la prima volta in Super Mario Land 2: 6 Golden Coins (1992), come antagonista principale e boss finale. Il suo nome è una fusione del nome Mario e della parola giapponese warui (悪い), che significa «cattivo». Wario è stato ideato da Hiroji Kiyotake e interpretato da Charles Martinet dal 1993 al 2023.
+
+Wario è diventato il protagonista e anti‑eroe delle serie di videogiochi Wario Land e WarioWare, coprendo sia il mercato delle console domestiche che quello delle portatili. Oltre alle apparizioni in spin‑off del franchise di Mario, compare in cameo in Kirby Super Star Ultra, Densetsu no Stafy 3 e Pilotwings 64. È apparso anche in altri media, come la graphic novel Super Mario Adventures. Il personaggio ha ricevuto per lo più critiche positive ed è diventato una mascotte ben consolidata per Nintendo.</systemDescription>
   </variables>
   <variables lang="ja">
-    <systemDescription>あなたのコレクションにあるワリオのゲームを観てプレイしましょう。</systemDescription>
+    <systemDescription>Wario（ワリオ）は、もともとマリオの宿敵としてデザインされた任天堂の架空のビデオゲームキャラクターです。初出は『Super Mario Land 2: 6 Golden Coins』（1992年）で、主要な敵役かつ最終ボスとして登場しました。名前は Mario と日本語の単語 warui（悪い）を組み合わせた造語です。Wario は Hiroji Kiyotake によってデザインされ、1993年から2023年まで Charles Martinet が演じていました。
+
+Wario は『Wario Land』や『WarioWare』シリーズの主人公かつアンチヒーローとなり、据え置き機と携帯機の市場をまたいで展開しています。マリオシリーズのスピンオフ出演に加え、『Kirby Super Star Ultra』『Densetsu no Stafy 3』『Pilotwings 64』などにもカメオ出演しています。『Super Mario Adventures』のグラフィックノベルのような他媒体にも登場しています。キャラクターは概ね好意的な批評を受け、任天堂の確立されたマスコットの一つとなっています。</systemDescription>
   </variables>
   <variables lang="ko">
-    <systemDescription>저희가 엄선한 와리오 게임들을 감상하고 플레이해 보세요.</systemDescription>
+    <systemDescription>Wario (ワリオ)는 원래 마리오의 숙적으로 디자인된 닌텐도의 가공의 비디오게임 캐릭터입니다. 그는 1992년 Super Mario Land 2: 6 Golden Coins에서 처음 등장했으며 주요 악역이자 최종 보스로 등장했습니다. 이름은 Mario라는 이름과 일본어 단어 warui (悪い, '나쁜')의 합성어입니다. Wario는 Hiroji Kiyotake가 디자인했으며, 1993년부터 2023년까지 Charles Martinet가 목소리를 맡았습니다.
+
+Wario는 Wario Land와 WarioWare 시리즈의 주인공이자 안티히어로가 되어 가정용 및 휴대용 콘솔 시장을 아우르게 되었습니다. 마리오 프랜차이즈의 스핀오프 출연 외에도 Kirby Super Star Ultra, Densetsu no Stafy 3, Pilotwings 64 등에 카메오로 등장했습니다. 또한 Super Mario Adventures 그래픽 노블과 같은 다른 매체에도 출연했습니다. 이 캐릭터는 대체로 긍정적인 평을 받았으며 닌텐도의 확고한 마스코트가 되었습니다.</systemDescription>
   </variables>
   <variables lang="nl">
-    <systemDescription>Bekijk en speel de Wario-spellen in je collectie.</systemDescription>
+    <systemDescription>Wario (ワリオ) is een fictief personage uit Nintendo‑videospellen dat oorspronkelijk is ontworpen als aartsvijand van Mario. Hij verscheen voor het eerst in Super Mario Land 2: 6 Golden Coins (1992) als de hoofdantagonist en eindbaas. Zijn naam is een samenvoeging van de naam Mario en het Japanse woord warui (悪い), wat 'slecht' betekent. Wario is ontworpen door Hiroji Kiyotake en werd van 1993 tot 2023 ingesproken door Charles Martinet.
+
+Wario is de protagonist en anti‑held geworden van de spelseries Wario Land en WarioWare, die zowel de thuisconsole‑ als de handheldmarkt bestrijken. Naast optredens in spin‑offs van de Mario‑franchise heeft hij cameo's in Kirby Super Star Ultra, Densetsu no Stafy 3 en Pilotwings 64. Hij verscheen ook in andere media, zoals de graphic novel Super Mario Adventures. Het personage ontving overwegend positieve kritieken en is een goed gevestigd mascotte voor Nintendo geworden.</systemDescription>
   </variables>
   <variables lang="pl">
-    <systemDescription>Przeglądaj i graj w gry z serii Wario z twojej kolekcji.</systemDescription>
+    <systemDescription>Wario (ワリオ) to fikcyjna postać z gier wideo Nintendo, która pierwotnie została zaprojektowana jako arcy‑rywal Mario. Pojawił się po raz pierwszy w Super Mario Land 2: 6 Golden Coins (1992) jako główny antagonista i końcowy boss. Jego imię jest połączeniem imienia Mario oraz japońskiego słowa warui (悪い), które oznacza „zły”. Wario został zaprojektowany przez Hiroji Kiyotake, a głosu użyczał mu Charles Martinet w latach 1993–2023.
+
+Wario stał się protagonistą i antybohaterem serii Wario Land i WarioWare, obejmujących rynki konsol domowych i przenośnych. Oprócz występów w spin‑offach franczyzy Mario, pojawia się w cameo w Kirby Super Star Ultra, Densetsu no Stafy 3 i Pilotwings 64. Pojawił się także w innych mediach, takich jak komiksowa powieść graficzna Super Mario Adventures. Postać spotkała się przeważnie z pozytywnym odbiorem krytyków i stała się dobrze ugruntowaną maskotką Nintendo.</systemDescription>
   </variables>
   <variables lang="pt">
-    <systemDescription>Veja e jogue os jogos de Wario da sua coleção.</systemDescription>
+    <systemDescription>Wario (ワリオ) é um personagem fictício dos videojogos da Nintendo que foi originalmente concebido como arquirrival de Mario. Apareceu pela primeira vez em Super Mario Land 2: 6 Golden Coins (1992), como o antagonista principal e chefe final. O seu nome é uma mistura do nome Mario e da palavra japonesa warui (悪い), que significa «mau». Wario foi desenhado por Hiroji Kiyotake e foi interpretado por Charles Martinet entre 1993 e 2023.
+
+Wario tornou‑se protagonista e anti‑herói das séries Wario Land e WarioWare, abrangendo os mercados de consolas domésticas e portáteis. Para além das aparições em spin‑offs da franquia Mario, surge em cameos em Kirby Super Star Ultra, Densetsu no Stafy 3 e Pilotwings 64. Também apareceu noutros meios, como a banda desenhada Super Mario Adventures. A personagem recebeu, em grande parte, críticas positivas e tornou‑se uma mascote bem estabelecida da Nintendo.</systemDescription>
   </variables>
   <variables lang="ro">
-    <systemDescription>Vizualizați și jucați jocurile Wario din colecția dvs.</systemDescription>
+    <systemDescription>Wario (ワリオ) este un personaj fictiv din jocurile video Nintendo, care a fost creat inițial ca arhicros al lui Mario. A apărut pentru prima dată în Super Mario Land 2: 6 Golden Coins (1992), ca principalul antagonist și boss final. Numele său este o combinație între numele Mario și cuvântul japonez warui (悪い), care înseamnă „rău”. Wario a fost creat de Hiroji Kiyotake și a fost interpretat de Charles Martinet din 1993 până în 2023.
+
+Wario a devenit protagonistul și anti‑eroul seriilor de jocuri Wario Land și WarioWare, acoperind piețele consolelor de casă și portabile. Pe lângă aparițiile în spin‑offuri ale francizei Mario, el apare în cameo în Kirby Super Star Ultra, Densetsu no Stafy 3 și Pilotwings 64. A apărut și în alte medii, precum romanul grafic Super Mario Adventures. Personajul a fost în mare parte primit pozitiv de critici și a devenit o mascotă bine stabilită pentru Nintendo.</systemDescription>
   </variables>
   <variables lang="ru">
-    <systemDescription>Просматривайте и играйте игры серии Wario из вашей коллекции.</systemDescription>
+    <systemDescription>Wario (ワリオ) — вымышленный персонаж видеоигр Nintendo, который изначально был создан как заклятый соперник Марио. Впервые он появился в Super Mario Land 2: 6 Golden Coins (1992) в роли главного антагониста и финального босса. Его имя представляет собой смесь имени Mario и японского слова warui (悪い), что означает «плохой». Wario был разработан Hiroji Kiyotake и озвучивался Charles Martinet с 1993 по 2023 год.
+
+Wario стал протагонистом и антигероем серий Wario Land и WarioWare, охватывающих рынки домашних и портативных консолей. Помимо появлений в спин‑оффах франшизы Mario, он появляется в камео в Kirby Super Star Ultra, Densetsu no Stafy 3 и Pilotwings 64. Также он фигурировал в других медиа, таких как графический роман Super Mario Adventures. Персонаж получил в основном положительные отзывы критиков и стал хорошо зарекомендовавшим себя талисманом Nintendo.</systemDescription>
   </variables>
   <variables lang="sr">
-    <systemDescription>Прегледајте и играјте Wario игре из ваше колекције.</systemDescription>
+    <systemDescription>Wario (ワリオ) је измишљени лик из видео‑игара компаније Nintendo који је првобитно дизајниран као архи‑супарник Марија. Први пут се појавио у Super Mario Land 2: 6 Golden Coins (1992) као главни антагониста и крајњи бос. Његово име је мешавина имена Mario и јапанске речи warui (悪い), која значи „лош“. Wario је дизајнирао Hiroji Kiyotake, а глас му је давао Charles Martinet од 1993. до 2023.
+
+Wario је постао протагониста и антихерој серија Wario Land и WarioWare, обухватајући тржишта кућних и преносивих конзола. Поред појава у спин‑офовима франшизе Mario, има камео улоге у Kirby Super Star Ultra, Densetsu no Stafy 3 и Pilotwings 64. Такође се појавио у другим медијима, као графички роман Super Mario Adventures. Лик је у великој мери добио позитивне критике и постао добро успостављена маскота за Nintendo.</systemDescription>
   </variables>
   <variables lang="sv">
-    <systemDescription>Visa och spela Wario-spelen i din samling.</systemDescription>
+    <systemDescription>Wario (ワリオ) är en fiktiv karaktär i Nintendos videospel, ursprungligen skapad som Marios ärkefiende. Han dök upp första gången i Super Mario Land 2: 6 Golden Coins (1992) som huvudantagonist och slutboss. Hans namn är en blandning av namnet Mario och det japanska ordet warui (悪い), som betyder "dålig" eller "ond". Wario designades av Hiroji Kiyotake och gestaltades av Charles Martinet från 1993 till 2023.
+
+Wario har blivit huvudperson och antihjälte i spelserierna Wario Land och WarioWare, som täcker både marknaden för hemmakonsoler och handhållna konsoler. Förutom framträdanden i spin‑offs från Mario‑serien har han cameor i Kirby Super Star Ultra, Densetsu no Stafy 3 och Pilotwings 64. Han har också dykt upp i andra medier, såsom serieromanen Super Mario Adventures. Karaktären har fått övervägande positiv kritik och blivit en väl etablerad maskot för Nintendo.</systemDescription>
   </variables>
   <variables lang="zh">
-    <systemDescription>观看并畅玩您收藏的瓦里奥游戏。</systemDescription>
+    <systemDescription>Wario（ワリオ）是任天堂电子游戏中的一位虚构角色，最初被设定为马里奥的宿敌。1992年，他首次出现在《Super Mario Land 2: 6 Golden Coins》中，作为主要反派与最终Boss。其名字是 Mario 与日语单词 warui（悪い，“坏”）的结合。Wario 由 Hiroji Kiyotake 设计，1993 年至 2023 年由 Charles Martinet 配音。
+
+Wario 成为了《Wario Land》和《WarioWare》系列的主角与反英雄，覆盖了家用机和掌机市场。除在马里奥系列的衍生作品中出现外，他还曾在《Kirby Super Star Ultra》、《Densetsu no Stafy 3》和《Pilotwings 64》中客串。该角色也出现在其他媒介中，例如图像小说《Super Mario Adventures》。该角色总体上获得了积极评价，并已成为任天堂的一个重要吉祥物。</systemDescription>
   </variables>
 </theme>
