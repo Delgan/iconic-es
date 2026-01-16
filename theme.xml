@@ -12,9 +12,8 @@ Based on:   Iconic (ES-DE version) by Siddy212
     <include>./_inc/ui-components/theme-lang.xml</include>
     <include>./_inc/ui-components/theme-config.xml</include>
     <include>./_inc/ui-components/theme-variables.xml</include>
-    <!-- Set default description and cart size when none is available. -->
+    <!-- Set default cart size when none is available. -->
     <variables>
-        <systemDescription>View and play ${system.fullName}.</systemDescription>
         <systemCoverSize>1-1</systemCoverSize>
         <systemCartSize>1-1</systemCartSize>
     </variables>
