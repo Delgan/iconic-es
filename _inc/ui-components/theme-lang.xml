@@ -192,7 +192,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
     <variables lang="es">
         <systemDescription>Ver y jugar a ${system.fullName}.</systemDescription>
         <i18n.aspect-ratio>Relación de aspecto</i18n.aspect-ratio>
-        <i18n.automatic>Automaticó</i18n.automatic>
+        <i18n.automatic>Automático</i18n.automatic>
         <i18n.color-scheme>Esquema de color</i18n.color-scheme>
         <i18n.light>Claro</i18n.light>
         <i18n.dark>Oscuro</i18n.dark>
@@ -222,7 +222,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.hardware-console>Consola</i18n.hardware-console>
         <i18n.hardware-peripheral>Periférico</i18n.hardware-peripheral>
         <i18n.hardware-emulator>Emulador</i18n.hardware-emulator>
-        <i18n.hardware-os>OS</i18n.hardware-os>
+        <i18n.hardware-os>Sistema operativo</i18n.hardware-os>
     </variables>
     <variables lang="fr">
         <systemDescription>Voir et jouer à ${system.fullName}.</systemDescription>
