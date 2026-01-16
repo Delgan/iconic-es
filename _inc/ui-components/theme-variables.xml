@@ -18,10 +18,9 @@ here are then used by the UI components to adjust the appearance of the theme.
     </variables>
     <!-- Config: Distribution. -->
     <variables>
-        <distributionPath ifSubset="distribution:retrobat">~/.emulationstation/</distributionPath>
-        <distributionPath ifSubset="distribution:rocknix">~/roms/_userdata/</distributionPath>
-        <distributionPath ifSubset="distribution:batocera">/userdata/</distributionPath>
-        <themeCustomizationsPath>${distributionPath}theme-customizations/iconic/</themeCustomizationsPath>
+        <themeCustomizationsPath ifSubset="distribution:retrobat">~/.emulationstation/theme-customizations/iconic</themeCustomizationsPath>
+        <themeCustomizationsPath ifSubset="distribution:rocknix">/opt/roms/_userdata/theme-customizations/iconic</themeCustomizationsPath>
+        <themeCustomizationsPath ifSubset="distribution:batocera">/userdata/theme-customizations/iconic</themeCustomizationsPath>
     </variables>
     <!-- Config: Smooth Resize. -->
     <variables>

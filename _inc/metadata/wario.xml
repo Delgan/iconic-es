@@ -1,0 +1,67 @@
+<theme>
+  <variables>
+    <systemName>Wario</systemName>
+    <systemDescription>View and play the Wario Games in your collection.</systemDescription>
+    <systemManufacturer>Nintendo</systemManufacturer>
+    <systemReleaseYear>${i18n.various}</systemReleaseYear>
+    <systemHardwareType>${i18n.custom-collection}</systemHardwareType>
+    <systemCoverSize>1-1</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+  <variables lang="ar">
+    <systemDescription>شاهد والعب ألعاب واريو في مجموعتك</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>Pogledajte i igrajte Wario igre iz vaše kolekcije.</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>Visualitza i juga els jocs de Wario de la teva col·lecció.</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemDescription>Zeige und spiele die Wario-Spiele in deiner Sammlung.</systemDescription>
+  </variables>
+  <variables lang="es">
+    <systemDescription>Wario (ワリオ) es un personaje ficticio de los videojuegos de Nintendo que originalmente fue diseñado como archirrival de Mario. Apareció por primera vez en Super Mario Land 2: 6 Golden Coins (1992), como el principal antagonista y jefe final. Su nombre es una mezcla del nombre de Mario y la palabra japonesa warui (悪 い), que significa "malo". Wario fue diseñado por Hiroji Kiyotake, y fue interpretado por Charles Martinet desde 1993 hasta 2023.
+
+Wario se ha convertido en el protagonista y antihéroe de las series de videojuegos Wario Land y WarioWare, abarcando los mercados de consolas de mesa y portátiles. Además de las apariciones en spin-offs de la franquicia de Mario, aparece en cameos para Kirby Super Star Ultra, Densetsu no Stafy 3 y Pilotwings 64. También ha aparecido en otros medios, como la novela gráfica de Super Mario Adventures. El personaje ha tenido una recepción crítica en gran medida positiva y se ha convertido en una mascota bien establecida para Nintendo.</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>Consultez y jouez aux jeux Wario de votre collection.</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>Pogledajte i igrajte Wario igre iz vaše kolekcije.</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemDescription>Visualizza e gioca ai giochi di Wario nella tua collezione.</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>あなたのコレクションにあるワリオのゲームを観てプレイしましょう。</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>저희가 엄선한 와리오 게임들을 감상하고 플레이해 보세요.</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>Bekijk en speel de Wario-spellen in je collectie.</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>Przeglądaj i graj w gry z serii Wario z twojej kolekcji.</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>Veja e jogue os jogos de Wario da sua coleção.</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>Vizualizați și jucați jocurile Wario din colecția dvs.</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>Просматривайте и играйте игры серии Wario из вашей коллекции.</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>Прегледајте и играјте Wario игре из ваше колекције.</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>Visa och spela Wario-spelen i din samling.</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>观看并畅玩您收藏的瓦里奥游戏。</systemDescription>
+  </variables>
+</theme>

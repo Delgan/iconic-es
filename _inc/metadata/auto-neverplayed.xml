@@ -2,8 +2,8 @@
   <variables>
     <systemName>Never Played</systemName>
     <systemDescription>View and play every game you haven't played yet!</systemDescription>
-    <systemManufacturer>{i18n.various}</systemManufacturer>
-    <systemReleaseYear>{i18n.various}</systemReleaseYear>
+    <systemManufacturer>${i18n.various}</systemManufacturer>
+    <systemReleaseYear>${i18n.various}</systemReleaseYear>
     <systemHardwareType>${i18n.auto-collection}</systemHardwareType>
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
