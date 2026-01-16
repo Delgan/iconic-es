@@ -1,7 +1,7 @@
 <theme>
   <variables>
     <systemName>Kirby</systemName>
-    <systemDescription>View and play the Kirby Games in your collection.</systemDescription>
+    <systemDescription>Kirby (星のカービィ) is a series of action-platformer video games developed by HAL Laboratory and published by Nintendo. Most games in the series are side-scrolling platformers with puzzle-solving and combat elements. Kirby has the ability to inhale enemies and objects with his mouth, spitting them out as projectiles or swallowing them. If he inhales certain enemies, he can acquire their powers or properties, which manifest as a new weapon or buff called the Copy Ability. The series is designed to be easy to learn and play even for people unfamiliar with action games, while also offering additional challenge and depth to bring experienced players back.</systemDescription>
     <systemManufacturer>HAL Laboratory</systemManufacturer>
     <systemReleaseYear>${i18n.various}</systemReleaseYear>
     <systemHardwareType>${i18n.custom-collection}</systemHardwareType>
@@ -9,57 +9,57 @@
     <systemCartSize>1-1</systemCartSize>
   </variables>
   <variables lang="ar">
-    <systemDescription>شاهد والعب ألعاب كيربي في مجموعتك</systemDescription>
+    <systemDescription>Kirby (星のカービィ) هي سلسلة من ألعاب الفيديو من نوع الحركة والمنصات طورتها HAL Laboratory ونشرتها Nintendo. معظم ألعاب السلسلة عبارة عن منصات تمرير جانبي تحتوي على عناصر حل الألغاز والقتال. لدى Kirby القدرة على استنشاق الأعداء والأشياء بفمه، ثم بصقها كمقذوفات أو ابتلاعها. إذا استنشق بعض الأعداء، يمكنه الحصول على قواهم أو خواصهم، والتي تظهر كسلاح أو تعزيز جديد يسمى قدرة النسخ. تهدف السلسلة إلى أن تكون سهلة التعلم واللعب حتى للأشخاص غير المألوفين بألعاب الحركة، وفي نفس الوقت تقدم تحديًا وعمقًا إضافيًا لإعادة جذب اللاعبين الأكثر خبرة.</systemDescription>
   </variables>
   <variables lang="bs">
-    <systemDescription>Pogledajte i igrajte Kirby igre iz vaše kolekcije.</systemDescription>
+    <systemDescription>Kirby (星のカービィ) je serija akciono-platformskih videoigara koju je razvila HAL Laboratory, a objavila Nintendo. Većina igara u serijalu su platformeri bočnog skrolanja s elementima rješavanja zagonetki i borbe. Kirby ima sposobnost usisavati neprijatelje i predmete ustima, iskašljavati ih kao projektile ili ih progutati. Ako usisa određene neprijatelje, može steći njihove moći ili osobine, koje se manifestuju kao novo oružje ili pojačanje nazvano Sposobnost kopiranja. Serijal je osmišljen da bude jednostavan za učenje i igranje čak i za osobe koje nisu upoznate sa akcijskim igrama, istovremeno pružajući dodatni izazov i dubinu da vrati iskusnije igrače.</systemDescription>
   </variables>
   <variables lang="ca">
-    <systemDescription>Visualitza i juga els jocs de Kirby de la teva col·lecció.</systemDescription>
+    <systemDescription>Kirby (星のカービィ) és una sèrie de videojocs d'acció i plataformes desenvolupada per HAL Laboratory i publicada per Nintendo. La majoria de jocs de la sèrie són plataformes de desplaçament lateral amb elements de resolució de puzles i combat. Kirby té la capacitat d'inhalar enemics i objectes amb la boca, escopint-los com a projectils o empassant-los. Si inhala certs enemics, pot obtenir els seus poders o propietats, que es manifesten com una nova arma o potenciador anomenat Habilitat de Còpia. La sèrie està pensada perquè sigui fàcil d'aprendre i jugar fins i tot per a persones no familiaritzades amb els jocs d'acció, alhora que ofereix un desafiament i una profunditat addicionals perquè els jugadors més experimentats hi tornin.</systemDescription>
   </variables>
   <variables lang="de">
-    <systemDescription>Zeige und spiele die Kirby-Spiele in deiner Sammlung.</systemDescription>
+    <systemDescription>Kirby (星のカービィ) ist eine Reihe von Action-Platformer-Videospielen, die von HAL Laboratory entwickelt und von Nintendo veröffentlicht wurde. Die meisten Spiele der Reihe sind seitlich scrollende Plattformspiele mit Elementen zur Rätsellösung und zum Kampf. Kirby hat die Fähigkeit, Gegner und Gegenstände mit dem Mund einzuatmen, sie als Projektile auszuspeien oder zu verschlucken. Wenn er bestimmte Gegner inhalieren kann, erlangt er deren Kräfte oder Eigenschaften, die sich als neue Waffe oder Verstärkung namens Kopierfähigkeit manifestieren. Die Reihe ist so konzipiert, dass sie leicht zu erlernen und zu spielen ist — auch für Personen, die mit Actionspielen nicht vertraut sind — und gleichzeitig zusätzliche Herausforderung und Tiefe bietet, damit erfahrene Spieler zurückkehren.</systemDescription>
   </variables>
   <variables lang="es">
-    <systemDescription>Kirby (星のカービィ, lit. Kirby de las estrellas) es una serie de videojuegos de acción y plataformas desarrollada por HAL Laboratory y publicada por Nintendo. La mayoría de los juegos de la serie son plataformas de desplazamiento lateral con elementos de resolución de rompecabezas y lucha. Kirby tiene la habilidad de inhalar enemigos y objetos con la boca, escupiéndolos como proyectiles o comiéndolos. Si inhala a ciertos enemigos, puede obtener sus poderes o propiedades, que se manifiestan como una nueva arma o potenciador llamado Habilidad de Copia. La serie está pensada para que sea fácil de aprender y jugar incluso para personas no familiarizadas con los juegos de acción, al mismo tiempo que ofrece un desafío y una profundidad adicionales para que los jugadores más experimentados regresen.</systemDescription>
+    <systemDescription>Kirby (星のカービィ) es una serie de videojuegos de acción y plataformas desarrollada por HAL Laboratory y publicada por Nintendo. La mayoría de los juegos de la serie son plataformas de desplazamiento lateral con elementos de resolución de rompecabezas y lucha. Kirby tiene la habilidad de inhalar enemigos y objetos con la boca, escupiéndolos como proyectiles o comiéndolos. Si inhala a ciertos enemigos, puede obtener sus poderes o propiedades, que se manifiestan como una nueva arma o potenciador llamado Habilidad de Copia. La serie está pensada para que sea fácil de aprender y jugar incluso para personas no familiarizadas con los juegos de acción, al mismo tiempo que ofrece un desafío y una profundidad adicionales para que los jugadores más experimentados regresen.</systemDescription>
   </variables>
   <variables lang="fr">
-    <systemDescription>Consultez y jouez aux jeux Kirby de votre collection.</systemDescription>
+    <systemDescription>Kirby (星のカービィ) est une série de jeux vidéo d'action et de plateforme développée par HAL Laboratory et publiée par Nintendo. La plupart des jeux de la série sont des platformers à défilement latéral avec des éléments de résolution d'énigmes et de combat. Kirby a la capacité d'aspirer les ennemis et les objets avec sa bouche, de les recracher comme projectiles ou de les avaler. S'il aspire certains ennemis, il peut obtenir leurs pouvoirs ou propriétés, qui se manifestent sous la forme d'une nouvelle arme ou d'un bonus appelé Capacité de Copie. La série est conçue pour être facile à apprendre et à jouer même pour les personnes peu familières avec les jeux d'action, tout en offrant un défi et une profondeur supplémentaires pour fidéliser les joueurs les plus expérimentés.</systemDescription>
   </variables>
   <variables lang="hr">
-    <systemDescription>Pogledajte i igrajte Kirby igre iz vaše kolekcije.</systemDescription>
+    <systemDescription>Kirby (星のカービィ) je serija akciono-platformskih videoigara koju je razvila HAL Laboratory, a objavila Nintendo. Većina igara u serijalu su platformeri bočnog pomaka s elementima rješavanja zagonetki i borbe. Kirby ima sposobnost udisati neprijatelje i predmete ustima, izbacivati ih kao projektile ili ih progutati. Ako udahne određene neprijatelje, može dobiti njihove moći ili osobine, koje se manifestiraju kao novo oružje ili pojačanje nazvano Sposobnost kopiranja. Serijal je zamišljen da bude lagan za učenje i igranje čak i za osobe koje nisu upoznate s akcijskim igrama, a istovremeno nudi dodatni izazov i dubinu da privuče iskusnije igrače natrag.</systemDescription>
   </variables>
   <variables lang="it">
-    <systemDescription>Visualizza e gioca ai giochi di Kirby nella tua collezione.</systemDescription>
+    <systemDescription>Kirby (星のカービィ) è una serie di videogiochi d'azione e platform sviluppata da HAL Laboratory e pubblicata da Nintendo. La maggior parte dei giochi della serie sono platform a scorrimento laterale con elementi di risoluzione di puzzle e combattimento. Kirby ha la capacità di aspirare nemici e oggetti con la bocca, sputarli come proiettili o inghiottirli. Se aspira determinati nemici, può acquisire i loro poteri o proprietà, che si manifestano come una nuova arma o potenziamento chiamato Abilità Copia. La serie è pensata per essere facile da imparare e da giocare anche per chi non è familiare con i giochi d'azione, offrendo allo stesso tempo una sfida e una profondità aggiuntive per far tornare i giocatori più esperti.</systemDescription>
   </variables>
   <variables lang="ja">
-    <systemDescription>あなたのコレクションからカービィのゲームを視聴したりプレイしたりしましょう。</systemDescription>
+    <systemDescription>Kirby（星のカービィ）は、HAL研究所が開発し任天堂が発売するアクション・プラットフォームゲームのシリーズです。シリーズのほとんどの作品は横スクロールのプラットフォームゲームで、パズル解決や戦闘の要素を含んでいます。カービィは口で敵や物を吸い込み、それを弾として吐き出したり、飲み込んだりする能力を持っています。特定の敵を吸い込むと、その敵の能力や性質を得られ、それは「コピー能力」と呼ばれる新しい武器や強化として表れます。本シリーズは、アクションゲームに不慣れな人でも学びやすく遊びやすいことを意図しつつ、経験者が戻ってくるための追加の挑戦や奥深さも提供しています。</systemDescription>
   </variables>
   <variables lang="ko">
-    <systemDescription>소장하고 있는 커비 게임들을 감상하고 플레이하세요.</systemDescription>
+    <systemDescription>Kirby (星のカービィ)는 HAL Laboratory에서 개발하고 Nintendo에서 발매한 액션 플랫폼 비디오 게임 시리즈입니다. 시리즈의 대부분 게임은 퍼즐 해결과 전투 요소가 포함된 횡스크롤 플랫폼 게임입니다. Kirby는 입으로 적과 물체를 빨아들인 뒤, 탄환처럼 뱉거나 삼킬 수 있는 능력을 가지고 있습니다. 특정 적을 흡입하면 그들의 능력이나 특성을 얻을 수 있으며, 이는 '복사 능력'이라 불리는 새로운 무기나 버프로 나타납니다. 이 시리즈는 액션 게임에 익숙하지 않은 사람들도 배우고 플레이하기 쉽도록 설계되었으면서도, 숙련된 플레이어들이 돌아오게 할 추가적인 도전과 깊이를 제공합니다.</systemDescription>
   </variables>
   <variables lang="nl">
-    <systemDescription>Bekijk en speel de Kirby-spellen in je collectie.</systemDescription>
+    <systemDescription>Kirby (星のカービィ) is een serie action-platformvideogames ontwikkeld door HAL Laboratory en uitgegeven door Nintendo. De meeste spellen in de serie zijn zijwaarts scrollende platformers met puzzeloplossende en gevechtselementen. Kirby heeft de mogelijkheid vijanden en objecten met zijn mond in te zuigen, ze uit te spugen als projectielen of ze door te slikken. Als hij bepaalde vijanden inzuigt, kan hij hun krachten of eigenschappen verkrijgen, die zich manifesteren als een nieuw wapen of versterking genaamd de Kopieer-Vaardigheid. De serie is ontworpen om makkelijk te leren en te spelen te zijn, zelfs voor mensen die niet vertrouwd zijn met actiegames, terwijl het tegelijkertijd extra uitdaging en diepgang biedt zodat ervaren spelers terugkomen.</systemDescription>
   </variables>
   <variables lang="pl">
-    <systemDescription>Przeglądaj i graj w gry z serii Kirby z twojej kolekcji.</systemDescription>
+    <systemDescription>Kirby (星のカービィ) to seria gier wideo z gatunku akcji i platformówek opracowana przez HAL Laboratory i wydana przez Nintendo. Większość gier z serii to platformówki przewijane bocznie z elementami rozwiązywania zagadek i walki. Kirby potrafi wciągać wrogów i przedmioty ustami, pluć nimi jako pociskami lub je połykać. Jeśli wciągnie określonych przeciwników, może przejąć ich moce lub właściwości, które przejawiają się jako nowa broń lub wzmocnienie zwane Zdolnością Kopiowania. Seria została zaprojektowana tak, aby była łatwa do nauczenia się i grania nawet dla osób nieobeznanych z grami akcji, a jednocześnie oferuje dodatkowe wyzwania i głębię, by przyciągnąć z powrotem bardziej doświadczonych graczy.</systemDescription>
   </variables>
   <variables lang="pt">
-    <systemDescription>Veja e jogue os jogos de Kirby da sua coleção.</systemDescription>
+    <systemDescription>Kirby (星のカービィ) é uma série de videojogos de ação e plataformas desenvolvida pela HAL Laboratory e publicada pela Nintendo. A maioria dos jogos da série são plataformas com scroll lateral com elementos de resolução de puzzles e combates. Kirby tem a capacidade de inalar inimigos e objetos com a boca, cuspindo-os como projéteis ou engolindo-os. Se inalar certos inimigos, pode obter os seus poderes ou propriedades, que se manifestam como uma nova arma ou potenciador chamado Habilidade de Cópia. A série foi pensada para ser fácil de aprender e jogar mesmo para pessoas não familiarizadas com jogos de ação, ao mesmo tempo que oferece desafio e profundidade adicionais para que jogadores mais experientes regressem.</systemDescription>
   </variables>
   <variables lang="ro">
-    <systemDescription>Vizualizați și jucați jocurile Kirby din colecția dvs.</systemDescription>
+    <systemDescription>Kirby (星のカービィ) este o serie de jocuri video de acțiune și platformă dezvoltată de HAL Laboratory și publicată de Nintendo. Majoritatea jocurilor din serie sunt platformere cu derulare laterală, cu elemente de rezolvare a puzzle-urilor și lupte. Kirby are abilitatea de a inhala inamici și obiecte cu gura, scuipându-le ca proiectile sau înghițindu-le. Dacă inhalează anumiți inamici, poate obține puterile sau proprietățile acestora, care se manifestă ca o nouă armă sau îmbunătățire numită Abilitatea de Copiere. Seria este concepută pentru a fi ușor de învățat și de jucat chiar și pentru persoanele neinițiate în jocurile de acțiune, oferind în același timp provocări și profunzime suplimentare pentru a-i readuce pe jucătorii mai experimentați.</systemDescription>
   </variables>
   <variables lang="ru">
-    <systemDescription>Просматривайте и играйте игры серии Kirby из вашей коллекции.</systemDescription>
+    <systemDescription>Kirby (星のカービィ) — серия приключенческих платформенных видеоигр в жанре экшн, разработанная HAL Laboratory и изданная Nintendo. Большинство игр серии — это сайд-скроллеры с элементами решения головоломок и боёв. У Kirby есть способность вдыхать врагов и предметы ртом, выплёвывать их как снаряды или проглатывать. Если он вдыхает определённых врагов, он может получить их силы или свойства, которые проявляются как новое оружие или усиление, называемое Способностью копирования. Серия задумана так, чтобы её было легко освоить и играть даже тем, кто не знаком с экшен-играми, и одновременно предлагала дополнительный вызов и глубину, чтобы вернуть опытных игроков.</systemDescription>
   </variables>
   <variables lang="sr">
-    <systemDescription>Прегледајте и играјте Kirby игре из ваше колекције.</systemDescription>
+    <systemDescription>Kirby (星のカービィ) је серија акционих платформских видео-игара коју је развио HAL Laboratory, а објавила Nintendo. Већина игара из серије су платформери са бочним скроловањем који садрже елементе решавања загонетки и борбе. Kirby има способност да усисава непријатеље и предмете устима, испљуне их као пројектиле или их прогута. Ако усиса одређене непријатеље, може преузети њихове моћи или особине, које се манифестују као ново оружје или појачање које се зове Способност копирања. Серија је осмишљена да буде лако научива и играна чак и за људе који нису упознати са акционим играма, а истовремено нуди додатни изазов и дубину који враћају искусније играче.</systemDescription>
   </variables>
   <variables lang="sv">
-    <systemDescription>Visa och spela Kirby-spelen i din samling.</systemDescription>
+    <systemDescription>Kirby (星のカービィ) är en serie action-plattformsspel utvecklade av HAL Laboratory och utgivna av Nintendo. De flesta spelen i serien är sidscrollande plattformsspel med pussel- och stridselement. Kirby har förmågan att andas in fiender och föremål med munnen, spotta ut dem som projektiler eller svälja dem. Om han andas in vissa fiender kan han få deras krafter eller egenskaper, vilka manifesterar sig som ett nytt vapen eller förstärkning kallad Kopieringsförmåga. Serien är utformad för att vara lätt att lära sig och spela även för personer som inte är bekanta med actionspel, samtidigt som den erbjuder ytterligare utmaning och djup för att få erfarna spelare att återvända.</systemDescription>
   </variables>
   <variables lang="zh">
-    <systemDescription>观看并畅玩您的 Kirby 游戏收藏。</systemDescription>
+    <systemDescription>Kirby（星のカービィ）是由HAL Laboratory开发、任天堂发行的动作平台类视频游戏系列。系列的大多数游戏为横向卷轴的平台游戏，包含解谜与战斗元素。卡比具有用嘴吸入敌人和物体的能力，可以将它们吐出作为弹丸或吞下。如果吸入特定敌人，卡比可以获得其能力或特性，这些能力会以名为“复制能力”的新武器或强化形式呈现。该系列设计目标是即使对动作游戏不熟悉的人也能轻松上手与游玩，同时为资深玩家提供额外的挑战和深度，吸引他们回归。</systemDescription>
   </variables>
 </theme>
