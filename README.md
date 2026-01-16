@@ -72,14 +72,13 @@ The artwork used on the system view can be customized with your own images.
 
 Custom overlays can be added to help make images pop.
 
-* If you do not have an overlay for a system, you must use a fully transparent image (you can use [this one](_inc/other/fully-transparent-overlay.webp)).
+* Copy your custom overlay images to the `overlays` folder previously created.
 * The images must be of 1920x1080 resolution.
-* Copy your custom overlay images (or the transparent ones) to the `overlays` folder previously created.
 * They should be named either (in order of precedence):
     - `${system.theme}.webp`
     - `${system.theme}.png`
 * As above, the `${system.theme}` variable corresponds to the system you are looking to override. This also applies to the transparent default overlay.
-* If a given system image is not found, then it should fallback to the fully transparent overlay.
+* If a given system image is not found, then it will automatically fallback to a fully transparent overlay (if a custom background is present).
 
 ## Acknowledgments
 
