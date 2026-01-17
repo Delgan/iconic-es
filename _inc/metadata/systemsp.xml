@@ -1,0 +1,13 @@
+<theme>
+  <variables>
+    <systemName>System SP</systemName>
+    <systemDescription>The Sega System SP, also known as the Aurora, is an arcade system board developed by Sega. It is essentially a “Dreamcast-on-a-chip,” featuring the same SH-4 CPU and PowerVR2 GPU as the Sega Dreamcast console. This system was designed to be versatile, supporting various arcade game formats and configurations.
+
+It was used in a range of arcade games, including some that involved gambling, ticket redemption, and children’s attractions. The Sega System SP was manufactured until 2014 and is notable for its compact and efficient design.</systemDescription>
+    <systemManufacturer>Sega</systemManufacturer>
+    <systemReleaseYear>2004</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-emulator}</systemHardwareType>
+    <systemCoverSize>1-1</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>

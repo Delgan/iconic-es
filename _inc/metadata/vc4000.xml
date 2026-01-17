@@ -1,0 +1,15 @@
+<theme>
+  <variables>
+    <systemName>VC 4000</systemName>
+    <systemDescription>The Interton Video Computer 4000 (officially abbreviated as Interton VC 4000) is an early 8-bit ROM cartridge-based second-generation home video game console that was released in Germany, England, France, Spain, Austria, the Netherlands and Australia in 1978 by German hearing aid manufacturer Interton. The console is the successor of the Interton Video 3001 and was sold for 298 Deutsche Mark and discontinued in 1983.
+
+The Interton VC 4000's power comes from a Signetics 2650 CPU (which is the same as an Arcadia 2001) and a Signetics 2636 gaming controller. Both controllers contain a 12-button keypad, two fire buttons, and a joystick. Inside the systems control panel, there are four different buttons. The ON/OFF switch, RESET, SELECT, and START.
+
+The console was produced by different companies and sold with different names. Not every console is compatible with others due to differences in the shapes and dimensions of the cartridge slots, but all of the systems are software compatible.</systemDescription>
+    <systemManufacturer>Interton</systemManufacturer>
+    <systemReleaseYear>1978</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-console}</systemHardwareType>
+    <systemCoverSize>1-1</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>

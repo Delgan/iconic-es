@@ -1,0 +1,13 @@
+<theme>
+  <variables>
+    <systemName>DXX-Rebirth</systemName>
+    <systemDescription>DXX-Rebirth is an open-source source port of the Descent and Descent II game engines, with some key features such as improved OpenGL graphics and effects, advanced multiplayer, stability and enhancements.
+
+DXX-Rebirth preserves the classic Descent gameplay while offering modern features and compatibility.</systemDescription>
+    <systemManufacturer>Zico</systemManufacturer>
+    <systemReleaseYear>2005</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-port}</systemHardwareType>
+    <systemCoverSize>1-1</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>

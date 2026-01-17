@@ -1,0 +1,13 @@
+<theme>
+  <variables>
+    <systemName>Plug &amp; Play TV Games</systemName>
+    <systemDescription>TV game (TV game for short) or plug and play game (plug-'n'-play game for short) is an interactive entertainment device designed for use on a television set that integrates the video game console with the game controller.
+
+The term "TV game" can be used to refer to any number of self-contained, portable game systems operating on either batteries or an electronic power supply which plugs directly into a TV or VCR. The game software is built directly into the unit, which is typically designed to look like a toy or classic game console/controller with the addition of two AV ports. These systems usually contain either highly specialized games or activities, or a collection of classic games. Thus, it could be viewed as a video game console without interchangeable game software. As the game software is integrated into the game unit and almost never designed to be changed by the user, these game systems are typically sold by retailers as electronic toys or collectibles rather than game consoles.</systemDescription>
+    <systemManufacturer>Various</systemManufacturer>
+    <systemReleaseYear>1998</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-console}</systemHardwareType>
+    <systemCoverSize>1-1</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>

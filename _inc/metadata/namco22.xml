@@ -1,0 +1,15 @@
+<theme>
+  <variables>
+    <systemName>System 22</systemName>
+    <systemDescription>The Namco System 22 is the successor to the Namco System 21 arcade system board. It debuted in 1992 with Sim Drive in Japan, followed by a worldwide debut in 1993 with Ridge Racer.
+
+The System 22 was designed by Namco with assistance from graphics &amp; simulation company Evans &amp; Sutherland. Graphical features include texture mapping, Gouraud shading, transparency effects, and depth cueing, thanks to the Evans &amp; Sutherland 'TR3' chip/chipset, which stands for: Texture Mapping, Real-Time, Real-Visual, Rendering System. The main CPU provides a scene description to the TR3 graphics processing unit and a bank of DSP chips which perform 3D calculations.
+
+A variant of the system, called the Super System 22, was released in 1995. The hardware was largely similar to the System 22, but with a slightly higher polygon rate and more special effects possible.</systemDescription>
+    <systemManufacturer>Namco</systemManufacturer>
+    <systemReleaseYear>1993</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-emulator}</systemHardwareType>
+    <systemCoverSize>1-1</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>

@@ -1,0 +1,11 @@
+<theme>
+  <variables>
+    <systemName>ioRTCW</systemName>
+    <systemDescription>ioRTCW is an open source project that aims to create a base version of Return to Castle Wolfenstein, which can be used for further development and improvement. For example, fixing bugs of the original, provide support for widescreen resolutions and 64 bit systems, improve graphics and much more.</systemDescription>
+    <systemManufacturer>Return to Castle Wolfenstein</systemManufacturer>
+    <systemReleaseYear>2014</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-port}</systemHardwareType>
+    <systemCoverSize>1-1</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>

@@ -1,0 +1,16 @@
+<theme>
+  <variables>
+    <systemName>Lynx</systemName>
+    <systemDescription>The Lynx was an 8-bit British home computer that was first released in early 1983 as a 48 kB model. Several models were available with 48 kB, 96 kB or 128 kB RAM. It was possible to reach 192 kB with RAM expansions on board.
+
+The machine was based around a Z80A CPU clocked at 4 MHz (6 MHz for the 128/192 kB models) and featured a Motorola 6845 as video controller. It was possible to run CP/M with the optional 5.25" floppy disk-drive on the 96 kB and 128 kB models.
+
+The computer always ran in "high" resolution graphics mode (256x252 pixels in eight colours) using 6 times 10 pixels characters. For sound it had a simple (6 bit) DAC. A comparator was included to serve as an ADC (primarily used for reading from tape drives).
+Compared to, for example, the Commodore 64, the BASIC was more extensive and faster and resolution of graphics was better; but computer games on the other hand suffered from the special implementation and lack of hardware for sound and sprites.</systemDescription>
+    <systemManufacturer>Camputers</systemManufacturer>
+    <systemReleaseYear>1983</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-computer}</systemHardwareType>
+    <systemCoverSize>1-1</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>

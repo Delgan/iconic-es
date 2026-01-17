@@ -1,0 +1,11 @@
+<theme>
+  <variables>
+    <systemName>Raze</systemName>
+    <systemDescription>Raze is a fork of Build engine games backed by GZDoom tech and combines Duke Nukem 3D, Blood, Redneck Rampage, Shadow Warrior and Exhumed/Powerslave in a single package. It is also capable of playing Nam and WW2 GI.</systemDescription>
+    <systemManufacturer>Graf Zah</systemManufacturer>
+    <systemReleaseYear>2021</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-engine}</systemHardwareType>
+    <systemCoverSize>1-1</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>

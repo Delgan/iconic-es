@@ -1,0 +1,11 @@
+<theme>
+  <variables>
+    <systemName>Game Boy Color (2 Players)</systemName>
+    <systemDescription>The Nintendo Game Link Cable is an accessory for the Game Boy line of handheld video game systems, allowing players to connect Game Boy's of all types for multiplayer play. Depending on the games, the Game Link Cable can be used to connect two games with the same title, such as Tetris, or two compatible games, such as Pokémon Red and Blue. Games can be linked together to compete, cooperate, trade items, unlock hidden features, etc.</systemDescription>
+    <systemManufacturer>Nintendo</systemManufacturer>
+    <systemReleaseYear>1998</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-portable}</systemHardwareType>
+    <systemCoverSize>1-1</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>

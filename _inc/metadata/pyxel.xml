@@ -1,0 +1,13 @@
+<theme>
+  <variables>
+    <systemName>Pyxel</systemName>
+    <systemDescription>Pyxel is a retro game engine for Python. Thanks to its simple specifications inspired by retro gaming consoles, such as only 16 colors can be displayed and only 4 sounds can be played back at the same time, you can feel free to enjoy making pixel art style games.
+
+Pyxel's specifications and APIs are inspired by PICO-8 and TIC-80.</systemDescription>
+    <systemManufacturer>Takashi Kitao</systemManufacturer>
+    <systemReleaseYear>2021</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-engine}</systemHardwareType>
+    <systemCoverSize>1-1</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>

@@ -1,0 +1,14 @@
+<theme>
+  <variables>
+    <systemName>Hurrican</systemName>
+    <systemDescription>Inspired by the epic Turrican game series, Hurrican stays by all means true to the original game while still being highly innovative.
+Blast your way through myriads of enemies, explore the secrets of nine massive worlds and collect tons of powerups to increase your firepower in this highly explosive Run and Gun arcade game.
+
+Hurrican is THE ultimate “Turrican Mega-Mix”, taking ideas from several installements of the original franchise while at the same time expanding on it’s universe.</systemDescription>
+    <systemManufacturer>Poke53280</systemManufacturer>
+    <systemReleaseYear>1990</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-port}</systemHardwareType>
+    <systemCoverSize>1-1</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>

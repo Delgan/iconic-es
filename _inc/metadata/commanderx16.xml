@@ -1,0 +1,14 @@
+<theme>
+  <variables>
+    <systemName>Commander X16</systemName>
+    <systemDescription>The Commander X16 is a modern 8-bit computer designed by David Murray, also known as "The 8-Bit Guy." It aims to capture the simplicity and charm of classic 8-bit computers like the Commodore 64 while providing enhanced capabilities and modern conveniences.
+
+The X16 features a WDC 65C02 CPU running at 8 MHz, up to 2 MB of RAM, and a VERA video and audio chip that supports high-resolution graphics and advanced sound.
+It runs a custom version of BASIC and includes a variety of expansion options, making it a versatile platform for retro computing enthusiasts and hobbyists.</systemDescription>
+    <systemManufacturer>The 8-Bit Guy</systemManufacturer>
+    <systemReleaseYear>2018</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-computer}</systemHardwareType>
+    <systemCoverSize>1-1</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>

@@ -1,0 +1,13 @@
+<theme>
+  <variables>
+    <systemName>REminiscence</systemName>
+    <systemDescription>REminiscence is a game engine recreation of the 1992/1993 action adventure game Flashback made by Delphine Software.
+
+It is the spiritual successor of Another World/Out Of This World and it distinguishes itself with rotoscoped graphics, polygonal cutscenes, and a Prince of Persia-style gameplay system.</systemDescription>
+    <systemManufacturer>Alex Chermenin</systemManufacturer>
+    <systemReleaseYear>2020</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-engine}</systemHardwareType>
+    <systemCoverSize>1-1</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>

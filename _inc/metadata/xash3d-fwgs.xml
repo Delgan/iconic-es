@@ -1,0 +1,12 @@
+<theme>
+  <variables>
+    <systemName>Xash3D FWGS</systemName>
+    <systemDescription>Xash3D FWGS is a fork of Xash3D Engine, compatible with GoldSrc engine.
+Allows to play Half-Life out-of-the-box and other Half-Life based modifications, with many new features: high portability, advanced multiplayer, touchscreen &amp; gamepad support and much more.</systemDescription>
+    <systemManufacturer>Flying With Gauss</systemManufacturer>
+    <systemReleaseYear>2019</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-engine}</systemHardwareType>
+    <systemCoverSize>1-1</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>

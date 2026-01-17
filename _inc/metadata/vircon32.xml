@@ -1,0 +1,14 @@
+<theme>
+  <variables>
+    <systemName>Vircon32</systemName>
+    <systemDescription>The Vircon32 is a virtual 32-bit game console designed to be simple yet powerful enough to support full, elaborate games. It features a 15 MHz CPU with floating point support, 16 MB of RAM, and a screen resolution of 640 x 360 pixels with true color.
+
+The console supports rotation, scaling, and transparencies, and offers CD-quality stereo sound with 16 channels. It can handle up to 4 gamepads with 6 buttons each, plus a Start button.
+The Vircon32 is designed to be implemented either in software or hardware, making it a versatile platform for both developers and gamers</systemDescription>
+    <systemManufacturer>Carra</systemManufacturer>
+    <systemReleaseYear>2021</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-engine}</systemHardwareType>
+    <systemCoverSize>1-1</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>

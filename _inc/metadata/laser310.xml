@@ -1,0 +1,11 @@
+<theme>
+  <variables>
+    <systemName>Laser 310</systemName>
+    <systemDescription>VTech Laser 310 (also known as VZ-310). It is an all-in-one computer with a Z80, 3.54 MHz microprocessor. VTech (short for Video Technology Ltd.) was a Hong Kong electronics company that also sold the Laser in other countries through various retail chains. The Laser 310 was sold by Dick Smith Electronics , for example, so instead of VTech the Laser 310 was then called the Dick Smith Laser VZ-310 or VZ-310 for short (sold from 1983 to 1989). The Laser 310 is comparable to the previous model Laser200 (VZ-200), except for a modified keyboard and a rather unusual memory size of 18 KiB (2 KiB of which is video RAM) and is fully compatible with it. The machine ran basic games on the cartridge, such as Hoppy (Frogger's version), Cosmic Rescue (Scramble), VZ Invaders (Space Invaders), Dawn Patrol (Chopper) and Moon Patrol.</systemDescription>
+    <systemManufacturer>VTech</systemManufacturer>
+    <systemReleaseYear>1983</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-computer}</systemHardwareType>
+    <systemCoverSize>1-1</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>

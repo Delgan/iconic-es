@@ -1,0 +1,15 @@
+<theme>
+  <variables>
+    <systemName>BStone</systemName>
+    <systemDescription>BStone is a source port of the Blake Stone games that runs on Windows, Linux, and Mac OS X. The port was released in 2013 by Boris Bendovsky, after Planet Strike's source code was released by Apogee Software.
+
+Originally only supporting Planet Strike, the port was later updated to include support for Aliens of Gold (both shareware and full versions).
+
+The port adds new and enhanced options that are not available in the vanilla Blake Stone engine, such as an "always run" option and support for high resolutions, including high resolution rendering of the game world.</systemDescription>
+    <systemManufacturer>Boris Bendovsky</systemManufacturer>
+    <systemReleaseYear>2013</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-port}</systemHardwareType>
+    <systemCoverSize>1-1</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>

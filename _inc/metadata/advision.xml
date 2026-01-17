@@ -1,0 +1,16 @@
+<theme>
+  <variables>
+    <systemName>Adventure Vision</systemName>
+    <systemDescription>Entex Adventure Vision or Adventure Vision for short is a second generation portable video game console manufactured by Entex in 1982.
+Games are controlled by a single joystick, and a set of four buttons, the buttons are located to the left and right of the joystick to allow left and right handed people to play.
+The console does not use an LCD screen or external monitors, LEDs arranged in forty rows are used to display the image, giving a resolution of 153 x 40 pixels, another console that uses similar technology is Virtual Boy.
+
+The technology used in the Entex Adventure Vision, required a large amount of power, hence it needed, up to four D batteries. An A/C adapter could also be used to power the console.
+On top of the console, there are special shelves where cartridges can be stored.</systemDescription>
+    <systemManufacturer>Entex</systemManufacturer>
+    <systemReleaseYear>1992</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-console}</systemHardwareType>
+    <systemCoverSize>1-1</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>

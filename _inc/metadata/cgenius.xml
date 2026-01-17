@@ -1,0 +1,13 @@
+<theme>
+  <variables>
+    <systemName>Commander Genius</systemName>
+    <systemDescription>CGenius (Commander Genius) is a platform to run the classic DOS games of the Commander Keen series.
+
+Commander Keen is a series of computer games developed in the early 1990s, by id Software. Games in the series were characterized by innovative use of EGA-graphics, the series contains seven official games, divided into mini-series and are considered "episodes".</systemDescription>
+    <systemManufacturer>Gerstrong</systemManufacturer>
+    <systemReleaseYear>1997</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-port}</systemHardwareType>
+    <systemCoverSize>1-1</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>

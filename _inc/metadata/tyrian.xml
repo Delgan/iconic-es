@@ -1,0 +1,13 @@
+<theme>
+  <variables>
+    <systemName>Tyrian</systemName>
+    <systemDescription>Tyrian is a vertically scrolling shooter developed by Eclipse Software for MS-DOS and published in 1995 by Epic MegaGames. Tyrian was programmed by Jason Emery, illustrated by Daniel Cook, and its music composed by Alexander Brandon and Andras Molnar.
+
+The game was re-released as freeware in 2004. A free and open-source port of the game started in April 2007.</systemDescription>
+    <systemManufacturer>Epic MegaGames</systemManufacturer>
+    <systemReleaseYear>1995</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-port}</systemHardwareType>
+    <systemCoverSize>1-1</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>

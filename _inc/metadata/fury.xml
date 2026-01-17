@@ -1,0 +1,13 @@
+<theme>
+  <variables>
+    <systemName>Ion Fury</systemName>
+    <systemDescription>Ion Fury is a new Build Engine game from the creators of the EDuke32 source port.
+
+3D Realms and Voidpoint are proud to bring back the Build engine, which powered Duke Nukem 3D, Blood, and Shadow Warrior, in all of its hand-crafted pixelated glory. They’ve spent a lot of time tinkering under the hood to take advantage of new technology and techniques. Bigger levels, hundreds of new colors, and morphing maps that transform mid-level are all just a few of the advancements made to the engine.</systemDescription>
+    <systemManufacturer>EDuke32</systemManufacturer>
+    <systemReleaseYear>2019</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-engine}</systemHardwareType>
+    <systemCoverSize>1-1</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>

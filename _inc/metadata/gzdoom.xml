@@ -1,0 +1,15 @@
+<theme>
+  <variables>
+    <systemName>GZDoom</systemName>
+    <systemDescription>GZDoom is a fork of the ZDoom source port created by Christoph Oelckers (Graf Zahl), who still oversees its development. First released in 2005, it has versions for Windows, Linux, and MacOS.
+
+GZDoom remains a popular port due to both its unprecedented modding capability and graphical optimizations for modern hardware. In particular, the ZScript language unique to GZDoom, combined with ACS and DECORATE inherited from ZDoom, enables a high level of gameplay modding and special mapping features.
+
+Many maps and mods, plus some total conversions and stand-alone games, have been exclusive to GZDoom. This includes over a dozen Cacoward winners.</systemDescription>
+    <systemManufacturer>Christoph Oelckers</systemManufacturer>
+    <systemReleaseYear>2005</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-port}</systemHardwareType>
+    <systemCoverSize>1-1</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>

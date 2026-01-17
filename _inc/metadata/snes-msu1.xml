@@ -1,0 +1,20 @@
+<theme>
+  <variables>
+    <systemName>Super Nintendo MSU-1</systemName>
+    <systemDescription>The MSU-1 is a cartridge addon chip (similar to the SuperFx chip) that allows for many enhancements to SNES games including, but not limited to, full-motion video and CD quality sound by adding up to 4GB (yes, 4 gigabytes) of storage for extra content.
+
+Some examples of MSU-1 modded games would be:
+
+Zelda: A Link to the Past done with a fully orchistrated CD quality soundtrack.
+Chrono Trigger with all the video cutscenes from the PlayStation version inserted.
+Mega Man X with a new CD quality soundtrack.
+
+The MSU-1 chip itself only needs to be in the game cartridge to run on an actual unmodded SNES system. Emulators, on the other hand, need to be modified to support playback of MSU-1 modded games. This is due to the emulator needing to access files outside the ROM while playing the ROM.
+The chip does have some limitations, such as only being able to stream one data track at a time, but it essentially turns the SNES into what it could have been with a CD attachment.</systemDescription>
+    <systemManufacturer>byuu</systemManufacturer>
+    <systemReleaseYear>1990</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-console}</systemHardwareType>
+    <systemCoverSize>1-1</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>

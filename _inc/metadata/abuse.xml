@@ -1,0 +1,13 @@
+<theme>
+  <variables>
+    <systemName>Abuse</systemName>
+    <systemDescription>Abuse is a port of the classic dark 2D side-scrolling platform game originally developed by Crack dot Com and released in 1995 for MS-DOS. A Linux version was also made available at a later date. It had a few limitations the most restrictive of which was that it only ran on an 8-bit display, and only in a window.
+
+This version of Abuse will run at any color depth and supports fullscreen mode, as well as many other new features. It features beautiful lighting, realistic animation and nasty alien-like creatures to destroy.</systemDescription>
+    <systemManufacturer>Crack Dot Com</systemManufacturer>
+    <systemReleaseYear>1997</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-port}</systemHardwareType>
+    <systemCoverSize>1-1</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>

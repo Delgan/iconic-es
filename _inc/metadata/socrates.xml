@@ -1,0 +1,16 @@
+<theme>
+  <variables>
+    <systemName>Socrates</systemName>
+    <systemDescription>The VTech Socrates is an 8-bit educational home video game console manufactured and released in 1988 by VTech. The console features a robot character Socrates, named after the philosopher. The character is visually similar to Johnny Five from the Short Circuit movies. It was discontinued in the early 1990s.
+
+The system features standard wireless controllers that communicated via infrared reception.
+
+Yeno distributed the system in Europe. In Germany, under the name Prof. Weiss-Alles, which translates to "Professor Knows-Everything". And in France, as the Professeur Saitout; Jeu Educatif Video, where "Saitout" comes from the french phrase "Sais Tout", meaning "Knows All".
+VTech also distributed the system in Canada, being sold as the Socrates Saitout; Jeu Educatif Video.</systemDescription>
+    <systemManufacturer>VTech</systemManufacturer>
+    <systemReleaseYear>1988</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-console}</systemHardwareType>
+    <systemCoverSize>1-1</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>

@@ -1,0 +1,13 @@
+<theme>
+  <variables>
+    <systemName>Super Mario War</systemName>
+    <systemDescription>Super Mario War is an open-source, platform-adventure video game and level editor first released in 2004. It is based upon gameplay elements and audiovisual media that are unofficially cloned from Nintendo's Super Mario series.
+
+The game centers on players fighting each other by one player jumping on the other player's head, or by making use of items, which can be picked up during gameplay.</systemDescription>
+    <systemManufacturer>72dpiarmy</systemManufacturer>
+    <systemReleaseYear>2004</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-port}</systemHardwareType>
+    <systemCoverSize>1-1</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>

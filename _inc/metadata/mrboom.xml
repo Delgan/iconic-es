@@ -1,0 +1,13 @@
+<theme>
+  <variables>
+    <systemName>Mr.Boom</systemName>
+    <systemDescription>Mr.Boom is a Bomberman clone for the RetroArch platform ported to the libretro API, converted from DOS assembly using asm2c.
+
+Mr.Boom supports up to 8 players and features like netplay, AI bots (new C++ feature), pushing bombs, remote controls and kangaroo riding.</systemDescription>
+    <systemManufacturer>Remdy Software</systemManufacturer>
+    <systemReleaseYear>2021</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-port}</systemHardwareType>
+    <systemCoverSize>1-1</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>

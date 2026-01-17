@@ -1,0 +1,17 @@
+<theme>
+  <variables>
+    <systemName>Pet</systemName>
+    <systemDescription>The Commodore PET is a line of personal computers produced starting in 1977 by Commodore International. A single all-in-one case combines a MOS Technology 6502 microprocessor, Commodore BASIC in read-only memory, keyboard, computer monitor, and in early models a cassette deck.
+
+Development of the system began in 1976 and a prototype was demonstrated at the January 1977 Consumer Electronics Show. A series of problems delayed production versions until December 1977, by which time the TRS-80 and Apple II had already begun deliveries. Byte referred to the three machines collectively as the "1977 trinity".
+
+The PET design underwent a series of updates: more memory, better keyboard, larger screen, and other modifications. The systems were a top seller in the Canadian and United States education markets, as well as for business use in Europe.
+
+The name was suggested by Andre Souson after he saw the Pet Rock in Los Gatos, and stated they were going to make the "pet computer". It was backronymed to Personal Electronic Transactor.</systemDescription>
+    <systemManufacturer>Commodore</systemManufacturer>
+    <systemReleaseYear>1977</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-computer}</systemHardwareType>
+    <systemCoverSize>1-1</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>

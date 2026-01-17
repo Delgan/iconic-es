@@ -1,0 +1,11 @@
+<theme>
+  <variables>
+    <systemName>SINGE</systemName>
+    <systemDescription>Hypseus SINGE is the "Somewhat Interactive Nostalgic Game Engine" (named after the dragon from Dragon's Lair). It is the logical evolution of the Daphne emulator, which uses a Lua-based scripting system to quickly simulate LaserDisc games or create completely new games based on video files! The language is easy to learn, very powerful and fast. All the functions needed to develop your own game are available through a simple application programming interface (API).</systemDescription>
+    <systemManufacturer>Kangaroo Punch Studios</systemManufacturer>
+    <systemReleaseYear>2020</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-emulator}</systemHardwareType>
+    <systemCoverSize>1-1</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>

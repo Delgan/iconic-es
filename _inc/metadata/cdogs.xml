@@ -1,0 +1,14 @@
+<theme>
+  <variables>
+    <systemName>C-Dogs SDL</systemName>
+    <systemDescription>C-Dogs, the sequel to Cyberdogs, is a shoot'em up video game where players work cooperatively during missions, and against each other in "dogfight" deathmatch mode.
+C-Dogs made changes and improvements on the original Cyberdogs game mechanics. The single-player/cooperative gameplay is separated into campaigns, each comprising many missions. Usually, each level involves the player(s) killing enemies (while avoiding harming civilians and teammates) using a variety of pre-selected weapons; collecting keys to unlock special rooms; and picking up required items to fulfill the mission objectives.
+
+The "dog fight" gameplay is the typical deathmatch: players attempt to kill each other for points, in order to gain victory. Only two players can play against each other, by sitting at the same computer and using the keyboard, joysticks or gamepads.</systemDescription>
+    <systemManufacturer>Ronny Wester</systemManufacturer>
+    <systemReleaseYear>1997</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-port}</systemHardwareType>
+    <systemCoverSize>1-1</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>

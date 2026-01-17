@@ -1,0 +1,14 @@
+<theme>
+  <variables>
+    <systemName>Chihiro</systemName>
+    <systemDescription>The Chihiro is an arcade system produced by Sega and Microsoft based on the Xbox home video game console. It was the second such partnership, with Sega also siding with Namco and Nintendo with the Nintendo GameCube-powered Triforce system.
+
+The Chihiro is based upon the Xbox, using the same Pentium III CPU and NVIDIA graphics card. Unlike the Xbox, however, it uses GD-ROM media instead of DVDs, has more RAM and an earlier revision chipset which is used in the Xbox debugging unit (MCPX2).
+Because of the similar hardware, it is in theory relatively easy to port Chihiro games to the Xbox and PC. The GD-ROM board can be configured to store up to 1GB of data from the GD-ROM like with the Triforce.</systemDescription>
+    <systemManufacturer>Sega</systemManufacturer>
+    <systemReleaseYear>2002</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-emulator}</systemHardwareType>
+    <systemCoverSize>1-1</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>

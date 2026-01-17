@@ -1,0 +1,13 @@
+<theme>
+  <variables>
+    <systemName>Pygame</systemName>
+    <systemDescription>Pygame is a cross-platform set of Python modules designed for writing video games. It includes computer graphics and sound libraries designed to be used with the Python programming language.
+
+Pygame was originally written by Pete Shinners to replace PySDL after its development stalled. It has been a community project since 2000 and is released under the open source free software GNU Lesser General Public License.</systemDescription>
+    <systemManufacturer>Pygame Community</systemManufacturer>
+    <systemReleaseYear>2000</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-engine}</systemHardwareType>
+    <systemCoverSize>1-1</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>

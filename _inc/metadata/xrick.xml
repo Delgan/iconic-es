@@ -1,0 +1,13 @@
+<theme>
+  <variables>
+    <systemName>Rick Dangerous</systemName>
+    <systemDescription>XRick is an open source implementation of the game "Rick Dangerous". Rick Dangerous is a platform game developed by Core Design for the Acorn Archimedes, Amiga, Atari ST, Amstrad CPC, ZX Spectrum, Commodore 64, and MS-DOS.
+
+The game was released in 1989 and published by MicroProse on the Firebird Software label in the UK, and on the MicroPlay label in America. It was also published in Spain by Erbe Software.</systemDescription>
+    <systemManufacturer>Christian Haitian</systemManufacturer>
+    <systemReleaseYear>2003</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-port}</systemHardwareType>
+    <systemCoverSize>1-1</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>

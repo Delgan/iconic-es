@@ -1,0 +1,15 @@
+<theme>
+  <variables>
+    <systemName>Lindbergh</systemName>
+    <systemDescription>Unlike previous arcade platforms which had either been bespoke systems or based on home console technology, the Lindbergh family (and virtually all of its successors) mirror the architecture seen in standard PCs, with a Intel Pentium 4 as its main CPU and graphics cards supplied by NVIDIA. Sega had originally planned to use the Microsoft's Xbox 360 as the basis for the arcade board, but is thought to have opted for standard PC hardware as this proved more cost-effective.
+
+According to Sega-AM2 head Hiroshi Kataoka, porting Lindbergh titles (such as Virtua Fighter 5) to Sony's PlayStation 3 was generally easier than porting to Xbox 360, because the Lindbergh and PS3 use a similar GPU.
+
+Lindbergh was introduced by Sega when the arcade industry and the company itself was at great change. Ultimately, only Initial D Arcade Stage 4 (Then renamed to Initial D: Extreme Stage), Virtua Fighter 5, After Burner Climax and The House of the Dead 4 were released on console, with the latter two being ported half a decade later. Arcade games became increasingly exclusive to arcade operators, to keep incentive for people to go to actual venues both in Japan and in the western world.</systemDescription>
+    <systemManufacturer>Sega</systemManufacturer>
+    <systemReleaseYear>2005</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-emulator}</systemHardwareType>
+    <systemCoverSize>1-1</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>

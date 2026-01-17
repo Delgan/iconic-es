@@ -1,0 +1,17 @@
+<theme>
+  <variables>
+    <systemName>PDP-1</systemName>
+    <systemDescription>The PDP-1 (Programmed Data Processor-1) is the first computer in Digital Equipment Corporation's PDP series and was first produced in 1959. It is famous for being the computer most important in the creation of hacker culture at Massachusetts Institute of Technology, BBN and elsewhere.
+The PDP-1 is the original hardware for playing history's first game on a minicomputer, Steve Russell's Spacewar!
+
+The PDP-1 uses an 18-bit word size and has 4096 words as standard main memory, upgradable to 65,536 words.
+It is built mostly of DEC 1000-series System Building Blocks, using micro-alloy and micro-alloy diffused transistors with a rated switching speed of 5 MHz. The System Building Blocks are packaged into several 19-inch racks. The racks are themselves packaged into a single large mainframe case, with a hexagonal control panel containing switches and lights mounted to lie at table-top height at one end of the mainframe. Above the control panel is the system's standard input/output solution, a punched tape reader and writer.
+
+The PDP-1 weighed about 730 kg (1,600 lb).</systemDescription>
+    <systemManufacturer>Digital Equipment Corporation</systemManufacturer>
+    <systemReleaseYear>1961</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-computer}</systemHardwareType>
+    <systemCoverSize>1-1</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>

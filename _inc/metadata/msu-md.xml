@@ -1,0 +1,13 @@
+<theme>
+  <variables>
+    <systemName>MSU-MD</systemName>
+    <systemDescription>MSU-MD is a driver that allows CD quality music for properly patched Sega Megadrive games, mimicing the behavior of the CD hardware.
+
+Instead of basing the work on proprietary APIs like md+, MSU-MD is developed as a nice tiny driver which makes interfacing with the Sega CD hardware easier and all using official bios calls. This means that these hacks could run also on official unmodified hardware.</systemDescription>
+    <systemManufacturer>Sega</systemManufacturer>
+    <systemReleaseYear>1988</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-peripheral}</systemHardwareType>
+    <systemCoverSize>1-1</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>

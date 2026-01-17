@@ -1,0 +1,13 @@
+<theme>
+  <variables>
+    <systemName>ECWolf</systemName>
+    <systemDescription>ECWolf is an advanced source port for Wolfenstein 3D, Spear of Destiny, and Super 3D Noah's Ark based off of the Wolf4SDL code base. ECWolf pulls a substantial amount of code from ZDoom and aims to provide a wide array of mod editing capabilities without the need to modify the source code.
+
+Expanding upon Wolf4SDL, ECWolf opens up yet even more possibilities for the world of Wolfenstein modding. Starting in 2015, numerous sets have been released exclusively for the ECWolf port, most notably projects by AstroCreep and Executor.</systemDescription>
+    <systemManufacturer>ECWolf team</systemManufacturer>
+    <systemReleaseYear>2015</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-port}</systemHardwareType>
+    <systemCoverSize>1-1</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>
