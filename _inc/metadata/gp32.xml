@@ -11,4 +11,112 @@ The console has a eight-way microswitch based mini-joystick controller, two main
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
+  <variables lang="ar">
+    <systemDescription>GP32 (GamePark 32) هي وحدة تحكم ألعاب محمولة طورتها شركة Game Park الكورية الجنوبية. تم إصدارها في 23 نوفمبر 2001 في كوريا الجنوبية وتوزيعها في بعض أجزاء أوروبا.
+لا يختلف التصميم العام عن الإصدار الأصلي من Game Boy Advance. يعتمد GP32 على معالج ARM 9 بسرعة 133 ميجاهرتز وذاكرة SDRAM سعة 8 ميجابايت. على عكس أنظمة الألعاب المحمولة الأخرى، التي عادة ما تعتمد على خراطيش خاصة، يستخدم GP32 بطاقات SmartMedia (SMC) لتخزين البرامج والبيانات، مما يجعله متاحًا للمطورين الهواة حيث لا يتطلب أي أجهزة تطوير إضافية.
+
+تحتوي وحدة التحكم على جهاز تحكم صغير على شكل عصا تحكم مزود بمفتاح صغير ثماني الاتجاهات، وزرين رئيسيين ("A" و "B")، وزرين جانبيين على كل جانب من فتحة SMC ("L" و "R") وزرين آخرين للقائمة على كل جانب من الشاشة ("SELECT" و "START")، مصنوعين من مطاط شفاف أكثر نعومة. تحتوي وحدة التحكم أيضًا على منفذ USB 1.1 للاتصال بجهاز كمبيوتر مضيف، ومنفذ توسعة تسلسلي، ومدخل محول طاقة 3.3 فولت، وموصل سماعة رأس، وحجرة خلفية تحتوي على بطاريتين بحجم AA.</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>GP32 (GamePark 32) je prenosiva igraća konzola koju je razvila južnokorejska kompanija Game Park. Izdata je 23. novembra 2001. godine u Južnoj Koreji i distribuirana u nekim dijelovima Evrope.
+Cjelokupni dizajn nije mnogo različit od originalne verzije Game Boy Advancea. GP32 se zasniva na ARM 9 procesoru od 133 MHz i 8 MB SDRAM-a. Za razliku od drugih prenosnih igraćih sistema, koji su obično bazirani na vlasničkim kartridžima, GP32 koristi SmartMedia kartice (SMC) za pohranu programa i podataka, što ga čini dostupnim amaterskim programerima jer nije potreban dodatni razvojni hardver.
+
+Konzole ima kontroler u obliku mini-joysticka sa osam smjerova, zasnovan na mikroprekinjaču, dva glavna dugmeta ('A' i 'B'), dva bočna dugmeta sa svake strane utora za SMC karticu ('L' i 'R') i dva druga menijska dugmeta sa svake strane ekrana ('SELECT' i 'START'), izrađena od mekše, prozirne gume. Konzole također ima USB 1.1 port za povezivanje s host računarom, serijski ekspanzijski port, ulaz za adapter za napajanje od 3,3 V, priključak za slušalice i stražnji pretinac koji drži dvije AA baterije.</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>El GP32 (GamePark 32) és una consola de jocs portàtil desenvolupada per l'empresa sud-coreana Game Park. Es va llançar el 23 de novembre de 2001 a Corea del Sud i es va distribuir en algunes parts d'Europa.
+El disseny general no és gaire diferent de la versió original del Game Boy Advance. El GP32 es basa en un processador ARM 9 de 133 MHz i 8 MB de SDRAM. A diferència d'altres sistemes de jocs portàtils, que solen basar-se en cartutxos propietaris, el GP32 utilitza targetes SmartMedia (SMC) per emmagatzemar programes i dades, la qual cosa el fa accessible per als desenvolupadors aficionats, ja que no es necessita cap altre maquinari de desenvolupament.
+
+La consola té un comandament de minijoystick de vuit direccions basat en un micratac, dos botons principals ('A' i 'B'), dos botons laterals a cada costat de la ranura SMC ('L' i 'R') i dos altres botons de menú a cada costat de la pantalla ('SELECT' i 'START'), fets d'un caucciu més tou i translúcid. La consola també té un port USB 1.1 per a la connexió amb un ordinador amfitrió, un port d'expansió sèrie, una entrada d'alimentació de 3,3 V, un connector per a auriculars i un compartiment posterior que allotja dues piles de mida AA.</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemDescription>Der GP32 (GamePark 32) ist eine Handheld-Spielkonsole, die von dem südkoreanischen Unternehmen Game Park entwickelt wurde. Sie wurde am 23. November 2001 in Südkorea veröffentlicht und in einigen Teilen Europas vertrieben.
+Das Gesamtdesign ähnelt der Originalversion des Game Boy Advance. Der GP32 basiert auf einer 133-MHz-ARM-9-CPU und 8 MB SDRAM. Im Gegensatz zu anderen Handheld-Spielsystemen, die in der Regel proprietäre Kassetten verwenden, nutzt der GP32 SmartMedia-Karten (SMC) zum Speichern von Programmen und Daten, wodurch er für Amateurentwickler zugänglich ist, da keine weitere Entwicklungshardware erforderlich ist.
+
+Die Konsole verfügt über einen Mini-Joystick-Controller mit acht Richtungen, zwei Haupttasten („A” und „B”), zwei Schultertasten auf jeder Seite des SMC-Steckplatzes („L” und „R”) und zwei weitere Menütasten auf jeder Seite des Bildschirms („SELECT” und „START”), die aus weicherem, durchscheinendem Gummi bestehen. Die Konsole verfügt außerdem über einen USB 1.1-Anschluss für die Verbindung mit einem Host-Computer, einen seriellen Erweiterungsanschluss, einen 3,3-V-Netzteilanschluss, einen Kopfhöreranschluss und ein hinteres Fach für zwei AA-Batterien.</systemDescription>
+  </variables>
+  <variables lang="es">
+    <systemDescription>La GP32 (GamePark 32) es una consola de juegos portátil desarrollada por la empresa surcoreana Game Park. Se lanzó al mercado el 23 de noviembre de 2001 en Corea del Sur y se distribuyó en algunas partes de Europa.
+El diseño general no difiere mucho de la versión original de la Game Boy Advance. La GP32 se basa en una CPU ARM 9 de 133 MHz y 8 MB de SDRAM. A diferencia de otras consolas portátiles, que suelen ser propietarias y basadas en cartuchos, la GP32 utiliza tarjetas SmartMedia (SMC) para almacenar programas y datos, lo que la hace accesible para desarrolladores aficionados, ya que no se requiere ningún hardware de desarrollo adicional.
+
+La consola tiene un controlador mini-joystick basado en un microinterruptor de ocho direcciones, dos botones principales («A» y «B»), dos botones laterales a cada lado de la ranura SMC («L» y «R») y otros dos botones de menú a cada lado de la pantalla («SELECT» y «START»), fabricados con un caucho más blando y translúcido. La consola también cuenta con un puerto USB 1.1 para la conexión con un ordenador central, un puerto de expansión serie, una entrada para adaptador de corriente de 3,3 V, un conector para auriculares y un compartimento trasero con capacidad para dos pilas AA.</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>La GP32 (GamePark 32) est une console de jeux portable développée par la société sud-coréenne Game Park. Elle a été commercialisée le 23 novembre 2001 en Corée du Sud et distribuée dans certaines régions d'Europe.
+Son design général n'est pas sans rappeler celui de la version originale de la Game Boy Advance. La GP32 est équipée d'un processeur ARM 9 cadencé à 133 MHz et de 8 Mo de SDRAM. Contrairement aux autres consoles de jeux portables, qui ont tendance à utiliser des cartouches propriétaires, la GP32 utilise des cartes SmartMedia (SMC) pour stocker les programmes et les données, ce qui la rend accessible aux développeurs amateurs, car aucun matériel de développement supplémentaire n'est nécessaire.
+
+La console est équipée d'un mini-joystick à huit directions, de deux boutons principaux (« A » et « B »), de deux boutons latéraux de chaque côté du slot SMC (« L » et « R ») et de deux autres boutons de menu de chaque côté de l'écran (« SELECT » et « START »), fabriqués dans un caoutchouc plus souple et translucide. La console dispose également d'un port USB 1.1 pour la connexion à un ordinateur hôte, d'un port d'extension série, d'une entrée pour adaptateur secteur 3,3 V, d'une prise casque et d'un compartiment arrière pouvant accueillir deux piles AA.</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>GP32 (GamePark 32) je prijenosna igraća konzola koju je razvila južnokorejska tvrtka Game Park. Izlazi 23. studenog 2001. u Južnoj Koreji i distribuirana je u nekim dijelovima Europe.
+Cjelokupni dizajn nije nepodoban originalnoj verziji Game Boy Advancea. GP32 se temelji na 133 MHz ARM 9 procesoru i 8 MB SDRAM-a. Za razliku od drugih prijenosnih igraćih sustava, koji su obično bazirani na vlasničkim kartridžima, GP32 koristi SmartMedia kartice (SMC) za pohranu programa i podataka, što ga čini pristupačnim amaterskim programerima jer nije potreban dodatni razvojni hardver.
+
+Konzole ima kontroler u obliku mini-joysticka s osam smjerova, temeljen na mikropreklopniku, dva glavna gumba ('A' i 'B'), dva gumbeta na ramenima sa svake strane utora za SmartMedia karticu ('L' i 'R') i dva druga gumba za izbornik sa svake strane zaslona ('SELECT' i 'START'), izrađena od mekše, prozirne gume. Konzola također ima USB 1.1 priključak za povezivanje s računalom, serijski priključak za proširenje, ulaz za napajanje od 3,3 V, priključak za slušalice i stražnji pretinac za dvije AA baterije.</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemDescription>Il GP32 (GamePark 32) è una console di gioco portatile sviluppata dalla società sudcoreana Game Park. È stata lanciata il 23 novembre 2001 in Corea del Sud e distribuita in alcune parti d'Europa.
+Il design complessivo non è dissimile dalla versione originale del Game Boy Advance. La GP32 è basata su una CPU ARM 9 da 133 MHz e 8 MB di SDRAM. A differenza di altre console portatili, che tendono ad essere basate su cartucce proprietarie, la GP32 utilizza schede SmartMedia (SMC) per memorizzare programmi e dati, rendendola accessibile agli sviluppatori amatoriali poiché non richiede ulteriore hardware di sviluppo.
+
+La console ha un controller mini-joystick basato su un microinterruttore a otto direzioni, due pulsanti principali ("A" e "B"), due pulsanti laterali su ciascun lato dello slot SMC ("L" e "R") e altri due pulsanti menu su ciascun lato dello schermo ("SELECT" e "START"), realizzati in gomma traslucida più morbida. La console dispone anche di una porta USB 1.1 per il collegamento con un computer host, una porta di espansione seriale, un ingresso per alimentatore da 3,3 V, un connettore per cuffie e un vano posteriore che contiene due batterie AA.</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>GP32（ゲームパーク32）は、韓国のゲームパーク社が開発した携帯型ゲーム機である。2001年11月23日に韓国で発売され、ヨーロッパの一部地域でも流通した。
+全体的なデザインは初代ゲームボーイアドバンスに似ている。GP32は133MHzのARM9 CPUと8MBのSDRAMを搭載している。独自仕様のカートリッジを採用する傾向にある他の携帯型ゲーム機とは異なり、GP32はプログラムやデータの保存にスマートメディアカード（SMC）を使用するため、追加の開発ハードウェアが不要でアマチュア開発者にも利用しやすい。
+
+本体には8方向マイクロスイッチ式ミニジョイスティックコントローラー、2つのメインボタン（『A』と『B』）、SMCスロット両側に配置された2つのショルダーボタン（『L』と『R』）、画面両側に配置された2つのメニューボタン（『SELECT』と『START』）が搭載されている。これらのボタンは柔らかく半透明のゴム製である。 また、ホストコンピュータ接続用のUSB 1.1ポート、シリアル拡張ポート、3.3V電源アダプター入力、ヘッドホンコネクター、そして単三形電池2本を収納する背面コンパートメントを備えている。</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>GP32(게임파크 32)는 한국 기업 게임파크가 개발한 휴대용 게임 콘솔이다. 2001년 11월 23일 한국에서 출시되었으며 유럽 일부 지역에도 유통되었다.
+전체적인 디자인은 게임보이 어드밴스 초기 버전과 유사합니다. GP32는 133MHz ARM 9 CPU와 8MB SDRAM을 기반으로 합니다. 독점적인 카트리지 방식을 주로 채택하는 다른 휴대용 게임기와 달리, GP32는 프로그램 및 데이터 저장을 위해 스마트미디어 카드(SMC)를 사용합니다. 이로 인해 추가 개발 하드웨어 없이도 아마추어 개발자들이 접근할 수 있습니다.
+
+콘솔에는 8방향 마이크로 스위치 방식의 미니 조이스틱 컨트롤러, 두 개의 메인 버튼('A' 및 'B'), SMC 슬롯 양측에 위치한 두 개의 숄더 버튼('L' 및 'R'), 그리고 화면 양측에 위치한 두 개의 메뉴 버튼('SELECT' 및 'START')이 장착되어 있으며, 이 버튼들은 부드러운 반투명 고무로 제작되었습니다. 또한 호스트 컴퓨터 연결용 USB 1.1 포트, 직렬 확장 포트, 3.3V 전원 어댑터 입력 단자, 헤드폰 커넥터, 그리고 AA 사이즈 배터리 2개를 수용하는 후면 수납공간을 갖추고 있습니다.</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>De GP32 (GamePark 32) is een draagbare spelcomputer die is ontwikkeld door het Zuid-Koreaanse bedrijf Game Park. Hij werd op 23 november 2001 uitgebracht in Zuid-Korea en werd ook in sommige delen van Europa gedistribueerd.
+Het algemene ontwerp lijkt op de originele versie van de Game Boy Advance. De GP32 is gebaseerd op een 133 MHz ARM 9 CPU en 8 MB SDRAM. In tegenstelling tot andere draagbare spelsystemen, die meestal gebruikmaken van eigen cartridges, gebruikt de GP32 SmartMedia-kaarten (SMC) voor het opslaan van programma's en gegevens, waardoor hij toegankelijk is voor amateurontwikkelaars omdat er geen verdere ontwikkelingshardware nodig is.
+
+De console heeft een mini-joystickcontroller met acht richtingen op basis van een microschakelaar, twee hoofdknoppen ('A' en 'B'), twee schouderknoppen aan elke kant van de SMC-sleuf ('L' en 'R') en twee andere menuknoppen aan elke kant van het scherm ('SELECT' en 'START'), gemaakt van zachter, doorschijnend rubber. De console heeft ook een USB 1.1-poort voor aansluiting op een hostcomputer, een seriële uitbreidingspoort, een 3,3 V-voedingsadapteringang, een hoofdtelefoonaansluiting en een achtercompartiment voor twee AA-batterijen.</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>GP32 (GamePark 32) to przenośna konsola do gier opracowana przez południowokoreańską firmę Game Park. Została wydana 23 listopada 2001 roku w Korei Południowej i dystrybuowana w niektórych częściach Europy.
+Ogólny wygląd nie różni się zbytnio od oryginalnej wersji Game Boy Advance. GP32 jest oparty na procesorze ARM 9 o częstotliwości 133 MHz i 8 MB pamięci SDRAM. W przeciwieństwie do innych przenośnych systemów do gier, które zazwyczaj wykorzystują własne kartridże, GP32 używa kart SmartMedia (SMC) do przechowywania programów i danych, dzięki czemu jest dostępny dla amatorskich programistów, ponieważ nie wymaga dodatkowego sprzętu programistycznego.
+
+Konsola posiada ośmiokierunkowy mini-joystick z mikroprzełącznikami, dwa główne przyciski („A” i „B”), dwa przyciski boczne po każdej stronie gniazda SMC („L” i „R”) oraz dwa inne przyciski menu po każdej stronie ekranu („SELECT” i „START”), wykonane z bardziej miękkiej, półprzezroczystej gumy. Konsola posiada również port USB 1.1 do podłączenia z komputerem głównym, szeregowy port rozszerzeń, wejście zasilacza 3,3 V, złącze słuchawkowe oraz tylną komorę, w której mieszczą się dwie baterie AA.</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>O GP32 (GamePark 32) é uma consola de jogos portátil desenvolvida pela empresa sul-coreana Game Park. Foi lançada a 23 de novembro de 2001 na Coreia do Sul e distribuída em algumas partes da Europa.
+O design geral não é muito diferente da versão original do Game Boy Advance. O GP32 é baseado em uma CPU ARM 9 de 133 MHz e 8 MB de SDRAM. Ao contrário de outros sistemas de jogos portáteis, que tendem a ser proprietários e baseados em cartuchos, o GP32 usa cartões SmartMedia (SMC) para armazenar programas e dados, tornando-o acessível para desenvolvedores amadores, pois não requer nenhum hardware de desenvolvimento adicional.
+
+O console possui um controlador mini-joystick com microinterruptor de oito direções, dois botões principais ("A" e "B"), dois botões laterais em cada lado do slot SMC ("L" e "R") e dois outros botões de menu em cada lado da tela ("SELECT" e "START"), feitos de uma borracha translúcida mais macia. O console também possui uma porta USB 1.1 para conexão com um computador host, uma porta de expansão serial, uma entrada para adaptador de alimentação de 3,3 V, um conector para fones de ouvido e um compartimento traseiro que acomoda duas pilhas AA.</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>GP32 (GamePark 32) este o consolă de jocuri portabilă dezvoltată de compania sud-coreeană Game Park. A fost lansată pe 23 noiembrie 2001 în Coreea de Sud și distribuită în unele părți ale Europei.
+Designul general nu este diferit de versiunea originală a Game Boy Advance. GP32 se bazează pe un procesor ARM 9 de 133 MHz și 8 MB de SDRAM. Spre deosebire de alte sisteme de jocuri portabile, care tind să fie bazate pe cartușe proprietare, GP32 utilizează carduri SmartMedia (SMC) pentru stocarea programelor și datelor, făcându-l accesibil pentru dezvoltatorii amatori, deoarece nu este necesar hardware suplimentar de dezvoltare.
+
+Consola are un mini-joystick cu microcomutator în opt direcții, două butoane principale („A” și „B”), două butoane laterale pe fiecare parte a slotului SMC („L” și „R”) și alte două butoane de meniu pe fiecare parte a ecranului („SELECT” și „START”), realizate dintr-un cauciuc mai moale și translucid. Consola are, de asemenea, un port USB 1.1 pentru conectarea la un computer gazdă, un port de expansiune serial, o intrare pentru adaptor de alimentare de 3,3 V, un conector pentru căști și un compartiment posterior care conține două baterii de dimensiunea AA.</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>GP32 (GamePark 32) — портативная игровая консоль, разработанная южнокорейской компанией Game Park. Она была выпущена 23 ноября 2001 года в Южной Корее и распространялась в некоторых частях Европы.
+Общий дизайн не отличается от оригинальной версии Game Boy Advance. GP32 основана на процессоре ARM 9 с тактовой частотой 133 МГц и 8 МБ SDRAM. В отличие от других портативных игровых систем, которые, как правило, используют проприетарные картриджи, GP32 использует карты SmartMedia (SMC) для хранения программ и данных, что делает ее доступной для любительских разработчиков, поскольку не требуется дополнительное оборудование для разработки.
+
+Консоль имеет мини-джойстик с восьмипозиционным микропереключателем, две основные кнопки («A» и «B»), две боковые кнопки по обеим сторонам слота SMC («L» и «R») и две другие кнопки меню по обеим сторонам экрана («SELECT» и «START»), изготовленные из более мягкой, полупрозрачной резины. Консоль также имеет порт USB 1.1 для подключения к хост-компьютеру, последовательный порт расширения, вход для адаптера питания 3,3 В, разъем для наушников и задний отсек, в котором размещаются две батареи размера AA.</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>GP32 (GamePark 32) је преносива играћа конзола коју је развила јужнокорејска компанија Game Park. Пуштена је у продају 23. новембра 2001. године у Јужној Кореји и дистрибуирана у неким деловима Европе.
+Укупни дизајн није много другачији од оригиналне верзије Game Boy Advance-а. GP32 се заснива на ARM9 процесору тактованom на 133 MHz и 8 MB SDRAM-а. За разлику од других преносивих гејминг система, који су обично засновани на власничким касетима, GP32 користи SmartMedia картице (SMC) за складиштење програма и података, што га чини приступачним за аматерске програмере јер није потребан додатни развојни хардвер.
+
+Конзола има мини-џојстик контролер са осмонаправним микропрекидачем, два главна дугмета ("A" и "B"), два рамена дугмета са сваке стране SMC слота ("L" и "R") и два додатна мени дугмета са сваке стране екрана ("SELECT" и "START"), направљена од мекше, провидне гуме. Конзола такође има USB 1.1 порт за повезивање са хост рачунаром, серијски порт за проширење, улаз за адаптер напајања од 3,3 V, прикључак за слушалице и задњи одељак у којем се налазе две батерије формата АА.</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>GP32 (GamePark 32) är en handhållen spelkonsol som utvecklats av det sydkoreanska företaget Game Park. Den släpptes den 23 november 2001 i Sydkorea och distribuerades i vissa delar av Europa.
+Den övergripande designen påminner om den ursprungliga versionen av Game Boy Advance. GP32 är baserad på en 133 MHz ARM 9-processor och 8 MB SDRAM. Till skillnad från andra handhållna spelsystem, som oftast är proprietära kassettbaserade, använder GP32 SmartMedia-kort (SMC) för lagring av program och data, vilket gör den tillgänglig för amatörutvecklare eftersom ingen ytterligare utvecklingshårdvara krävs.
+
+Konsolen har en åtta-vägs mikrobrytare baserad mini-joystick-kontroll, två huvudknappar ('A' och 'B'), två axelknappar på varje sida av SMC-kortplatsen ('L' och 'R') och två andra menyknappar på varje sida av skärmen ('SELECT' och 'START'), tillverkade av ett mjukare, genomskinligt gummi. Konsolen har också en USB 1.1-port för anslutning till en värddator, en seriell expansionsport, en 3,3 V strömadapteringång, en hörlursuttag och ett bakre fack som rymmer två AA-batterier.</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>GP32（GamePark 32）是由韩国Game Park公司开发的一款掌上游戏机。该产品于2001年11月23日在韩国上市，并销往欧洲部分地区。
+其整体设计与初代Game Boy Advance颇为相似。GP32搭载133 MHz ARM 9处理器及8 MB SDRAM内存。不同于其他采用专有卡带系统的掌机，该设备使用智能媒体卡（SMC）存储程序与数据，无需额外开发硬件即可供业余开发者使用。
+
+主机配备八向微动开关式迷你摇杆控制器，设有两个主按键（"A"与"B"），SMC卡槽两侧各配有肩键（"L"与"R"），屏幕两侧另设菜单键（"SELECT"与"START"），按键采用柔软半透明橡胶材质。 主机还配备USB 1.1接口用于连接主机电脑、串行扩展端口、3.3V电源适配器输入接口、耳机接口，以及可容纳两节AA电池的后置电池仓。</systemDescription>
+  </variables>
 </theme>

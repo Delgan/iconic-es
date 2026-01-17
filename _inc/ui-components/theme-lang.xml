@@ -47,6 +47,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.hardware-peripheral>Peripheral</i18n.hardware-peripheral>
         <i18n.hardware-emulator>Emulator</i18n.hardware-emulator>
         <i18n.hardware-os>OS</i18n.hardware-os>
+        <i18n.hardware-port>Port</i18n.hardware-port>
     </variables>
     <!-- Following variables will overwrite the default ones if the "lang" matches. -->
     <variables lang="ar">
@@ -83,6 +84,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.hardware-peripheral>محيطي</i18n.hardware-peripheral>
         <i18n.hardware-emulator>المحاكي</i18n.hardware-emulator>
         <i18n.hardware-os>نظام التشغيل</i18n.hardware-os>
+        <i18n.hardware-port>المنفذ</i18n.hardware-port>
     </variables>
     <variables lang="bs">
         <systemDescription>Pogledajte i igrajte ${system.fullName}.</systemDescription>
@@ -118,6 +120,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.hardware-peripheral>Periferni</i18n.hardware-peripheral>
         <i18n.hardware-emulator>Emulator</i18n.hardware-emulator>
         <i18n.hardware-os>OS</i18n.hardware-os>
+        <i18n.hardware-port>Poznato</i18n.hardware-port>
     </variables>
     <variables lang="ca">
         <systemDescription>Veure i jugar a ${system.fullName}.</systemDescription>
@@ -153,6 +156,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.hardware-peripheral>Perifèric</i18n.hardware-peripheral>
         <i18n.hardware-emulator>Emulador</i18n.hardware-emulator>
         <i18n.hardware-os>OS</i18n.hardware-os>
+        <i18n.hardware-port>Port</i18n.hardware-port>
     </variables>
     <variables lang="de">
         <systemDescription>Ansehen und spielen ${system.fullName}.</systemDescription>
@@ -188,6 +192,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.hardware-peripheral>Peripherie</i18n.hardware-peripheral>
         <i18n.hardware-emulator>Emulator</i18n.hardware-emulator>
         <i18n.hardware-os>OS</i18n.hardware-os>
+        <i18n.hardware-port>Hafen</i18n.hardware-port>
     </variables>
     <variables lang="es">
         <systemDescription>Ver y jugar a ${system.fullName}.</systemDescription>
@@ -223,6 +228,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.hardware-peripheral>Periférico</i18n.hardware-peripheral>
         <i18n.hardware-emulator>Emulador</i18n.hardware-emulator>
         <i18n.hardware-os>Sistema operativo</i18n.hardware-os>
+        <i18n.hardware-port>Puerto</i18n.hardware-port>
     </variables>
     <variables lang="fr">
         <systemDescription>Voir et jouer à ${system.fullName}.</systemDescription>
@@ -258,6 +264,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.hardware-peripheral>Périphérique</i18n.hardware-peripheral>
         <i18n.hardware-emulator>Emulateur</i18n.hardware-emulator>
         <i18n.hardware-os>OS</i18n.hardware-os>
+        <i18n.hardware-port>Portage</i18n.hardware-port>
     </variables>
     <variables lang="hr">
         <systemDescription>Pogledajte i igrajte ${system.fullName}.</systemDescription>
@@ -293,6 +300,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.hardware-peripheral>Periferni</i18n.hardware-peripheral>
         <i18n.hardware-emulator>Emulator</i18n.hardware-emulator>
         <i18n.hardware-os>OS</i18n.hardware-os>
+        <i18n.hardware-port>Portja</i18n.hardware-port>
     </variables>
     <variables lang="it">
         <systemDescription>Visualizza e gioca ${system.fullName}.</systemDescription>
@@ -328,6 +336,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.hardware-peripheral>Periferica</i18n.hardware-peripheral>
         <i18n.hardware-emulator>Emulatore</i18n.hardware-emulator>
         <i18n.hardware-os>OS</i18n.hardware-os>
+        <i18n.hardware-port>Porting</i18n.hardware-port>
     </variables>
     <variables lang="nl">
         <systemDescription>Bekijk en speel ${system.fullName}.</systemDescription>
@@ -362,6 +371,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.hardware-peripheral>Perifeer</i18n.hardware-peripheral>
         <i18n.hardware-emulator>Emulator</i18n.hardware-emulator>
         <i18n.hardware-os>OS</i18n.hardware-os>
+        <i18n.hardware-port>Port</i18n.hardware-port>
     </variables>
     <variables lang="ja">
         <systemDescription>${system.fullName}を表示してプレイする。</systemDescription>
@@ -397,6 +407,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.hardware-peripheral>ペリフェラル</i18n.hardware-peripheral>
         <i18n.hardware-emulator>エミュレータ</i18n.hardware-emulator>
         <i18n.hardware-os>OS</i18n.hardware-os>
+        <i18n.hardware-port>ポート</i18n.hardware-port>
     </variables>
     <variables lang="ko">
         <systemDescription>${system.fullName}을(를) 보고 플레이하세요.</systemDescription>
@@ -432,6 +443,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.hardware-peripheral>주변기기</i18n.hardware-peripheral>
         <i18n.hardware-emulator>에뮬레이터</i18n.hardware-emulator>
         <i18n.hardware-os>OS</i18n.hardware-os>
+        <i18n.hardware-port>포트</i18n.hardware-port>
     </variables>
     <variables lang="pl">
         <systemDescription>Wyświetl i graj ${system.fullName}.</systemDescription>
@@ -467,6 +479,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.hardware-peripheral>Peryferyjne</i18n.hardware-peripheral>
         <i18n.hardware-emulator>Emulator</i18n.hardware-emulator>
         <i18n.hardware-os>OS</i18n.hardware-os>
+        <i18n.hardware-port>Port</i18n.hardware-port>
     </variables>
     <variables lang="pt">
         <systemDescription>Visualize e jogue ${system.fullName}.</systemDescription>
@@ -502,6 +515,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.hardware-peripheral>Periférico</i18n.hardware-peripheral>
         <i18n.hardware-emulator>Emulador</i18n.hardware-emulator>
         <i18n.hardware-os>SO</i18n.hardware-os>
+        <i18n.hardware-port>Porto</i18n.hardware-port>
     </variables>
     <variables lang="ro">
         <systemDescription>Vizualizați și jucați ${system.fullName}.</systemDescription>
@@ -536,6 +550,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.hardware-peripheral>Periferic</i18n.hardware-peripheral>
         <i18n.hardware-emulator>Emulator</i18n.hardware-emulator>
         <i18n.hardware-os>SO</i18n.hardware-os>
+        <i18n.hardware-port>Port</i18n.hardware-port>
     </variables>
     <variables lang="ru">
         <systemDescription>Просмотреть и играть в ${system.fullName}.</systemDescription>
@@ -571,6 +586,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.hardware-peripheral>Периферийное устройство</i18n.hardware-peripheral>
         <i18n.hardware-emulator>Эмулятор</i18n.hardware-emulator>
         <i18n.hardware-os>OS</i18n.hardware-os>
+        <i18n.hardware-port>Порт</i18n.hardware-port>
     </variables>
     <variables lang="sr">
         <systemDescription>Погледајте и играјте ${system.fullName}.</systemDescription>
@@ -606,6 +622,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.hardware-peripheral>Периферни</i18n.hardware-peripheral>
         <i18n.hardware-emulator>Емулатор</i18n.hardware-emulator>
         <i18n.hardware-os>Ос</i18n.hardware-os>
+        <i18n.hardware-port>Порта</i18n.hardware-port>
     </variables>
     <variables lang="sv">
         <systemDescription>Visa och spela ${system.fullName}.</systemDescription>
@@ -641,6 +658,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.hardware-peripheral>Tillbehör</i18n.hardware-peripheral>
         <i18n.hardware-emulator>Emulator</i18n.hardware-emulator>
         <i18n.hardware-os>Mapp</i18n.hardware-os>
+        <i18n.hardware-port>Port</i18n.hardware-port>
     </variables>
     <variables lang="zh">
         <systemDescription>查看并游玩 ${system.fullName}。</systemDescription>
@@ -676,5 +694,6 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.hardware-peripheral>外围设备</i18n.hardware-peripheral>
         <i18n.hardware-emulator>仿真器</i18n.hardware-emulator>
         <i18n.hardware-os>操作系统</i18n.hardware-os>
+        <i18n.hardware-port>端口</i18n.hardware-port>
     </variables>
 </theme>

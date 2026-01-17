@@ -9,4 +9,58 @@ SDLPoP is based on a disassembly of the DOS version, and uses SDL, extending the
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
+  <variables lang="ar">
+    <systemDescription>SDLPoP هي اختصار لـ "Prince of Persia" المرتبط بـ SDL. وهو نسخة مفتوحة المصدر من Prince of Persia تعمل بشكل أصلي على أنظمة Windows و Linux. SDLPoP مبني على تفكيك نسخة DOS، ويستخدم SDL، ويوسع اللعبة بميزات جديدة.</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>SDLPoP je skraćenica za "Prince of Persia" povezan sa SDL-om. To je open-source port igre Prince of Persia koji radi nativno na Windowsu i Linuxu. SDLPoP je zasnovan na disasembleru DOS verzije i koristi SDL, proširujući igru novim značajkama.</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>SDLPoP és l'acrònim de "Prince of Persia" vinculat a SDL. És un port de codi obert de Prince of Persia que funciona de manera nativa a Windows i Linux. SDLPoP es basa en una desassamblatge de la versió per a DOS i utilitza SDL, ampliant el joc amb noves característiques.</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemDescription>SDLPoP steht für „Prince of Persia” in Verbindung mit SDL. Es handelt sich um eine Open-Source-Portierung von Prince of Persia, die nativ unter Windows und Linux läuft. SDLPoP basiert auf einer Disassemblierung der DOS-Version und nutzt SDL, wodurch das Spiel um neue Funktionen erweitert wird.</systemDescription>
+  </variables>
+  <variables lang="es">
+    <systemDescription>SDLPoP son las siglas de «Prince of Persia» vinculado a SDL. Se trata de una adaptación de código abierto de Prince of Persia que se ejecuta de forma nativa en Windows y Linux. SDLPoP se basa en un desensamblado de la versión DOS y utiliza SDL, ampliando el juego con nuevas características.</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>SDLPoP signifie « Prince of Persia » lié à SDL. Il s'agit d'un port open source de Prince of Persia qui fonctionne nativement sous Windows et Linux. SDLPoP est basé sur un désassemblage de la version DOS et utilise SDL, enrichissant le jeu de nouvelles fonctionnalités.</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>SDLPoP je kratica za "Prince of Persia" povezan sa SDL-om. To je open-source port igre Prince of Persia koji radi nativno na Windowsu i Linuxu. SDLPoP je temeljen na disasemblu DOS verzije i koristi SDL, proširujući igru novim značajkama.</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemDescription>SDLPoP sta per "Prince of Persia" collegato a SDL. Si tratta di un porting open source di Prince of Persia che funziona in modo nativo su Windows e Linux. SDLPoP si basa su un disassemblaggio della versione DOS e utilizza SDL, ampliando il gioco con nuove funzionalità.</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>SDLPoPは「Prince of Persia」をSDLにリンクしたものを意味します。これはWindowsとLinux上でネイティブに動作するPrince of Persiaのオープンソース移植版です。SDLPoPはDOS版の逆アセンブルを基にしており、SDLを使用し、新機能でゲームを拡張しています。</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>SDLPoP는 SDL과 연계된 "Prince of Persia"를 의미합니다. 이는 Windows와 Linux에서 네이티브로 실행되는 Prince of Persia의 오픈소스 포팅 버전입니다. SDLPoP는 DOS 버전의 디스어셈블리를 기반으로 하며, SDL을 활용하여 게임에 새로운 기능을 추가했습니다.</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>SDLPoP staat voor "Prince of Persia" gekoppeld aan SDL. Het is een open-source port van Prince of Persia die native draait op Windows en Linux. SDLPoP is gebaseerd op een disassemblage van de DOS-versie en maakt gebruik van SDL, waardoor het spel wordt uitgebreid met nieuwe functies.</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>SDLPoP to skrót od „Prince of Persia” powiązany z SDL. Jest to otwarta wersja gry Prince of Persia, która działa natywnie w systemach Windows i Linux. SDLPoP opiera się na dezasemblacji wersji DOS i wykorzystuje SDL, rozszerzając grę o nowe funkcje.</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>SDLPoP significa "Prince of Persia" vinculado ao SDL. É uma versão open source do Prince of Persia que roda nativamente no Windows e no Linux. O SDLPoP é baseado em uma desmontagem da versão DOS e usa SDL, ampliando o jogo com novos recursos.</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>SDLPoP înseamnă „Prince of Persia” legat de SDL. Este un port open-source al Prince of Persia care rulează nativ pe Windows și Linux. SDLPoP se bazează pe o dezasamblare a versiunii DOS și utilizează SDL, extinzând jocul cu noi caracteristici.</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>SDLPoP означает «Prince of Persia», связанный с SDL. Это открытый порт Prince of Persia, который работает на Windows и Linux. SDLPoP основан на дизассемблировании DOS-версии и использует SDL, расширяя игру новыми функциями.</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>SDLPoP је скраћеница за "Принц из Персије" повезан са SDL-ом. То је порт отвореног кода игре Принц из Персије који ради нативни на Windows-у и Linux-у. SDLPoP је заснован на дисасемблажу ДОС верзије и користи SDL, проширујући игру новим функцијама.</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>SDLPoP står för "Prince of Persia" kopplat till SDL. Det är en öppen källkodsport av Prince of Persia som körs nativt på Windows och Linux. SDLPoP är baserat på en demontering av DOS-versionen och använder SDL, vilket utökar spelet med nya funktioner.</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>SDLPoP代表与SDL关联的《波斯王子》。这是《波斯王子》的开源移植版本，可在Windows和Linux系统上原生运行。SDLPoP基于DOS版本的反编译实现，采用SDL库并为游戏增添了新特性。</systemDescription>
+  </variables>
 </theme>

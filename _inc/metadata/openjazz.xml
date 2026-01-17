@@ -12,4 +12,94 @@ With the demise of DOS-based operating systems, it has become necessary to use e
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
+  <variables lang="ar">
+    <systemDescription>OpenJazz هو إصدار مجاني ومفتوح المصدر من ألعاب Jazz Jackrabbit الكلاسيكية.
+
+يمكن تجميع OpenJazz على مجموعة واسعة من أنظمة التشغيل، بما في ذلك Windows و macOS و GNU/Linux و BSD. كما تتوفر منافذ لبعض المنصات المنزلية، مثل Wii و PSP. مع زوال أنظمة التشغيل القائمة على DOS، أصبح من الضروري استخدام المحاكيات لتشغيل ألعاب DOS القديمة. تستحق Jazz Jackrabbit أكثر من ذلك - وستستفيد كثيرًا من الميزات الجديدة.</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>OpenJazz je besplatna verzija klasičnih igara Jazz Jackrabbit otvorenog koda.
+
+OpenJazz se može kompajlirati na širokom spektru operativnih sistema, uključujući Windows, macOS, GNU/Linux i varijante BSD-a. Također postoje portovi za neke homebrew platforme, na primjer Wii i PSP. Sa nestankom DOS-baziranih operativnih sistema postalo je neophodno koristiti emulatore za igranje starih DOS igara. Jazz Jackrabbit zaslužuje više – i uveliko bi imao koristi od novih funkcija.</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>OpenJazz és una versió gratuïta i de codi obert dels clàssics jocs Jazz Jackrabbit.
+
+OpenJazz es pot compilar en una àmplia gamma de sistemes operatius, incloent-hi Windows, macOS, GNU/Linux i les variants de BSD. També hi ha ports disponibles per a algunes plataformes homebrew, com ara la Wii i la PSP. Amb la desaparició dels sistemes operatius basats en DOS, s'ha fet necessari utilitzar emuladors per jugar a jocs antics de DOS. Jazz Jackrabbit es mereix més i es beneficiaria molt de noves funcions.</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemDescription>OpenJazz ist eine kostenlose Open-Source-Version der klassischen Jazz Jackrabbit-Spiele.
+
+OpenJazz kann auf einer Vielzahl von Betriebssystemen kompiliert werden, darunter Windows, macOS, GNU/Linux und BSD-Varianten. Außerdem sind Ports für einige Homebrew-Plattformen verfügbar, beispielsweise Wii und PSP. Mit dem Niedergang der DOS-basierten Betriebssysteme ist es notwendig geworden, Emulatoren zu verwenden, um alte DOS-Spiele zu spielen. Jazz Jackrabbit verdient mehr – und würde von neuen Funktionen erheblich profitieren.</systemDescription>
+  </variables>
+  <variables lang="es">
+    <systemDescription>OpenJazz es una versión gratuita y de código abierto de los clásicos juegos Jazz Jackrabbit.
+
+OpenJazz se puede compilar en una amplia gama de sistemas operativos, incluidos Windows, macOS, GNU/Linux y BSD. También hay versiones disponibles para algunas plataformas caseras, como Wii y PSP. Con la desaparición de los sistemas operativos basados en DOS, se ha hecho necesario utilizar emuladores para jugar a los antiguos juegos de DOS. Jazz Jackrabbit se merece algo más, y se beneficiaría enormemente de nuevas funciones.</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>OpenJazz est une version gratuite et open source des jeux classiques Jazz Jackrabbit.
+
+OpenJazz peut être compilé sur une large gamme de systèmes d'exploitation, notamment Windows, macOS, GNU/Linux et BSD. Des ports sont également disponibles pour certaines plateformes maison, par exemple Wii et PSP. Avec la disparition des systèmes d'exploitation basés sur DOS, il est devenu nécessaire d'utiliser des émulateurs pour jouer aux anciens jeux DOS. Jazz Jackrabbit mérite mieux que cela et bénéficierait grandement de nouvelles fonctionnalités.</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>OpenJazz je besplatna verzija klasičnih igara Jazz Jackrabbit otvorenog koda.
+
+OpenJazz se može kompajlirati na širokom rasponu operativnih sustava, uključujući Windows, macOS, GNU/Linux i varijante BSD-a. Također postoje portovi za neke homebrew platforme, primjerice Wii i PSP. S nestankom DOS-baziranih operativnih sustava postalo je nužno koristiti emulatorima za igranje starih DOS igara. Jazz Jackrabbit zaslužuje više – i uvelike bi imao koristi od novih značajki.</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemDescription>OpenJazz è una versione gratuita e open source dei classici giochi Jazz Jackrabbit.
+
+OpenJazz può essere compilato su un'ampia gamma di sistemi operativi, tra cui Windows, macOS, GNU/Linux e BSD. Sono disponibili anche porting per alcune piattaforme homebrew, ad esempio Wii e PSP. Con la scomparsa dei sistemi operativi basati su DOS, è diventato necessario utilizzare emulatori per giocare ai vecchi giochi DOS. Jazz Jackrabbit merita di più e trarrebbe grande vantaggio dalle nuove funzionalità.</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>OpenJazzは、クラシックなJazz Jackrabbitシリーズの無料オープンソース版です。
+
+OpenJazzはWindows、macOS、GNU/Linux、BSD系など幅広いOSでコンパイル可能です。WiiやPSPなど一部の自作プラットフォーム向け移植版も存在します。DOSベースOSの衰退に伴い、旧式DOSゲームをプレイするにはエミュレータの使用が必須となりました。Jazz Jackrabbitはそれ以上の価値があり、新機能の導入で大きく進化するでしょう。</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>OpenJazz는 클래식 게임 Jazz Jackrabbit의 무료 오픈소스 버전입니다.
+
+OpenJazz는 Windows, macOS, GNU/Linux 및 BSD 계열을 포함한 다양한 운영체제에서 컴파일할 수 있습니다. 또한 Wii와 PSP 같은 일부 홈브루 플랫폼용 포팅 버전도 제공됩니다. DOS 기반 운영체제의 종말로 인해 오래된 DOS 게임을 플레이하려면 에뮬레이터를 사용해야 하는 상황이 되었습니다. Jazz Jackrabbit은 더 나은 대우를 받을 자격이 있으며, 새로운 기능 추가로 큰 혜택을 얻을 수 있습니다.</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>OpenJazz is een gratis, open-sourceversie van de klassieke Jazz Jackrabbit-games.
+
+OpenJazz kan worden gecompileerd op een breed scala aan besturingssystemen, waaronder Windows, macOS, GNU/Linux en BSD-varianten. Er zijn ook ports beschikbaar voor sommige homebrew-platforms, bijvoorbeeld Wii en PSP. Met het verdwijnen van DOS-gebaseerde besturingssystemen is het noodzakelijk geworden om emulators te gebruiken om oude DOS-games te spelen. Jazz Jackrabbit verdient meer - en zou veel baat hebben bij nieuwe functies.</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>OpenJazz to darmowa, otwarta wersja klasycznej gry Jazz Jackrabbit.
+
+OpenJazz można skompilować na wielu systemach operacyjnych, w tym Windows, macOS, GNU/Linux i BSD. Dostępne są również porty dla niektórych platform domowych, na przykład Wii i PSP. Wraz z zanikiem systemów operacyjnych opartych na DOSie konieczne stało się używanie emulatorów do grania w stare gry DOSowe. Jazz Jackrabbit zasługuje na coś więcej – i znacznie skorzystałby na nowych funkcjach.</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>O OpenJazz é uma versão gratuita e de código aberto dos clássicos jogos Jazz Jackrabbit.
+
+O OpenJazz pode ser compilado em uma ampla variedade de sistemas operacionais, incluindo Windows, macOS, GNU/Linux e BSD. Também estão disponíveis portas para algumas plataformas caseiras, como Wii e PSP. Com o fim dos sistemas operacionais baseados em DOS, tornou-se necessário usar emuladores para jogar jogos antigos do DOS. O Jazz Jackrabbit merece mais — e se beneficiaria muito com novos recursos.</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>OpenJazz este o versiune gratuită, open-source a jocurilor clasice Jazz Jackrabbit.
+
+OpenJazz poate fi compilat pe o gamă largă de sisteme de operare, inclusiv Windows, macOS, GNU/Linux și BSD. De asemenea, sunt disponibile porturi pentru unele platforme homebrew, de exemplu Wii și PSP. Odată cu dispariția sistemelor de operare bazate pe DOS, a devenit necesară utilizarea emulatoarelor pentru a juca vechile jocuri DOS. Jazz Jackrabbit merită mai mult - și ar beneficia foarte mult de noile funcții.</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>OpenJazz — это бесплатная версия классической игры Jazz Jackrabbit с открытым исходным кодом.
+
+OpenJazz можно скомпилировать на широком спектре операционных систем, включая Windows, macOS, GNU/Linux и BSD. Также доступны порты для некоторых самодельных платформ, например Wii и PSP. С исчезновением операционных систем на базе DOS для запуска старых DOS-игр стало необходимо использовать эмуляторы. Jazz Jackrabbit заслуживает большего — и значительно выиграет от новых функций.</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>OpenJazz је бесплатна, отвореног кода верзија класичних Jazz Jackrabbit игара.
+
+OpenJazz се може компајлирати на широком спектру оперативних система, укључујући Windows, macOS, GNU/Linux и различите BSD дистрибуције. Такође, постоје портoви за неке хоумбрев платформе, као што су Wii и PSP. Са нестанком ДОС-основаних оперативних система постало је неопходно користити емулаторе за играње старих ДОС игара. Jazz Jackrabbit заслужује више – и имао би велику корист од нових функција.</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>OpenJazz är en gratis, öppen källkodsversion av de klassiska Jazz Jackrabbit-spelen.
+
+OpenJazz kan kompileras på en rad olika operativsystem, inklusive Windows, macOS, GNU/Linux och BSD-varianter. Det finns även portar tillgängliga för vissa hembryggda plattformar, till exempel Wii och PSP. Med DOS-baserade operativsystems försvinnande har det blivit nödvändigt att använda emulatorer för att spela gamla DOS-spel. Jazz Jackrabbit förtjänar mer – och skulle ha stor nytta av nya funktioner.</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>OpenJazz 是经典游戏《Jazz Jackrabbit》的免费开源版本。
+
+OpenJazz可在多种操作系统上编译运行，包括Windows、macOS、GNU/Linux及各类BSD系统。部分家用游戏机平台（如Wii和PSP）也提供移植版本。随着DOS系统逐渐退出历史舞台，运行老旧DOS游戏必须借助模拟器。而Jazz Jackrabbit值得拥有更多——新增功能将使其焕发新生。</systemDescription>
+  </variables>
 </theme>

@@ -10,4 +10,94 @@ It requires the original ROMs, as these contain elements including the graphics 
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
+  <variables lang="ar">
+    <systemDescription>CannonBall هو محرك ألعاب مُحسّن للعبة OutRun الأركيدية. تمت إعادة كتابة كود المجمع الأصلي 68000 و Z80 بلغة C++. وهذا يجعل من الممكن إجراء تحسينات مناسبة للمنصات الحديثة، مثل معدل إطارات أعلى يبلغ 60 إطارًا في الثانية، وتوسيع نطاق العناصر المتحركة بدقة أعلى، ودعم الشاشة العريضة، وأنماط لعب جديدة، وما إلى ذلك.
+
+يتطلب الأمر وجود ROMs الأصلية، لأنها تحتوي على عناصر تشمل الرسومات والبيانات الصوتية.</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>CannonBall je poboljšan game engine za arkadnu igru OutRun. Izvorni assemblerski kod za 68000 i Z80 je prepravljen u C++. To omogućava poboljšanja prilagođena modernim platformama, kao što su veća brzina sličica do 60 FPS, skaliranje sprita u višoj rezoluciji, podrška za široki ekran, novi načini igre i tako dalje.
+
+Potrebni su originalni ROM-ovi, jer oni sadrže elemente kao što su grafički i audio podaci.</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>CannonBall és un motor de joc optimitzat per al joc d'arcade OutRun. El codi d'assembleu original per a 68000 i Z80 s'ha reescrit en C++. Això permet fer millores adequades per a plataformes modernes, com ara una velocitat de fotogrames més alta a 60 FPS, escalat de sprites a una resolució més alta, suport per a pantalla ampla, nous modes de joc, etc.
+
+Requereix les ROMs originals, ja que aquestes contenen elements com ara les dades gràfiques i d'àudio.</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemDescription>CannonBall ist eine optimierte Spiel-Engine für das Arcade-Spiel OutRun. Der ursprüngliche 68000- und Z80-Assembler-Code wurde in C++ neu geschrieben. Dadurch sind Verbesserungen möglich, die für moderne Plattformen geeignet sind, wie z. B. eine höhere Bildrate von 60 FPS, eine höhere Auflösung der Sprites, Breitbildunterstützung, neue Spielmodi und so weiter.
+
+Es sind die Original-ROMs erforderlich, da diese Elemente wie Grafik- und Audiodaten enthalten.</systemDescription>
+  </variables>
+  <variables lang="es">
+    <systemDescription>CannonBall es un motor de juego mejorado para el juego arcade OutRun. El código ensamblador original 68000 y Z80 ha sido reescrito en C++. Esto permite realizar mejoras adecuadas para las plataformas modernas, como una mayor velocidad de fotogramas a 60 FPS, un escalado de sprites de mayor resolución, compatibilidad con pantallas panorámicas, nuevos modos de juego, etc.
+
+Requiere las ROM originales, ya que estas contienen elementos como los datos gráficos y de audio.</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>CannonBall est un moteur de jeu amélioré pour le jeu d'arcade OutRun. Le code assembleur original 68000 et Z80 a été réécrit en C++. Cela permet d'apporter des améliorations adaptées aux plateformes modernes, telles qu'une fréquence d'images plus élevée à 60 FPS, un redimensionnement des sprites en haute résolution, la prise en charge des écrans larges, de nouveaux modes de jeu, etc.
+
+Il nécessite les ROM d'origine, car celles-ci contiennent des éléments tels que les données graphiques et audio.</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>CannonBall je poboljšani game engine za arkadnu igru OutRun. Izvorni assemblerski kod za 68000 i Z80 preuređen je u C++. To omogućuje poboljšanja prilagođena suvremenim platformama, poput veće brzine sličica do 60 FPS, skaliranja sprita u višoj rezoluciji, podrške za široki zaslon, novih načina igre i slično.
+
+Potrebni su originalni ROM-ovi jer oni sadrže elemente poput grafike i zvučnih podataka.</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemDescription>CannonBall è un motore di gioco potenziato per il gioco arcade OutRun. Il codice assembler originale 68000 e Z80 è stato riscritto in C++. Ciò consente di apportare miglioramenti adatti alle piattaforme moderne, come un frame rate più elevato a 60 FPS, uno scaling degli sprite con risoluzione più alta, il supporto per schermi widescreen, nuove modalità di gioco e così via.
+
+Richiede le ROM originali, poiché queste contengono elementi quali i dati grafici e audio.</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>キャノンボールはアーケードゲーム『アウトラン』用の強化ゲームエンジンです。オリジナルの68000およびZ80アセンブラコードはC++で書き直されています。これにより、60FPSの高フレームレート、高解像度スプライトスケーリング、ワイドスクリーン対応、新ゲームモードなど、現代プラットフォームに適した改良が可能になりました。
+
+動作にはオリジナルのROMが必要です。これらはグラフィックやオーディオデータを含む要素を保持しているためです。</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>캐논볼은 아케이드 게임 아웃런을 위한 고성능 게임 엔진입니다. 원본 68000 및 Z80 어셈블러 코드는 C++로 재작성되었습니다. 이를 통해 60 FPS의 높은 프레임 속도, 고해상도 스프라이트 스케일링, 와이드 스크린 지원, 새로운 게임 모드 등 현대 플랫폼에 적합한 개선 사항을 구현할 수 있습니다.
+
+그래픽 및 오디오 데이터를 포함한 요소가 포함된 원본 ROM이 필요합니다.</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>CannonBall is een opgevoerde game-engine voor het arcadespel OutRun. De originele 68000- en Z80-assemblercode is herschreven in C++. Hierdoor zijn verbeteringen mogelijk die geschikt zijn voor moderne platforms, zoals een hogere framesnelheid van 60 FPS, sprite-scaling met een hogere resolutie, ondersteuning voor breedbeeld, nieuwe spelmodi, enzovoort.
+
+Hiervoor zijn de originele ROM's nodig, omdat deze elementen bevatten zoals de grafische en audiogegevens.</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>CannonBall to ulepszony silnik gry dla gry zręcznościowej OutRun. Oryginalny kod asemblera 68000 i Z80 został przepisany w języku C++. Dzięki temu możliwe jest wprowadzenie ulepszeń dostosowanych do nowoczesnych platform, takich jak wyższa częstotliwość odświeżania obrazu wynosząca 60 klatek na sekundę, skalowanie sprite'ów w wyższej rozdzielczości, obsługa szerokiego ekranu, nowe tryby gry i tak dalej.
+
+Wymaga oryginalnych pamięci ROM, ponieważ zawierają one elementy, w tym dane graficzne i dźwiękowe.</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>CannonBall é um motor de jogo melhorado para o jogo arcade OutRun. O código assembler original 68000 e Z80 foi reescrito em C++. Isto permite fazer melhorias adequadas às plataformas modernas, tais como uma taxa de fotogramas mais elevada a 60 FPS, escalonamento de sprites com resolução mais elevada, suporte para ecrãs largos, novos modos de jogo, etc.
+
+Requer as ROMs originais, pois estas contêm elementos que incluem os dados gráficos e de áudio.</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>CannonBall este un motor de joc îmbunătățit pentru jocul arcade OutRun. Codul original 68000 și Z80 assembler a fost rescris în C++. Acest lucru face posibilă realizarea de îmbunătățiri adecvate pentru platformele moderne, cum ar fi o rată de cadre mai mare la 60 FPS, scalare sprite cu rezoluție mai mare, suport pentru ecran lat, moduri de joc noi și așa mai departe.
+
+Este necesar să aveți ROM-urile originale, deoarece acestea conțin elemente precum datele grafice și audio.</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>CannonBall — это усовершенствованный игровой движок для аркадной игры OutRun. Исходный код на ассемблере 68000 и Z80 был переписан на C++. Это позволило внести улучшения, подходящие для современных платформ, такие как более высокая частота кадров (60 FPS), масштабирование спрайтов с более высоким разрешением, поддержка широкоформатных экранов, новые режимы игры и т. д.
+
+Требуются оригинальные ПЗУ, так как они содержат элементы, включая графические и аудиоданные.</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>CannonBall је унапређени гејм енджин за аркадну игру OutRun. Изворни асемблерски код за 68000 и Z80 је преписан у C++. Ово омогућава увођење побољшања прилагођених савременим платформама, као што су већа брзина кадрова до 60 FPS, скалирање спрајтова у вишој резолуцији, подршка за широке екране, нови режими игре и слично.
+
+Потребни су оригинални РОМ-ови, јер они садрже елементе као што су графички и аудио подаци.</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>CannonBall är en uppgraderad spelmotor för arkadspelet OutRun. Den ursprungliga 68000- och Z80-assemblerkoden har skrivits om i C++. Detta gör det möjligt att göra förbättringar som passar moderna plattformar, såsom högre bildfrekvens på 60 FPS, högre upplösning för sprite-skalning, stöd för bredbildsskärmar, nya spellägen och så vidare.
+
+Det kräver de ursprungliga ROM-minnena, eftersom dessa innehåller element som grafik och ljuddata.</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>CannonBall是一款针对街机游戏《OutRun》的强化版游戏引擎。其原始的68000和Z80汇编代码已被重写为C++语言。这使得引擎能够适配现代平台进行优化，例如实现60帧每秒的高帧率、更高分辨率的精灵缩放、宽屏支持、新增游戏模式等功能。
+
+运行时需加载原始ROM文件，因其中包含图形与音频数据等核心组件。</systemDescription>
+  </variables>
 </theme>

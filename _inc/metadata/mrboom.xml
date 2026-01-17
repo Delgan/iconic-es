@@ -10,4 +10,58 @@ Mr.Boom supports up to 8 players and features like netplay, AI bots (new C++ fea
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
+  <variables lang="ar">
+    <systemDescription>Mr.Boom هو نسخة مطابقة من Bomberman لمنصة RetroArch تم تحويلها إلى واجهة برمجة التطبيقات libretro، وتم تحويلها من تجميع DOS باستخدام asm2c. يدعم Mr.Boom ما يصل إلى 8 لاعبين ويتميز بخصائص مثل اللعب عبر الإنترنت، وروبوتات الذكاء الاصطناعي (ميزة C++ جديدة)، ودفع القنابل، وأجهزة التحكم عن بعد، وركوب الكنغر.</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>Mr.Boom je klon igre Bomberman za platformu RetroArch, portovan na libretro API, konvertovan iz DOS asemblera pomoću asm2c. Mr.Boom podržava do 8 igrača i nudi mogućnosti poput netplay-a, AI botova (nova C++ značajka), guranja bombi, daljinskih upravljača i jahanja kengura.</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>Mr.Boom és un clon de Bomberman per a la plataforma RetroArch portat a l'API libretro, convertit des d'assembleu de DOS mitjançant asm2c. Mr.Boom admet fins a 8 jugadors i inclou funcions com el netplay, bots d'IA (nova característica de C++), empentar bombes, comandaments a distància i muntar cangurs.</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemDescription>Mr.Boom ist ein Bomberman-Klon für die RetroArch-Plattform, der auf die libretro-API portiert und mit asm2c aus DOS-Assembler konvertiert wurde. Mr.Boom unterstützt bis zu 8 Spieler und bietet Funktionen wie Netzwerkspiel, KI-Bots (neue C++-Funktion), Bomben schieben, Fernbedienungen und Känguru-Reiten.</systemDescription>
+  </variables>
+  <variables lang="es">
+    <systemDescription>Mr.Boom es un clon de Bomberman para la plataforma RetroArch portado a la API libretro, convertido desde ensamblador DOS utilizando asm2c. Mr.Boom admite hasta 8 jugadores y cuenta con funciones como juego en red, bots con IA (nueva función de C++), empuje de bombas, controles remotos y montar en canguro.</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>Mr.Boom est un clone de Bomberman pour la plateforme RetroArch porté vers l'API libretro, converti à partir de l'assemblage DOS à l'aide d'asm2c. Mr.Boom prend en charge jusqu'à 8 joueurs et propose des fonctionnalités telles que le jeu en réseau, des bots IA (nouvelle fonctionnalité C++), le poussage de bombes, les télécommandes et la chevauchée de kangourous.</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>Mr.Boom je klon igre Bomberman za platformu RetroArch, portiran na libretro API, konvertiran iz DOS assemblera pomoću asm2c. Mr.Boom podržava do 8 igrača i nudi značajke poput netplay-a, AI botova (nova C++ značajka), guranja bombi, daljinskih upravljača i jahanja kengura.</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemDescription>Mr.Boom è un clone di Bomberman per la piattaforma RetroArch portato sull'API libretro, convertito dall'assembly DOS utilizzando asm2c. Mr.Boom supporta fino a 8 giocatori e offre funzionalità quali netplay, bot AI (nuova funzionalità C++), spinta delle bombe, telecomandi e cavalcata del canguro.</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>Mr.BoomはRetroArchプラットフォーム向けのボンバーマンクローンで、libretro APIへ移植され、asm2cを用いてDOSアセンブリから変換されています。Mr.Boomは最大8人プレイに対応し、ネットプレイ、AIボット（新C++機能）、爆弾押し、リモコン操作、カンガルー乗りなどの機能を備えています。</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>Mr.Boom은 RetroArch 플랫폼용 봄버맨 클론으로, libretro API로 포팅되었으며 asm2c를 사용해 DOS 어셈블리에서 변환되었습니다. Mr.Boom은 최대 8명의 플레이어를 지원하며 네트워크 플레이, AI 봇(새로운 C++ 기능), 폭탄 밀기, 리모컨 조작, 캥거루 타기 등의 기능을 제공합니다.</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>Mr.Boom is een Bomberman-kloon voor het RetroArch-platform, geporteerd naar de libretro API, geconverteerd vanuit DOS-assemblage met behulp van asm2c. Mr.Boom ondersteunt maximaal 8 spelers en biedt functies zoals netplay, AI-bots (nieuwe C++-functie), bommen duwen, afstandsbedieningen en kangoeroe rijden.</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>Mr.Boom to klon Bombermana dla platformy RetroArch przeniesiony do API libretro, przekonwertowany z asemblera DOS przy użyciu asm2c. Mr.Boom obsługuje do 8 graczy i oferuje takie funkcje, jak gra sieciowa, boty AI (nowa funkcja C++), pchanie bomb, zdalne sterowanie i jazda na kangurze.</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>Mr.Boom é um clone do Bomberman para a plataforma RetroArch portado para a API libretro, convertido a partir da linguagem assembly do DOS usando asm2c. Mr.Boom suporta até 8 jogadores e recursos como netplay, bots de IA (novo recurso C++), empurrar bombas, controles remotos e montar cangurus.</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>Mr.Boom este un clonă Bomberman pentru platforma RetroArch portată pe API-ul libretro, convertită din asamblarea DOS folosind asm2c. Mr.Boom suportă până la 8 jucători și funcții precum netplay, roboți AI (nouă funcție C++), împingerea bombelor, telecomenzi și călăritul cangurului.</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>Mr.Boom — это клон Bomberman для платформы RetroArch, портированный на API libretro, преобразованный из ассемблера DOS с помощью asm2c. Mr.Boom поддерживает до 8 игроков и такие функции, как сетевая игра, боты с искусственным интеллектом (новая функция C++), толкание бомб, дистанционное управление и езда на кенгуру.</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>Mr.Boom је клон игре Bomberman за платформу RetroArch, портovan на libretro API, конвертован из DOS асемблера помоћу asm2c. Mr.Boom подржава до 8 играча и нуди функције као што су netplay, AI ботови (нова C++ функција), гурање бомби, даљинско управљање и јахање кенгура.</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>Mr.Boom är en Bomberman-klon för RetroArch-plattformen som har portats till libretro API och konverterats från DOS-assembler med hjälp av asm2c. Mr.Boom stöder upp till 8 spelare och har funktioner som nätverksspel, AI-bots (ny C++-funktion), bombkastning, fjärrkontroller och kängururidning.</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>Mr.Boom是一款基于RetroArch平台的炸弹人克隆游戏，已移植至libretro API，通过asm2c工具从DOS汇编语言转换而来。该游戏支持最多8名玩家同时游玩，并具备网络对战、AI机器人（新增C++功能）、炸弹推送、遥控装置及袋鼠骑乘等特色玩法。</systemDescription>
+  </variables>
 </theme>

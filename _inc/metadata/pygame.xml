@@ -10,4 +10,58 @@ Pygame was originally written by Pete Shinners to replace PySDL after its develo
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
+  <variables lang="ar">
+    <systemDescription>Pygame هي مجموعة من وحدات Python متعددة المنصات مصممة لكتابة ألعاب الفيديو. وهي تتضمن رسومات حاسوبية ومكتبات صوتية مصممة للاستخدام مع لغة البرمجة Python. كتب Pete Shinners Pygame في الأصل ليحل محل PySDL بعد توقف تطويره. وهو مشروع مجتمعي منذ عام 2000 ويتم إصداره بموجب رخصة GNU Lesser General Public License للبرمجيات الحرة مفتوحة المصدر.</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>Pygame je međuplatformski skup Python modula namijenjen pisanju videoigara. Uključuje biblioteke za računarsku grafiku i zvuk dizajnirane za upotrebu s Python programskim jezikom. Pygame je izvorno napisao Pete Shinners kako bi zamijenio PySDL nakon što je njegov razvoj zastao. Od 2000. godine je projekt zajednice i objavljen je pod slobodnom GNU Lesser General Public License licencom otvorenog koda.</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>Pygame és un conjunt de mòduls de Python multiplataforma dissenyat per escriure videojocs. Inclou biblioteques de gràfics per ordinador i de so dissenyades per ser utilitzades amb el llenguatge de programació Python. Pygame va ser escrit originalment per Pete Shinners per substituir PySDL després que el seu desenvolupament s'aturés. Ha estat un projecte comunitari des del 2000 i es publica sota la llicència GNU Lesser General Public License de programari lliure de codi obert.</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemDescription>Pygame ist eine plattformübergreifende Sammlung von Python-Modulen, die für die Entwicklung von Videospielen konzipiert wurde. Sie umfasst Computergrafik- und Soundbibliotheken, die für die Verwendung mit der Programmiersprache Python entwickelt wurden. Pygame wurde ursprünglich von Pete Shinners geschrieben, um PySDL zu ersetzen, nachdem dessen Entwicklung ins Stocken geraten war. Seit 2000 ist es ein Gemeinschaftsprojekt und wird unter der Open-Source-Lizenz GNU Lesser General Public License veröffentlicht.</systemDescription>
+  </variables>
+  <variables lang="es">
+    <systemDescription>Pygame es un conjunto multiplataforma de módulos Python diseñado para escribir videojuegos. Incluye bibliotecas de gráficos por ordenador y sonido diseñadas para ser utilizadas con el lenguaje de programación Python. Pygame fue escrito originalmente por Pete Shinners para sustituir a PySDL después de que su desarrollo se estancara. Es un proyecto comunitario desde el año 2000 y se distribuye bajo la licencia de software libre y código abierto GNU Lesser General Public License.</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>Pygame est un ensemble multiplateforme de modules Python conçus pour écrire des jeux vidéo. Il comprend des bibliothèques graphiques et sonores conçues pour être utilisées avec le langage de programmation Python. Pygame a été initialement écrit par Pete Shinners pour remplacer PySDL après l'arrêt de son développement. Il s'agit d'un projet communautaire depuis 2000, publié sous licence libre GNU Lesser General Public License.</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>Pygame je međuplatformski skup Python modula namijenjen pisanju videoigara. Uključuje biblioteke za računalnu grafiku i zvuk dizajnirane za korištenje s programskim jezikom Python. Pygame je izvorno napisao Pete Shinners kako bi zamijenio PySDL nakon što je njegov razvoj zastao. Od 2000. godine je projekt zajednice i objavljen je pod slobodnom softverskom licencom otvorenog koda GNU Lesser General Public License.</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemDescription>Pygame è un insieme multipiattaforma di moduli Python progettati per la scrittura di videogiochi. Include librerie di grafica computerizzata e audio progettate per essere utilizzate con il linguaggio di programmazione Python. Pygame è stato originariamente scritto da Pete Shinners per sostituire PySDL dopo che il suo sviluppo era stato interrotto. È un progetto comunitario dal 2000 ed è rilasciato sotto licenza open source GNU Lesser General Public License.</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>Pygameは、ビデオゲーム作成を目的としたクロスプラットフォームのPythonモジュール群です。Pythonプログラミング言語で使用することを想定したコンピュータグラフィックスおよびサウンドライブラリを含みます。Pygameは、PySDLの開発が停滞した後、その代替としてPete Shinnersによって最初に作成されました。2000年以降コミュニティプロジェクトとして運営され、オープンソースのフリーソフトウェアであるGNU Lesser General Public License（LGPL）のもとで公開されています。</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>파이게임(PyGame)은 비디오 게임 개발을 위해 설계된 크로스 플랫폼 파이썬 모듈 세트입니다. 파이썬 프로그래밍 언어와 함께 사용하도록 설계된 컴퓨터 그래픽 및 사운드 라이브러리를 포함합니다. 파이게임은 원래 피트 신너스(Pete Shinners)가 PySDL의 개발이 중단된 후 이를 대체하기 위해 작성했습니다. 2000년부터 커뮤니티 프로젝트로 운영되어 왔으며, 오픈 소스 자유 소프트웨어인 GNU 소규모 일반 공중 사용 허가서(GNU Lesser General Public License) 하에 배포됩니다.</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>Pygame is een platformonafhankelijke set Python-modules die is ontworpen voor het schrijven van videogames. Het bevat computergraphics en geluidsbibliotheken die zijn ontworpen voor gebruik met de programmeertaal Python. Pygame is oorspronkelijk geschreven door Pete Shinners ter vervanging van PySDL nadat de ontwikkeling daarvan was gestagneerd. Het is sinds 2000 een gemeenschapsproject en wordt uitgebracht onder de open source vrije software GNU Lesser General Public License.</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>Pygame to wieloplatformowy zestaw modułów języka Python przeznaczonych do tworzenia gier wideo. Zawiera biblioteki grafiki komputerowej i dźwięku przeznaczone do użycia z językiem programowania Python. Pygame zostało pierwotnie napisane przez Pete'a Shinnersa w celu zastąpienia PySDL po wstrzymaniu jego rozwoju. Od 2000 roku jest to projekt społecznościowy, wydany na licencji open source GNU Lesser General Public License.</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>Pygame é um conjunto multiplataforma de módulos Python projetado para a criação de videogames. Ele inclui bibliotecas de gráficos computacionais e som projetadas para serem usadas com a linguagem de programação Python. O Pygame foi originalmente escrito por Pete Shinners para substituir o PySDL após o desenvolvimento deste ter sido interrompido. É um projeto comunitário desde 2000 e é distribuído sob a licença de software livre GNU Lesser General Public License.</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>Pygame este un set de module Python multiplataformă conceput pentru scrierea jocurilor video. Include biblioteci de grafică computerizată și sunet concepute pentru a fi utilizate cu limbajul de programare Python. Pygame a fost scris inițial de Pete Shinners pentru a înlocui PySDL după ce dezvoltarea acestuia a fost întreruptă. Este un proiect comunitar din 2000 și este lansat sub licența open source GNU Lesser General Public License.</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>Pygame — это кроссплатформенный набор модулей Python, предназначенный для написания видеоигр. Он включает в себя библиотеки компьютерной графики и звука, разработанные для использования с языком программирования Python. Pygame был первоначально написан Питом Шиннерсом для замены PySDL после того, как его разработка застопорилась. С 2000 года он является общественным проектом и выпускается под лицензией GNU Lesser General Public License, которая является свободным программным обеспечением с открытым исходным кодом.</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>Pygame је међуплатформски скуп Python модула дизајниран за писање видео-игара. Он укључује библиотеке за рачунарску графику и звук намењене за коришћење са Python програмерским језиком. Pygame је првобитно написао Пит Шинерс да замени PySDL након што се његов развој зауставио. Од 2000. године је пројекат заједнице и објављује се под слободном GNU Lesser General Public License лиценцом отвореног кода.</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>Pygame är en plattformsoberoende uppsättning Python-moduler som är utformade för att skriva videospel. Den innehåller datorgrafik- och ljudbibliotek som är utformade för att användas med programmeringsspråket Python. Pygame skrevs ursprungligen av Pete Shinners för att ersätta PySDL efter att dess utveckling avstannat. Det har varit ett gemenskapsprojekt sedan 2000 och släpps under den öppna källkodslicensen GNU Lesser General Public License.</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>Pygame是一套跨平台的Python模块集合，专为编写视频游戏而设计。它包含计算机图形和声音库，旨在配合Python编程语言使用。Pygame最初由Pete Shinners编写，旨在替代开发停滞的PySDL。自2000年起，它已成为社区项目，并以开源自由软件GNU较少通用公共许可证（GNU Lesser General Public License）发布。</systemDescription>
+  </variables>
 </theme>

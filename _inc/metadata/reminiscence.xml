@@ -10,4 +10,58 @@ It is the spiritual successor of Another World/Out Of This World and it distingu
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
+  <variables lang="ar">
+    <systemDescription>REminiscence هي لعبة تم إنتاجها باستخدام محرك ألعاب، وهي نسخة معدلة من لعبة المغامرات والحركة Flashback التي أنتجتها شركة Delphine Software في عام 1992/1993. وهي تعتبر الخلف الروحي للعبة Another World/Out Of This World وتتميز برسوماتها الروتوسكوبية ومشاهدها المتعددة الأضلاع ونظام لعبها الذي يشبه لعبة Prince of Persia.</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>REminiscence je rekreacija igrinog pogona akcione avanturističke igre Flashback iz 1992/1993. godine, koju je napravio Delphine Software. To je duhovni nasljednik Another World/Out Of This World i odlikuje se rotoskopiranom grafikom, poligonalnim filmskim scenama i sistemom igranja u stilu Prince of Persia.</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>REminiscence és una recreació amb motor de joc de l'aventura d'acció Flashback de 1992/1993, feta per Delphine Software. És el successor espiritual d'Another World/Out Of This World i es distingeix pels gràfics rotoscopats, les escenes cinematogràfiques poligonals i un sistema de joc a l'estil de Prince of Persia.</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemDescription>REminiscence ist eine Spiel-Engine-Neuauflage des Action-Adventure-Spiels Flashback aus den Jahren 1992/1993, das von Delphine Software entwickelt wurde. Es ist der geistige Nachfolger von Another World/Out Of This World und zeichnet sich durch rotoskopierte Grafiken, polygonale Zwischensequenzen und ein Gameplay-System im Stil von Prince of Persia aus.</systemDescription>
+  </variables>
+  <variables lang="es">
+    <systemDescription>REminiscence es una recreación con motor de juego del juego de acción y aventuras Flashback, creado por Delphine Software en 1992/1993. Es el sucesor espiritual de Another World/Out Of This World y se distingue por sus gráficos rotoscópicos, sus escenas cinemáticas poligonales y su sistema de juego al estilo Prince of Persia.</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>REminiscence est une recréation sous forme de moteur de jeu du jeu d'action-aventure Flashback, développé par Delphine Software en 1992/1993. Il s'agit du successeur spirituel de Another World/Out Of This World, qui se distingue par ses graphismes rotoscopiques, ses cinématiques polygonales et son système de jeu inspiré de Prince of Persia.</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>REminiscence je rekreacija pogona igre akcijske avanture Flashback iz 1992./1993. godine, koju je izradio Delphine Software. To je duhovni nasljednik Another World/Out Of This World i odlikuje se rotoskopiranom grafikom, poligonalnim filmskim scenama i sustavom igranja u stilu Prince of Persia.</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemDescription>REminiscence è una riproduzione con motore di gioco del gioco d'azione e avventura Flashback del 1992/1993 realizzato da Delphine Software. È il successore spirituale di Another World/Out Of This World e si distingue per la grafica rotoscopica, i filmati poligonali e un sistema di gioco in stile Prince of Persia.</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>REminiscenceは、デルフィン・ソフトウェアが1992年/1993年に開発したアクションアドベンチャーゲーム『フラッシュバック』をゲームエンジンで再現した作品である。本作は『アナザーワールド/アウト・オブ・ディス・ワールド』の精神的後継作であり、ロトスコープ技法によるグラフィック、ポリゴン製のカットシーン、そして『プリンス・オブ・ペルシャ』スタイルのゲームプレイシステムによって独自性を確立している。</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>REminiscence는 델핀 소프트웨어가 제작한 1992/1993년 액션 어드벤처 게임 플래시백을 게임 엔진으로 재현한 작품입니다. 이 게임은 '어너더 월드/아웃 오브 디스 월드'의 정신적 후속작으로, 로토스코핑 그래픽, 폴리곤 컷신, 그리고 '페르시아의 왕자' 스타일의 게임플레이 시스템으로 차별화됩니다.</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>REminiscence is een game-engine-recreatie van het actie-avonturenspel Flashback uit 1992/1993, gemaakt door Delphine Software. Het is de spirituele opvolger van Another World/Out Of This World en onderscheidt zich door rotoscoped graphics, polygonale tussenfilmpjes en een Prince of Persia-achtig gameplay-systeem.</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>REminiscence to odtworzona na silniku gry przygodówka akcji Flashback z lat 1992/1993, stworzona przez Delphine Software. Jest duchową kontynuacją Another World/Out Of This World i wyróżnia się grafiką rotoskopową, wielokątnymi scenami przerywnikowymi oraz systemem rozgrywki w stylu Prince of Persia.</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>REminiscence é uma recriação em motor de jogo do jogo de ação e aventura Flashback, criado pela Delphine Software em 1992/1993. É o sucessor espiritual de Another World/Out Of This World e distingue-se pelos gráficos rotoscópicos, cenas poligonais e um sistema de jogabilidade ao estilo Prince of Persia.</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>REminiscence este o recreere a motorului jocului de acțiune și aventură Flashback din 1992/1993, realizat de Delphine Software. Este succesorul spiritual al Another World/Out Of This World și se distinge prin grafica rotoscopică, scenele poligonale și un sistem de joc în stilul Prince of Persia.</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>REminiscence — это воссоздание игрового движка приключенческой игры Flashback, выпущенной Delphine Software в 1992/1993 годах. Она является духовным наследником Another World/Out Of This World и отличается ротоскопической графикой, полигональными роликами и игровым процессом в стиле Prince of Persia.</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>REminiscence је рекреација гејм енджина акционо-авантуристичке игре Flashback из 1992/1993. године, коју је направила компанија Delphine Software. То је духовни наследник Another World/Out Of This World и издваја се ротоскопираном графиком, полигоналним сценима и системом игре у стилу Prince of Persia.</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>REminiscence är en spelmotor som återskapar actionäventyrsspelet Flashback från 1992/1993, utvecklat av Delphine Software. Det är den andliga efterföljaren till Another World/Out Of This World och utmärker sig med rotoskopisk grafik, polygonala mellansekvenser och ett spelsystem i stil med Prince of Persia.</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>《REminiscence》是一款基于游戏引擎重制的作品，复刻了Delphine Software于1992/1993年推出的动作冒险游戏《Flashback》。作为《Another World/Out Of This World》的精神续作，本作以逐帧动画技术呈现的画面、多边形过场动画以及《Prince of Persia》风格的游戏系统独树一帜。</systemDescription>
+  </variables>
 </theme>

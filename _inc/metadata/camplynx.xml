@@ -13,4 +13,148 @@ Compared to, for example, the Commodore 64, the BASIC was more extensive and fas
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
+  <variables lang="ar">
+    <systemDescription>كان Lynx جهاز كمبيوتر منزلي بريطاني 8 بت تم إصداره لأول مرة في أوائل عام 1983 كطراز 48 كيلوبايت. كانت هناك عدة طرز متاحة بذاكرة وصول عشوائي (RAM) سعة 48 كيلوبايت أو 96 كيلوبايت أو 128 كيلوبايت. كان من الممكن الوصول إلى 192 كيلوبايت مع توسعات ذاكرة الوصول العشوائي (RAM) المدمجة.
+
+كان الجهاز يعتمد على وحدة معالجة مركزية Z80A بسرعة 4 ميجاهرتز (6 ميجاهرتز للطرازات 128/192 كيلوبايت) ويتميز بوحدة تحكم فيديو Motorola 6845. كان من الممكن تشغيل CP/M مع محرك أقراص مرنة اختياري 5.25 بوصة على الطرازات 96 كيلوبايت و 128 كيلوبايت.
+
+كان الكمبيوتر يعمل دائمًا في وضع رسومات عالي الدقة (256x252 بكسل بثمانية ألوان) باستخدام أحرف 6 × 10 بكسل. بالنسبة للصوت، كان يحتوي على محول رقمي إلى تناظري (6 بت) بسيط. تم تضمين مقارن ليكون بمثابة محول تناظري إلى رقمي (يستخدم بشكل أساسي للقراءة من محركات الأشرطة).
+بالمقارنة مع Commodore 64 على سبيل المثال، كان BASIC أكثر شمولاً وأسرع وكانت دقة الرسومات أفضل؛ ولكن ألعاب الكمبيوتر من ناحية أخرى عانت من التنفيذ الخاص ونقص الأجهزة الخاصة بالصوت والرسومات المتحركة.</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>Lynx je bio 8-bitni britanski kućni računar koji je prvi put pušten u prodaju početkom 1983. godine kao model sa 48 kB. Nekoliko modela je bilo dostupno sa 48 kB, 96 kB ili 128 kB RAM-a. Bilo je moguće dostići 192 kB RAM-a pomoću ugrađenih proširenja.
+
+Mašina je bila bazirana na Z80A CPU-u taktažnom na 4 MHz (6 MHz za modele sa 128/192 kB) i imala je Motorola 6845 kao video kontroler. Na modelima sa 96 kB i 128 kB RAM-a bilo je moguće pokretati CP/M uz opcioni 5,25-inčni disk-drive.
+
+Računar je uvijek radio u grafičkom načinu rada visoke rezolucije (256x252 piksela u osam boja) koristeći znakove veličine 6x10 piksela. Za zvuk je imao jednostavan (6-bitni) DAC. Uključen je i komparator koji je služio kao ADC (prvenstveno za čitanje sa trakačkih jedinica).
+U poređenju sa, na primjer, Commodoreom 64, BASIC je bio opsežniji i brži, a rezolucija grafike bolja; ali su, s druge strane, kompjuterske igre patile od posebne implementacije i nedostatka hardvera za zvuk i spriteove.</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>El Lynx era un ordinador domèstic britànic de 8 bits que es va llançar per primer cop a principis de 1983 com a model de 48 kB. Hi havia diversos models disponibles amb 48 kB, 96 kB o 128 kB de RAM. Era possible arribar als 192 kB amb expansions de RAM a bord.
+
+La màquina es basava en una CPU Z80A a 4 MHz (6 MHz per als models de 128/192 kB) i incorporava un Motorola 6845 com a controlador de vídeo. Era possible executar CP/M amb la unitat de disc flexible opcional de 5,25" als models de 96 kB i 128 kB.
+
+L'ordinador funcionava sempre en mode gràfic de "alta" resolució (256x252 píxels en vuit colors) utilitzant caràcters de 6 per 10 píxels. Per al so tenia un DAC senzill (de 6 bits). S'hi va incloure un comparador per servir com a ADC (utilitzat principalment per a la lectura de les unitats de cinta).
+En comparació amb, per exemple, el Commodore 64, el BASIC era més extens i ràpid i la resolució gràfica era millor; però, d'altra banda, els videojocs patien per la implementació especial i la manca de maquinari per al so i els sprites.</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemDescription>Der Lynx war ein britischer 8-Bit-Heimcomputer, der Anfang 1983 erstmals als 48-kB-Modell auf den Markt kam. Es waren mehrere Modelle mit 48 kB, 96 kB oder 128 kB RAM erhältlich. Mit RAM-Erweiterungen auf der Platine konnten bis zu 192 kB erreicht werden.
+
+Das Gerät basierte auf einer Z80A-CPU mit einer Taktfrequenz von 4 MHz (6 MHz bei den Modellen mit 128/192 kB) und verfügte über einen Motorola 6845 als Grafikcontroller. Mit dem optionalen 5,25-Zoll-Diskettenlaufwerk war es möglich, CP/M auf den Modellen mit 96 kB und 128 kB zu betreiben.
+
+Der Computer lief immer im Grafikmodus mit „hoher” Auflösung (256 x 252 Pixel in acht Farben) und verwendete Zeichen mit einer Größe von 6 x 10 Pixel. Für den Ton verfügte er über einen einfachen (6-Bit-)DAC. Ein Komparator diente als ADC (hauptsächlich zum Lesen von Bandlaufwerken).
+Im Vergleich zum Commodore 64 beispielsweise war das BASIC umfangreicher und schneller und die Grafikauflösung besser; allerdings litten Computerspiele unter der speziellen Implementierung und dem Mangel an Hardware für Sound und Sprites.</systemDescription>
+  </variables>
+  <variables lang="es">
+    <systemDescription>El Lynx era un ordenador doméstico británico de 8 bits que salió al mercado a principios de 1983 como modelo de 48 kB. Había varios modelos disponibles con 48 kB, 96 kB o 128 kB de RAM. Era posible alcanzar los 192 kB con ampliaciones de RAM integradas.
+
+La máquina se basaba en una CPU Z80A con una velocidad de 4 MHz (6 MHz para los modelos de 128/192 kB) y contaba con un Motorola 6845 como controlador de vídeo. Era posible ejecutar CP/M con la unidad de disquete opcional de 5,25" en los modelos de 96 kB y 128 kB.
+
+El ordenador siempre funcionaba en modo gráfico de «alta» resolución (256 x 252 píxeles en ocho colores) utilizando caracteres de 6 x 10 píxeles. Para el sonido, contaba con un DAC sencillo (6 bits). Se incluyó un comparador para que sirviera de ADC (utilizado principalmente para leer desde unidades de cinta).
+En comparación con, por ejemplo, el Commodore 64, el BASIC era más completo y rápido y la resolución de los gráficos era mejor; pero, por otro lado, los juegos de ordenador se veían afectados por la implementación especial y la falta de hardware para el sonido y los sprites.</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>Le Lynx était un ordinateur domestique britannique 8 bits commercialisé pour la première fois début 1983 en version 48 ko. Plusieurs modèles étaient disponibles avec 48 ko, 96 ko ou 128 ko de RAM. Il était possible d'atteindre 192 ko grâce à des extensions de RAM intégrées.
+
+La machine était basée sur un processeur Z80A cadencé à 4 MHz (6 MHz pour les modèles 128/192 Ko) et équipée d'un contrôleur vidéo Motorola 6845. Il était possible d'utiliser CP/M avec le lecteur de disquette 5,25 pouces en option sur les modèles 96 Ko et 128 Ko.
+
+L'ordinateur fonctionnait toujours en mode graphique « haute » résolution (256 x 252 pixels en huit couleurs) en utilisant des caractères de 6 x 10 pixels. Pour le son, il disposait d'un simple DAC (6 bits). Un comparateur était inclus pour servir d'ADC (principalement utilisé pour la lecture à partir de lecteurs de bandes).
+Par rapport au Commodore 64, par exemple, le BASIC était plus complet et plus rapide, et la résolution graphique était meilleure ; mais les jeux informatiques souffraient en revanche de la mise en œuvre particulière et du manque de matériel pour le son et les sprites.</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>Lynx je bio 8-bitni britanski kućni računalo koji je prvi put pušten u prodaju početkom 1983. kao model s 48 kB. Bilo je dostupno nekoliko modela s 48 kB, 96 kB ili 128 kB RAM-a. Bilo je moguće dosegnuti 192 kB RAM-a pomoću ugrađenih proširenja.
+
+Računalo je bilo temeljeno na procesoru Z80A takta 4 MHz (6 MHz za modele s 128/192 kB) i imalo je videokontroler Motorola 6845. Na modelima s 96 kB i 128 kB bilo je moguće pokretati CP/M uz dodatnu 5,25-inčnu diskету.
+
+Računalo je uvijek radilo u grafičkom načinu rada visoke rezolucije (256x252 piksela u osam boja) koristeći znakove veličine 6 puta 10 piksela. Za zvuk je imalo jednostavan (6-bitni) DAC. Uključivač je bio uključen da služi kao ADC (prvenstveno za čitanje s trakačkih jedinica).
+U usporedbi s, primjerice, Commodoreom 64, BASIC je bio opsežniji i brži, a rezolucija grafike bolja; no s druge strane, računalne igre patile su zbog posebne implementacije i nedostatka hardvera za zvuk i spriteove.</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemDescription>Il Lynx era un home computer britannico a 8 bit lanciato sul mercato all'inizio del 1983 come modello da 48 kB. Erano disponibili diversi modelli con 48 kB, 96 kB o 128 kB di RAM. Era possibile raggiungere i 192 kB con espansioni di RAM integrate.
+
+La macchina era basata su una CPU Z80A con clock a 4 MHz (6 MHz per i modelli da 128/192 kB) e montava un Motorola 6845 come controller video. Era possibile eseguire CP/M con l'unità floppy disk opzionale da 5,25" sui modelli da 96 kB e 128 kB.
+
+Il computer funzionava sempre in modalità grafica ad alta risoluzione (256x252 pixel in otto colori) utilizzando caratteri da 6 volte 10 pixel. Per l'audio era dotato di un semplice DAC (6 bit). Era incluso un comparatore che fungeva da ADC (utilizzato principalmente per la lettura dai lettori di nastri).
+Rispetto, ad esempio, al Commodore 64, il BASIC era più esteso e veloce e la risoluzione grafica era migliore; d'altra parte, i giochi per computer risentivano dell'implementazione speciale e della mancanza di hardware per il suono e gli sprite.</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>リンクスは1983年初頭に48キロバイトモデルとして発売されたイギリスの8ビット家庭用コンピュータである。48キロバイト、96キロバイト、128キロバイトのRAMを搭載した複数のモデルが存在した。オンボードのRAM拡張により192キロバイトまで拡張可能であった。
+
+本機はZ80A CPU（4MHz動作、128/192kBモデルは6MHz）を中核とし、ビデオコントローラにモトローラ6845を搭載。96kBおよび128kBモデルではオプションの5.25インチフロッピーディスクドライブによりCP/Mを実行可能であった。
+
+本機は常に「高解像度」グラフィックモード（256×252ピクセル、8色表示）で動作し、6×10ピクセルの文字セットを使用。サウンドには簡易な6ビットDACを搭載。比較器をADCとして内蔵（主にテープドライブの読み取り用）。
+例えばコモドール64と比較すると、BASICはより高度で高速であり、グラフィックス解像度も優れていた。しかし一方で、コンピュータゲームは特殊な実装と、サウンドやスプライト用のハードウェア不足に悩まされた。</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>린크스는 1983년 초에 48KB 모델로 처음 출시된 영국산 8비트 가정용 컴퓨터입니다. 48KB, 96KB 또는 128KB RAM을 탑재한 여러 모델이 출시되었습니다. 보드 내 RAM 확장을 통해 192KB까지 확장할 수 있었습니다.
+
+이 컴퓨터는 4MHz 클럭의 Z80A CPU(128/192kB 모델은 6MHz)를 기반으로 하며, 모토로라 6845를 비디오 컨트롤러로 탑재했습니다. 96kB 및 128kB 모델에서는 옵션으로 제공되는 5.25인치 플로피 디스크 드라이브를 통해 CP/M을 실행할 수 있었습니다.
+
+이 컴퓨터는 항상 "고해상도" 그래픽 모드(8색상, 256x252 픽셀)로 작동했으며, 6x10 픽셀 크기의 문자 세트를 사용했습니다. 사운드 기능으로는 간단한 6비트 DAC가 탑재되었습니다. 비교기가 포함되어 ADC 역할을 수행했으며(주로 테이프 드라이브 읽기에 사용됨).
+예를 들어 코모도어 64와 비교하면, BASIC은 더 광범위하고 빠르며 그래픽 해상도도 우수했습니다. 반면 컴퓨터 게임은 사운드와 스프라이트를 위한 하드웨어 부족과 특수 구현 방식 때문에 제약이 있었습니다.</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>De Lynx was een Britse 8-bit homecomputer die begin 1983 voor het eerst werd uitgebracht als een 48 kB-model. Er waren verschillende modellen verkrijgbaar met 48 kB, 96 kB of 128 kB RAM. Met RAM-uitbreidingen op het moederbord was het mogelijk om 192 kB te bereiken.
+
+De machine was gebaseerd op een Z80A CPU met een kloksnelheid van 4 MHz (6 MHz voor de 128/192 kB-modellen) en beschikte over een Motorola 6845 als videocontroller. Het was mogelijk om CP/M te draaien met de optionele 5,25-inch floppydiskdrive op de 96 kB- en 128 kB-modellen.
+
+De computer draaide altijd in de grafische modus met hoge resolutie (256x252 pixels in acht kleuren) met tekens van 6 x 10 pixels. Voor geluid had hij een eenvoudige (6-bits) DAC. Er was een comparator ingebouwd die dienst deed als ADC (voornamelijk gebruikt voor het lezen van tapedrives).
+In vergelijking met bijvoorbeeld de Commodore 64 was de BASIC uitgebreider en sneller en was de grafische resolutie beter, maar aan de andere kant hadden computerspellen te lijden onder de speciale implementatie en het gebrek aan hardware voor geluid en sprites.</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>Lynx był 8-bitowym brytyjskim komputerem domowym, który po raz pierwszy pojawił się na rynku na początku 1983 roku jako model o pojemności 48 kB. Dostępnych było kilka modeli z pamięcią RAM o pojemności 48 kB, 96 kB lub 128 kB. Dzięki rozszerzeniom pamięci RAM można było osiągnąć pojemność 192 kB.
+
+Komputer był oparty na procesorze Z80A taktowanym zegarem 4 MHz (6 MHz w modelach 128/192 kB) i wyposażony w kontroler wideo Motorola 6845. W modelach 96 kB i 128 kB można było uruchomić system CP/M z opcjonalnym napędem dyskietek 5,25".
+
+Komputer zawsze działał w trybie graficznym o „wysokiej” rozdzielczości (256x252 pikseli w ośmiu kolorach), wykorzystując znaki o wymiarach 6 x 10 pikseli. Do obsługi dźwięku służył prosty przetwornik cyfrowo-analogowy (6 bitów). Komputer był wyposażony w komparator pełniący funkcję przetwornika analogowo-cyfrowego (używanego głównie do odczytu z napędów taśmowych).
+W porównaniu np. z Commodore 64, język BASIC był bardziej rozbudowany i szybszy, a rozdzielczość grafiki była lepsza; z drugiej strony gry komputerowe cierpiały z powodu specjalnej implementacji i braku sprzętu do obsługi dźwięku i sprite'ów.</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>O Lynx era um computador doméstico britânico de 8 bits que foi lançado pela primeira vez no início de 1983 como um modelo de 48 kB. Vários modelos estavam disponíveis com 48 kB, 96 kB ou 128 kB de RAM. Era possível atingir 192 kB com expansões de RAM integradas.
+
+A máquina era baseada em uma CPU Z80A com clock de 4 MHz (6 MHz para os modelos de 128/192 kB) e apresentava um Motorola 6845 como controlador de vídeo. Era possível executar o CP/M com a unidade de disquete opcional de 5,25" nos modelos de 96 kB e 128 kB.
+
+O computador sempre funcionava no modo gráfico de alta resolução (256x252 pixels em oito cores) usando caracteres de 6 vezes 10 pixels. Para som, ele tinha um DAC simples (6 bits). Um comparador foi incluído para servir como um ADC (usado principalmente para leitura de unidades de fita).
+Em comparação com, por exemplo, o Commodore 64, o BASIC era mais extenso e rápido e a resolução gráfica era melhor; mas os jogos de computador, por outro lado, sofriam com a implementação especial e a falta de hardware para som e sprites.</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>Lynx era un computer britanic de 8 biți pentru uz casnic, lansat pentru prima dată la începutul anului 1983, ca model de 48 kB. Erau disponibile mai multe modele cu 48 kB, 96 kB sau 128 kB RAM. Era posibil să se ajungă la 192 kB cu extinderi RAM integrate.
+
+Mașina era bazată pe un procesor Z80A cu o frecvență de 4 MHz (6 MHz pentru modelele de 128/192 kB) și avea un Motorola 6845 ca controler video. Era posibil să ruleze CP/M cu unitate de dischetă opțională de 5,25" pe modelele de 96 kB și 128 kB.
+
+Computerul funcționa întotdeauna în modul grafic de rezoluție „înaltă” (256x252 pixeli în opt culori) folosind caractere de 6 x 10 pixeli. Pentru sunet, avea un DAC simplu (6 biți). Era inclus un comparator care servea ca ADC (utilizat în principal pentru citirea de pe unitățile de bandă).
+În comparație cu, de exemplu, Commodore 64, BASIC era mai extins și mai rapid, iar rezoluția grafică era mai bună; pe de altă parte, jocurile pe computer sufereau din cauza implementării speciale și a lipsei de hardware pentru sunet și sprite.</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>Lynx был 8-разрядным британским домашним компьютером, который впервые был выпущен в начале 1983 года в виде модели с 48 кБ памяти. Было доступно несколько моделей с 48 кБ, 96 кБ или 128 кБ оперативной памяти. С помощью встроенных модулей расширения оперативной памяти можно было достичь 192 кБ.
+
+Машина была построена на базе процессора Z80A с тактовой частотой 4 МГц (6 МГц для моделей с 128/192 кБ) и оснащена видеоконтроллером Motorola 6845. На моделях с 96 кБ и 128 кБ можно было запускать CP/M с помощью дополнительного 5,25-дюймового дисковода.
+
+Компьютер всегда работал в графическом режиме «высокого» разрешения (256x252 пикселей в восьми цветах) с использованием символов размером 6 на 10 пикселей. Для звука он имел простой (6-битный) ЦАП. Был включен компаратор, служащий в качестве АЦП (в основном использовался для чтения с ленточных накопителей).
+По сравнению, например, с Commodore 64, BASIC был более обширным и быстрым, а разрешение графики было лучше; но с другой стороны, компьютерные игры страдали от специальной реализации и отсутствия аппаратного обеспечения для звука и спрайтов.</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>Линкс је био 8-битни британски кућни рачунар који је први пут пуштен у продају почетком 1983. године као модел са 48 kB. Било је доступно неколико модела са 48 kB, 96 kB или 128 kB RAM-а. Било је могуће достићи 192 kB уз проширења RAM-а на плочи.
+
+Машина је била заснована на Z80A процесору тактованom на 4 MHz (6 MHz за моделе са 128/192 kB) и имала је Motorola 6845 као видео контролер. Било је могуће покренути CP/M уз опционални 5,25-инчни флопи дисковод на моделима са 96 kB и 128 kB.
+
+Рачунар је увек радио у графичком режиму "високе" резолуције (256x252 пиксела у осам боја) користећи знакове величине 6x10 пиксела. За звук је имао једноставан (6-битни) ДАК. Укључен је компаратор који је служио као АДЦ (углавном за читање са тракастих јединица).
+У поређењу са, на пример, Commodore 64, BASIC је био обимнији и бржи, а резолуција графике боља; али су, с друге стране, компјутерске игре патиле због посебне имплементације и недостатка хардвера за звук и спрајтове.</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>Lynx var en brittisk 8-bitars hemdator som först släpptes i början av 1983 som en 48 kB-modell. Flera modeller fanns tillgängliga med 48 kB, 96 kB eller 128 kB RAM. Det var möjligt att nå 192 kB med RAM-utbyggnader på kortet.
+
+Maskinen baserades på en Z80A-processor med en klockfrekvens på 4 MHz (6 MHz för modellerna med 128/192 kB) och hade en Motorola 6845 som videokontroller. Det var möjligt att köra CP/M med den valfria 5,25-tums diskettenheten på modellerna med 96 kB och 128 kB.
+
+Datorn kördes alltid i grafiskt läge med "hög" upplösning (256x252 pixlar i åtta färger) med 6 gånger 10 pixlar stora tecken. För ljud hade den en enkel (6 bitars) DAC. En komparator ingick för att fungera som ADC (användes främst för läsning från bandenheter).
+Jämfört med till exempel Commodore 64 var BASIC mer omfattande och snabbare och grafiken hade bättre upplösning, men datorspel å andra sidan led av den speciella implementeringen och bristen på hårdvara för ljud och sprites.</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>Lynx是一款8位英国家用电脑，最初于1983年初推出48KB内存版本。该系列提供48KB、96KB或128KB内存型号，通过板载内存扩展可实现192KB容量。
+
+该机型以4MHz时钟频率的Z80A处理器为核心（128/192KB型号为6MHz），并采用摩托罗拉6845芯片作为视频控制器。96KB与128KB型号可选配5.25英寸软盘驱动器运行CP/M操作系统。
+
+该计算机始终运行于"高"分辨率图形模式（256×252像素，八色显示），采用6×10像素字符集。音频系统配备简易6位数模转换器（DAC），并内置比较器充当模数转换器（主要用于磁带驱动器读取）。
+相较于Commodore 64等机型，其BASIC语言功能更强大且运行更快，图形分辨率更优；但受限于特殊实现方案及缺乏专用音频/精灵硬件，游戏体验存在明显短板。</systemDescription>
+  </variables>
 </theme>

@@ -10,4 +10,58 @@ Pyxel's specifications and APIs are inspired by PICO-8 and TIC-80.</systemDescri
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
+  <variables lang="ar">
+    <systemDescription>Pyxel هو محرك ألعاب رجعي لـ Python. بفضل مواصفاته البسيطة المستوحاة من أجهزة الألعاب الرجعية، مثل إمكانية عرض 16 لونًا فقط وتشغيل 4 أصوات فقط في نفس الوقت، يمكنك الاستمتاع بصنع ألعاب بأسلوب فن البكسل. مواصفات Pyxel وواجهات برمجة التطبيقات (API) مستوحاة من PICO-8 و TIC-80.</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>Pyxel je retro igraći motor za Python. Zahvaljujući jednostavnim specifikacijama inspirisanim retro konzolama, kao što su prikaz samo 16 boja i reprodukcija samo četiri zvuka istovremeno, slobodno možete uživati u izradi igara u piksel-art stilu. Specifikacije i API-ji Pyxela inspirisani su PICO-8 i TIC-80.</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>Pyxel és un motor de jocs retro per a Python. Gràcies a les seves especificacions senzilles, inspirades en consoles de jocs retro, com ara que només es poden mostrar 16 colors i reproduir 4 sons alhora, pots gaudir lliurement de crear jocs d'estil pixel art. Les especificacions i les API de Pyxel estan inspirades en PICO-8 i TIC-80.</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemDescription>Pyxel ist eine Retro-Spiel-Engine für Python. Dank ihrer einfachen Spezifikationen, die von Retro-Spielkonsolen inspiriert sind, wie beispielsweise nur 16 darstellbare Farben und nur 4 gleichzeitig abspielbare Sounds, können Sie ganz unbeschwert Spiele im Pixel-Art-Stil entwickeln. Die Spezifikationen und APIs von Pyxel sind von PICO-8 und TIC-80 inspiriert.</systemDescription>
+  </variables>
+  <variables lang="es">
+    <systemDescription>Pyxel es un motor de juegos retro para Python. Gracias a sus sencillas especificaciones inspiradas en las consolas de juegos retro, como que solo se pueden mostrar 16 colores y reproducir 4 sonidos al mismo tiempo, puedes disfrutar libremente creando juegos de estilo pixel art. Las especificaciones y API de Pyxel están inspiradas en PICO-8 y TIC-80.</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>Pyxel est un moteur de jeu rétro pour Python. Grâce à ses spécifications simples inspirées des consoles de jeux rétro, telles que l'affichage limité à 16 couleurs et la lecture simultanée de seulement 4 sons, vous pouvez vous amuser à créer des jeux de style pixel art. Les spécifications et les API de Pyxel s'inspirent de PICO-8 et TIC-80.</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>Pyxel je retro igraći motor za Python. Zahvaljujući jednostavnim specifikacijama inspiriranim retro konzolama, poput mogućnosti prikaza samo 16 boja i reprodukcije samo četiri zvuka istovremeno, slobodno možete uživati u izradi igara u stilu piksel-arta. Specifikacije i API-ji Pyxela inspirirani su PICO-8 i TIC-80.</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemDescription>Pyxel è un motore di gioco retrò per Python. Grazie alle sue specifiche semplici ispirate alle console di gioco retrò, come la possibilità di visualizzare solo 16 colori e riprodurre solo 4 suoni contemporaneamente, puoi divertirti a creare giochi in stile pixel art. Le specifiche e le API di Pyxel sono ispirate a PICO-8 e TIC-80.</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>PyxelはPython用のレトロゲームエンジンです。16色しか表示できない、同時に再生できる音は4つだけといったレトロゲーム機に着想を得たシンプルな仕様のおかげで、ピクセルアート風のゲーム制作を気軽に楽しめます。Pyxelの仕様とAPIはPICO-8およびTIC-80に着想を得ています。</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>Pyxel은 파이썬용 레트로 게임 엔진입니다. 레트로 게임 콘솔에서 영감을 받은 단순한 사양 덕분에, 예를 들어 16색만 표시 가능하고 동시에 4개의 사운드만 재생 가능하다는 점 덕분에, 픽셀 아트 스타일의 게임을 자유롭게 제작하는 즐거움을 느낄 수 있습니다. Pyxel의 사양과 API는 PICO-8과 TIC-80에서 영감을 받았습니다.</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>Pyxel is een retro game-engine voor Python. Dankzij de eenvoudige specificaties, geïnspireerd op retro gameconsoles, zoals slechts 16 kleuren die kunnen worden weergegeven en slechts 4 geluiden die tegelijkertijd kunnen worden afgespeeld, kun je naar hartenlust genieten van het maken van games in pixelart-stijl. De specificaties en API's van Pyxel zijn geïnspireerd op PICO-8 en TIC-80.</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>Pyxel to silnik gier retro dla języka Python. Dzięki prostym specyfikacjom inspirowanym konsolami do gier retro, takim jak możliwość wyświetlania tylko 16 kolorów i odtwarzania tylko 4 dźwięków jednocześnie, możesz swobodnie tworzyć gry w stylu pixel art. Specyfikacje i interfejsy API Pyxela są inspirowane PICO-8 i TIC-80.</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>Pyxel é um motor de jogos retro para Python. Graças às suas especificações simples inspiradas nas consolas de jogos retro, tais como apenas 16 cores que podem ser exibidas e apenas 4 sons que podem ser reproduzidos ao mesmo tempo, pode sentir-se à vontade para desfrutar da criação de jogos ao estilo pixel art. As especificações e APIs do Pyxel são inspiradas no PICO-8 e no TIC-80.</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>Pyxel este un motor de jocuri retro pentru Python. Datorită specificațiilor sale simple, inspirate de consolele de jocuri retro, cum ar fi afișarea a doar 16 culori și redarea a doar 4 sunete în același timp, vă puteți bucura în voie de crearea de jocuri în stil pixel art. Specificațiile și API-urile Pyxel sunt inspirate de PICO-8 și TIC-80.</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>Pyxel — это ретро-игровой движок для Python. Благодаря простым техническим характеристикам, вдохновленным ретро-игровыми консолями, таким как возможность отображения только 16 цветов и воспроизведения только 4 звуков одновременно, вы можете свободно наслаждаться созданием игр в стиле пиксель-арт. Технические характеристики и API Pyxel вдохновлены PICO-8 и TIC-80.</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>Pyxel је ретро гејм енджин за Python. Захваљујући једноставним спецификацијама инспирисаним ретро гејминг конзолама, као што су само 16 боја које се могу приказати и само 4 звука која се могу репродуковати истовремено, слободно уживајте у креирању игара у пиксел арт стилу. Спецификације и API-ји Pyxela инспирисани су PICO-8 и TIC-80.</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>Pyxel är en retrospelsmotor för Python. Tack vare dess enkla specifikationer, inspirerade av retrospelkonsoler, såsom att endast 16 färger kan visas och endast 4 ljud kan spelas upp samtidigt, kan du njuta av att skapa spel i pixelkonststil. Pyxels specifikationer och API:er är inspirerade av PICO-8 och TIC-80.</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>Pyxel 是一款基于 Python 的复古游戏引擎。得益于其受复古游戏机启发的简约规格——例如仅支持显示 16 种颜色、同时仅能播放 4 种音效——您可尽情享受制作像素艺术风格游戏的乐趣。Pyxel 的规格与 API 设计灵感源自 PICO-8 和 TIC-80。</systemDescription>
+  </variables>
 </theme>

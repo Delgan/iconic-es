@@ -17,4 +17,94 @@ The chip does have some limitations, such as only being able to stream one data 
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
+  <variables lang="ar">
+    <systemDescription>MSU-1 هي شريحة إضافية للخرطوشة (مشابهة لشريحة SuperFx) تتيح العديد من التحسينات لألعاب SNES، بما في ذلك، على سبيل المثال لا الحصر، الفيديو كامل الحركة والصوت بجودة الأقراص المضغوطة من خلال إضافة ما يصل إلى 4 جيجابايت (نعم، 4 جيجابايت) من سعة التخزين للمحتوى الإضافي.
+
+بعض الأمثلة على الألعاب المعدلة بواسطة MSU-1 هي: Zelda: A Link to the Past مع موسيقى تصويرية بجودة CD كاملة. Chrono Trigger مع إدراج جميع مشاهد الفيديو من إصدار PlayStation. Mega Man X مع موسيقى تصويرية جديدة بجودة CD. تحتاج شريحة MSU-1 نفسها فقط إلى أن تكون في خرطوشة اللعبة لتعمل على نظام SNES فعلي غير معدل. من ناحية أخرى، تحتاج المحاكيات إلى تعديل لدعم تشغيل الألعاب المعدلة بواسطة MSU-1. ويرجع ذلك إلى حاجة المحاكي للوصول إلى ملفات خارج ROM أثناء تشغيل ROM. تحتوي الشريحة على بعض القيود، مثل عدم قدرتها على بث سوى مسار بيانات واحد في كل مرة، ولكنها تحول SNES بشكل أساسي إلى ما كان يمكن أن يكون عليه مع ملحق CD.</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>MSU-1 je dodatni čip za kartridž (sličan SuperFX čipu) koji omogućava mnoga poboljšanja SNES igara, uključujući, ali ne ograničavajući se na video u punom pokretu i zvuk kvalitete CD-a, dodavanjem do 4 GB (da, 4 gigabajta) prostora za pohranu dodatnog sadržaja.
+
+Neki primjeri igara modificiranih pomoću MSU-1 čipa su: Zelda: A Link to the Past sa potpuno orkestriranim soundtrackom CD kvaliteta. Chrono Trigger sa svim video cutscenama iz PlayStation verzije. Mega Man X sa novim soundtrackom CD kvaliteta. Sam MSU-1 čip mora biti u kartridžu igre da bi radio na neizmijenjenom SNES sistemu. S druge strane, emulatori se moraju modificirati kako bi podržali reprodukciju igara modificiranih pomoću MSU-1. To je zato što emulator treba pristupiti datotekama izvan ROM-a dok se ROM reproducira. Čip ima neka ograničenja, kao što je mogućnost streaminga samo jedne trake podataka odjednom, ali on u suštini pretvara SNES u ono što je mogao biti s CD dodatkom.</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>L'MSU-1 és un xip addicional per a cartutxos (similar al xip SuperFX) que permet moltes millores en els jocs de la SNES, incloent-hi, entre d'altres, vídeo en moviment complet i so de qualitat CD, afegint fins a 4 GB (sí, 4 gigabytes) d'emmagatzematge per a contingut addicional.
+
+Alguns exemples de jocs modificats amb MSU-1 serien: Zelda: A Link to the Past, amb una banda sonora íntegrament orquestrada de qualitat CD. Chrono Trigger, amb totes les seqüències de vídeo de la versió de PlayStation incorporades. Mega Man X, amb una nova banda sonora de qualitat CD. El xip MSU-1 només ha d'estar al cartutx del joc per funcionar en un sistema SNES real i no modificat. Els emuladors, d'altra banda, s'han de modificar per donar suport a la reproducció de jocs modificats amb MSU-1. Això es deu al fet que l'emulador necessita accedir a fitxers fora de la ROM mentre reprodueix la ROM. El xip té algunes limitacions, com ara que només pot reproduir un rastre de dades a la vegada, però essencialment converteix la SNES en allò que hauria pogut ser amb un accessori de CD.</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemDescription>Der MSU-1 ist ein Zusatzchip für Kassetten (ähnlich dem SuperFx-Chip), der zahlreiche Verbesserungen für SNES-Spiele ermöglicht, darunter Full-Motion-Video und Sound in CD-Qualität durch Hinzufügen von bis zu 4 GB (ja, 4 Gigabyte) Speicherplatz für zusätzliche Inhalte.
+
+Einige Beispiele für mit MSU-1 modifizierte Spiele sind: Zelda: A Link to the Past mit einem vollständig orchestrierten Soundtrack in CD-Qualität. Chrono Trigger mit allen Videosequenzen aus der PlayStation-Version. Mega Man X mit einem neuen Soundtrack in CD-Qualität. Der MSU-1-Chip selbst muss sich nur in der Spielkassette befinden, um auf einem tatsächlichen, nicht modifizierten SNES-System zu laufen. Emulatoren hingegen müssen modifiziert werden, um die Wiedergabe von MSU-1-modifizierten Spielen zu unterstützen. Dies liegt daran, dass der Emulator während der Wiedergabe der ROM auf Dateien außerhalb der ROM zugreifen muss. Der Chip hat zwar einige Einschränkungen, wie z. B. die Tatsache, dass er nur eine Datenspur gleichzeitig streamen kann, aber im Wesentlichen verwandelt er das SNES in das, was es mit einem CD-Anschluss hätte sein können.</systemDescription>
+  </variables>
+  <variables lang="es">
+    <systemDescription>El MSU-1 es un chip adicional para cartuchos (similar al chip SuperFx) que permite muchas mejoras en los juegos de SNES, incluyendo, entre otras cosas, vídeo de movimiento completo y sonido con calidad de CD, añadiendo hasta 4 GB (sí, 4 gigabytes) de almacenamiento para contenido adicional.
+
+Algunos ejemplos de juegos modificados con MSU-1 serían: Zelda: A Link to the Past, con una banda sonora totalmente orquestada con calidad de CD. Chrono Trigger, con todas las escenas de vídeo de la versión de PlayStation insertadas. Mega Man X, con una nueva banda sonora con calidad de CD. El chip MSU-1 solo tiene que estar en el cartucho del juego para funcionar en un sistema SNES sin modificar. Los emuladores, por otro lado, deben modificarse para admitir la reproducción de juegos modificados con MSU-1. Esto se debe a que el emulador necesita acceder a archivos fuera de la ROM mientras reproduce la ROM. El chip tiene algunas limitaciones, como solo poder transmitir una pista de datos a la vez, pero esencialmente convierte la SNES en lo que podría haber sido con un accesorio de CD.</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>La MSU-1 est une puce supplémentaire sous forme de cartouche (similaire à la puce SuperFx) qui permet de nombreuses améliorations des jeux SNES, notamment, mais sans s'y limiter, la vidéo plein écran et un son de qualité CD, en ajoutant jusqu'à 4 Go (oui, 4 gigaoctets) de stockage pour du contenu supplémentaire.
+
+Voici quelques exemples de jeux modifiés par la MSU-1 : Zelda: A Link to the Past, avec une bande-son entièrement orchestrée de qualité CD. Chrono Trigger, avec toutes les cinématiques de la version PlayStation insérées. Mega Man X, avec une nouvelle bande-son de qualité CD. La puce MSU-1 elle-même doit uniquement être présente dans la cartouche de jeu pour fonctionner sur une console SNES non modifiée. Les émulateurs, en revanche, doivent être modifiés pour prendre en charge la lecture des jeux modifiés avec MSU-1. En effet, l'émulateur doit accéder à des fichiers extérieurs à la ROM pendant la lecture de celle-ci. La puce présente certaines limites, comme le fait de ne pouvoir diffuser qu'une seule piste de données à la fois, mais elle transforme essentiellement la SNES en ce qu'elle aurait pu être avec un lecteur CD.</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>MSU-1 je dodatni čip za kartridž (sličan SuperFX čipu) koji omogućuje brojna poboljšanja SNES igara, uključujući, ali ne ograničavajući se na videozapise u punom pokretu i zvuk kvalitete CD-a, dodajući do 4 GB (da, 4 gigabajta) prostora za pohranu dodatnog sadržaja.
+
+Neki primjeri igara modificiranih pomoću MSU-1 čipa bili bi: Zelda: A Link to the Past s potpuno orkestriranim soundtrackom u CD kvaliteti. Chrono Trigger s ugrađenim svim video scenama iz PlayStation verzije. Mega Man X s novim soundtrackom u CD kvaliteti. Sam MSU-1 čip mora biti u kartridžu igre kako bi radio na izvornom, nemodificiranom SNES sustavu. S druge strane, emulatorima je potrebno prilagoditi kako bi podržali reprodukciju igara modificiranih pomoću MSU-1. To je zato što emulator mora pristupiti datotekama izvan ROM-a dok reproducira ROM. Čip ima neka ograničenja, poput mogućnosti streaminga samo jedne podatkovne staze odjednom, ali on u suštini pretvara SNES u ono što je mogao biti s CD priključkom.</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemDescription>L'MSU-1 è un chip aggiuntivo a cartuccia (simile al chip SuperFx) che consente numerosi miglioramenti ai giochi SNES, tra cui, ma non solo, video full-motion e audio di qualità CD, aggiungendo fino a 4 GB (sì, 4 gigabyte) di memoria per contenuti extra.
+
+Alcuni esempi di giochi modificati con MSU-1 sono: Zelda: A Link to the Past con una colonna sonora completamente orchestrata in qualità CD. Chrono Trigger con tutte le scene video della versione PlayStation inserite. Mega Man X con una nuova colonna sonora in qualità CD. Il chip MSU-1 deve essere inserito nella cartuccia del gioco per funzionare su un sistema SNES non modificato. Gli emulatori, invece, devono essere modificati per supportare la riproduzione dei giochi modificati con MSU-1. Questo perché l'emulatore deve accedere a file esterni alla ROM durante la riproduzione della ROM. Il chip presenta alcune limitazioni, come la possibilità di riprodurre solo una traccia di dati alla volta, ma essenzialmente trasforma il SNES in quello che avrebbe potuto essere con un allegato CD.</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>MSU-1はカートリッジ拡張チップ（SuperFxチップに類似）であり、最大4GB（そう、4ギガバイト）の追加コンテンツ用ストレージを追加することで、フルモーションビデオやCD品質サウンドを含む（ただしこれらに限定されない）SNESゲームの様々な機能強化を可能にします。
+
+MSU-1改造ゲームの例としては：・『ゼルダの伝説 時のオカリナ』：フルオーケストラのCD品質サウンドトラックを実装・『クロノ・トリガー』：プレイステーション版の全動画カットシーンを挿入・『ロックマンX』：新規CD品質サウンドトラックを実装MSU-1チップ自体は、改造されていない実際のSNES本体で動作させる場合、ゲームカートリッジ内に搭載されているだけで十分です。 一方、エミュレータはMSU-1改造ゲームの再生をサポートするよう改造が必要です。これはエミュレータがROM再生中にROM外部のファイルにアクセスする必要があるためです。チップには一度に1つのデータトラックしかストリーミングできないなどの制限はありますが、本質的にはSNESをCDドライブを装着した場合に実現できたであろう性能へと変貌させます。</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>MSU-1은 카트리지 추가 칩(SuperFx 칩과 유사)으로, 최대 4GB(네, 4기가바이트)의 저장 공간을 추가하여 풀 모션 비디오 및 CD 품질 사운드를 포함한 SNES 게임의 다양한 향상 기능을 가능하게 합니다.
+
+MSU-1 모드 게임의 예시로는 다음과 같습니다: CD 음질의 완전 오케스트라 사운드트랙을 적용한 젤다의 전설: 시공을 넘어서. 플레이스테이션 버전의 모든 영상 컷씬을 삽입한 크로노 트리거. 새로운 CD 음질 사운드트랙을 적용한 메가맨 X. MSU-1 칩 자체는 실제 수정되지 않은 SNES 시스템에서 실행되려면 게임 카트리지에 장착되어 있어야 합니다. 반면 에뮬레이터는 MSU-1 모드 게임을 지원하도록 수정되어야 합니다. 이는 에뮬레이터가 ROM 실행 중 ROM 외부 파일에 접근해야 하기 때문입니다. 이 칩은 한 번에 하나의 데이터 트랙만 스트리밍할 수 있는 등 일부 제한이 있지만, 본질적으로 SNES를 CD 드라이브가 장착된 형태로 변환시켜줍니다.</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>De MSU-1 is een cartridge-add-on-chip (vergelijkbaar met de SuperFx-chip) die veel verbeteringen aan SNES-games mogelijk maakt, waaronder, maar niet beperkt tot, full-motion video en geluid van cd-kwaliteit door tot 4 GB (ja, 4 gigabyte) opslagruimte toe te voegen voor extra content.
+
+Enkele voorbeelden van met MSU-1 gemodificeerde games zijn: Zelda: A Link to the Past met een volledig georkestreerde soundtrack van cd-kwaliteit. Chrono Trigger met alle videofragmenten uit de PlayStation-versie. Mega Man X met een nieuwe soundtrack van cd-kwaliteit. De MSU-1-chip zelf hoeft alleen in de gamecassette te zitten om op een niet-gemodificeerd SNES-systeem te kunnen draaien. Emulators moeten daarentegen worden aangepast om het afspelen van MSU-1 gemodificeerde games te ondersteunen. Dit komt doordat de emulator tijdens het afspelen van de ROM toegang moet hebben tot bestanden buiten de ROM. De chip heeft wel enkele beperkingen, zoals het feit dat er slechts één datatrack tegelijk kan worden gestreamd, maar in wezen verandert hij de SNES in wat hij had kunnen zijn met een cd-aansluiting.</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>MSU-1 to dodatkowy chip kartridżowy (podobny do chipa SuperFx), który umożliwia wiele ulepszeń gier SNES, w tym między innymi pełnoekranowe filmy i dźwięk o jakości CD poprzez dodanie do 4 GB (tak, 4 gigabajtów) pamięci na dodatkową zawartość.
+
+Przykładami gier zmodyfikowanych za pomocą MSU-1 są: Zelda: A Link to the Past z w pełni zorkiestrowaną ścieżką dźwiękową w jakości CD. Chrono Trigger z wszystkimi scenami filmowymi z wersji na PlayStation. Mega Man X z nową ścieżką dźwiękową w jakości CD. Sam chip MSU-1 musi znajdować się tylko w kartridżu z grą, aby działać na rzeczywistym, niezmodyfikowanym systemie SNES. Z drugiej strony emulatory muszą zostać zmodyfikowane, aby obsługiwały odtwarzanie gier zmodyfikowanych za pomocą MSU-1. Wynika to z faktu, że emulator musi uzyskać dostęp do plików poza pamięcią ROM podczas odtwarzania ROM. Układ ma pewne ograniczenia, takie jak możliwość strumieniowego przesyłania tylko jednej ścieżki danych naraz, ale zasadniczo zmienia SNES w to, czym mógłby być z dodatkiem CD.</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>O MSU-1 é um chip adicional para cartuchos (semelhante ao chip SuperFx) que permite muitas melhorias nos jogos SNES, incluindo, entre outras, vídeo full-motion e som com qualidade de CD, adicionando até 4 GB (sim, 4 gigabytes) de armazenamento para conteúdo extra.
+
+Alguns exemplos de jogos modificados com MSU-1 seriam: Zelda: A Link to the Past feito com uma trilha sonora totalmente orquestrada com qualidade de CD. Chrono Trigger com todas as cenas de vídeo da versão PlayStation inseridas. Mega Man X com uma nova trilha sonora com qualidade de CD. O chip MSU-1 em si só precisa estar no cartucho do jogo para funcionar em um sistema SNES real não modificado. Os emuladores, por outro lado, precisam ser modificados para suportar a reprodução de jogos modificados com MSU-1. Isso se deve ao fato de o emulador precisar acessar arquivos fora da ROM enquanto reproduz a ROM. O chip tem algumas limitações, como só poder transmitir uma faixa de dados por vez, mas essencialmente transforma o SNES no que ele poderia ter sido com um acessório de CD.</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>MSU-1 este un cip suplimentar pentru cartușe (similar cu cipul SuperFx) care permite numeroase îmbunătățiri ale jocurilor SNES, inclusiv, dar fără a se limita la, videoclipuri full-motion și sunet de calitate CD, prin adăugarea a până la 4 GB (da, 4 gigabytes) de spațiu de stocare pentru conținut suplimentar.
+
+Câteva exemple de jocuri modificate cu MSU-1 ar fi: Zelda: A Link to the Past, realizat cu o coloană sonoră complet orchestrată, de calitate CD. Chrono Trigger, cu toate scenele video din versiunea PlayStation inserate. Mega Man X, cu o nouă coloană sonoră de calitate CD. Cipul MSU-1 în sine trebuie să se afle doar în cartușul jocului pentru a rula pe un sistem SNES nemodificat. Emulatoarele, pe de altă parte, trebuie modificate pentru a suporta redarea jocurilor modificate cu MSU-1. Acest lucru se datorează faptului că emulatorul trebuie să acceseze fișiere din afara ROM-ului în timp ce redă ROM-ul. Cipul are unele limitări, cum ar fi faptul că poate transmite doar o singură pistă de date la un moment dat, dar transformă SNES în ceea ce ar fi putut fi cu un atașament CD.</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>MSU-1 — это дополнительный чип-картридж (аналогичный чипу SuperFx), который позволяет значительно улучшить игры для SNES, включая, помимо прочего, полноэкранное видео и звук CD-качества, добавляя до 4 ГБ (да, 4 гигабайта) памяти для дополнительного контента.
+
+Вот несколько примеров игр, модифицированных с помощью MSU-1: Zelda: A Link to the Past с полностью оркестрованным саундтреком CD-качества. Chrono Trigger со всеми видеороликами из версии для PlayStation. Mega Man X с новым саундтреком CD-качества. Сам чип MSU-1 должен находиться только в картридже игры, чтобы работать на реальной немодифицированной системе SNES. Эмуляторы, с другой стороны, необходимо модифицировать для поддержки воспроизведения игр с модификацией MSU-1. Это связано с тем, что эмулятор должен получать доступ к файлам за пределами ROM во время воспроизведения ROM. Чип имеет некоторые ограничения, такие как возможность передачи только одной дорожки данных за раз, но по сути он превращает SNES в то, чем она могла бы быть с CD-приставкой.</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>MSU-1 је додатак-чип за катриџ (сличан SuperFX чипу) који омогућава бројна побољшања у SNES играма, укључујући, али не ограничавајући се на видео у пуном покрету и звук квалитета ЦД-а, додајући до 4 GB (да, 4 гигабајта) простора за додатни садржај.
+
+Неколико примера игара модификованих помоћу MSU-1 чипа су: Zelda: A Link to the Past са потпуно оркестрираним звуком квалитета ЦД-а. Chrono Trigger са убаченим свим видео сценима из Плејстејшн верзије. Mega Man X са новим звуком квалитета ЦД-а. Сам MSU-1 чип мора бити у касети игре да би радио на оригиналном, немодификованом SNES систему. Са друге стране, емулатори морају бити модификовани да би подржавали репродукцију MSU-1 модификованих игара. То је зато што емулатор мора да приступа фајловима ван ROM-а док репродукује ROM. Чип има нека ограничења, као што је могућност стримовања само једне траке података одједном, али он у суштини претвара SNES у оно што је могао да буде са CD додатком.</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>MSU-1 är ett tilläggschip för kassetter (liknande SuperFx-chipet) som möjliggör många förbättringar av SNES-spel, inklusive, men inte begränsat till, fullrörelsevideo och ljud i CD-kvalitet genom att lägga till upp till 4 GB (ja, 4 gigabyte) lagringsutrymme för extra innehåll.
+
+Några exempel på MSU-1-modifierade spel är: Zelda: A Link to the Past med ett fullt orkestrerat soundtrack i CD-kvalitet. Chrono Trigger med alla videoklipp från PlayStation-versionen infogade. Mega Man X med ett nytt soundtrack i CD-kvalitet. MSU-1-chipet behöver bara finnas i spelkassetten för att kunna köras på ett faktiskt omodifierat SNES-system. Emulatorer, å andra sidan, måste modifieras för att stödja uppspelning av MSU-1-modifierade spel. Detta beror på att emulatorn behöver komma åt filer utanför ROM-minnet medan ROM-minnet spelas upp. Chipet har vissa begränsningar, såsom att det bara kan strömma ett dataspår åt gången, men det förvandlar i princip SNES till vad det kunde ha varit med ett CD-tillägg.</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>MSU-1是一款卡带扩展芯片（类似于SuperFx芯片），通过增加高达4GB（没错，是4千兆字节）的存储空间来支持额外内容，从而为超级任天堂游戏带来诸多增强功能，包括但不限于全动态视频和CD品质音效。
+
+经MSU-1改装的游戏实例包括：《塞尔达传说：时之笛》采用全编曲CD音质配乐；《时空之轮》植入PlayStation版全部视频过场动画；《洛克人X》搭载全新CD音质配乐。该芯片仅需安装在游戏卡带中，即可在未改装的SNES主机上运行。 而模拟器则需要经过特殊修改才能支持MSU-1改装游戏的运行。这是因为模拟器在加载ROM文件时需要访问ROM外部的文件资源。该芯片存在某些限制，例如每次仅能流式传输一条数据轨道，但它本质上将SNES主机提升至若配备CD扩展功能时应有的性能高度。</systemDescription>
+  </variables>
 </theme>

@@ -8,4 +8,58 @@
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
+  <variables lang="ar">
+    <systemDescription>كابل Nintendo Game Link هو ملحق لأجهزة ألعاب الفيديو المحمولة من سلسلة Game Boy، ويتيح للاعبين توصيل جميع أنواع أجهزة Game Boy للعب متعدد اللاعبين. اعتمادًا على الألعاب، يمكن استخدام كابل Game Link لتوصيل لعبتين من نفس العنوان، مثل Tetris، أو لعبتين متوافقتين، مثل Pokémon Red و Blue. يمكن ربط الألعاب معًا للتنافس والتعاون وتبادل العناصر وفتح الميزات المخفية وما إلى ذلك.</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>Nintendo Game Link kabl je dodatak za liniju ručnih videoigračkih sistema Game Boy, koji omogućava igračima da povežu Game Boy uređaje svih vrsta za multiplayer igru. Ovisno o igrama, Game Link kabl se može koristiti za povezivanje dvije igre istog naslova, kao što je Tetris, ili dvije kompatibilne igre, kao što su Pokémon Red i Blue. Igre se mogu povezati kako bi se takmičile, sarađivale, razmjenjivale predmete, otključavale skrivene funkcije itd.</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>El Nintendo Game Link Cable és un accessori per a la línia de sistemes de videojocs portàtils Game Boy, que permet als jugadors connectar Game Boy de tot tipus per a jocs multijugador. Segons els jocs, el Game Link Cable es pot utilitzar per connectar dos jocs amb el mateix títol, com ara Tetris, o dos jocs compatibles, com ara Pokémon Vermell i Blau. Els jocs es poden enllaçar per competir, cooperar, intercanviar objectes, desbloquejar característiques ocultes, etc.</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemDescription>Das Nintendo Game Link Cable ist ein Zubehörteil für die Handheld-Videospielsysteme der Game Boy-Reihe, mit dem Spieler alle Arten von Game Boys für Multiplayer-Spiele miteinander verbinden können. Je nach Spiel kann das Game Link Cable verwendet werden, um zwei Spiele mit demselben Titel, wie z. B. Tetris, oder zwei kompatible Spiele, wie z. B. Pokémon Rot und Blau, miteinander zu verbinden. Spiele können miteinander verbunden werden, um gegeneinander anzutreten, zusammenzuarbeiten, Gegenstände zu tauschen, versteckte Funktionen freizuschalten usw.</systemDescription>
+  </variables>
+  <variables lang="es">
+    <systemDescription>El cable de conexión Nintendo Game Link es un accesorio para la línea de consolas portátiles Game Boy que permite a los jugadores conectar Game Boys de todo tipo para jugar en modo multijugador. Dependiendo de los juegos, el cable Game Link se puede utilizar para conectar dos juegos del mismo título, como Tetris, o dos juegos compatibles, como Pokémon Rojo y Azul. Los juegos se pueden conectar entre sí para competir, cooperar, intercambiar objetos, desbloquear funciones ocultas, etc.</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>Le câble Nintendo Game Link est un accessoire pour la gamme de consoles de jeux vidéo portables Game Boy, qui permet aux joueurs de connecter tous les types de Game Boy pour jouer à plusieurs. Selon les jeux, le câble Game Link peut être utilisé pour connecter deux jeux du même titre, comme Tetris, ou deux jeux compatibles, comme Pokémon Rouge et Bleu. Les jeux peuvent être connectés entre eux pour rivaliser, coopérer, échanger des objets, débloquer des fonctionnalités cachées, etc.</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>Nintendo Game Link kabel je dodatak za liniju prijenosnih videoigračkih sustava Game Boy, koji igračima omogućuje povezivanje Game Boy uređaja svih vrsta za multiplayer igru. Ovisno o igrama, Game Link kabel se može koristiti za povezivanje dviju igara istog naslova, poput Tetrisa, ili dviju kompatibilnih igara, poput Pokémon Red i Blue. Igre se mogu povezati kako bi se natjecale, surađivale, razmjenjivale predmete, otključavale skrivene značajke itd.</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemDescription>Il cavo Nintendo Game Link è un accessorio per la linea di console portatili Game Boy che consente ai giocatori di collegare Game Boy di tutti i tipi per giocare in multiplayer. A seconda dei giochi, il cavo Game Link può essere utilizzato per collegare due giochi con lo stesso titolo, come Tetris, o due giochi compatibili, come Pokémon Rosso e Blu. I giochi possono essere collegati tra loro per competere, cooperare, scambiare oggetti, sbloccare funzioni nascoste, ecc.</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>ニンテンドーゲームリンクケーブルは、ゲームボーイシリーズの携帯型ゲーム機用アクセサリーであり、あらゆるタイプのゲームボーイを接続してマルチプレイを可能にします。ゲームによっては、テトリスのように同じタイトルのゲームを2台接続したり、ポケットモンスター 赤・緑のように互換性のあるゲームを2台接続したりできます。ゲームをリンクさせることで、対戦や協力プレイ、アイテムの交換、隠し要素の解放などが可能です。</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>닌텐도 게임 링크 케이블은 휴대용 비디오 게임 시스템인 게임보이 시리즈의 액세서리로, 모든 유형의 게임보이를 연결하여 멀티플레이어 게임을 즐길 수 있게 해줍니다. 게임에 따라 테트리스처럼 동일한 타이틀의 두 게임을 연결하거나, 포켓몬스터 레드와 블루처럼 호환되는 두 게임을 연결할 수 있습니다. 게임을 연결하면 경쟁하거나 협력하거나 아이템을 교환하거나 숨겨진 기능을 해제하는 등의 플레이가 가능합니다.</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>De Nintendo Game Link Cable is een accessoire voor de Game Boy-serie draagbare videogamesystemen, waarmee spelers alle soorten Game Boys kunnen aansluiten voor multiplayer-spellen. Afhankelijk van de games kan de Game Link Cable worden gebruikt om twee games met dezelfde titel, zoals Tetris, of twee compatibele games, zoals Pokémon Red en Blue, met elkaar te verbinden. Games kunnen met elkaar worden verbonden om te strijden, samen te werken, items te ruilen, verborgen functies te ontgrendelen, enz.</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>Kabel Nintendo Game Link Cable jest akcesorium do przenośnych konsol do gier z serii Game Boy, umożliwiającym graczom podłączenie wszystkich typów konsol Game Boy w celu gry wieloosobowej. W zależności od gier kabel Game Link Cable może służyć do połączenia dwóch gier o tym samym tytule, takich jak Tetris, lub dwóch kompatybilnych gier, takich jak Pokémon Red i Blue. Gry można łączyć w celu rywalizacji, współpracy, wymiany przedmiotów, odblokowywania ukrytych funkcji itp.</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>O Nintendo Game Link Cable é um acessório para a linha Game Boy de consoles portáteis, permitindo aos jogadores conectar Game Boys de todos os tipos para jogar em modo multijogador. Dependendo dos jogos, o Game Link Cable pode ser usado para conectar dois jogos com o mesmo título, como Tetris, ou dois jogos compatíveis, como Pokémon Red e Blue. Os jogos podem ser conectados para competir, cooperar, trocar itens, desbloquear recursos ocultos, etc.</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>Cablul Nintendo Game Link este un accesoriu pentru gama de console portabile Game Boy, care permite jucătorilor să conecteze console Game Boy de toate tipurile pentru jocuri multiplayer. În funcție de jocuri, cablul Game Link poate fi utilizat pentru a conecta două jocuri cu același titlu, cum ar fi Tetris, sau două jocuri compatibile, cum ar fi Pokémon Red și Blue. Jocurile pot fi conectate între ele pentru a concura, coopera, schimba obiecte, debloca funcții ascunse etc.</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>Кабель Nintendo Game Link Cable — это аксессуар для портативных игровых консолей Game Boy, позволяющий игрокам подключать Game Boy всех типов для многопользовательской игры. В зависимости от игр, кабель Game Link Cable можно использовать для подключения двух игр с одинаковым названием, таких как Tetris, или двух совместимых игр, таких как Pokémon Red и Blue. Игры можно соединять для соревнований, сотрудничества, обмена предметами, разблокировки скрытых функций и т. д.</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>Нинтендо Гејм Линк кабл је додатак за серију преносивих видео-играчких система Game Boy, који омогућава играчима да повежу Game Boy уређаје свих типова ради мултиплејер игре. У зависности од игара, Гејм Линк кабл се може користити за повезивање две игре истог назива, као што је Тетрис, или две компатибилне игре, као што су Покемон Ред и Покемон Блу. Игре се могу повезати ради такмичења, сарадње, размене предмета, откључавања скривених функција итд.</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>Nintendo Game Link Cable är ett tillbehör till Game Boy-serien av handhållna videospelkonsoler som gör det möjligt för spelare att ansluta alla typer av Game Boy-konsoler för att spela tillsammans. Beroende på spel kan Game Link Cable användas för att ansluta två spel med samma titel, till exempel Tetris, eller två kompatibla spel, till exempel Pokémon Red och Blue. Spel kan kopplas ihop för att tävla, samarbeta, byta föremål, låsa upp dolda funktioner osv.</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>任天堂游戏连接线是Game Boy系列掌上游戏机的配件，可连接不同型号的Game Boy主机进行多人游戏。根据游戏类型不同，该连接线既能连接两台相同游戏（如《俄罗斯方块》），也能连接两款兼容游戏（如《口袋妖怪 红/蓝》）。通过连接游戏机，玩家可进行竞技对战、合作任务、物品交易、解锁隐藏功能等互动玩法。</systemDescription>
+  </variables>
 </theme>

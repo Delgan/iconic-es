@@ -10,4 +10,94 @@ Expanding upon Wolf4SDL, ECWolf opens up yet even more possibilities for the wor
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
+  <variables lang="ar">
+    <systemDescription>ECWolf هو منفذ مصدر متقدم لـ Wolfenstein 3D و Spear of Destiny و Super 3D Noah's Ark استنادًا إلى قاعدة كود Wolf4SDL. يستخرج ECWolf كمية كبيرة من الكود من ZDoom ويهدف إلى توفير مجموعة واسعة من إمكانيات تحرير التعديلات دون الحاجة إلى تعديل كود المصدر.
+
+بالتوسع في Wolf4SDL، يفتح ECWolf المزيد من الاحتمالات لعالم تعديل Wolfenstein. بدءًا من عام 2015، تم إصدار العديد من المجموعات حصريًا لمنفذ ECWolf، وأبرزها مشاريع AstroCreep و Executor.</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>ECWolf je napredni source port za Wolfenstein 3D, Spear of Destiny i Super 3D Noah's Ark, zasnovan na kôdnoj bazi Wolf4SDL. ECWolf preuzima značajan dio kôda iz ZDooma i ima za cilj pružiti širok spektar mogućnosti za uređivanje modova bez potrebe za izmjenom izvornog kôda.
+
+Nadograđujući Wolf4SDL, ECWolf otvara još više mogućnosti za svijet Wolfenstein moddinga. Počevši od 2015. godine, brojni setovi su objavljeni isključivo za ECWolf port, a najznačajniji su projekti AstroCreepa i Executora.</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>ECWolf és un port de codi font avançat per a Wolfenstein 3D, Spear of Destiny i Super 3D Noah's Ark, basat en el codi font de Wolf4SDL. ECWolf extreu una quantitat considerable de codi de ZDoom i té com a objectiu oferir una àmplia gamma de capacitats d'edició de mods sense necessitat de modificar el codi font.
+
+Ampliant Wolf4SDL, ECWolf obre encara més possibilitats per al món de la creació de mods de Wolfenstein. A partir del 2015, s'han publicat nombrosos paquets en exclusiva per al port d'ECWolf, especialment projectes d'AstroCreep i Executor.</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemDescription>ECWolf ist ein fortschrittlicher Source-Port für Wolfenstein 3D, Spear of Destiny und Super 3D Noah's Ark, der auf dem Wolf4SDL-Code basiert. ECWolf übernimmt einen Großteil des Codes aus ZDoom und zielt darauf ab, eine Vielzahl von Mod-Bearbeitungsfunktionen bereitzustellen, ohne dass der Quellcode geändert werden muss.
+
+ECWolf baut auf Wolf4SDL auf und eröffnet noch mehr Möglichkeiten für die Welt des Wolfenstein-Modding. Seit 2015 wurden zahlreiche Sets exklusiv für den ECWolf-Port veröffentlicht, darunter vor allem Projekte von AstroCreep und Executor.</systemDescription>
+  </variables>
+  <variables lang="es">
+    <systemDescription>ECWolf es un puerto fuente avanzado para Wolfenstein 3D, Spear of Destiny y Super 3D Noah's Ark basado en el código fuente de Wolf4SDL. ECWolf extrae una cantidad considerable de código de ZDoom y tiene como objetivo proporcionar una amplia gama de capacidades de edición de mods sin necesidad de modificar el código fuente.
+
+Ampliando Wolf4SDL, ECWolf abre aún más posibilidades para el mundo de las modificaciones de Wolfenstein. Desde 2015, se han lanzado numerosos conjuntos exclusivamente para el puerto ECWolf, entre los que destacan los proyectos de AstroCreep y Executor.</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>ECWolf est un portage avancé pour Wolfenstein 3D, Spear of Destiny et Super 3D Noah's Ark basé sur le code source Wolf4SDL. ECWolf reprend une grande partie du code de ZDoom et vise à fournir un large éventail de fonctionnalités d'édition de mods sans avoir à modifier le code source.
+
+En s'appuyant sur Wolf4SDL, ECWolf ouvre encore plus de possibilités pour le monde du modding Wolfenstein. Depuis 2015, de nombreux ensembles ont été publiés exclusivement pour le port ECWolf, notamment les projets d'AstroCreep et d'Executor.</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>ECWolf je napredni source port za Wolfenstein 3D, Spear of Destiny i Super 3D Noah's Ark, temeljen na kodu Wolf4SDL-a. ECWolf preuzima značajan dio koda iz ZDooma i ima za cilj pružiti širok raspon mogućnosti za uređivanje modova bez potrebe za mijenjanjem izvornog koda.
+
+Nadograđujući Wolf4SDL, ECWolf otvara još više mogućnosti za svijet Wolfenstein moddinga. Počevši od 2015. godine, brojni setovi objavljeni su isključivo za ECWolf port, a najznačajniji su projekti AstroCreepa i Executora.</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemDescription>ECWolf è un porting avanzato per Wolfenstein 3D, Spear of Destiny e Super 3D Noah's Ark basato sul codice Wolf4SDL. ECWolf utilizza una quantità considerevole di codice proveniente da ZDoom e mira a fornire un'ampia gamma di funzionalità di modifica delle mod senza la necessità di modificare il codice sorgente.
+
+Ampliando Wolf4SDL, ECWolf apre ancora più possibilità per il mondo del modding di Wolfenstein. A partire dal 2015, sono stati rilasciati numerosi set in esclusiva per il porting ECWolf, in particolare i progetti di AstroCreep ed Executor.</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>ECWolfは、Wolf4SDLコードベースを基盤とした『Wolfenstein 3D』『Spear of Destiny』『Super 3D Noah's Ark』向けの高機能ソースポートです。ECWolfはZDoomから大量のコードを流用し、ソースコードを修正することなく多様なMOD編集機能を提供することを目指しています。
+
+Wolf4SDLを拡張したECWolfは、ウルフェンシュタイン改造の世界にさらなる可能性を開きます。2015年以降、ECWolf専用に数多くのセットがリリースされており、特にAstroCreepとExecutorによるプロジェクトが注目されています。</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>ECWolf는 Wolf4SDL 코드 베이스를 기반으로 한 Wolfenstein 3D, Spear of Destiny, Super 3D Noah's Ark용 고급 소스 포트입니다. ECWolf는 ZDoom에서 상당량의 코드를 가져왔으며, 소스 코드를 수정할 필요 없이 다양한 모드 편집 기능을 제공하는 것을 목표로 합니다.
+
+Wolf4SDL을 확장한 ECWolf는 울펜슈타인 모딩 세계에 더욱 다양한 가능성을 열어줍니다. 2015년부터 ECWolf 전용으로 수많은 모드 세트가 출시되었으며, 특히 AstroCreep과 Executor의 프로젝트가 주목할 만합니다.</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>ECWolf is een geavanceerde source port voor Wolfenstein 3D, Spear of Destiny en Super 3D Noah's Ark, gebaseerd op de Wolf4SDL-codebasis. ECWolf haalt een aanzienlijke hoeveelheid code uit ZDoom en streeft ernaar een breed scala aan mod-bewerkingsmogelijkheden te bieden zonder dat de broncode hoeft te worden aangepast.
+
+ECWolf bouwt voort op Wolf4SDL en opent nog meer mogelijkheden voor de wereld van Wolfenstein-modding. Sinds 2015 zijn er talrijke sets exclusief voor de ECWolf-port uitgebracht, met name projecten van AstroCreep en Executor.</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>ECWolf to zaawansowany port źródłowy dla gier Wolfenstein 3D, Spear of Destiny i Super 3D Noah's Ark oparty na kodzie Wolf4SDL. ECWolf wykorzystuje znaczną część kodu z ZDoom i ma na celu zapewnienie szerokiego wachlarza możliwości edycji modów bez konieczności modyfikowania kodu źródłowego.
+
+Rozszerzając Wolf4SDL, ECWolf otwiera jeszcze więcej możliwości dla świata modyfikacji Wolfensteina. Od 2015 roku wydano wiele zestawów przeznaczonych wyłącznie dla portu ECWolf, w szczególności projekty AstroCreep i Executor.</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>ECWolf é uma porta avançada para Wolfenstein 3D, Spear of Destiny e Super 3D Noah's Ark baseada no código Wolf4SDL. ECWolf extrai uma quantidade substancial de código do ZDoom e tem como objetivo fornecer uma ampla gama de recursos de edição de mods sem a necessidade de modificar o código-fonte.
+
+Expandindo o Wolf4SDL, o ECWolf abre ainda mais possibilidades para o mundo da modificação do Wolfenstein. Desde 2015, vários conjuntos foram lançados exclusivamente para a porta ECWolf, com destaque para os projetos da AstroCreep e da Executor.</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>ECWolf este un port sursă avansat pentru Wolfenstein 3D, Spear of Destiny și Super 3D Noah's Ark, bazat pe codul Wolf4SDL. ECWolf preia o cantitate substanțială de cod din ZDoom și își propune să ofere o gamă largă de capacități de editare a modurilor fără a fi necesară modificarea codului sursă.
+
+Extinzându-se pe Wolf4SDL, ECWolf deschide și mai multe posibilități pentru lumea modding-ului Wolfenstein. Începând din 2015, numeroase seturi au fost lansate exclusiv pentru portul ECWolf, în special proiectele AstroCreep și Executor.</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>ECWolf — это усовершенствованный порт для Wolfenstein 3D, Spear of Destiny и Super 3D Noah's Ark, основанный на коде Wolf4SDL. ECWolf использует значительную часть кода ZDoom и стремится предоставить широкий спектр возможностей для редактирования модификаций без необходимости изменения исходного кода.
+
+Расширяя возможности Wolf4SDL, ECWolf открывает еще больше возможностей для модификации мира Wolfenstein. Начиная с 2015 года, было выпущено множество наборов исключительно для порта ECWolf, в частности проекты AstroCreep и Executor.</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>ECWolf је напредни source port за Wolfenstein 3D, Spear of Destiny и Super 3D Noah's Ark, заснован на кодној бази Wolf4SDL. ECWolf користи значајну количину кода из ZDoom-а и има за циљ да пружи широк спектар могућности за уређивање модова без потребе за изменом изворног кода.
+
+Проширујући Wolf4SDL, ECWolf отвара још више могућности за свет модовања Wolfenstein-а. Почев од 2015. године, бројни сетови су објављени ексклузивно за ECWolf порт, најзначајнији су пројекти AstroCreep-а и Executor-а.</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>ECWolf är en avancerad källport för Wolfenstein 3D, Spear of Destiny och Super 3D Noah's Ark baserad på Wolf4SDL-kodbasen. ECWolf hämtar en betydande mängd kod från ZDoom och syftar till att tillhandahålla ett brett utbud av modredigeringsfunktioner utan att källkoden behöver modifieras.
+
+ECWolf bygger vidare på Wolf4SDL och öppnar upp ännu fler möjligheter för modding av Wolfenstein. Sedan 2015 har ett stort antal set släppts exklusivt för ECWolf-porten, framför allt projekt av AstroCreep och Executor.</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>ECWolf是基于Wolf4SDL代码库开发的进阶源代码移植版，适用于《德军总部3D》《命运之矛》及《超级3D诺亚方舟》。该项目大量借鉴ZDoom代码，旨在提供丰富的模组编辑功能，且无需修改源代码。
+
+在Wolf4SDL基础上，ECWolf为《德军总部》模组开发领域开辟了更多可能性。自2015年起，众多模组专为ECWolf端口发布，其中最引人注目的当属AstroCreep与Executor的项目。</systemDescription>
+  </variables>
 </theme>

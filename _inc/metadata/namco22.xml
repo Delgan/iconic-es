@@ -12,4 +12,94 @@ A variant of the system, called the Super System 22, was released in 1995. The h
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
+  <variables lang="ar">
+    <systemDescription>نظام Namco System 22 هو خليفة لوحة نظام الألعاب Namco System 21. ظهر لأول مرة في عام 1992 مع Sim Drive في اليابان، تلاه ظهوره العالمي في عام 1993 مع Ridge Racer. تم تصميم نظام System 22 بواسطة Namco بمساعدة شركة الرسومات والمحاكاة Evans &amp; Sutherland. تشمل الميزات الرسومية تعيين النسيج، وتظليل Gouraud، وتأثيرات الشفافية، وإشارات العمق، بفضل شريحة/مجموعة شرائح Evans &amp; Sutherland 'TR3'، والتي تعني: تعيين النسيج، الوقت الحقيقي، المرئي الحقيقي، نظام العرض. توفر وحدة المعالجة المركزية الرئيسية وصفًا للمشهد لوحدة معالجة الرسومات TR3 ومجموعة من شرائح DSP التي تقوم بحسابات ثلاثية الأبعاد.
+
+تم إصدار نسخة معدلة من النظام، تسمى Super System 22، في عام 1995. كانت الأجهزة مشابهة إلى حد كبير لنظام System 22، ولكن بمعدل مضلعات أعلى قليلاً وإمكانية إجراء المزيد من المؤثرات الخاصة.</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>Namco System 22 je nasljednik arkadne ploče Namco System 21. Debitirao je 1992. godine sa igrom Sim Drive u Japanu, nakon čega je uslijedio svjetski debi 1993. godine sa igrom Ridge Racer. System 22 je dizajnirao Namco uz pomoć kompanije za grafiku i simulaciju Evans &amp; Sutherland. Grafičke karakteristike uključuju mapiranje tekstura, Gouraud sjenčanje, efekte prozirnosti i nagovještavanje dubine, zahvaljujući Evans &amp; Sutherland 'TR3' čipu/čipsetu, što je skraćenica za: Texture Mapping, Real-Time, Real-Visual, Rendering System. Glavni CPU pruža opis scene grafičkoj procesorskoj jedinici TR3 i banci DSP čipova koji obavljaju 3D proračune.
+
+Varijanta sistema, nazvana Super System 22, objavljena je 1995. godine. Hardver je bio uglavnom sličan Systemu 22, ali je imao nešto veću brzinu poligona i omogućavao više specijalnih efekata.</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>El Namco System 22 és el successor de la placa arcade Namco System 21. Es va estrenar el 1992 amb Sim Drive al Japó, i l'any 1993 va fer el seu debut mundial amb Ridge Racer. El System 22 va ser dissenyat per Namco amb l'assistència de l'empresa de gràfics i simulació Evans &amp; Sutherland. Les característiques gràfiques inclouen el mapeig de textures, l'ombratge de Gouraud, els efectes de transparència i la indicació de profunditat, gràcies al xip/xipset 'TR3' d'Evans &amp; Sutherland, que significa: Texture Mapping, Real-Time, Real-Visual, Rendering System (Sistema de renderització de mapeig de textures, temps real, visual real). La CPU principal proporciona una descripció de l'escena a la unitat de processament gràfic TR3 i a un banc de xips DSP que realitzen els càlculs 3D.
+
+Una variant del sistema, anomenada Super System 22, es va llançar el 1995. El maquinari era en gran part similar al del System 22, però amb una velocitat de polígons lleugerament superior i més efectes especials possibles.</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemDescription>Das Namco System 22 ist der Nachfolger des Namco System 21 Arcade-Systemboards. Es debütierte 1992 mit Sim Drive in Japan, gefolgt von einem weltweiten Debüt 1993 mit Ridge Racer. Das System 22 wurde von Namco mit Unterstützung des Grafik- und Simulationsunternehmens Evans &amp; Sutherland entwickelt. Zu den grafischen Funktionen gehören Textur-Mapping, Gouraud-Shading, Transparenzeffekte und Tiefenanzeige, dank des Evans &amp; Sutherland „TR3”-Chips/Chipsatzes, der für Texture Mapping, Real-Time, Real-Visual, Rendering System steht. Die Haupt-CPU liefert eine Szenenbeschreibung an die TR3-Grafikverarbeitungseinheit und eine Reihe von DSP-Chips, die 3D-Berechnungen durchführen.
+
+Eine Variante des Systems namens Super System 22 wurde 1995 auf den Markt gebracht. Die Hardware ähnelte weitgehend der des System 22, bot jedoch eine etwas höhere Polygonrate und mehr Spezialeffekte.</systemDescription>
+  </variables>
+  <variables lang="es">
+    <systemDescription>El Namco System 22 es el sucesor de la placa del sistema arcade Namco System 21. Debutó en 1992 con Sim Drive en Japón, seguido de un debut mundial en 1993 con Ridge Racer. El System 22 fue diseñado por Namco con la ayuda de la empresa de gráficos y simulación Evans &amp; Sutherland. Las características gráficas incluyen mapeo de texturas, sombreado Gouraud, efectos de transparencia y profundidad, gracias al chip/chipset «TR3» de Evans &amp; Sutherland, que significa: Texture Mapping, Real-Time, Real-Visual, Rendering System (mapeo de texturas, tiempo real, visual real, sistema de renderizado). La CPU principal proporciona una descripción de la escena a la unidad de procesamiento gráfico TR3 y a un banco de chips DSP que realizan cálculos 3D.
+
+En 1995 se lanzó una variante del sistema, llamada Super System 22. El hardware era muy similar al del System 22, pero con una tasa de polígonos ligeramente superior y más efectos especiales posibles.</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>Le Namco System 22 est le successeur de la carte mère d'arcade Namco System 21. Il a fait ses débuts en 1992 avec Sim Drive au Japon, puis a été lancé à l'échelle mondiale en 1993 avec Ridge Racer. Le System 22 a été conçu par Namco avec l'aide de la société de graphisme et de simulation Evans &amp; Sutherland. Ses fonctionnalités graphiques comprennent le mappage de textures, l'ombrage de Gouraud, les effets de transparence et le depth cueing, grâce à la puce/au chipset « TR3 » d'Evans &amp; Sutherland, qui signifie : Texture Mapping, Real-Time, Real-Visual, Rendering System (mappage de textures, temps réel, visuel réel, système de rendu). Le processeur principal fournit une description de la scène à l'unité de traitement graphique TR3 et à une banque de puces DSP qui effectuent des calculs 3D.
+
+Une variante du système, appelée Super System 22, a été commercialisée en 1995. Le matériel était en grande partie similaire à celui du System 22, mais avec un taux de polygones légèrement supérieur et davantage d'effets spéciaux possibles.</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>Namco System 22 nasljednik je arkadne ploče Namco System 21. Debitirao je 1992. godine sa Sim Driveom u Japanu, a svjetsku premijeru imao je 1993. godine s igrom Ridge Racer. System 22 dizajnirao je Namco uz pomoć tvrtke za grafiku i simulacije Evans &amp; Sutherland. Grafičke značajke uključuju mapiranje tekstura, Gouraud sjenčanje, efekte prozirnosti i nagovještavanje dubine, zahvaljujući Evans &amp; Sutherland čipu/čipsetu 'TR3', što je kratica za: Texture Mapping, Real-Time, Real-Visual, Rendering System. Glavni CPU pruža opis scene grafičkoj procesorskoj jedinici TR3 i banci DSP čipova koji obavljaju 3D izračune.
+
+Varijanta sustava, nazvana Super System 22, objavljena je 1995. godine. Hardver je bio uglavnom sličan onome u sustavu System 22, ali s nešto većom brzinom poligona i mogućnošću više specijalnih efekata.</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemDescription>Il Namco System 22 è il successore della scheda arcade Namco System 21. Ha debuttato nel 1992 con Sim Drive in Giappone, seguito dal debutto mondiale nel 1993 con Ridge Racer. Il System 22 è stato progettato da Namco con l'assistenza della società di grafica e simulazione Evans &amp; Sutherland. Le caratteristiche grafiche includono texture mapping, Gouraud shading, effetti di trasparenza e depth cueing, grazie al chip/chipset Evans &amp; Sutherland "TR3", che sta per: Texture Mapping, Real-Time, Real-Visual, Rendering System. La CPU principale fornisce una descrizione della scena all'unità di elaborazione grafica TR3 e a un banco di chip DSP che eseguono calcoli 3D.
+
+Una variante del sistema, chiamata Super System 22, è stata rilasciata nel 1995. L'hardware era in gran parte simile al System 22, ma con un tasso di poligoni leggermente superiore e la possibilità di realizzare più effetti speciali.</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>ナムコシステム22は、ナムコシステム21アーケードシステムボードの後継機です。1992年に日本で「シムドライブ」とともにデビューし、1993年に「リッジレーサー」とともに世界デビューを果たしました。システム22は、グラフィック＆シミュレーション会社のエヴァンス＆サザーランド社の協力を得て、ナムコによって設計されました。 グラフィックス機能としては、テクスチャマッピング、グーローシェーディング、透明効果、深度キューイングなどが搭載されており、これはエヴァンス＆サザーランド社の「TR3」チップ/チップセット（Texture Mapping, Real-Time, Real-Visual, Rendering System の略）によるものです。メイン CPU は、TR3 グラフィックス処理ユニットと、3D 計算を行う DSP チップのバンクにシーン記述を提供します。
+
+1995年には、スーパーシステム22と呼ばれるこのシステムのバリエーションがリリースされました。ハードウェアはシステム22とほぼ同様でしたが、ポリゴンレートが若干高く、より多くの特殊効果が可能でした。</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>남코 시스템 22는 남코 시스템 21 아케이드 시스템 보드의 후속 기종이다. 1992년 일본에서 '심 드라이브'로 첫 선을 보인 뒤, 1993년 '릿지 레이서'로 전 세계에 데뷔했다. 시스템 22는 그래픽 및 시뮬레이션 회사인 에반스 앤 서덜랜드의 지원을 받아 남코가 설계했다. 그래픽 기능으로는 텍스처 매핑, 구로 셰이딩, 투명 효과, 깊이 큐잉 등이 포함됩니다. 이는 에반스 앤 서덜랜드의 'TR3' 칩/칩셋 덕분인데, TR3는 텍스처 매핑(Texture Mapping), 실시간(Real-Time), 실제 시각화(Real-Visual), 렌더링 시스템(Rendering System)을 의미합니다. 메인 CPU는 TR3 그래픽 처리 장치와 3D 계산을 수행하는 DSP 칩 뱅크에 장면 설명을 제공합니다.
+
+1995년에는 '슈퍼 시스템 22'라는 변형 시스템이 출시되었습니다. 하드웨어는 시스템 22와 대체로 유사했으나, 폴리곤 처리 속도가 약간 향상되었고 더 많은 특수 효과를 구현할 수 있었습니다.</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>Het Namco System 22 is de opvolger van het Namco System 21 arcadesysteem. Het debuteerde in 1992 met Sim Drive in Japan, gevolgd door een wereldwijd debuut in 1993 met Ridge Racer. Het System 22 is ontworpen door Namco met hulp van grafisch en simulatiebedrijf Evans &amp; Sutherland. Grafische functies zijn onder meer textuurmapping, Gouraud-shading, transparantie-effecten en diepte-cueing, dankzij de Evans &amp; Sutherland 'TR3'-chip/chipset, wat staat voor: Texture Mapping, Real-Time, Real-Visual, Rendering System. De hoofd-CPU levert een scènebeschrijving aan de TR3 grafische verwerkingseenheid en een reeks DSP-chips die 3D-berekeningen uitvoeren.
+
+Een variant van het systeem, genaamd Super System 22, werd in 1995 uitgebracht. De hardware was grotendeels vergelijkbaar met die van System 22, maar met een iets hogere polygonsnelheid en meer speciale effecten.</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>Namco System 22 jest następcą płyty systemowej Namco System 21 do gier arcade. Zadebiutował w 1992 roku wraz z grą Sim Drive w Japonii, a następnie w 1993 roku na całym świecie wraz z grą Ridge Racer. System 22 został zaprojektowany przez Namco przy pomocy firmy Evans &amp; Sutherland zajmującej się grafiką i symulacjami. Funkcje graficzne obejmują mapowanie tekstur, cieniowanie Gouraud, efekty przezroczystości i wskazówki głębi, dzięki chipowi/chipsetowi Evans &amp; Sutherland „TR3”, co oznacza: Texture Mapping, Real-Time, Real-Visual, Rendering System (mapowanie tekstur, czas rzeczywisty, rzeczywisty obraz, system renderowania). Główny procesor dostarcza opis sceny do jednostki przetwarzającej grafikę TR3 i banku chipów DSP, które wykonują obliczenia 3D.
+
+Wariant systemu, nazwany Super System 22, został wydany w 1995 roku. Sprzęt był w dużej mierze podobny do Systemu 22, ale charakteryzował się nieco wyższą częstotliwością wielokątów i większą liczbą możliwych efektów specjalnych.</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>O Namco System 22 é o sucessor da placa de sistema arcade Namco System 21. Ele estreou em 1992 com Sim Drive no Japão, seguido por uma estreia mundial em 1993 com Ridge Racer. O System 22 foi projetado pela Namco com a ajuda da empresa de gráficos e simulação Evans &amp; Sutherland. Os recursos gráficos incluem mapeamento de textura, sombreamento Gouraud, efeitos de transparência e profundidade, graças ao chip/chipset "TR3" da Evans &amp; Sutherland, que significa: Texture Mapping, Real-Time, Real-Visual, Rendering System (Mapeamento de Textura, Tempo Real, Visual Real, Sistema de Renderização). A CPU principal fornece uma descrição da cena para a unidade de processamento gráfico TR3 e um banco de chips DSP que realizam cálculos 3D.
+
+Uma variante do sistema, chamada Super System 22, foi lançada em 1995. O hardware era muito semelhante ao System 22, mas com uma taxa de polígonos ligeiramente superior e mais efeitos especiais possíveis.</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>Namco System 22 este succesorul plăcii de sistem arcade Namco System 21. A debutat în 1992 cu Sim Drive în Japonia, urmat de un debut mondial în 1993 cu Ridge Racer. System 22 a fost proiectat de Namco cu ajutorul companiei de grafică și simulare Evans &amp; Sutherland. Caracteristicile grafice includ maparea texturilor, umbrirea Gouraud, efecte de transparență și indicii de adâncime, datorită cipului/chipsetului Evans &amp; Sutherland „TR3”, care înseamnă: Texture Mapping, Real-Time, Real-Visual, Rendering System (Mapare texturi, timp real, vizual real, sistem de redare). CPU-ul principal furnizează o descriere a scenei către unitatea de procesare grafică TR3 și o bancă de cipuri DSP care efectuează calcule 3D.
+
+O variantă a sistemului, numită Super System 22, a fost lansată în 1995. Hardware-ul era în mare parte similar cu System 22, dar cu o rată de poligoane puțin mai mare și mai multe efecte speciale posibile.</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>Namco System 22 является преемником аркадной системной платы Namco System 21. Она дебютировала в 1992 году с Sim Drive в Японии, а в 1993 году состоялся ее мировой дебют с Ridge Racer. Система 22 была разработана Namco при содействии компании Evans &amp; Sutherland, специализирующейся на графике и симуляторах. Графические возможности включают текстурное отображение, затенение Гуро, эффекты прозрачности и глубинную индикацию благодаря чипу/чипсету Evans &amp; Sutherland «TR3», что означает: текстурное отображение, реальное время, реальное изображение, система рендеринга. Основной процессор предоставляет описание сцены графическому процессору TR3 и набору чипов DSP, которые выполняют 3D-вычисления.
+
+Вариант системы, называемый Super System 22, был выпущен в 1995 году. Аппаратное обеспечение было в основном схожим с System 22, но с немного более высокой частотой полигонов и большим количеством возможных специальных эффектов.</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>Namco System 22 је наследник аркадне системске плоче Namco System 21. Дебитовао је 1992. године са Sim Drive у Јапану, а затим је имао светску премијеру 1993. године са Ridge Racer. System 22 је дизајнирао Namco уз помоћ компаније за графику и симулацију Evans &amp; Sutherland. Графичке карактеристике обухватају текстурно мапирање, Гуроодово сенчење, ефекте провидности и дубинско означавање, захваљујући чипу/чипсету "TR3" компаније Evans &amp; Sutherland, који је скраћеница од: Texture Mapping, Real-Time, Real-Visual, Rendering System. Главни CPU обезбеђује опис сцене графичкој процесорској јединици TR3 и банци DSP чипова који извршавају 3D прорачуне.
+
+Верзија система под називом Super System 22 пуштена је у продају 1995. године. Хардвер је углавном био сличан System 22, али је имао нешто већу стопу полигона и омогућавао више специјалних ефеката.</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>Namco System 22 är efterföljaren till arkadkortet Namco System 21. Det lanserades 1992 med Sim Drive i Japan, följt av en världspremiär 1993 med Ridge Racer. System 22 designades av Namco med hjälp av grafik- och simuleringsföretaget Evans &amp; Sutherland. Grafiska funktioner inkluderar texturmappning, Gouraud-skuggning, transparenseffekter och djupmarkeringar, tack vare Evans &amp; Sutherlands "TR3"-chip/chipset, som står för: Texture Mapping, Real-Time, Real-Visual, Rendering System. Huvud-CPU:n tillhandahåller en scenbeskrivning till TR3-grafikprocessorn och en bank med DSP-chips som utför 3D-beräkningar.
+
+En variant av systemet, kallad Super System 22, släpptes 1995. Hårdvaran var i stort sett likadan som System 22, men med en något högre polygonfrekvens och fler möjliga specialeffekter.</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>南梦宫System 22是System 21街机主板的继任者。该系统于1992年在日本通过《Sim Drive》首次亮相，随后于1993年凭借《Ridge Racer》实现全球首发。System 22由南梦宫设计，并得到图形与模拟公司Evans &amp; Sutherland的技术支持。 其图形特性包括纹理贴图、高罗德着色、透明效果及深度提示，这得益于埃文斯-萨瑟兰公司研发的"TR3"芯片组——该名称代表：纹理映射、实时、真实视觉、渲染系统。主CPU向TR3图形处理单元及DSP芯片组提供场景描述，后者负责执行三维运算。
+
+该系统的升级版"超级系统22"于1995年问世。其硬件架构与系统22基本一致，但多边形处理速率略有提升，并支持更多特效表现。</systemDescription>
+  </variables>
 </theme>

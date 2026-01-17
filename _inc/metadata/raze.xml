@@ -8,4 +8,58 @@
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
+  <variables lang="ar">
+    <systemDescription>Raze هو نسخة معدلة من ألعاب محرك Build المدعومة بتقنية GZDoom، ويجمع بين Duke Nukem 3D و Blood و Redneck Rampage و Shadow Warrior و Exhumed/Powerslave في حزمة واحدة. كما أنه قادر على تشغيل Nam و WW2 GI.</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>Raze je fork Build engine igara podržan GZDoom tehnologijom i objedinjuje Duke Nukem 3D, Blood, Redneck Rampage, Shadow Warrior i Exhumed/Powerslave u jednom paketu. Također može pokretati Nam i WW2 GI.</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>Raze és un fork de jocs basats en el Build engine, recolzat per la tecnologia de GZDoom, i combina Duke Nukem 3D, Blood, Redneck Rampage, Shadow Warrior i Exhumed/Powerslave en un únic paquet. També és capaç de reproduir Nam i WW2 GI.</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemDescription>Raze ist eine Abspaltung von Build-Engine-Spielen, die auf der GZDoom-Technologie basiert und Duke Nukem 3D, Blood, Redneck Rampage, Shadow Warrior und Exhumed/Powerslave in einem einzigen Paket vereint. Es kann auch Nam und WW2 GI spielen.</systemDescription>
+  </variables>
+  <variables lang="es">
+    <systemDescription>Raze es una bifurcación de los juegos del motor Build respaldada por la tecnología GZDoom y combina Duke Nukem 3D, Blood, Redneck Rampage, Shadow Warrior y Exhumed/Powerslave en un solo paquete. También es capaz de reproducir Nam y WW2 GI.</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>Raze est un fork des jeux Build Engine basé sur la technologie GZDoom qui combine Duke Nukem 3D, Blood, Redneck Rampage, Shadow Warrior et Exhumed/Powerslave en un seul package. Il est également capable de faire tourner Nam et WW2 GI.</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>Raze je fork Build engine igara podržan GZDoom tehnologijom i objedinjuje Duke Nukem 3D, Blood, Redneck Rampage, Shadow Warrior i Exhumed/Powerslave u jednom paketu. Također može pokretati Nam i WW2 GI.</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemDescription>Raze è un fork dei giochi Build Engine basato sulla tecnologia GZDoom e combina Duke Nukem 3D, Blood, Redneck Rampage, Shadow Warrior ed Exhumed/Powerslave in un unico pacchetto. È anche in grado di riprodurre Nam e WW2 GI.</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>RazeはGZDoom技術を基盤としたBuildエンジンゲームのフォークであり、Duke Nukem 3D、Blood、Redneck Rampage、Shadow Warrior、Exhumed/Powerslaveを単一パッケージに統合しています。NamおよびWW2 GIのプレイにも対応しています。</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>레이즈는 GZDoom 기술을 기반으로 한 빌드 엔진 게임의 포크로, 듀크 뉴켐 3D, 블러드, 레드넥 램페이지, 섀도우 워리어, 엑스휴드/파워슬레이브를 단일 패키지로 통합합니다. 또한 남(NAM)과 WW2 GI도 실행할 수 있습니다.</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>Raze is een afsplitsing van Build Engine-games, ondersteund door GZDoom-technologie, en combineert Duke Nukem 3D, Blood, Redneck Rampage, Shadow Warrior en Exhumed/Powerslave in één pakket. Het is ook geschikt voor het spelen van Nam en WW2 GI.</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>Raze to rozwidlenie gier opartych na silniku Build, wspierane przez technologię GZDoom, łączące Duke Nukem 3D, Blood, Redneck Rampage, Shadow Warrior i Exhumed/Powerslave w jednym pakiecie. Umożliwia również granie w Nam i WW2 GI.</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>Raze é um fork dos jogos Build Engine apoiado pela tecnologia GZDoom e combina Duke Nukem 3D, Blood, Redneck Rampage, Shadow Warrior e Exhumed/Powerslave em um único pacote. Também é capaz de rodar Nam e WW2 GI.</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>Raze este o ramificație a jocurilor Build Engine susținute de tehnologia GZDoom și combină Duke Nukem 3D, Blood, Redneck Rampage, Shadow Warrior și Exhumed/Powerslave într-un singur pachet. De asemenea, poate rula Nam și WW2 GI.</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>Raze — это форк игр на движке Build, основанный на технологии GZDoom и объединяющий Duke Nukem 3D, Blood, Redneck Rampage, Shadow Warrior и Exhumed/Powerslave в одном пакете. Он также способен воспроизводить Nam и WW2 GI.</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>Raze је форк Build-инжењерских игара заснован на GZDoom технологији и комбинује Duke Nukem 3D, Blood, Redneck Rampage, Shadow Warrior и Exhumed/Powerslave у једном пакету. Такође може да репродукује Nam и WW2 GI.</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>Raze är en fork av Build Engine-spel som stöds av GZDoom-teknik och kombinerar Duke Nukem 3D, Blood, Redneck Rampage, Shadow Warrior och Exhumed/Powerslave i ett enda paket. Det kan också spela Nam och WW2 GI.</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>Raze是基于GZDoom技术的Build引擎游戏分支，将《毁灭公爵3D》《血腥杀戮》《乡巴佬大暴走》《暗影战士》以及《掘墓者/力量奴隶》整合为单一游戏包。该平台同时支持运行《越战》与《二战士兵》。</systemDescription>
+  </variables>
 </theme>

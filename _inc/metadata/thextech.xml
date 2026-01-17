@@ -10,4 +10,94 @@ TheXTech is available as a standalone version for Windows, Linux, macOS, Android
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
+  <variables lang="ar">
+    <systemDescription>TheXTech هو محرك مفتوح المصدر يتيح تشغيل ألعاب Super Mario Bros. X (SMBX) الكلاسيكية من الإصدار 1.0 إلى 1.3. يمثل إعادة إنشاء لمحرك SMBX الأصلي الذي كُتب بلغة Visual Basic 6 ثم تم نقله إلى C++ وSDL2. يستضيف المشروع على GitHub ويتم تطويره بنشاط بواسطة Wohlstand ومساهمين آخرين.
+
+يتوفر TheXTech كنسخة مستقلة لأنظمة Windows وLinux وmacOS وAndroid وNintendo Switch. يدعم المحرك أيضًا LunaDLL Autocode (LunaScript) عبر محاكي ذاكرة، مما يتيح تشغيل المزيد من الحلقات القديمة على TheXTech حتى على معالجات غير x86.</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>TheXTech je open-source engine koji vam omogućava pokretanje klasičnih igara Super Mario Bros. X (SMBX) od 1.0 do 1.3. To je rekreacija izvornog SMBX enginea koji je napisan u Visual Basic 6 i kasnije portan u C++ i SDL2. Projekt je hostan na GitHubu i aktivno ga razvija Wohlstand i drugi suradnici.
+
+TheXTech je dostupan kao samostalna verzija za Windows, Linux, macOS, Android i Nintendo Switch. Engine također podržava LunaDLL Autocode (LunaScript) putem memorijskog emulatora, što omogućava igranje više starih epizoda na TheXTech čak i na ne-x86 procesorima.</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>TheXTech és un motor de codi obert que et permet jugar als clàssics Super Mario Bros. X (SMBX) des de la versió 1.0 fins a la 1.3. És una recreació de l'engine SMBX original escrit en Visual Basic 6 i posteriorment portat a C++ i SDL2. El projecte està allotjat a GitHub i és desenvolupat activament per Wohlstand i altres col·laboradors.
+
+TheXTech està disponible com a versió independent per a Windows, Linux, macOS, Android i Nintendo Switch. L'engine també admet LunaDLL Autocode (LunaScript) mitjançant un emulador de memòria, permetent reproduir més episodis antics a TheXTech fins i tot en processadors no x86.</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemDescription>TheXTech ist eine Open-Source-Engine, die es ermöglicht, die klassischen Super Mario Bros. X (SMBX)-Spiele von Version 1.0 bis 1.3 zu spielen. Sie ist eine Nachbildung der ursprünglichen SMBX-Engine, die in Visual Basic 6 geschrieben und später nach C++ und SDL2 portiert wurde. Das Projekt wird auf GitHub gehostet und aktiv von Wohlstand und weiteren Mitwirkenden entwickelt.
+
+TheXTech ist als eigenständige Version für Windows, Linux, macOS, Android und Nintendo Switch verfügbar. Die Engine unterstützt außerdem LunaDLL Autocode (LunaScript) über einen Speicher-Emulator, wodurch sich auf TheXTech auch ältere Episoden auf Nicht-x86-Prozessoren abspielen lassen.</systemDescription>
+  </variables>
+  <variables lang="es">
+    <systemDescription>TheXTech es un motor de código abierto que te permite jugar a los clásicos Super Mario Bros. X (SMBX) desde la versión 1.0 hasta la 1.3. Es una recreación del engine SMBX original que fue escrito en Visual Basic 6 y más tarde portado a C++ y SDL2. El proyecto está alojado en GitHub y es desarrollado activamente por Wohlstand y otros contribuyentes.
+
+TheXTech está disponible como versión independiente para Windows, Linux, macOS, Android y Nintendo Switch. El motor también soporta LunaDLL Autocode (LunaScript) mediante un emulador de memoria, lo que permite jugar más episodios antiguos en TheXTech incluso en procesadores no x86.</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>TheXTech est un moteur open source qui permet de jouer aux jeux classiques Super Mario Bros. X (SMBX) de la version 1.0 à 1.3. Il s'agit d'une recréation du moteur SMBX original écrit en Visual Basic 6 puis porté en C++ et SDL2. Le projet est hébergé sur GitHub et est activement développé par Wohlstand et d'autres contributeurs.
+
+TheXTech est disponible en version autonome pour Windows, Linux, macOS, Android et Nintendo Switch. Le moteur prend également en charge LunaDLL Autocode (LunaScript) via un émulateur de mémoire, permettant de jouer davantage d'épisodes anciens sur TheXTech même sur des processeurs non x86.</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>TheXTech je open-source engine koji omogućava igranje klasičnih Super Mario Bros. X (SMBX) igara od verzije 1.0 do 1.3. To je rekreacija izvornog SMBX enginea, napisanog u Visual Basic 6, a kasnije portanog u C++ i SDL2. Projekt je hostan na GitHubu i aktivno ga razvijaju Wohlstand i drugi suradnici.
+
+TheXTech je dostupan kao samostalna verzija za Windows, Linux, macOS, Android i Nintendo Switch. Engine također podržava LunaDLL Autocode (LunaScript) putem memorijskog emulatora, što omogućava igranje više starih epizoda na TheXTech čak i na ne-x86 procesorima.</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemDescription>TheXTech è un motore open source che consente di giocare ai classici Super Mario Bros. X (SMBX) dalla versione 1.0 alla 1.3. È una ricreazione dell'engine SMBX originale scritto in Visual Basic 6 e successivamente portato in C++ e SDL2. Il progetto è ospitato su GitHub ed è attivamente sviluppato da Wohlstand e altri contributori.
+
+TheXTech è disponibile come versione standalone per Windows, Linux, macOS, Android e Nintendo Switch. Il motore supporta anche LunaDLL Autocode (LunaScript) tramite un emulatore di memoria, permettendo di eseguire più episodi vecchi su TheXTech anche su processori non x86.</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>TheXTech はオープンソースのエンジンで、クラシックな Super Mario Bros. X（SMBX）1.0 から 1.3 までのゲームを実行できます。元の SMBX エンジンは Visual Basic 6 で書かれ、その後 C++ と SDL2 に移植されました。本プロジェクトは GitHub にホストされ、Wohlstand と他の貢献者によって積極的に開発されています。
+
+TheXTech は Windows、Linux、macOS、Android、Nintendo Switch のスタンドアロン版として利用可能です。エンジンはメモリエミュレータ経由で LunaDLL Autocode（LunaScript）もサポートし、x86 以外のプロセッサでも旧エピソードを再生できるようにします。</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>TheXTech는 오픈 소스 엔진으로 Super Mario Bros. X(SMBX) 1.0부터 1.3까지의 클래식 게임을 실행할 수 있게 해줍니다. 원래 SMBX 엔진은 Visual Basic 6로 작성되었고 이후 C++와 SDL2로 포팅되었습니다. 이 프로젝트는 GitHub에 호스팅되며 Wohlstand와 다른 기여자들이 활발히 개발하고 있습니다.
+
+TheXTech는 Windows, Linux, macOS, Android 및 Nintendo Switch 용 독립 버전으로 제공됩니다. 엔진은 메모리 에뮬레이터를 통해 LunaDLL Autocode(LunaScript)도 지원하므로 비 x86 프로세서에서도 더 많은 오래된 에피소드를 TheXTech에서 실행할 수 있습니다。</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>TheXTech is een open-source engine waarmee je de klassieke Super Mario Bros. X (SMBX)-games van 1.0 tot 1.3 kunt spelen. Het is een recreatie van de oorspronkelijke SMBX-engine die in Visual Basic 6 was geschreven en later naar C++ en SDL2 is overgezet. Het project wordt gehost op GitHub en actief ontwikkeld door Wohlstand en andere bijdragers.
+
+TheXTech is beschikbaar als standalone versie voor Windows, Linux, macOS, Android en Nintendo Switch. De engine ondersteunt ook LunaDLL Autocode (LunaScript) via een geheugenemulator, zodat oudere afleveringen zelfs op niet-x86 processors kunnen draaien.</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>TheXTech to silnik open-source umożliwiający uruchamianie klasycznych gier Super Mario Bros. X (SMBX) od wersji 1.0 do 1.3. Jest to rekreacja oryginalnego silnika SMBX, który został napisany w Visual Basic 6 i później przeniesiony do C++ i SDL2. Projekt jest hostowany na GitHub i jest aktywnie rozwijany przez Wohlstand i innych współtwórców.
+
+TheXTech jest dostępny jako samodzielna wersja dla Windows, Linux, macOS, Android i Nintendo Switch. Silnik obsługuje również LunaDLL Autocode (LunaScript) za pośrednictwem emulatora pamięci, co pozwala uruchamiać starsze epizody na TheXTech nawet na procesorach nie-x86.</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>TheXTech é um motor open-source que permite jogar os clássicos Super Mario Bros. X (SMBX) das versões 1.0 a 1.3. É uma recriação do motor SMBX original que foi escrito em Visual Basic 6 e mais tarde portado para C++ e SDL2. O projeto está alojado no GitHub e é desenvolvido ativamente por Wohlstand e outros contribuidores.
+
+TheXTech está disponível como versão independente para Windows, Linux, macOS, Android e Nintendo Switch. O motor também suporta LunaDLL Autocode (LunaScript) via um emulador de memória, permitindo jogar episódios antigos no TheXTech mesmo em processadores não x86.</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>TheXTech este un motor open-source care îți permite să joci clasicele jocuri Super Mario Bros. X (SMBX) de la versiunea 1.0 până la 1.3. Este o recreare a motorului SMBX original scris în Visual Basic 6 și ulterior portat în C++ și SDL2. Proiectul este găzduit pe GitHub și este dezvoltat activ de Wohlstand și alți contribuitori.
+
+TheXTech este disponibil ca versiune standalone pentru Windows, Linux, macOS, Android și Nintendo Switch. Motorul acceptă, de asemenea, LunaDLL Autocode (LunaScript) printr-un emulator de memorie, permițând redarea mai multor episoade vechi pe TheXTech chiar și pe procesoare non-x86.</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>TheXTech — это open-source движок, позволяющий запускать классические игры Super Mario Bros. X (SMBX) с версий 1.0 по 1.3. Это воссоздание оригинального движка SMBX, написанного на Visual Basic 6 и позднее портированного на C++ и SDL2. Проект размещён на GitHub и активно развивается Wohlstand и другими участниками.
+
+TheXTech доступен как автономная версия для Windows, Linux, macOS, Android и Nintendo Switch. Движок также поддерживает LunaDLL Autocode (LunaScript) через эмулятор памяти, что позволяет запускать старые эпизоды на TheXTech даже на процессорах не-x86.</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>TheXTech је open-source енџин који омогућава играње класичних Super Mario Bros. X (SMBX) игара од верзије 1.0 до 1.3. То је рекреација оригиналног SMBX енџина који је био написан у Visual Basic 6 и касније портован у C++ и SDL2. Пројекат је на GitHub-у и активно га развијају Wohlstand и други сарадници.
+
+TheXTech је доступан као самостална верзија за Windows, Linux, macOS, Android и Nintendo Switch. Енџин такође подржава LunaDLL Autocode (LunaScript) преко емулатора меморије, омогућавајући покретање старијих епизода на TheXTech чак и на не-x86 процесорима.</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>TheXTech är en öppen källkods-motor som låter dig spela de klassiska Super Mario Bros. X (SMBX)-spelen från 1.0 till 1.3. Det är en rekreation av den ursprungliga SMBX-motorn som skrevs i Visual Basic 6 och senare portades till C++ och SDL2. Projektet finns på GitHub och utvecklas aktivt av Wohlstand och andra bidragsgivare.
+
+TheXTech finns som fristående version för Windows, Linux, macOS, Android och Nintendo Switch. Motorn stödjer också LunaDLL Autocode (LunaScript) via en minnesemulator, vilket gör det möjligt att spela äldre avsnitt på TheXTech även på icke-x86-processorer.</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>TheXTech 是一个开源引擎，可让你运行经典的 Super Mario Bros. X（SMBX）1.0 至 1.3 版本游戏。它是对原始 SMBX 引擎的重建，原引擎以 Visual Basic 6 编写，后来被移植到 C++ 和 SDL2。该项目托管在 GitHub 上，由 Wohlstand 和其他贡献者积极开发。
+
+TheXTech 提供适用于 Windows、Linux、macOS、Android 和 Nintendo Switch 的独立版本。该引擎还通过内存模拟器支持 LunaDLL Autocode（LunaScript），即使在非 x86 处理器上也能在 TheXTech 上运行更多旧版剧集。</systemDescription>
+  </variables>
 </theme>

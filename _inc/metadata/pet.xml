@@ -14,4 +14,130 @@ The name was suggested by Andre Souson after he saw the Pet Rock in Los Gatos, a
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
+  <variables lang="ar">
+    <systemDescription>Commodore PET هي سلسلة من أجهزة الكمبيوتر الشخصية التي بدأت شركة Commodore International في إنتاجها عام 1977. تجمع الحقيبة الواحدة المتكاملة بين معالج MOS Technology 6502، وبرنامج Commodore BASIC في ذاكرة للقراءة فقط، ولوحة مفاتيح، وشاشة كمبيوتر، وفي الطرز المبكرة جهاز كاسيت.
+
+بدأ تطوير النظام في عام 1976 وتم عرض نموذج أولي في معرض الإلكترونيات الاستهلاكية في يناير 1977. أدت سلسلة من المشاكل إلى تأخير إصدار النسخة النهائية حتى ديسمبر 1977، حيث كان TRS-80 و Apple II قد بدأا بالفعل في التسليم. أشارت Byte إلى الأجهزة الثلاثة مجتمعة باسم "ثالوث 1977".
+
+خضع تصميم PET لسلسلة من التحديثات: زيادة الذاكرة، وتحسين لوحة المفاتيح، وتوسيع الشاشة، وتعديلات أخرى. كانت هذه الأنظمة من أكثر المنتجات مبيعًا في أسواق التعليم في كندا والولايات المتحدة، وكذلك للاستخدام التجاري في أوروبا. اقترح الاسم أندريه سوسون بعد أن شاهد Pet Rock في لوس غاتوس، وأعلن أنهم سيصنعون "كمبيوتر الحيوانات الأليفة". تم اختصار الاسم إلى Personal Electronic Transactor.</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>Commodore PET je linija personalnih računara koju je Commodore International počeo proizvoditi 1977. godine. Jedno kućište koje objedinjuje sve komponente sadrži MOS Technology 6502 mikroprocesor, Commodore BASIC u memoriji samo za čitanje, tastaturu, monitor i, u ranijim modelima, kasetofon.
+
+Razvoj sistema je započeo 1976. godine, a prototip je demonstriran na sajmu potrošačke elektronike (Consumer Electronics Show) u januaru 1977. godine. Serija problema je odgodila proizvodne verzije do decembra 1977. godine, do kada su TRS-80 i Apple II već započeli isporuke. Časopis Byte je sve tri mašine zajednički nazvao "trojstvom iz 1977."
+
+Dizajn PET-a je prošao kroz niz nadogradnji: više memorije, bolja tastatura, veći ekran i druge modifikacije. Sistemi su bili bestseleri na kanadskom i američkom obrazovnom tržištu, kao i za poslovnu upotrebu u Evropi. Ime je predložio Andre Souson nakon što je vidio Pet Rock u Los Gatosu i izjavio da će napraviti "kućnog ljubimca-računar". Kasnije je naziv skovan unazad kao Personal Electronic Transactor.</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>El Commodore PET és una línia d'ordinadors personals produïda a partir de 1977 per Commodore International. Una única carcassa tot en un combina un microprocessador MOS Technology 6502, el BASIC de Commodore en memòria de només lectura, un teclat, un monitor d'ordinador i, en els primers models, una unitat de casetes.
+
+El desenvolupament del sistema va començar el 1976 i se'n va demostrar un prototip al Consumer Electronics Show de gener de 1977. Una sèrie de problemes va retardar les versions de producció fins al desembre de 1977, moment en què el TRS-80 i l'Apple II ja havien començat les lliuracions. La revista Byte es va referir col·lectivament a les tres màquines com la «trinitat de 1977».
+
+El disseny del PET va rebre una sèrie d'actualitzacions: més memòria, un teclat millor, una pantalla més gran i altres modificacions. Els sistemes van ser un dels més venuts en els mercats educatius canadenc i nord-americà, així com per a ús empresarial a Europa. El nom el va suggerir Andre Souson després de veure el Pet Rock a Los Gatos, i va afirmar que farien l'«ordinador mascota». Més tard es va crear l'acrònim invers Personal Electronic Transactor.</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemDescription>Der Commodore PET ist eine Reihe von Personalcomputern, die seit 1977 von Commodore International hergestellt werden. Ein einziges All-in-One-Gehäuse vereint einen MOS Technology 6502-Mikroprozessor, Commodore BASIC im Nur-Lese-Speicher, eine Tastatur, einen Computermonitor und in frühen Modellen ein Kassettendeck.
+
+Die Entwicklung des Systems begann 1976, und ein Prototyp wurde auf der Consumer Electronics Show im Januar 1977 vorgestellt. Eine Reihe von Problemen verzögerte die Produktion der Serienversionen bis Dezember 1977, zu diesem Zeitpunkt hatten TRS-80 und Apple II bereits mit der Auslieferung begonnen. Byte bezeichnete die drei Maschinen zusammen als die „Dreieinigkeit von 1977”.
+
+Das PET-Design wurde mehrfach aktualisiert: mehr Speicher, bessere Tastatur, größerer Bildschirm und andere Modifikationen. Die Systeme waren ein Verkaufsschlager auf dem kanadischen und US-amerikanischen Bildungsmarkt sowie für den geschäftlichen Einsatz in Europa. Der Name wurde von Andre Souson vorgeschlagen, nachdem er den Pet Rock in Los Gatos gesehen hatte und erklärte, sie würden den „Pet Computer” bauen. Er wurde zu Personal Electronic Transactor zurückgebildet.</systemDescription>
+  </variables>
+  <variables lang="es">
+    <systemDescription>El Commodore PET es una línea de ordenadores personales fabricados desde 1977 por Commodore International. Una única carcasa todo en uno combina un microprocesador MOS Technology 6502, Commodore BASIC en memoria de solo lectura, teclado, monitor de ordenador y, en los primeros modelos, una pletina de casetes.
+
+El desarrollo del sistema comenzó en 1976 y se presentó un prototipo en la Feria de Electrónica de Consumo de enero de 1977. Una serie de problemas retrasó las versiones de producción hasta diciembre de 1977, momento en el que el TRS-80 y el Apple II ya habían comenzado a comercializarse. Byte se refirió a las tres máquinas colectivamente como la «trinidad de 1977».
+
+El diseño del PET sufrió una serie de actualizaciones: más memoria, mejor teclado, pantalla más grande y otras modificaciones. Los sistemas fueron un éxito de ventas en los mercados educativos de Canadá y Estados Unidos, así como para uso empresarial en Europa. El nombre fue sugerido por Andre Souson después de ver el Pet Rock en Los Gatos, y afirmó que iban a fabricar el «ordenador mascota». Se acuñó el acrónimo Personal Electronic Transactor.</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>Le Commodore PET est une gamme d'ordinateurs personnels produite à partir de 1977 par Commodore International. Un boîtier tout-en-un unique combine un microprocesseur MOS Technology 6502, Commodore BASIC en mémoire morte, un clavier, un écran d'ordinateur et, dans les premiers modèles, un lecteur de cassettes.
+
+Le développement du système a commencé en 1976 et un prototype a été présenté au Consumer Electronics Show en janvier 1977. Une série de problèmes a retardé la production des versions commerciales jusqu'en décembre 1977, date à laquelle le TRS-80 et l'Apple II avaient déjà commencé à être commercialisés. Byte a qualifié ces trois machines de « trinité de 1977 ».
+
+La conception du PET a fait l'objet d'une série de mises à jour : plus de mémoire, un meilleur clavier, un écran plus grand et d'autres modifications. Ces systèmes ont été très vendus sur les marchés de l'éducation au Canada et aux États-Unis, ainsi que pour un usage professionnel en Europe. Le nom a été suggéré par Andre Souson après avoir vu le Pet Rock à Los Gatos, et déclaré qu'ils allaient fabriquer le « pet computer » (ordinateur de compagnie). Il a été rétroacronyme en Personal Electronic Transactor.</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>Commodore PET je linija osobnih računala koju je od 1977. godine proizvodila tvrtka Commodore International. Jedno sve-u-jednom kućište objedinjuje mikroprocesor MOS Technology 6502, Commodore BASIC u memoriji samo za čitanje, tipkovnicu, monitor i, u ranim modelima, kasetofon.
+
+Razvoj sustava započeo je 1976. godine, a prototip je predstavljen na sajmu Consumer Electronics Show u siječnju 1977. godine. Niz problema odgodio je proizvodne verzije do prosinca 1977., do kada su TRS-80 i Apple II već započeli s isporukama. Časopis Byte nazvao je te tri računala zajedničkim nazivom "trojstvo iz 1977."
+
+Dizajn PET-a prošao je niz nadogradnji: više memorije, bolja tipkovnica, veći zaslon i druge izmjene. Sustavi su bili bestseleri na kanadskom i američkom obrazovnom tržištu, kao i za poslovnu upotrebu u Europi. Naziv je predložio Andre Souson nakon što je vidio Pet Rock u Los Gatosu i izjavio da će napraviti "kućnog računala". Naziv je naknadno skovan kao kratica za Personal Electronic Transactor.</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemDescription>Il Commodore PET è una linea di personal computer prodotta a partire dal 1977 dalla Commodore International. Un unico case all-in-one combina un microprocessore MOS Technology 6502, Commodore BASIC in memoria di sola lettura, tastiera, monitor e, nei primi modelli, un registratore a cassette.
+
+Lo sviluppo del sistema iniziò nel 1976 e un prototipo fu presentato al Consumer Electronics Show del gennaio 1977. Una serie di problemi ritardò la produzione delle versioni definitive fino al dicembre 1977, quando il TRS-80 e l'Apple II erano già in commercio. Byte definì le tre macchine collettivamente come la "trinità del 1977".
+
+Il design del PET subì una serie di aggiornamenti: più memoria, tastiera migliore, schermo più grande e altre modifiche. I sistemi furono un successo di vendite nei mercati dell'istruzione canadese e statunitense, nonché per uso aziendale in Europa. Il nome fu suggerito da Andre Souson dopo aver visto il Pet Rock a Los Gatos, e dichiarò che avrebbero realizzato il "pet computer". Fu poi abbreviato in Personal Electronic Transactor.</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>コモドールPETは、1977年からコモドール・インターナショナルが製造したパーソナルコンピュータのシリーズである。単一のオールインワン筐体に、MOSテクノロジー6502マイクロプロセッサ、ROM内蔵のコモドールBASIC、キーボード、コンピュータモニター、初期モデルではカセットデッキが統合されていた。
+
+システムの開発は1976年に始まり、1977年1月のコンシューマー・エレクトロニクス・ショーでプロトタイプが披露された。一連の問題により量産版の発売は1977年12月まで遅れ、その頃にはTRS-80とApple IIの出荷が既に始まっていた。Byte誌はこの3機種を総称して「1977年の三聖機」と呼んだ。
+
+PETの設計は一連の改良を重ねた：メモリ増設、キーボード改良、画面大型化など。本システムはカナダ・米国教育市場でトップセラーとなり、欧州ではビジネス用途でも普及した。名称はアンドレ・スーソンがロスガトスの「ペットロック」を見て「ペットコンピューターを作る」と宣言したことに由来し、後付けで「パーソナル・エレクトロニック・トランザクター（Personal Electronic Transactor）」の頭字語とされた。</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>커모도어 PET는 1977년부터 커모도어 인터내셔널이 생산한 개인용 컴퓨터 시리즈입니다. 단일 올인원 케이스에 MOS 테크놀로지 6502 마이크로프로세서, 읽기 전용 메모리에 탑재된 커모도어 베이직, 키보드, 컴퓨터 모니터, 초기 모델에는 카세트 데크가 통합되어 있습니다.
+
+시스템 개발은 1976년에 시작되었으며, 1977년 1월 소비자 가전 전시회(CES)에서 시제품이 공개되었습니다. 일련의 문제로 인해 양산 버전은 1977년 12월까지 지연되었고, 이때는 이미 TRS-80과 애플 II가 출하를 시작한 후였습니다. 바이트(Byte)지는 이 세 기종을 통칭하여 "1977년 삼위일체"라고 불렀습니다.
+
+PET 디자인은 메모리 증설, 키보드 개선, 대형 화면 등 일련의 업데이트를 거쳤다. 이 시스템은 캐나다와 미국 교육 시장, 그리고 유럽의 비즈니스 용도로 최고의 판매량을 기록했다. 이름은 로스 가토스에서 펫 록(Pet Rock)을 본 안드레 수슨(Andre Souson)이 제안했으며, 그들은 "펫 컴퓨터(pet computer)"를 만들겠다고 선언했다. 이후 이 이름은 '개인용 전자 거래기(Personal Electronic Transactor)'의 약자로 소급 해석되었다.</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>De Commodore PET is een serie personal computers die vanaf 1977 door Commodore International werd geproduceerd. Een enkele alles-in-één behuizing combineert een MOS Technology 6502-microprocessor, Commodore BASIC in alleen-lezen geheugen, toetsenbord, computermonitor en in vroege modellen een cassettedeck.
+
+De ontwikkeling van het systeem begon in 1976 en een prototype werd gedemonstreerd op de Consumer Electronics Show in januari 1977. Een reeks problemen vertraagde de productie tot december 1977, toen de TRS-80 en Apple II al op de markt waren. Byte noemde de drie machines gezamenlijk de "1977-drie-eenheid".
+
+Het ontwerp van de PET onderging een reeks updates: meer geheugen, een beter toetsenbord, een groter scherm en andere aanpassingen. De systemen waren een topverkoper op de Canadese en Amerikaanse onderwijsmarkten, evenals voor zakelijk gebruik in Europa. De naam werd voorgesteld door Andre Souson nadat hij de Pet Rock in Los Gatos had gezien, en verklaarde dat ze de "pet computer" gingen maken. Het werd teruggedoopt tot Personal Electronic Transactor.</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>Commodore PET to seria komputerów osobistych produkowanych od 1977 roku przez firmę Commodore International. Jedna obudowa typu „wszystko w jednym” łączy w sobie mikroprocesor MOS Technology 6502, język Commodore BASIC w pamięci tylko do odczytu, klawiaturę, monitor komputerowy, a we wczesnych modelach również magnetofon kasetowy.
+
+Prace nad systemem rozpoczęły się w 1976 roku, a prototyp został zaprezentowany podczas targów Consumer Electronics Show w styczniu 1977 roku. Szereg problemów opóźnił produkcję seryjną do grudnia 1977 roku, kiedy to TRS-80 i Apple II były już dostępne w sprzedaży. Magazyn Byte nazwał te trzy komputery „trójcą 1977 roku”.
+
+Projekt PET przeszedł szereg aktualizacji: zwiększono pamięć, ulepszono klawiaturę, powiększono ekran i wprowadzono inne modyfikacje. Systemy te były bestsellerami na kanadyjskim i amerykańskim rynku edukacyjnym, a także w zastosowaniach biznesowych w Europie. Nazwa została zaproponowana przez Andre Sousona po tym, jak zobaczył Pet Rock w Los Gatos i stwierdził, że zamierzają stworzyć „komputer dla zwierząt domowych”. Nazwa została skrótowo przetłumaczona na Personal Electronic Transactor.</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>O Commodore PET é uma linha de computadores pessoais produzida a partir de 1977 pela Commodore International. Um único gabinete multifuncional combina um microprocessador MOS Technology 6502, Commodore BASIC em memória somente leitura, teclado, monitor de computador e, nos primeiros modelos, um toca-fitas.
+
+O desenvolvimento do sistema começou em 1976 e um protótipo foi demonstrado na Consumer Electronics Show de janeiro de 1977. Uma série de problemas atrasou as versões de produção até dezembro de 1977, quando o TRS-80 e o Apple II já haviam começado a ser comercializados. A revista Byte se referiu às três máquinas coletivamente como a "trindade de 1977".
+
+O design do PET passou por uma série de atualizações: mais memória, teclado melhor, tela maior e outras modificações. Os sistemas foram um sucesso de vendas nos mercados educacionais do Canadá e dos Estados Unidos, bem como para uso comercial na Europa. O nome foi sugerido por Andre Souson depois que ele viu o Pet Rock em Los Gatos e afirmou que eles iriam fabricar o "computador de estimação". O nome foi retroativamente transformado em Personal Electronic Transactor.</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>Commodore PET este o serie de computere personale produse începând din 1977 de Commodore International. O singură carcasă all-in-one combină un microprocesor MOS Technology 6502, Commodore BASIC în memorie numai pentru citire, tastatură, monitor de computer și, în modelele timpurii, un casetofon.
+
+Dezvoltarea sistemului a început în 1976, iar un prototip a fost prezentat la Consumer Electronics Show din ianuarie 1977. O serie de probleme au întârziat versiunile de producție până în decembrie 1977, moment în care TRS-80 și Apple II începuseră deja livrările. Byte s-a referit la cele trei mașini în mod colectiv ca „trinitatea din 1977”.
+
+Designul PET a suferit o serie de actualizări: mai multă memorie, tastatură îmbunătățită, ecran mai mare și alte modificări. Sistemele au fost cele mai vândute pe piețele educaționale din Canada și Statele Unite, precum și pentru utilizare în afaceri în Europa. Numele a fost sugerat de Andre Souson după ce a văzut Pet Rock în Los Gatos și a declarat că vor crea „computerul de companie”. Acesta a fost transformat în acronim pentru Personal Electronic Transactor.</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>Commodore PET — серия персональных компьютеров, выпускавшаяся с 1977 года компанией Commodore International. В одном корпусе «все в одном» сочетались микропроцессор MOS Technology 6502, язык программирования Commodore BASIC в памяти только для чтения, клавиатура, компьютерный монитор, а в ранних моделях — кассетный магнитофон.
+
+Разработка системы началась в 1976 году, а прототип был продемонстрирован на выставке Consumer Electronics Show в январе 1977 года. Ряд проблем задержал выпуск серийных версий до декабря 1977 года, к тому времени TRS-80 и Apple II уже начали поставляться. Журнал Byte назвал эти три машины «тройцей 1977 года».
+
+Дизайн PET претерпел ряд обновлений: увеличение объема памяти, улучшение клавиатуры, увеличение размера экрана и другие модификации. Системы были лидерами продаж на рынках образования Канады и США, а также для бизнес-использования в Европе. Название было предложено Андре Сусоном после того, как он увидел Pet Rock в Лос-Гатосе и заявил, что они собираются создать «компьютер-питомца». Оно было обратно сокращено до Personal Electronic Transactor (личный электронный транзактор).</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>Commodore PET је линија персоналних рачунара коју је производио Commodore International од 1977. године. Једно кућиште све-у-једном комбинује MOS Technology 6502 микропроцесор, Commodore BASIC у самочитајућој меморији, тастатуру, компјутерски монитор и, у раним моделима, касетофон.
+
+Развој система почео је 1976. године, а прототип је демонстриран на Сајму потрошачке електронике у јануару 1977. године. Низ проблема одложио је производне верзије до децембра 1977. године, до када су TRS-80 и Apple II већ почели испоруке. Часопис Byte је заједнички називао ова три машине "тројством 1977".
+
+Дизајн PET-а је прошао низ ажурирања: више меморије, боља тастатура, већи екран и друге модификације. Системи су били најпродаванији на канадском и америчком образовном тржишту, као и за пословне потребе у Европи. Име је предложио Андре Сусон након што је видео ПЕТ камен у Лос Гатосу и изјавио је да ће направити "кућног љубимца-рачунара". Потом је име постало бакроним за Personal Electronic Transactor.</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>Commodore PET är en serie persondatorer som började tillverkas 1977 av Commodore International. Ett enda allt-i-ett-chassi kombinerar en MOS Technology 6502-mikroprocessor, Commodore BASIC i läsminne, tangentbord, datorskärm och i de tidiga modellerna även en kassettspelare.
+
+Utvecklingen av systemet inleddes 1976 och en prototyp visades upp på Consumer Electronics Show i januari 1977. En rad problem försenade produktionsversionerna till december 1977, då TRS-80 och Apple II redan hade börjat levereras. Byte kallade de tre maskinerna tillsammans för ”1977 års treenighet”.
+
+PET-designen genomgick en rad uppdateringar: mer minne, bättre tangentbord, större skärm och andra modifieringar. Systemen var en storsäljare på den kanadensiska och amerikanska utbildningsmarknaden, samt för affärsbruk i Europa. Namnet föreslogs av Andre Souson efter att han sett Pet Rock i Los Gatos och förklarat att de skulle tillverka en "pet computer" (husdjursdator). Det blev en bakronym för Personal Electronic Transactor.</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>Commodore PET是Commodore国际公司自1977年起推出的个人电脑系列。其一体化机箱内集成了MOS Technology 6502微处理器、存储于只读存储器中的Commodore BASIC系统、键盘、电脑显示器，早期型号还配备了磁带录放机。
+
+该系统研发始于1976年，原型机于1977年1月消费电子展亮相。因系列技术问题，量产版延迟至1977年12月才面世，此时TRS-80和Apple II已开始交付。《Byte》杂志将这三款机器统称为"1977年三巨头"。
+
+PET设计历经多次升级：扩充内存、优化键盘、增大屏幕等。该系列产品不仅在加拿大和美国教育市场热销，更成为欧洲商业领域的热门选择。其命名灵感源于安德烈·苏松在洛斯加托斯看到宠物石（Pet Rock）后提出的构想——他们要打造"宠物电脑"（pet computer），后被回溯性地解释为"个人电子交易机"（Personal Electronic Transactor）。</systemDescription>
+  </variables>
 </theme>

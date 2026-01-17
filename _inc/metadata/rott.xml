@@ -10,4 +10,58 @@ Utilizing SDL2 and SDL_mixer, it replicates the original game's functionality wh
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
+  <variables lang="ar">
+    <systemDescription>ميناء Taradino هو ميناء قائم على SDL2 للعبة الكلاسيكية Rise of the Triad (ROTT)، وهي لعبة إطلاق نار كلاسيكية من منظور الشخص الأول تم تطويرها في الأصل بواسطة Apogee Software في عام 1995. باستخدام SDL2 و SDL_mixer، فإنه يحاكي وظائف اللعبة الأصلية مع معالجة التوافق مع الأجهزة الحديثة.</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>Taradino port je port klasične igre Rise of the Triad (ROTT) zasnovan na SDL2, klasičnog pucačina iz prvog lica koju je prvobitno razvio Apogee Software 1995. godine. Koristeći SDL2 i SDL_mixer, on replicira funkcionalnost originalne igre dok istovremeno rješava kompatibilnost s savremenim hardverom.</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>El port Taradino és un port basat en SDL2 del clàssic joc Rise of the Triad (ROTT), un clàssic joc de trets en primera persona desenvolupat originalment per Apogee Software el 1995. Mitjançant SDL2 i SDL_mixer, replica la funcionalitat del joc original alhora que aborda la compatibilitat amb el maquinari contemporani.</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemDescription>Der Taradino-Port ist ein SDL2-basierter Port des Klassikers Rise of the Triad (ROTT), einem klassischen Ego-Shooter, der ursprünglich 1995 von Apogee Software entwickelt wurde. Durch die Verwendung von SDL2 und SDL_mixer repliziert er die Funktionalität des Originalspiels und gewährleistet gleichzeitig die Kompatibilität mit moderner Hardware.</systemDescription>
+  </variables>
+  <variables lang="es">
+    <systemDescription>El puerto Taradino es un puerto basado en SDL2 del clásico juego Rise of the Triad (ROTT), un clásico juego de disparos en primera persona desarrollado originalmente por Apogee Software en 1995. Utilizando SDL2 y SDL_mixer, reproduce la funcionalidad del juego original al tiempo que aborda la compatibilidad con el hardware contemporáneo.</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>Le port Taradino est un port basé sur SDL2 du jeu classique Rise of the Triad (ROTT), un jeu de tir à la première personne développé à l'origine par Apogee Software en 1995. Utilisant SDL2 et SDL_mixer, il reproduit les fonctionnalités du jeu original tout en assurant la compatibilité avec le matériel informatique contemporain.</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>Port Taradino je SDL2-temeljeni port klasične igre Rise of the Triad (ROTT), klasičnog pucačina iz prvog lica koju je izvorno razvio Apogee Software 1995. godine. Koristeći SDL2 i SDL_mixer, replicira funkcionalnost originalne igre uz osiguravanje kompatibilnosti s suvremenim hardverom.</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemDescription>Il porting Taradino è un porting basato su SDL2 del classico gioco Rise of the Triad (ROTT), un classico sparatutto in prima persona originariamente sviluppato da Apogee Software nel 1995. Utilizzando SDL2 e SDL_mixer, replica le funzionalità del gioco originale garantendo al contempo la compatibilità con l'hardware contemporaneo.</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>タラディーノ版は、1995年にアポジー・ソフトウェアが開発した古典的なファーストパーソン・シューティングゲーム『ライズ・オブ・ザ・トライアド（ROTT）』のSDL2ベースの移植版である。SDL2とSDL_mixerを活用し、オリジナルゲームの機能を再現しつつ、現代のハードウェアとの互換性を実現している。</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>타라디노 포트는 1995년 아포지 소프트웨어에서 개발한 클래식 1인칭 슈팅 게임인 '라이즈 오브 더 트라이어드(ROTT)'의 SDL2 기반 포팅 버전입니다. SDL2와 SDL_mixer를 활용하여 원작 게임의 기능을 재현하면서도 현대 하드웨어와의 호환성을 해결합니다.</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>De Taradino-port is een op SDL2 gebaseerde port van het klassieke spel Rise of the Triad (ROTT), een klassieke first-person shooter die oorspronkelijk in 1995 door Apogee Software werd ontwikkeld. Door gebruik te maken van SDL2 en SDL_mixer repliceert het de functionaliteit van het originele spel en zorgt het tegelijkertijd voor compatibiliteit met hedendaagse hardware.</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>Port Taradino to oparty na SDL2 port klasycznej gry Rise of the Triad (ROTT), klasycznej strzelanki pierwszoosobowej opracowanej pierwotnie przez Apogee Software w 1995 roku. Wykorzystując SDL2 i SDL_mixer, odtwarza on funkcjonalność oryginalnej gry, zapewniając jednocześnie kompatybilność ze współczesnym sprzętem.</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>O Taradino port é uma versão baseada em SDL2 do clássico jogo Rise of the Triad (ROTT), um clássico jogo de tiro em primeira pessoa originalmente desenvolvido pela Apogee Software em 1995. Utilizando SDL2 e SDL_mixer, ele replica a funcionalidade do jogo original, ao mesmo tempo em que aborda a compatibilidade com o hardware contemporâneo.</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>Portul Taradino este un port bazat pe SDL2 al jocului clasic Rise of the Triad (ROTT), un joc clasic de tip first-person shooter dezvoltat inițial de Apogee Software în 1995. Utilizând SDL2 și SDL_mixer, acesta reproduce funcționalitatea jocului original, asigurând în același timp compatibilitatea cu hardware-ul contemporan.</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>Порт Taradino — это порт классической игры Rise of the Triad (ROTT) на основе SDL2, классического шутера от первого лица, первоначально разработанного Apogee Software в 1995 году. Используя SDL2 и SDL_mixer, он воспроизводит функциональность оригинальной игры, обеспечивая при этом совместимость с современным оборудованием.</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>Порт Taradino је порт класичне игре Rise of the Triad (ROTT) заснован на SDL2, класичне пуцачине из првог лица коју је првобитно развио Apogee Software 1995. године. Користећи SDL2 и SDL_mixer, он репликује функционалност оригиналне игре уз обезбеђивање компатибилности са савременим хардвером.</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>Taradino-porten är en SDL2-baserad port av det klassiska spelet Rise of the Triad (ROTT), ett klassiskt förstapersonsskjutspel som ursprungligen utvecklades av Apogee Software 1995. Med hjälp av SDL2 och SDL_mixer replikerar den originalspelets funktionalitet samtidigt som den hanterar kompatibilitet med modern hårdvara.</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>塔拉迪诺移植版是基于SDL2框架对经典游戏《三角洲崛起》（ROTT）的移植版本，这款经典第一人称射击游戏最初由Apogee Software于1995年开发。该移植版采用SDL2和SDL_mixer技术，在复现原版游戏功能的同时，实现了与当代硬件的兼容性。</systemDescription>
+  </variables>
 </theme>

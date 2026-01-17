@@ -8,4 +8,58 @@
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
+  <variables lang="ar">
+    <systemDescription>إعادة تنفيذ لعبة محاكاة الأعمال Theme Hospital من Bullfrog لعام 1997. بالإضافة إلى إعادة إنتاج النسخة الأصلية بأمانة، تضيف CorsixTH دعمًا لأنظمة التشغيل الحديثة (Windows و macOS و Linux و BSD) ودقة عالية وغير ذلك الكثير.</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>Ponovna implementacija poslovne simulacije Theme Hospital iz 1997. godine kompanije Bullfrog. Osim što vjerno rekreira original, CorsixTH dodaje podršku za moderne operativne sisteme (Windows, macOS, Linux i BSD), visoke rezolucije i još mnogo toga.</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>Una reimplementació del simulador empresarial de Bullfrog de 1997, Theme Hospital. A més de recrear fidelment l'original, CorsixTH afegeix suport per a sistemes operatius moderns (Windows, macOS, Linux i BSD), altes resolucions i molt més.</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemDescription>Eine Neuimplementierung des Bullfrog-Wirtschaftssimulationsspiels Theme Hospital aus dem Jahr 1997. CorsixTH bildet nicht nur das Original originalgetreu nach, sondern bietet auch Unterstützung für moderne Betriebssysteme (Windows, macOS, Linux und BSD), hohe Auflösungen und vieles mehr.</systemDescription>
+  </variables>
+  <variables lang="es">
+    <systemDescription>Una reimplementación del simulador empresarial Theme Hospital, creado por Bullfrog en 1997. Además de recrear fielmente el original, CorsixTH añade compatibilidad con los sistemas operativos modernos (Windows, macOS, Linux y BSD), altas resoluciones y mucho más.</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>Une réimplémentation du jeu de simulation économique Theme Hospital, sorti en 1997 par Bullfrog. En plus de recréer fidèlement l'original, CorsixTH ajoute la prise en charge des systèmes d'exploitation modernes (Windows, macOS, Linux et BSD), des résolutions élevées et bien plus encore.</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>Ponovna implementacija poslovne simulacije Theme Hospital iz 1997. godine tvrtke Bullfrog. Osim što vjerno rekreira original, CorsixTH dodaje podršku za suvremene operativne sustave (Windows, macOS, Linux i BSD), visoke rezolucije i još mnogo toga.</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemDescription>Una reimplementazione del simulatore aziendale Theme Hospital della Bullfrog del 1997. Oltre a ricreare fedelmente l'originale, CorsixTH aggiunge il supporto per i sistemi operativi moderni (Windows, macOS, Linux e BSD), risoluzioni elevate e molto altro ancora.</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>1997年にBullfrogが開発した経営シミュレーションゲーム『Theme Hospital』の再実装版。オリジナルを忠実に再現するだけでなく、CorsixTHは現代のオペレーティングシステム（Windows、macOS、Linux、BSD）への対応、高解像度サポートなど、多くの機能を追加しています。</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>1997년 Bullfrog의 경영 시뮬레이션 게임 '테마 병원'을 재구현한 작품입니다. CorsixTH는 원작을 충실히 재현했을 뿐만 아니라, 현대 운영체제(Windows, macOS, Linux 및 BSD) 지원, 고해상도 대응 등 다양한 기능을 추가했습니다.</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>Een herimplementatie van de Bullfrog-bedrijfssimulator Theme Hospital uit 1997. CorsixTH heeft niet alleen het origineel getrouw nagebouwd, maar voegt ook ondersteuning toe voor moderne besturingssystemen (Windows, macOS, Linux en BSD), hoge resoluties en nog veel meer.</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>Ponowna implementacja symulacji biznesowej Theme Hospital firmy Bullfrog z 1997 roku. Oprócz wiernego odtworzenia oryginału, CorsixTH dodaje obsługę nowoczesnych systemów operacyjnych (Windows, macOS, Linux i BSD), wysokich rozdzielczości i wiele więcej.</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>Uma reimplementação do simulador empresarial Theme Hospital, da Bullfrog, de 1997. Além de recriar fielmente o original, o CorsixTH adiciona suporte para sistemas operacionais modernos (Windows, macOS, Linux e BSD), altas resoluções e muito mais.</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>O reimplementare a jocului de simulare a afacerilor Theme Hospital, lansat în 1997 de Bullfrog. Pe lângă reproducerea fidelă a versiunii originale, CorsixTH adaugă suport pentru sistemele de operare moderne (Windows, macOS, Linux și BSD), rezoluții înalte și multe altele.</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>Переиздание бизнес-симулятора Theme Hospital от Bullfrog 1997 года. Помимо точного воссоздания оригинала, CorsixTH добавляет поддержку современных операционных систем (Windows, macOS, Linux и BSD), высоких разрешений и многое другое.</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>Поновно имплементирање пословне симулације Theme Hospital компаније Bullfrog из 1997. године. Поред верне рекреације оригинала, CorsixTH додаје подршку за савремене оперативне системе (Windows, macOS, Linux и BSD), високе резолуције и још много тога.</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>En nyimplementering av Bullfrogs affärssimulator Theme Hospital från 1997. CorsixTH återskapar originalet troget och lägger dessutom till stöd för moderna operativsystem (Windows, macOS, Linux och BSD), höga upplösningar och mycket mer.</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>对1997年Bullfrog公司推出的经营模拟游戏《主题医院》的重新实现。除了忠实还原原作外，CorsixTH还增加了对现代操作系统（Windows、macOS、Linux和BSD）的支持，支持高分辨率显示等诸多改进。</systemDescription>
+  </variables>
 </theme>

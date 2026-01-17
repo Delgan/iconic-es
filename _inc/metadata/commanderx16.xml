@@ -11,4 +11,94 @@ It runs a custom version of BASIC and includes a variety of expansion options, m
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
+  <variables lang="ar">
+    <systemDescription>Commander X16 هو جهاز كمبيوتر حديث 8 بت صممه ديفيد موراي، المعروف أيضًا باسم "The 8-Bit Guy". ويهدف إلى التقاط بساطة وسحر أجهزة الكمبيوتر الكلاسيكية 8 بت مثل Commodore 64 مع توفير إمكانات محسنة ووسائل راحة حديثة.
+
+يتميز X16 بمعالج WDC 65C02 يعمل بسرعة 8 ميجاهرتز، وذاكرة وصول عشوائي تصل إلى 2 ميجا بايت، وشريحة فيديو وصوت VERA تدعم الرسومات عالية الدقة والصوت المتقدم. يعمل بنسخة مخصصة من BASIC ويتضمن مجموعة متنوعة من خيارات التوسعة، مما يجعله منصة متعددة الاستخدامات لمحبي الحوسبة القديمة والهواة.</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>Commander X16 je moderan 8-bitni računar koji je dizajnirao David Murray, poznat i kao "The 8-Bit Guy". Cilj mu je da uhvati jednostavnost i šarm klasičnih 8-bitnih računara poput Commodore 64, dok istovremeno pruža poboljšane mogućnosti i moderne pogodnosti.
+
+X16 ima WDC 65C02 procesor koji radi na 8 MHz, do 2 MB RAM-a i VERA video i audio čip koji podržava grafiku visoke rezolucije i napredan zvuk. Pokreće prilagođenu verziju BASIC-a i uključuje razne opcije proširenja, što ga čini svestranom platformom za entuzijaste retro računarstva i hobiste.</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>El Commander X16 és un ordinador de 8 bits modern dissenyat per David Murray, també conegut com a "The 8-Bit Guy". Té com a objectiu capturar la simplicitat i l'encant dels ordinadors clàssics de 8 bits com el Commodore 64, alhora que ofereix capacitats millorades i comoditats modernes.
+
+L'X16 compta amb una CPU WDC 65C02 que funciona a 8 MHz, fins a 2 MB de RAM i un xip de vídeo i àudio VERA que admet gràfics d'alta resolució i so avançat. Funciona amb una versió personalitzada de BASIC i inclou diverses opcions d'expansió, la qual cosa el converteix en una plataforma versàtil per als entusiastes i aficionats a la informàtica retro.</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemDescription>Der Commander X16 ist ein moderner 8-Bit-Computer, der von David Murray, auch bekannt als „The 8-Bit Guy“, entwickelt wurde. Er soll die Einfachheit und den Charme klassischer 8-Bit-Computer wie dem Commodore 64 einfangen und gleichzeitig verbesserte Funktionen und modernen Komfort bieten.
+
+Der X16 verfügt über eine WDC 65C02-CPU mit 8 MHz, bis zu 2 MB RAM und einen VERA-Video- und Audio-Chip, der hochauflösende Grafiken und fortschrittlichen Sound unterstützt. Er läuft mit einer angepassten Version von BASIC und bietet eine Vielzahl von Erweiterungsoptionen, was ihn zu einer vielseitigen Plattform für Retro-Computing-Enthusiasten und Hobbyisten macht.</systemDescription>
+  </variables>
+  <variables lang="es">
+    <systemDescription>El Commander X16 es un moderno ordenador de 8 bits diseñado por David Murray, también conocido como «The 8-Bit Guy». Su objetivo es capturar la simplicidad y el encanto de los ordenadores clásicos de 8 bits, como el Commodore 64, al tiempo que ofrece capacidades mejoradas y comodidades modernas.
+
+El X16 cuenta con una CPU WDC 65C02 que funciona a 8 MHz, hasta 2 MB de RAM y un chip de vídeo y audio VERA que admite gráficos de alta resolución y sonido avanzado. Funciona con una versión personalizada de BASIC e incluye una variedad de opciones de expansión, lo que lo convierte en una plataforma versátil para los entusiastas y aficionados a la informática retro.</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>Le Commander X16 est un ordinateur 8 bits moderne conçu par David Murray, également connu sous le nom de « The 8-Bit Guy ». Il vise à capturer la simplicité et le charme des ordinateurs 8 bits classiques tels que le Commodore 64, tout en offrant des capacités améliorées et des commodités modernes.
+
+Le X16 est équipé d'un processeur WDC 65C02 cadencé à 8 MHz, d'une mémoire RAM pouvant atteindre 2 Mo et d'une puce vidéo et audio VERA qui prend en charge les graphiques haute résolution et le son avancé. Il fonctionne avec une version personnalisée de BASIC et comprend diverses options d'extension, ce qui en fait une plateforme polyvalente pour les amateurs et les passionnés d'informatique rétro.</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>Commander X16 je moderan 8-bitni računalo koje je dizajnirao David Murray, poznat i kao "The 8-Bit Guy". Cilj mu je dočarati jednostavnost i šarm klasičnih 8-bitnih računala poput Commodore 64, istovremeno pružajući poboljšane mogućnosti i suvremene pogodnosti.
+
+X16 ima procesor WDC 65C02 koji radi na 8 MHz, do 2 MB RAM-a i VERA video i audio čip koji podržava grafiku visoke razlučivosti i napredan zvuk. Pokreće prilagođenu verziju BASIC-a i uključuje razne opcije proširenja, što ga čini svestranom platformom za entuzijaste retro računarstva i hobiste.</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemDescription>Il Commander X16 è un moderno computer a 8 bit progettato da David Murray, noto anche come "The 8-Bit Guy". Il suo obiettivo è quello di catturare la semplicità e il fascino dei classici computer a 8 bit come il Commodore 64, fornendo al contempo funzionalità avanzate e comodità moderne.
+
+L'X16 è dotato di una CPU WDC 65C02 con frequenza di 8 MHz, fino a 2 MB di RAM e un chip video e audio VERA che supporta grafica ad alta risoluzione e suoni avanzati. Funziona con una versione personalizzata di BASIC e include una varietà di opzioni di espansione, che lo rendono una piattaforma versatile per gli appassionati di informatica retrò e gli hobbisti.</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>コマンダーX16は、デイビッド・マレー（通称「8ビットの男」）が設計した現代的な8ビットコンピュータである。コモドール64のようなクラシックな8ビットコンピュータのシンプルさと魅力を再現しつつ、強化された機能と現代的な利便性を提供することを目指している。
+
+X16は8MHz動作のWDC 65C02 CPUを搭載し、最大2MBのRAMとVERAビデオ・オーディオチップを備え、高解像度グラフィックスと高度なサウンドをサポートします。カスタム版BASICを実行し、多様な拡張オプションを備えているため、レトロコンピューティング愛好家やホビイストにとって多用途なプラットフォームとなっています。</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>커맨더 X16은 "8비트 가이"로 알려진 데이비드 머레이가 설계한 현대식 8비트 컴퓨터입니다. 코모도어 64와 같은 클래식 8비트 컴퓨터의 단순함과 매력을 살리면서도 향상된 성능과 현대적인 편의성을 제공하는 것을 목표로 합니다.
+
+X16은 8MHz로 작동하는 WDC 65C02 CPU, 최대 2MB RAM, 고해상도 그래픽과 고급 사운드를 지원하는 VERA 비디오 및 오디오 칩을 탑재했습니다. 맞춤형 BASIC 버전을 실행하며 다양한 확장 옵션을 포함하여 레트로 컴퓨팅 애호가와 취미 개발자에게 다재다능한 플랫폼을 제공합니다.</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>De Commander X16 is een moderne 8-bit computer ontworpen door David Murray, ook bekend als "The 8-Bit Guy". Het doel is om de eenvoud en charme van klassieke 8-bit computers zoals de Commodore 64 vast te leggen en tegelijkertijd verbeterde mogelijkheden en modern comfort te bieden.
+
+De X16 is uitgerust met een WDC 65C02 CPU met een kloksnelheid van 8 MHz, maximaal 2 MB RAM en een VERA video- en audiochip die hoge resolutie graphics en geavanceerd geluid ondersteunt. Hij draait op een aangepaste versie van BASIC en biedt verschillende uitbreidingsmogelijkheden, waardoor het een veelzijdig platform is voor liefhebbers van retrocomputers en hobbyisten.</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>Commander X16 to nowoczesny komputer 8-bitowy zaprojektowany przez Davida Murraya, znanego również jako „The 8-Bit Guy”. Jego celem jest uchwycenie prostoty i uroku klasycznych komputerów 8-bitowych, takich jak Commodore 64, przy jednoczesnym zapewnieniu ulepszonych możliwości i nowoczesnych udogodnień.
+
+X16 jest wyposażony w procesor WDC 65C02 o częstotliwości 8 MHz, do 2 MB pamięci RAM oraz układ wideo i audio VERA, który obsługuje grafikę w wysokiej rozdzielczości i zaawansowany dźwięk. Działa na niestandardowej wersji języka BASIC i oferuje szereg opcji rozszerzeń, co czyni go wszechstronną platformą dla entuzjastów komputerów retro i hobbystów.</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>O Commander X16 é um computador moderno de 8 bits projetado por David Murray, também conhecido como "The 8-Bit Guy". Seu objetivo é capturar a simplicidade e o charme dos computadores clássicos de 8 bits, como o Commodore 64, ao mesmo tempo em que oferece recursos aprimorados e conveniências modernas.
+
+O X16 possui uma CPU WDC 65C02 rodando a 8 MHz, até 2 MB de RAM e um chip de vídeo e áudio VERA que suporta gráficos de alta resolução e som avançado. Ele roda uma versão personalizada do BASIC e inclui uma variedade de opções de expansão, tornando-o uma plataforma versátil para entusiastas e amadores da computação retrô.</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>Commander X16 este un computer modern pe 8 biți proiectat de David Murray, cunoscut și sub numele de „The 8-Bit Guy”. Acesta urmărește să surprindă simplitatea și farmecul computerelor clasice pe 8 biți, precum Commodore 64, oferind în același timp capacități îmbunătățite și comodități moderne.
+
+X16 are un procesor WDC 65C02 care rulează la 8 MHz, până la 2 MB de RAM și un cip video și audio VERA care suportă grafică de înaltă rezoluție și sunet avansat. Rulează o versiune personalizată de BASIC și include o varietate de opțiuni de extindere, ceea ce îl face o platformă versatilă pentru pasionații de calculatoare retro și amatori.</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>Commander X16 — это современный 8-разрядный компьютер, разработанный Дэвидом Мюрреем, также известным как «The 8-Bit Guy». Он призван воплотить в себе простоту и очарование классических 8-разрядных компьютеров, таких как Commodore 64, и в то же время предоставить расширенные возможности и современные удобства.
+
+X16 оснащен процессором WDC 65C02 с тактовой частотой 8 МГц, до 2 МБ оперативной памяти и видео- и аудиочипом VERA, который поддерживает графику высокого разрешения и расширенные звуковые возможности. Он работает под управлением специальной версии BASIC и включает в себя различные опции расширения, что делает его универсальной платформой для энтузиастов ретро-вычислений и любителей.</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>Командер X16 је модеран 8-битни рачунар који је дизајнирао Дејвид Мареј, познат и као "The 8-Bit Guy". Циљ му је да оствари једноставност и шарм класичних 8-битних рачунара попут Commodore 64, а истовремено пружи унапређене могућности и савремене погодности.
+
+X16 поседује WDC 65C02 процесор који ради на 8 MHz, до 2 MB RAM-а и VERA видео- и аудио-чип који подржава графику високе резолуције и напредни звук. Ради на прилагођеној верзији BASIC-а и нуди разне опције проширења, што га чини свестраном платформом за ентузијасте ретро рачунарства и хобисте.</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>Commander X16 är en modern 8-bitarsdator designad av David Murray, även känd som "The 8-Bit Guy". Den syftar till att fånga enkelheten och charmen hos klassiska 8-bitarsdatorer som Commodore 64, samtidigt som den erbjuder förbättrade funktioner och moderna bekvämligheter.
+
+X16 har en WDC 65C02-processor som körs på 8 MHz, upp till 2 MB RAM-minne och ett VERA-video- och ljudchip som stöder högupplöst grafik och avancerat ljud. Den kör en anpassad version av BASIC och har en rad olika expansionsmöjligheter, vilket gör den till en mångsidig plattform för retro-datorentusiaster och hobbyister.</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>Commander X16是由大卫·默里（人称"8位机之父"）设计的现代8位计算机。它旨在重现Commodore 64等经典8位机的简约魅力，同时提供增强功能与现代便利性。
+
+X16搭载运行频率8MHz的WDC 65C02处理器，最高支持2MB内存，并配备VERA视听芯片，可实现高分辨率图形与先进音效。该机运行定制版BASIC系统，并提供多种扩展选项，成为复古计算机爱好者与业余玩家的多功能平台。</systemDescription>
+  </variables>
 </theme>

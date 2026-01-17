@@ -10,4 +10,94 @@ The game centers on players fighting each other by one player jumping on the oth
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
+  <variables lang="ar">
+    <systemDescription>Super Mario War هي لعبة فيديو مفتوحة المصدر من نوع منصة-مغامرة ومحرر مستويات تم إصدارها لأول مرة في عام 2004. تستند إلى عناصر لعب ووسائط سمعية وبصرية مستنسخة بشكل غير رسمي من سلسلة Super Mario التابعة لنيتيندو.
+
+تركز اللعبة على قتال اللاعبين بعضهم بعضًا من خلال قفز لاعب فوق رأس لاعب آخر، أو باستخدام عناصر يمكن التقاطها أثناء اللعب.</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>Super Mario War je open-source platform-adventuristička videoigra i editor nivoa prvi put objavljen 2004. Bazira se na elementima gameplaya i audiovizuelnim materijalima koji su neformalno klonirani iz Nintendo-ine serije Super Mario.
+
+Igra se fokusira na borbu između igrača gdje jedan igrač skače na glavu drugom igraču ili koristi predmete koji se mogu pokupiti tijekom igre.</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>Super Mario War és un joc de vídeo de codi obert de tipus plataforma-aventura i un editor de nivells, publicat per primera vegada el 2004. Es basa en elements de jugabilitat i mitjans audiovisuals no oficialment clonats de la sèrie Super Mario de Nintendo.
+
+El joc se centra en combats entre jugadors on un jugador salta sobre el cap de l'altre o fa servir objectes que es poden recollir durant la partida.</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemDescription>Super Mario War ist ein Open-Source Plattform-Adventure-Videospiel und Level-Editor, das erstmals 2004 veröffentlicht wurde. Es basiert auf Gameplay-Elementen und audiovisuellen Inhalten, die inoffiziell aus Nintendos Super Mario-Serie geklont wurden.
+
+Das Spiel dreht sich darum, dass Spieler gegeneinander kämpfen, indem ein Spieler auf den Kopf des anderen springt oder Gegenstände benutzt, die während des Spiels aufgehoben werden können.</systemDescription>
+  </variables>
+  <variables lang="es">
+    <systemDescription>Super Mario War es un videojuego de código abierto de tipo plataforma-aventura y editor de niveles, lanzado por primera vez en 2004. Se basa en elementos de jugabilidad y medios audiovisuales que son clonados de forma no oficial de la serie Super Mario de Nintendo.
+
+El juego se centra en que los jugadores luchan entre sí, ya sea saltando uno sobre la cabeza del otro o usando objetos que pueden recogerse durante la partida.</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>Super Mario War est un jeu vidéo open source de type plateforme-aventure et un éditeur de niveaux, publié pour la première fois en 2004. Il s'appuie sur des éléments de gameplay et des médias audiovisuels clonés de manière non officielle depuis la série Super Mario de Nintendo.
+
+Le jeu consiste principalement en des affrontements entre joueurs où l'un saute sur la tête de l'autre ou utilise des objets ramassables durant la partie.</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>Super Mario War open-source je platform-adventure videoigra i editor razina prvi put objavljen 2004. Temelji se na elementima igrivosti i audiovizualnim materijalima koji su neformalno kopirani iz Nintendo-ine serije Super Mario.
+
+Igra se fokusira na borbe među igračima gdje jedan igrač skače na glavu drugome ili koristi predmete koje je moguće podići tijekom igre.</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemDescription>Super Mario War è un videogioco open source di tipo piattaforma-avventura e un editor di livelli, pubblicato per la prima volta nel 2004. Si basa su elementi di gameplay e contenuti audiovisivi clonati in modo non ufficiale dalla serie Super Mario di Nintendo.
+
+Il gioco è incentrato sul combattimento tra giocatori, dove un giocatore salta sulla testa dell'altro o utilizza oggetti che possono essere raccolti durante la partita.</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>Super Mario War は、2004 年に初めてリリースされた、オープンソースのプラットフォームアドベンチャー系ビデオゲーム兼レベルエディタです。任天堂の Super Mario シリーズを非公式に模倣したゲームプレイ要素や視聴覚素材に基づいています。
+
+ゲームは主にプレイヤー同士の対戦を中心としており、プレイヤーが相手の頭の上にジャンプするか、プレイ中に拾えるアイテムを使用して戦います。</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>Super Mario War는 2004년에 처음 출시된 오픈 소스 플랫폼 어드벤처 비디오 게임이자 레벨 편집기입니다. 닌텐도의 Super Mario 시리즈에서 비공식적으로 복제된 게임플레이 요소와 시청각 자료를 기반으로 합니다.
+
+이 게임은 플레이어들이 서로 싸우는 것을 중심으로 진행되며, 한 플레이어가 다른 플레이어의 머리 위로 점프하거나 게임 도중에 획득할 수 있는 아이템을 사용하여 싸웁니다。</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>Super Mario War is een open-source platform-avontuur videospel en level-editor dat voor het eerst werd uitgebracht in 2004. Het is gebaseerd op gameplay-elementen en audiovisuele media die informeel zijn gekloond van Nintendo's Super Mario-serie.
+
+Het spel draait om spelers die tegen elkaar vechten, waarbij een speler op het hoofd van een andere speler springt of gebruikmaakt van items die tijdens het spel kunnen worden opgepakt.</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>Super Mario War to otwartoźródłowa gra platformowo-przygodowa z edytorem poziomów, wydana po raz pierwszy w 2004 roku. Oparta jest na elementach rozgrywki i materiałach audiowizualnych nieoficjalnie sklonowanych z serii Super Mario firmy Nintendo.
+
+Gra koncentruje się na walce między graczami, gdzie jeden gracz wskakuje na głowę drugiego lub korzysta z przedmiotów, które można podnieść podczas rozgrywki.</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>Super Mario War é um videojogo de código aberto do tipo plataforma-aventura e um editor de níveis lançado pela primeira vez em 2004. Baseia-se em elementos de jogabilidade e meios audiovisuais clonados não oficialmente da série Super Mario da Nintendo.
+
+O jogo centra-se em jogadores a lutarem entre si, com um jogador a saltar sobre a cabeça do outro ou a usar itens que podem ser apanhados durante o jogo.</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>Super Mario War este un joc video open-source de tip platformă-aventură și un editor de niveluri lansat pentru prima dată în 2004. Se bazează pe elemente de gameplay și materiale audiovizuale copiate neoficial din seria Super Mario a Nintendo.
+
+Jocul se concentrează pe luptele între jucători, în care un jucător sare pe capul altuia sau folosește obiecte care pot fi ridicate în timpul jocului.</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>Super Mario War — это опен-сорс платформер-приключение с редактором уровней, впервые выпущенный в 2004 году. Он основан на игровых элементах и аудиовизуальных материалах, неофициально склонированных из серии Super Mario от Nintendo.
+
+Игра сосредоточена на боях между игроками, где один игрок прыгает на голову другому или использует предметы, которые можно подобрать в ходе игры.</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>Super Mario War је open-source платформска авантура и уређивач нивоа први пут објављен 2004. године. Заснована је на елементима играња и аудиовизуелним материјалима неформално копираним из Nintendo-ине серије Super Mario.
+
+Игра је усредсређена на борбе између играча где један играч скаче на главу другог или користи предмете које може покупити током игре.</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>Super Mario War är ett open-source plattform-äventyrsspel och nivåredigerare som först släpptes 2004. Det bygger på spelmekanismer och audiovisuellt material som informellt klonats från Nintendos Super Mario-serie.
+
+Spelet kretsar kring spelare som slåss mot varandra genom att en spelare hoppar på den andras huvud eller genom att använda föremål som kan plockas upp under spelets gång.</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>Super Mario War 是一款开源的平台冒险类视频游戏及关卡编辑器，首次发布于 2004 年。它基于非官方模仿任天堂 Super Mario 系列的玩法元素和视听素材。
+
+游戏以玩家互相对战为核心玩法，一名玩家跳到另一名玩家的头上，或使用游戏过程中可拾取的物品进行战斗。</systemDescription>
+  </variables>
 </theme>

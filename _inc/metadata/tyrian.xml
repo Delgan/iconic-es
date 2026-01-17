@@ -10,4 +10,94 @@ The game was re-released as freeware in 2004. A free and open-source port of the
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
+  <variables lang="ar">
+    <systemDescription>Tyrian هي لعبة إطلاق نار رأسية (vertically scrolling shooter) طورتها شركة Eclipse Software لنظام MS-DOS ونشرتها عام 1995 شركة Epic MegaGames. تمت برمجة Tyrian بواسطة Jason Emery، ورسومها من Daniel Cook، وموسيقاها من تأليف Alexander Brandon وAndras Molnar.
+
+أعيد إصدار اللعبة كبرنامج مجاني في عام 2004. وبدأ مشروع منفذ حر ومفتوح المصدر للعبة في أبريل 2007.</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>Tyrian je vertikalni shoot 'em up koji je razvio Eclipse Software za MS-DOS, a 1995. ga je objavila tvrtka Epic MegaGames. Tyrian je programirao Jason Emery, ilustrirao Daniel Cook, a glazbu su skladao Alexander Brandon i Andras Molnar.
+
+Igra je ponovno izdana kao freeware 2004. godine. Besplatan i open-source port igre započeo je u travnju 2007.</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>Tyrian és un shooter de desplaçament vertical desenvolupat per Eclipse Software per a MS-DOS i publicat el 1995 per Epic MegaGames. Tyrian va ser programat per Jason Emery, il·lustrat per Daniel Cook i amb música composta per Alexander Brandon i Andras Molnar.
+
+El joc es va reeditat com a freeware el 2004. Un port gratuït i de codi obert del joc va començar el abril de 2007.</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemDescription>Tyrian ist ein vertikal scrollender Shooter, entwickelt von Eclipse Software für MS-DOS und 1995 von Epic MegaGames veröffentlicht. Tyrian wurde von Jason Emery programmiert, von Daniel Cook illustriert und die Musik stammt von Alexander Brandon und Andras Molnar.
+
+Das Spiel wurde 2004 als Freeware neu veröffentlicht. Ein freier und Open-Source-Port des Spiels begann im April 2007.</systemDescription>
+  </variables>
+  <variables lang="es">
+    <systemDescription>Tyrian es un shooter de desplazamiento vertical desarrollado por Eclipse Software para MS-DOS y publicado en 1995 por Epic MegaGames. Tyrian fue programado por Jason Emery, ilustrado por Daniel Cook y su música compuesta por Alexander Brandon y Andras Molnar.
+
+El juego fue relanzado como freeware en 2004. Un puerto gratuito y de código abierto del juego comenzó en abril de 2007.</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>Tyrian est un shoot 'em up à défilement vertical développé par Eclipse Software pour MS-DOS et publié en 1995 par Epic MegaGames. Tyrian a été programmé par Jason Emery, illustré par Daniel Cook, et sa musique composée par Alexander Brandon et Andras Molnar.
+
+Le jeu a été réédité en freeware en 2004. Un port libre et open-source du jeu a commencé en avril 2007.</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>Tyrian je vertikalni pucač razvijen od strane Eclipse Software za MS-DOS, a 1995. ga je objavila tvrtka Epic MegaGames. Tyrian je programirao Jason Emery, ilustrirao Daniel Cook, a glazbu su skladao Alexander Brandon i Andras Molnar.
+
+Igra je ponovno objavljena kao freeware 2004. godine. Besplatan i otvoreni port igre započeo je u travnju 2007.</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemDescription>Tyrian è uno sparatutto a scorrimento verticale sviluppato da Eclipse Software per MS-DOS e pubblicato nel 1995 da Epic MegaGames. Tyrian è stato programmato da Jason Emery, illustrato da Daniel Cook e la sua musica è stata composta da Alexander Brandon e Andras Molnar.
+
+Il gioco è stato ripubblicato come freeware nel 2004. Un port gratuito e open-source del gioco è iniziato nell'aprile 2007.</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>Tyrian は Eclipse Software によって MS-DOS 向けに開発された縦スクロールシューティングで、1995 年に Epic MegaGames によって発売されました。Tyrian は Jason Emery によってプログラムされ、Daniel Cook によってイラストが描かれ、音楽は Alexander Brandon と Andras Molnar によって作曲されました。
+
+このゲームは 2004 年にフリーウェアとして再発売されました。ゲームのフリーかつオープンソースの移植プロジェクトは 2007 年 4 月に始まりました。</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>Tyrian은 Eclipse Software가 MS-DOS용으로 개발한 수직 스크롤 슈터로, 1995년 Epic MegaGames에서 출시했습니다. Tyrian은 Jason Emery가 프로그래밍했고, Daniel Cook이 일러스트를 담당했으며, 음악은 Alexander Brandon과 Andras Molnar가 작곡했습니다.
+
+이 게임은 2004년에 프리웨어로 재출시되었습니다. 게임의 무료 오픈소스 포트는 2007년 4월에 시작되었습니다。</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>Tyrian is een verticaal scrollende shooter ontwikkeld door Eclipse Software voor MS-DOS en uitgebracht in 1995 door Epic MegaGames. Tyrian werd geprogrammeerd door Jason Emery, geïllustreerd door Daniel Cook en de muziek gecomponeerd door Alexander Brandon en Andras Molnar.
+
+Het spel werd in 2004 opnieuw uitgebracht als freeware. Een gratis en open-source port van het spel begon in april 2007.</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>Tyrian to pionowy shooter opracowany przez Eclipse Software na MS-DOS i wydany w 1995 roku przez Epic MegaGames. Tyrian został zaprogramowany przez Jasona Emery'ego, zilustrowany przez Daniela Cooka, a muzykę skomponowali Alexander Brandon i Andras Molnar.
+
+Gra została ponownie wydana jako freeware w 2004 roku. Wolny i otwarty port gry rozpoczął się w kwietniu 2007 roku.</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>Tyrian é um shooter de scroll vertical desenvolvido pela Eclipse Software para MS-DOS e publicado em 1995 pela Epic MegaGames. Tyrian foi programado por Jason Emery, ilustrado por Daniel Cook e a sua música composta por Alexander Brandon e Andras Molnar.
+
+O jogo foi relançado como freeware em 2004. Um port gratuito e open-source do jogo começou em abril de 2007.</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>Tyrian este un shooter cu derulare verticală dezvoltat de Eclipse Software pentru MS-DOS și publicat în 1995 de Epic MegaGames. Tyrian a fost programat de Jason Emery, ilustrat de Daniel Cook, iar muzica a fost compusă de Alexander Brandon și Andras Molnar.
+
+Jocul a fost relansat ca freeware în 2004. Un port gratuit și open-source al jocului a început în aprilie 2007.</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>Tyrian — вертикальный скролл-шутер, разработанный Eclipse Software для MS-DOS и изданный в 1995 году компанией Epic MegaGames. Tyrian был запрограммирован Джейсоном Эмери, иллюстрации сделал Дэниел Кук, а музыку написали Александр Брэндон и Андраш Молнар.
+
+Игра была переиздана как условно бесплатная (freeware) в 2004 году. Бесплатная и открытая портированная версия игры появилась в апреле 2007 года.</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>Tyrian је вертикални шутер развијен од стране Eclipse Software за MS-DOS, а објављен 1995. године од стране Epic MegaGames. Tyrian је програмирао Jason Emery, илустровао Daniel Cook, а музику су компоновали Alexander Brandon и Andras Molnar.
+
+Игра је поново објављена као freeware 2004. године. Бесплатан и отворени порт игре започео је у априлу 2007.</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>Tyrian är en vertikalt scrollande shooter utvecklad av Eclipse Software för MS-DOS och utgiven 1995 av Epic MegaGames. Tyrian programmerades av Jason Emery, illustrerades av Daniel Cook och musiken komponerades av Alexander Brandon och Andras Molnar.
+
+Spelet återutgavs som freeware 2004. En gratis och öppen källkodsport av spelet påbörjades i april 2007.</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>Tyrian 是一款纵向卷轴射击游戏，由 Eclipse Software 为 MS-DOS 开发，1995 年由 Epic MegaGames 发布。Tyrian 由 Jason Emery 编程，Daniel Cook 绘制插图，音乐由 Alexander Brandon 和 Andras Molnar 作曲。
+
+该游戏在 2004 年作为免费软件重新发布。一个免费的开源移植项目于 2007 年 4 月启动。</systemDescription>
+  </variables>
 </theme>

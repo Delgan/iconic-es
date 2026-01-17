@@ -8,4 +8,58 @@
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
+  <variables lang="ar">
+    <systemDescription>DevilutionX هو منفذ مصدر لـ Diablo و Hellfire يسعى إلى تسهيل تشغيل اللعبة مع توفير تحسينات للمحرك وإصلاح الأخطاء وبعض الميزات الاختيارية التي تزيد من جودة الحياة.</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>DevilutionX je source port za Diablo i Hellfire koji nastoji pojednostaviti pokretanje igre, istovremeno pružajući poboljšanja u enginu, ispravke grešaka i neke opcionalne značajke za poboljšanje korisničkog iskustva.</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>DevilutionX és un port de font de Diablo i Hellfire que pretén fer que sigui senzill executar el joc, alhora que ofereix millores del motor, correccions d'errors i algunes funcions opcionals per millorar la qualitat de vida.</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemDescription>DevilutionX ist ein Source-Port von Diablo und Hellfire, der darauf abzielt, die Ausführung des Spiels zu vereinfachen und gleichzeitig Verbesserungen an der Engine, Fehlerbehebungen und einige optionale Komfortfunktionen bereitzustellen.</systemDescription>
+  </variables>
+  <variables lang="es">
+    <systemDescription>DevilutionX es un puerto fuente de Diablo y Hellfire que se esfuerza por facilitar la ejecución del juego, al tiempo que proporciona mejoras en el motor, correcciones de errores y algunas características opcionales que mejoran la calidad de vida.</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>DevilutionX est un portage source de Diablo et Hellfire qui vise à simplifier l'exécution du jeu tout en apportant des améliorations au moteur, des corrections de bugs et certaines fonctionnalités optionnelles améliorant la qualité de vie.</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>DevilutionX je source port za Diablo i Hellfire koji nastoji pojednostaviti pokretanje igre, istovremeno pružajući poboljšanja u enginu, ispravke grešaka i neke opcionalne značajke za kvalitetu igranja.</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemDescription>DevilutionX è un porting sorgente di Diablo e Hellfire che mira a semplificare l'esecuzione del gioco fornendo miglioramenti al motore, correzioni di bug e alcune funzionalità opzionali che ne migliorano la qualità.</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>DevilutionXは、DiabloおよびHellfireのソースポートであり、ゲームの動作を簡素化すると同時に、エンジンの改良、バグ修正、およびいくつかのオプションの利便性向上機能を提供することを目指しています。</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>DevilutionX는 디아블로와 헬파이어의 소스 포트로, 게임 실행을 간편하게 하면서 엔진 개선, 버그 수정 및 일부 선택적 편의 기능을 제공합니다.</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>DevilutionX is een source port van Diablo en Hellfire die erop gericht is om het spel eenvoudig te kunnen spelen en tegelijkertijd verbeteringen aan de engine, bugfixes en enkele optionele functies voor meer gebruiksgemak biedt.</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>DevilutionX to port źródłowy gier Diablo i Hellfire, którego celem jest ułatwienie uruchamiania gry, a jednocześnie zapewnienie ulepszeń silnika, poprawek błędów i kilku opcjonalnych funkcji poprawiających komfort użytkowania.</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>DevilutionX é uma versão portada do Diablo e Hellfire que se esforça para simplificar a execução do jogo, ao mesmo tempo em que oferece melhorias no motor, correções de bugs e alguns recursos opcionais que facilitam a vida do usuário.</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>DevilutionX este un port sursă al Diablo și Hellfire care se străduiește să simplifice rularea jocului, oferind în același timp îmbunătățiri ale motorului, remedieri de erori și câteva caracteristici opționale care îmbunătățesc calitatea vieții.</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>DevilutionX — это исходный порт Diablo и Hellfire, который стремится упростить запуск игры, одновременно обеспечивая улучшения движка, исправления ошибок и некоторые дополнительные функции, повышающие удобство использования.</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>DevilutionX је изворни порт за Diablo и Hellfire који настоји да покретање игре учини једноставним, а истовремено пружа побољшања у мотору, исправке грешака и неке опционалне функције за побољшање корисничког искуства.</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>DevilutionX är en källport av Diablo och Hellfire som strävar efter att göra det enkelt att köra spelet samtidigt som det erbjuder förbättringar av motorn, buggfixar och några valfria funktioner som förbättrar användarupplevelsen.</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>DevilutionX 是《暗黑破坏神》及其资料片《地狱火》的源代码移植版本，致力于简化游戏运行流程，同时提供引擎优化、错误修复以及若干可选的生活质量改进功能。</systemDescription>
+  </variables>
 </theme>

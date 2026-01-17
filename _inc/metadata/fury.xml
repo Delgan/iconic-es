@@ -10,4 +10,94 @@
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
+  <variables lang="ar">
+    <systemDescription>Ion Fury هي لعبة جديدة تعمل بمحرك Build Engine من مبتكري بوابة EDuke32 المصدرية.
+
+تفخر 3D Realms و Voidpoint بإعادة محرك Build، الذي كان وراء Duke Nukem 3D و Blood و Shadow Warrior، بكل مجده المصنوع يدويًا. لقد أمضوا الكثير من الوقت في العمل على المحرك للاستفادة من التكنولوجيا والتقنيات الجديدة. مستويات أكبر، ومئات الألوان الجديدة، وخرائط متغيرة تتحول في منتصف المستوى، كلها مجرد أمثلة قليلة على التطورات التي تم إجراؤها على المحرك.</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>Ion Fury je nova igra za Build Engine od tvoraca EDuke32 source porta.
+
+3D Realms i Voidpoint ponosno vraćaju Build engine, koji je pokretao Duke Nukem 3D, Blood i Shadow Warrior, u svoj ručno izrađenoj pikselskoj slavi. Proveli su mnogo vremena podešavajući mehanizme ispod haube kako bi iskoristili novu tehnologiju i tehnike. Veći nivoi, stotine novih boja i mape koje se transformišu usred nivoa samo su neki od napretaka unesenih u engine.</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>Ion Fury és un nou joc del Build Engine dels creadors del port de codi font EDuke32.
+
+3D Realms i Voidpoint estan orgullosos de recuperar el motor Build, que va impulsar Duke Nukem 3D, Blood i Shadow Warrior, en tota la seva glòria pixelada i feta a mà. Han passat molt de temps remenant sota el capó per aprofitar noves tecnologies i tècniques. Nivells més grans, centenars de colors nous i mapes morfològics que es transformen a mitja partida són només alguns dels avenços introduïts al motor.</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemDescription>Ion Fury ist ein neues Build-Engine-Spiel von den Machern des EDuke32-Source-Ports.
+
+3D Realms und Voidpoint sind stolz darauf, die Build Engine, die Duke Nukem 3D, Blood und Shadow Warrior angetrieben hat, in ihrer ganzen handgefertigten, pixeligen Pracht zurückzubringen. Sie haben viel Zeit damit verbracht, unter der Haube zu basteln, um die Vorteile neuer Technologien und Techniken zu nutzen. Größere Levels, Hunderte neuer Farben und sich verändernde Karten, die sich mitten im Level verwandeln, sind nur einige der Verbesserungen, die an der Engine vorgenommen wurden.</systemDescription>
+  </variables>
+  <variables lang="es">
+    <systemDescription>Ion Fury es un nuevo juego con motor Build Engine de los creadores del puerto fuente EDuke32.
+
+3D Realms y Voidpoint se enorgullecen de recuperar el motor Build, que impulsó Duke Nukem 3D, Blood y Shadow Warrior, en todo su esplendor pixelado y artesanal. Han dedicado mucho tiempo a perfeccionarlo para aprovechar las nuevas tecnologías y técnicas. Niveles más grandes, cientos de colores nuevos y mapas que se transforman a mitad de nivel son solo algunas de las mejoras introducidas en el motor.</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>Ion Fury est un nouveau jeu Build Engine créé par les développeurs du portage EDuke32.
+
+3D Realms et Voidpoint sont fiers de faire revivre le moteur Build, qui a alimenté Duke Nukem 3D, Blood et Shadow Warrior, dans toute sa splendeur pixelisée artisanale. Ils ont passé beaucoup de temps à bricoler sous le capot pour tirer parti des nouvelles technologies et techniques. Des niveaux plus grands, des centaines de nouvelles couleurs et des cartes morphing qui se transforment à mi-niveau ne sont que quelques-unes des avancées apportées au moteur.</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>Ion Fury je nova igra za Build Engine od tvoraca source porta EDuke32.
+
+3D Realms i Voidpoint ponosno vraćaju Build engine, koji je pokretao Duke Nukem 3D, Blood i Shadow Warrior, u svoj ručno izrađenoj pikselskoj slavi. Proveli su mnogo vremena podešavajući mehanizme ispod haube kako bi iskoristili novu tehnologiju i tehnike. Veći nivoi, stotine novih boja i mape koje se mijenjaju usred nivoa samo su neke od poboljšanja unesenih u engine.</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemDescription>Ion Fury è un nuovo gioco Build Engine creato dagli sviluppatori del porting EDuke32.
+
+3D Realms e Voidpoint sono orgogliosi di riportare in auge il motore Build, che ha alimentato Duke Nukem 3D, Blood e Shadow Warrior, in tutta la sua gloria pixelata realizzata a mano. Hanno dedicato molto tempo a sperimentare per sfruttare al meglio le nuove tecnologie e tecniche. Livelli più grandi, centinaia di nuovi colori e mappe morfologiche che si trasformano a metà livello sono solo alcune delle innovazioni apportate al motore.</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>『Ion Fury』は、EDuke32ソースポートの開発者による新たなBuild Engineゲームです。
+
+3D RealmsとVoidpointは、デューク・ヌケム3D、ブラッド、シャドウ・ウォリアーを支えたビルドエンジンの、手作業で作り込まれたピクセルアートによる栄光を再びお届けできることを誇りに思います。新技術と手法を活用するため、開発チームは長期間にわたりエンジンの内部改良に取り組んできました。より広大なステージ、数百もの新色、ステージ途中で変形するモルフィングマップなど、エンジンに施された改良点の一部に過ぎません。</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>아이온 퓨리는 EDuke32 소스 포트를 제작한 개발진이 선보이는 새로운 빌드 엔진 게임입니다.
+
+3D Realms와 Voidpoint는 Duke Nukem 3D, Blood, Shadow Warrior를 구동했던 빌드 엔진을 수작업으로 제작된 픽셀의 영광 그대로 되살려 내는 것을 자랑스럽게 생각합니다. 그들은 새로운 기술과 기법을 활용하기 위해 엔진 내부 구조를 다듬는 데 많은 시간을 투자했습니다. 더 넓어진 레벨, 수백 가지의 새로운 색상, 그리고 중간에 변형되는 모핑 맵은 엔진에 적용된 수많은 개선 사항 중 일부에 불과합니다.</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>Ion Fury is een nieuwe Build Engine-game van de makers van de EDuke32-sourceport.
+
+3D Realms en Voidpoint zijn trots om de Build Engine, die Duke Nukem 3D, Blood en Shadow Warrior aandreef, terug te brengen in al zijn handgemaakte pixelglorie. Ze hebben veel tijd besteed aan het sleutelen onder de motorkap om te profiteren van nieuwe technologieën en technieken. Grotere levels, honderden nieuwe kleuren en morphing maps die halverwege het level transformeren, zijn slechts enkele van de verbeteringen die aan de engine zijn aangebracht.</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>Ion Fury to nowa gra oparta na silniku Build Engine, stworzona przez twórców portu źródłowego EDuke32.
+
+3D Realms i Voidpoint z dumą przywracają silnik Build, który napędzał Duke Nukem 3D, Blood i Shadow Warrior, w całej jego ręcznie wykonanej, pikselowej okazałości. Spędzili mnóstwo czasu na majsterkowaniu pod maską, aby wykorzystać nowe technologie i techniki. Większe poziomy, setki nowych kolorów i zmieniające się mapy, które przekształcają się w połowie poziomu, to tylko niektóre z ulepszeń wprowadzonych do silnika.</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>Ion Fury é um novo jogo Build Engine dos criadores do port EDuke32.
+
+A 3D Realms e a Voidpoint têm o orgulho de trazer de volta o motor Build, que impulsionou Duke Nukem 3D, Blood e Shadow Warrior, em toda a sua glória pixelizada feita à mão. Eles passaram muito tempo trabalhando nos bastidores para aproveitar as vantagens das novas tecnologias e técnicas. Níveis maiores, centenas de novas cores e mapas que se transformam no meio do nível são apenas alguns dos avanços feitos no motor.</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>Ion Fury este un nou joc Build Engine creat de creatorii portului sursă EDuke32.
+
+3D Realms și Voidpoint sunt mândri să readucă motorul Build, care a alimentat Duke Nukem 3D, Blood și Shadow Warrior, în toată splendoarea sa pixelată realizată manual. Au petrecut mult timp lucrând la motor pentru a profita de noile tehnologii și tehnici. Niveluri mai mari, sute de culori noi și hărți morfante care se transformă la jumătatea nivelului sunt doar câteva dintre îmbunătățirile aduse motorului.</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>Ion Fury — новая игра на движке Build Engine от создателей порта EDuke32.
+
+3D Realms и Voidpoint с гордостью представляют возвращение движка Build, на котором были созданы Duke Nukem 3D, Blood и Shadow Warrior, во всей его пиксельной красе. Разработчики потратили много времени на доработку движка, чтобы использовать преимущества новых технологий и методов. Более крупные уровни, сотни новых цветов и трансформирующиеся карты, которые меняются в середине уровня, — это лишь некоторые из усовершенствований, внесенных в движок.</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>Ion Fury је нова игра за Build Engine од креатора EDuke32 source порта.
+
+3D Realms и Voidpoint са поносом враћају Build енджин, који је покретао Duke Nukem 3D, Blood и Shadow Warrior, у својој ручно израђеној пикселираној слави. Посветили су много времена дотеривању унутрашњих делова како би искористили нове технологије и технике. Већи нивои, стотине нових боја и мапе које се мењају током нивоа само су нека од унапређења енджина.</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>Ion Fury är ett nytt Build Engine-spel från skaparna av EDuke32-källporten.
+
+3D Realms och Voidpoint är stolta över att återuppväcka Build Engine, som drev Duke Nukem 3D, Blood och Shadow Warrior, i all sin handgjorda pixelglans. De har lagt mycket tid på att finjustera motorn för att dra nytta av ny teknik och nya metoder. Större nivåer, hundratals nya färger och morfande kartor som förvandlas mitt i nivån är bara några av de förbättringar som gjorts i motorn.</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>《离子狂怒》是由EDuke32源代码移植版的开发者打造的新一代Build引擎游戏。
+
+3D Realms与Voidpoint工作室自豪地重启Build引擎——这款曾驱动《毁灭公爵3D》《血腥杀戮》《暗影战士》的经典引擎，如今以手工雕琢的像素画风重现辉煌。开发团队耗费大量时间优化引擎底层，融合新技术与新技法：更广阔的关卡、数百种新增色彩、以及关卡中途变形的动态地图，这些都只是引擎升级的冰山一角。</systemDescription>
+  </variables>
 </theme>

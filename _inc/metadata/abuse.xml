@@ -10,4 +10,94 @@ This version of Abuse will run at any color depth and supports fullscreen mode, 
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
+  <variables lang="ar">
+    <systemDescription>Abuse هي نسخة من لعبة المنصات الكلاسيكية ذات التمرير الجانبي ثنائية الأبعاد التي طورتها Crack dot Com وأصدرتها في عام 1995 لنظام MS-DOS. كما تم إصدار نسخة Linux في وقت لاحق. كانت اللعبة تعاني من بعض القيود، وأكثرها تقييدًا هو أنها كانت تعمل فقط على شاشة 8 بت، وفي نافذة فقط.
+
+يعمل هذا الإصدار من Abuse بأي عمق ألوان ويدعم وضع ملء الشاشة، بالإضافة إلى العديد من الميزات الجديدة الأخرى. يتميز بإضاءة جميلة ورسوم متحركة واقعية ومخلوقات شبيهة بالكائنات الفضائية الشريرة لتدميرها.</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>Abuse je port klasične mračne 2D platforme sa bočnim skrolanjem, koju je originalno razvio Crack dot Com i objavio 1995. godine za MS-DOS. Verzija za Linux je također kasnije postala dostupna. Imala je nekoliko ograničenja, od kojih je najrestriktivnije bilo to da je radila samo na 8-bitnom ekranu i to samo u prozoru.
+
+Ova verzija igre Abuse radi na bilo kojoj dubini boja i podržava punokrvni mod, kao i mnoge druge nove značajke. Izdvajaju je prekrasno osvjetljenje, realistična animacija i zločesta stvorenja nalik vanzemaljcima koja treba uništiti.</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>Abuse és un port del clàssic joc de plataformes 2D de desplaçament lateral i ambientació fosca, desenvolupat originalment per Crack dot Com i llançat el 1995 per a MS-DOS. Més endavant també es va fer disponible una versió per a Linux. Tenia algunes limitacions, la més restrictiva de les quals era que només s'executava en una pantalla de 8 bits i només en una finestra.
+
+Aquesta versió d'Abuse funciona amb qualsevol profunditat de color i admet el mode de pantalla completa, a més de moltes altres noves característiques. Inclou una il·luminació preciosa, animació realista i criatures alienígenes desagradables per destruir.</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemDescription>Abuse ist eine Portierung des klassischen dunklen 2D-Side-Scrolling-Plattformspiels, das ursprünglich von Crack dot Com entwickelt und 1995 für MS-DOS veröffentlicht wurde. Zu einem späteren Zeitpunkt wurde auch eine Linux-Version verfügbar gemacht. Es gab einige Einschränkungen, von denen die größte darin bestand, dass es nur auf einem 8-Bit-Bildschirm und nur in einem Fenster lief.
+
+Diese Version von Abuse läuft mit jeder Farbtiefe und unterstützt den Vollbildmodus sowie viele andere neue Funktionen. Sie bietet wunderschöne Beleuchtung, realistische Animationen und fiese, außerirdisch anmutende Kreaturen, die es zu vernichten gilt.</systemDescription>
+  </variables>
+  <variables lang="es">
+    <systemDescription>Abuse es una adaptación del clásico juego de plataformas en 2D de desplazamiento lateral desarrollado originalmente por Crack dot Com y lanzado en 1995 para MS-DOS. Más tarde también se lanzó una versión para Linux. Tenía algunas limitaciones, la más restrictiva de las cuales era que solo funcionaba en una pantalla de 8 bits y solo en una ventana.
+
+Esta versión de Abuse funciona con cualquier profundidad de color y es compatible con el modo de pantalla completa, además de incluir muchas otras características nuevas. Cuenta con una iluminación espectacular, animaciones realistas y desagradables criaturas alienígenas a las que destruir.</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>Abuse est une adaptation du jeu de plateforme classique en 2D à défilement horizontal, développé à l'origine par Crack dot Com et sorti en 1995 pour MS-DOS. Une version Linux a également été mise à disposition ultérieurement. Elle présentait quelques limitations, dont la plus restrictive était qu'elle ne fonctionnait que sur un écran 8 bits et uniquement dans une fenêtre.
+
+Cette version d'Abuse fonctionne avec n'importe quelle profondeur de couleur et prend en charge le mode plein écran, ainsi que de nombreuses autres nouvelles fonctionnalités. Elle offre un éclairage magnifique, des animations réalistes et des créatures extraterrestres répugnantes à détruire.</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>Abuse je port klasične mračne 2D platformne igre s bočnim skrolanjem koju je izvorno razvio Crack dot Com i objavio 1995. za MS-DOS. Verzija za Linux također je kasnije postala dostupna. Imala je nekoliko ograničenja, od kojih je najrestriktivnije bilo to da je radila samo na 8-bitnom zaslonu i samo u prozoru.
+
+Ova verzija igre Abuse radi na bilo kojoj dubini boje i podržava način rada u cijelom ekranu, kao i mnoge druge nove značajke. Izdvajaju je prekrasno osvjetljenje, realistična animacija i zločesta stvorenja nalik izvanzemaljcima koja treba uništiti.</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemDescription>Abuse è una versione del classico gioco platform 2D a scorrimento laterale originariamente sviluppato da Crack dot Com e pubblicato nel 1995 per MS-DOS. Successivamente è stata resa disponibile anche una versione per Linux. Presentava alcune limitazioni, la più restrittiva delle quali era che funzionava solo su uno schermo a 8 bit e solo in una finestra.
+
+Questa versione di Abuse funziona con qualsiasi profondità di colore e supporta la modalità a schermo intero, oltre a molte altre nuove funzionalità. È caratterizzata da una splendida illuminazione, animazioni realistiche e creature aliene disgustose da distruggere.</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>アビュースは、クラック・ドット・コムが開発し1995年にMS-DOS向けにリリースされた古典的なダークな2D横スクロールプラットフォーマーの移植版である。後日Linux版も提供された。いくつかの制限があり、最も厳しいのは8ビット表示でのみ動作し、かつウィンドウモードでのみ実行可能という点であった。
+
+本版『Abuse』は任意の色深度で動作し、フルスクリーンモードを含む多数の新機能をサポート。美しい照明効果、リアルなアニメーション、そして破壊すべき厄介なエイリアン風の生物を特徴としている。</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>Abuse는 Crack dot Com이 개발하여 1995년 MS-DOS용으로 출시한 고전적인 어두운 2D 횡스크롤 플랫폼 게임의 포팅 버전입니다. 이후 리눅스 버전도 출시되었습니다. 몇 가지 제한 사항이 있었는데, 가장 큰 제약은 8비트 디스플레이에서만 실행 가능하며 창 모드에서만 작동한다는 점이었습니다.
+
+이 버전의 Abuse는 모든 색상 심도에서 실행되며 전체 화면 모드를 지원할 뿐만 아니라 다양한 새로운 기능을 제공합니다. 아름다운 조명 효과, 사실적인 애니메이션, 그리고 파괴해야 할 흉측한 외계 생명체들이 특징입니다.</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>Abuse is een port van het klassieke donkere 2D side-scrolling platformspel dat oorspronkelijk werd ontwikkeld door Crack dot Com en in 1995 werd uitgebracht voor MS-DOS. Later kwam er ook een Linux-versie beschikbaar. Deze had een aantal beperkingen, waarvan de meest restrictieve was dat het alleen op een 8-bits scherm en alleen in een venster kon worden uitgevoerd.
+
+Deze versie van Abuse draait op elke kleurdiepte en ondersteunt de modus Volledig scherm, evenals vele andere nieuwe functies. Het beschikt over prachtige belichting, realistische animaties en gemene buitenaardse wezens om te vernietigen.</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>Abuse to port klasycznej, mrocznej platformówki 2D typu side-scrolling, pierwotnie opracowanej przez Crack dot Com i wydanej w 1995 roku dla systemu MS-DOS. W późniejszym terminie udostępniono również wersję dla systemu Linux. Miała ona kilka ograniczeń, z których najbardziej restrykcyjnym było to, że działała tylko na 8-bitowym wyświetlaczu i tylko w oknie.
+
+Ta wersja Abuse będzie działać przy dowolnej głębi kolorów i obsługuje tryb pełnoekranowy, a także wiele innych nowych funkcji. Charakteryzuje się pięknym oświetleniem, realistyczną animacją i paskudnymi stworzeniami przypominającymi kosmitów, które należy zniszczyć.</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>Abuse é uma versão do clássico jogo de plataforma 2D side-scrolling originalmente desenvolvido pela Crack dot Com e lançado em 1995 para MS-DOS. Uma versão para Linux também foi disponibilizada posteriormente. Ele tinha algumas limitações, sendo a mais restritiva o fato de só funcionar em uma tela de 8 bits e apenas em uma janela.
+
+Esta versão do Abuse funciona em qualquer profundidade de cor e suporta o modo de ecrã inteiro, bem como muitas outras novas funcionalidades. Apresenta uma iluminação bonita, animação realista e criaturas alienígenas desagradáveis para destruir.</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>Abuse este o versiune a clasicului joc 2D side-scrolling dezvoltat inițial de Crack dot Com și lansat în 1995 pentru MS-DOS. Ulterior, a fost lansată și o versiune pentru Linux. Avea câteva limitări, cea mai restrictivă fiind faptul că rula doar pe un ecran de 8 biți și numai într-o fereastră.
+
+Această versiune a Abuse va rula la orice adâncime de culoare și suportă modul ecran complet, precum și multe alte caracteristici noi. Are o iluminare frumoasă, animații realiste și creaturi urâte, asemănătoare extratereștrilor, pe care trebuie să le distrugi.</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>Abuse — это порт классической мрачной 2D-платформерной игры с боковым скроллингом, первоначально разработанной Crack dot Com и выпущенной в 1995 году для MS-DOS. Позже была выпущена и версия для Linux. У нее было несколько ограничений, самым серьезным из которых было то, что она работала только на 8-битном дисплее и только в окне.
+
+Эта версия Abuse будет работать с любой глубиной цвета и поддерживает полноэкранный режим, а также многие другие новые функции. Она отличается красивым освещением, реалистичной анимацией и отвратительными инопланетными существами, которых нужно уничтожить.</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>Abuse је порт класичне мрачне 2D платформе са бочном скроловањем, првобитно развијене од стране Crack dot Com и објављене 1995. године за MS-DOS. Линукс верзија је такође постала доступна касније. Имала је неколико ограничења, од којих је најстроже било то што је радила само на 8-битном екрану и само у прозору.
+
+Ова верзија Abuse-а ради на било којој дубини боја и подржава режим пуног екрана, као и многа друга нова побољшања. Истиче се прелепим осветљењем, реалистичном анимацијом и злонамерним ванземаљским створењима за уништавање.</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>Abuse är en portning av det klassiska mörka 2D-plattformsspelet som ursprungligen utvecklades av Crack dot Com och släpptes 1995 för MS-DOS. En Linux-version blev också tillgänglig senare. Det hade några begränsningar, varav den mest restriktiva var att det bara kunde köras på en 8-bitars skärm och endast i ett fönster.
+
+Denna version av Abuse kan köras med valfri färgdjup och stöder helskärmsläge, samt många andra nya funktioner. Det har vacker belysning, realistisk animation och otäcka utomjordiska varelser att förstöra.</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>《Abuse》是经典暗黑2D横版平台游戏的移植版本，原版由Crack dot Com开发，1995年在MS-DOS平台发布。后来也推出了Linux版本。该游戏存在若干限制，最严苛的是仅支持8位显示模式且必须在窗口内运行。
+
+本版本的《虐待》支持任意色彩深度运行，兼容全屏模式，并新增多项功能。游戏呈现精美的光影效果、逼真的动画表现，玩家将摧毁形形色色的邪恶外星生物。</systemDescription>
+  </variables>
 </theme>

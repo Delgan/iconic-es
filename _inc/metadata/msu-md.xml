@@ -10,4 +10,58 @@ Instead of basing the work on proprietary APIs like md+, MSU-MD is developed as 
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
+  <variables lang="ar">
+    <systemDescription>MSU-MD هو برنامج تشغيل يتيح تشغيل موسيقى بجودة الأقراص المضغوطة لألعاب Sega Megadrive المعدلة بشكل صحيح، حيث يحاكي سلوك أجهزة الأقراص المضغوطة. بدلاً من الاعتماد على واجهات برمجة التطبيقات الاحتكارية مثل md+، تم تطوير MSU-MD كبرنامج تشغيل صغير ورائع يسهل التفاعل مع أجهزة Sega CD ويستخدم جميع مكالمات bios الرسمية. وهذا يعني أن هذه الاختراقات يمكن أن تعمل أيضًا على الأجهزة الرسمية غير المعدلة.</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>MSU-MD je upravljački program koji omogućava muziku CD kvaliteta za ispravno zakrpljene igre za Sega Megadrive, oponašajući ponašanje CD hardvera. Umjesto da se zasniva na vlasničkim API-jima poput md+, MSU-MD je razvijen kao mali, zgodan upravljački program koji olakšava interfejs sa Sega CD hardverom, a sve to koristeći zvanične BIOS pozive. To znači da ovi hackovi mogu raditi i na zvaničnom, neizmijenjenom hardveru.</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>MSU-MD és un controlador que permet música de qualitat CD en jocs de Sega Megadrive correctament parchats, imitant el comportament del maquinari de CD. En lloc de basar-se en API propietaris com md+, MSU-MD està desenvolupat com un petit controlador que facilita la interfície amb el maquinari del Sega CD i que utilitza crides oficials de la BIOS. Això significa que aquests hacks també podrien funcionar en maquinari oficial no modificat.</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemDescription>MSU-MD ist ein Treiber, der Musik in CD-Qualität für ordnungsgemäß gepatchte Sega-Megadrive-Spiele ermöglicht und dabei das Verhalten der CD-Hardware nachahmt. Anstatt die Arbeit auf proprietären APIs wie md+ zu basieren, wurde MSU-MD als kleiner, praktischer Treiber entwickelt, der die Verbindung mit der Sega-CD-Hardware vereinfacht und dabei ausschließlich offizielle BIOS-Aufrufe verwendet. Das bedeutet, dass diese Hacks auch auf offizieller, unveränderter Hardware laufen könnten.</systemDescription>
+  </variables>
+  <variables lang="es">
+    <systemDescription>MSU-MD es un controlador que permite reproducir música con calidad de CD en juegos de Sega Megadrive correctamente parcheados, imitando el comportamiento del hardware de CD. En lugar de basar su funcionamiento en API propietarias como md+, MSU-MD se ha desarrollado como un pequeño controlador que facilita la interfaz con el hardware de Sega CD y utiliza llamadas de BIOS oficiales. Esto significa que estos hacks también podrían ejecutarse en hardware oficial sin modificar.</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>MSU-MD est un pilote qui permet d'obtenir une qualité musicale équivalente à celle d'un CD pour les jeux Sega Megadrive correctement patchés, en imitant le comportement du matériel CD. Au lieu de se baser sur des API propriétaires comme md+, MSU-MD est développé comme un petit pilote pratique qui facilite l'interfaçage avec le matériel Sega CD, le tout en utilisant des appels bios officiels. Cela signifie que ces hacks peuvent également fonctionner sur du matériel officiel non modifié.</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>MSU-MD je upravljački program koji omogućuje glazbu CD kvalitete za pravilno zakrpljene igre za Sega Megadrive, oponašajući ponašanje CD hardvera. Umjesto da se temelji na vlasničkim API-jima poput md+, MSU-MD je razvijen kao mali, zgodan upravljački program koji olakšava interfejs s Sega CD hardverom, a sve to koristeći službene BIOS pozive. To znači da ovi hackovi mogu raditi i na službenom, neizmijenjenom hardveru.</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemDescription>MSU-MD è un driver che consente di riprodurre musica con qualità CD per i giochi Sega Megadrive correttamente patchati, imitando il comportamento dell'hardware CD. Invece di basarsi su API proprietarie come md+, MSU-MD è stato sviluppato come un piccolo driver che semplifica l'interfacciamento con l'hardware Sega CD utilizzando chiamate BIOS ufficiali. Ciò significa che questi hack potrebbero funzionare anche su hardware ufficiale non modificato.</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>MSU-MDは、適切にパッチを適用したセガ・メガドライブ用ゲームにおいてCD品質の音楽を再生可能にするドライバであり、CDハードウェアの動作を模倣します。md+のような独自APIに基づくのではなく、MSU-MDはコンパクトで優れたドライバとして開発されており、セガCDハードウェアとの連携を容易にし、すべて公式BIOSコールを使用します。これにより、これらのハックは公式の未改造ハードウェア上でも動作可能となります。</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>MSU-MD는 CD 드라이브 하드웨어의 동작을 모방하여, 적절한 패치가 적용된 세가 메가드라이브 게임에서 CD 품질의 음악을 재생할 수 있게 해주는 드라이버입니다. md+와 같은 독점 API를 기반으로 작업하는 대신, MSU-MD는 세가 CD 하드웨어와의 인터페이싱을 더 쉽게 만들고 공식 BIOS 호출만을 사용하는 깔끔한 소형 드라이버로 개발되었습니다. 이는 이러한 해킹이 공식적인 수정되지 않은 하드웨어에서도 실행될 수 있음을 의미합니다.</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>MSU-MD is een driver die muziek van cd-kwaliteit mogelijk maakt voor correct gepatchte Sega Megadrive-games, waarbij het gedrag van de cd-hardware wordt nagebootst. In plaats van het werk te baseren op propriëtaire API's zoals md+, is MSU-MD ontwikkeld als een handige kleine driver die de koppeling met de Sega CD-hardware eenvoudiger maakt en daarbij uitsluitend gebruikmaakt van officiële bios-aanroepen. Dit betekent dat deze hacks ook op officiële, ongewijzigde hardware kunnen worden uitgevoerd.</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>MSU-MD to sterownik, który umożliwia odtwarzanie muzyki w jakości CD w odpowiednio zmodyfikowanych grach Sega Megadrive, naśladując działanie sprzętu CD. Zamiast opierać się na zastrzeżonych interfejsach API, takich jak md+, MSU-MD został opracowany jako niewielki sterownik, który ułatwia komunikację ze sprzętem Sega CD i wykorzystuje wyłącznie oficjalne wywołania BIOS-u. Oznacza to, że te modyfikacje mogą działać również na oficjalnym, niezmodyfikowanym sprzęcie.</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>MSU-MD é um driver que permite música com qualidade de CD para jogos Sega Megadrive devidamente corrigidos, imitando o comportamento do hardware do CD. Em vez de basear o trabalho em APIs proprietárias como md+, o MSU-MD foi desenvolvido como um pequeno driver que facilita a interface com o hardware Sega CD, utilizando chamadas BIOS oficiais. Isto significa que estes hacks também podem ser executados em hardware oficial não modificado.</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>MSU-MD este un driver care permite redarea muzicii la calitate CD pentru jocurile Sega Megadrive patch-uite corespunzător, imitând comportamentul hardware-ului CD. În loc să se bazeze pe API-uri proprietare precum md+, MSU-MD este dezvoltat ca un driver mic și eficient, care facilitează interfațarea cu hardware-ul Sega CD, utilizând apeluri BIOS oficiale. Acest lucru înseamnă că aceste hack-uri pot rula și pe hardware oficial nemodificat.</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>MSU-MD — это драйвер, который позволяет воспроизводить музыку в CD-качестве для правильно исправленных игр Sega Megadrive, имитируя поведение CD-оборудования. Вместо того, чтобы основывать свою работу на проприетарных API, таких как md+, MSU-MD разработан как небольшой драйвер, который упрощает взаимодействие с оборудованием Sega CD и использует официальные вызовы BIOS. Это означает, что эти хаки могут работать и на официальном немодифицированном оборудовании.</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>MSU-MD је драјвер који омогућава музику ЦД квалитета за правилно патцховане игре за Sega Megadrive, имитирајући понашање ЦД хардвера. Уместо да се заснива на власничким API-јима попут md+, MSU-MD је развијен као мали, леп драјвер који олакшава интерфејсирање са Sega CD хардвером и све то користећи званичне BIOS позиве. То значи да ови хакови могу да раде и на званичном, немодификованом хардверу.</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>MSU-MD är en drivrutin som möjliggör musik i CD-kvalitet för korrekt patchade Sega Megadrive-spel, genom att efterlikna CD-hårdvarans beteende. Istället för att basera arbetet på proprietära API:er som md+, är MSU-MD utvecklat som en smidig liten drivrutin som underlättar gränssnittet med Sega CD-hårdvaran och använder officiella bios-anrop. Detta innebär att dessa hack också kan köras på officiell, omodifierad hårdvara.</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>MSU-MD是一款驱动程序，可为正确打补丁的世嘉Mega Drive游戏提供CD品质音效，模拟CD硬件的行为。与基于md+等专有API不同，MSU-MD作为精巧的微型驱动开发，通过官方BIOS调用简化了与世嘉CD硬件的交互。这意味着这些破解方案同样能在未经修改的官方硬件上运行。</systemDescription>
+  </variables>
 </theme>

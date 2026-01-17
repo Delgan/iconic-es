@@ -10,4 +10,94 @@ The game was released in 1989 and published by MicroProse on the Firebird Softwa
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
+  <variables lang="ar">
+    <systemDescription>XRick هو تنفيذ مفتوح المصدر للعبة "Rick Dangerous". Rick Dangerous هي لعبة منصات طورتها Core Design لأجهزة Acorn Archimedes وAmiga وAtari ST وAmstrad CPC وZX Spectrum وCommodore 64 وMS-DOS.
+
+تم إصدار اللعبة في عام 1989 ونشرتها MicroProse عبر ملصق Firebird Software في المملكة المتحدة، وعلى ملصق MicroPlay في أمريكا. كما نُشرت في إسبانيا بواسطة Erbe Software.</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>XRick je open-source implementacija igre "Rick Dangerous". Rick Dangerous je platformska igra razvijena od strane Core Designa za Acorn Archimedes, Amiga, Atari ST, Amstrad CPC, ZX Spectrum, Commodore 64 i MS-DOS.
+
+Igra je izdana 1989. i objavljena od strane MicroProse na etiketi Firebird Software u Ujedinjenom Kraljevstvu, a na etiketi MicroPlay u Americi. Također je objavljena u Španjolskoj od strane Erbe Software.</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>XRick és una implementació de codi obert del joc "Rick Dangerous". Rick Dangerous és un joc de plataformes desenvolupat per Core Design per a Acorn Archimedes, Amiga, Atari ST, Amstrad CPC, ZX Spectrum, Commodore 64 i MS-DOS.
+
+El joc es va llançar el 1989 i es va publicar per MicroProse sota l'etiqueta Firebird Software al Regne Unit i sota MicroPlay a Amèrica. També es va publicar a Espanya per Erbe Software.</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemDescription>XRick ist eine Open-Source-Implementierung des Spiels "Rick Dangerous". Rick Dangerous ist ein Plattformspiel, das von Core Design für Acorn Archimedes, Amiga, Atari ST, Amstrad CPC, ZX Spectrum, Commodore 64 und MS-DOS entwickelt wurde.
+
+Das Spiel wurde 1989 veröffentlicht und von MicroProse auf dem Firebird-Software-Label im Vereinigten Königreich und auf dem MicroPlay-Label in Amerika veröffentlicht. Es wurde auch in Spanien von Erbe Software veröffentlicht.</systemDescription>
+  </variables>
+  <variables lang="es">
+    <systemDescription>XRick es una implementación de código abierto del juego "Rick Dangerous". Rick Dangerous es un juego de plataformas desarrollado por Core Design para Acorn Archimedes, Amiga, Atari ST, Amstrad CPC, ZX Spectrum, Commodore 64 y MS-DOS.
+
+El juego fue lanzado en 1989 y publicado por MicroProse en la etiqueta Firebird Software en el Reino Unido y en la etiqueta MicroPlay en Estados Unidos. También se publicó en España por Erbe Software.</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>XRick est une implémentation open source du jeu "Rick Dangerous". Rick Dangerous est un jeu de plateforme développé par Core Design pour Acorn Archimedes, Amiga, Atari ST, Amstrad CPC, ZX Spectrum, Commodore 64 et MS-DOS.
+
+Le jeu est sorti en 1989 et a été publié par MicroProse sous le label Firebird Software au Royaume-Uni, et sous le label MicroPlay en Amérique. Il a également été publié en Espagne par Erbe Software.</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>XRick je open-source implementacija igre "Rick Dangerous". Rick Dangerous je platformska igra razvijena od Core Designa za Acorn Archimedes, Amiga, Atari ST, Amstrad CPC, ZX Spectrum, Commodore 64 i MS-DOS.
+
+Igra je objavljena 1989. i izdana od strane MicroProse na etiketi Firebird Software u Ujedinjenom Kraljevstvu, te na etiketi MicroPlay u Americi. Također je izdana u Španjolskoj od strane Erbe Software.</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemDescription>XRick è un'implementazione open source del gioco "Rick Dangerous". Rick Dangerous è un platform sviluppato da Core Design per Acorn Archimedes, Amiga, Atari ST, Amstrad CPC, ZX Spectrum, Commodore 64 e MS-DOS.
+
+Il gioco è stato rilasciato nel 1989 e pubblicato da MicroProse con l'etichetta Firebird Software nel Regno Unito e con l'etichetta MicroPlay in America. È stato anche pubblicato in Spagna da Erbe Software.</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>XRick はゲーム「Rick Dangerous」のオープンソース実装です。Rick Dangerous は Core Design によって開発され、Acorn Archimedes、Amiga、Atari ST、Amstrad CPC、ZX Spectrum、Commodore 64、および MS-DOS 用にリリースされたプラットフォームゲームです。
+
+このゲームは 1989 年にリリースされ、英国では Firebird Software レーベル（MicroProse）、米国では MicroPlay レーベル（MicroProse）から発売されました。スペインでは Erbe Software によっても発売されました。</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>XRick은 게임 "Rick Dangerous"의 오픈 소스 구현입니다. Rick Dangerous는 Core Design이 Acorn Archimedes, Amiga, Atari ST, Amstrad CPC, ZX Spectrum, Commodore 64 및 MS-DOS용으로 개발한 플랫폼 게임입니다.
+
+이 게임은 1989년에 출시되었으며, 영국에서는 Firebird Software 레이블(MicroProse)로, 미국에서는 MicroPlay 레이블로 발매되었습니다. 또한 스페인에서는 Erbe Software에서 발매되었습니다。</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>XRick is een open-source implementatie van het spel "Rick Dangerous". Rick Dangerous is een platformsgame ontwikkeld door Core Design voor Acorn Archimedes, Amiga, Atari ST, Amstrad CPC, ZX Spectrum, Commodore 64 en MS-DOS.
+
+Het spel werd uitgebracht in 1989 en gepubliceerd door MicroProse op het Firebird Software-label in het Verenigd Koninkrijk en op het MicroPlay-label in Amerika. Het werd ook in Spanje gepubliceerd door Erbe Software.</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>XRick to otwarta implementacja gry "Rick Dangerous". Rick Dangerous to gra platformowa opracowana przez Core Design na platformy Acorn Archimedes, Amiga, Atari ST, Amstrad CPC, ZX Spectrum, Commodore 64 i MS-DOS.
+
+Gra została wydana w 1989 roku i opublikowana przez MicroProse na wytwórni Firebird Software w Wielkiej Brytanii oraz na wytwórni MicroPlay w Ameryce. Została również wydana w Hiszpanii przez Erbe Software.</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>XRick é uma implementação open-source do jogo "Rick Dangerous". Rick Dangerous é um jogo de plataforma desenvolvido pela Core Design para Acorn Archimedes, Amiga, Atari ST, Amstrad CPC, ZX Spectrum, Commodore 64 e MS-DOS.
+
+O jogo foi lançado em 1989 e publicado pela MicroProse no selo Firebird Software no Reino Unido, e no selo MicroPlay na América. Também foi publicado em Espanha pela Erbe Software.</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>XRick este o implementare open-source a jocului "Rick Dangerous". Rick Dangerous este un joc de platformă dezvoltat de Core Design pentru Acorn Archimedes, Amiga, Atari ST, Amstrad CPC, ZX Spectrum, Commodore 64 și MS-DOS.
+
+Jocul a fost lansat în 1989 și publicat de MicroProse pe eticheta Firebird Software în Regatul Unit și pe eticheta MicroPlay în America. De asemenea, a fost publicat în Spania de Erbe Software.</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>XRick — это реализация с открытым исходным кодом игры «Rick Dangerous». Rick Dangerous — платформер, разработанный Core Design для Acorn Archimedes, Amiga, Atari ST, Amstrad CPC, ZX Spectrum, Commodore 64 и MS-DOS.
+
+Игра была выпущена в 1989 году и издана MicroProse на лейбле Firebird Software в Великобритании и на лейбле MicroPlay в Америке. Также игра была издана в Испании компанией Erbe Software.</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>XRick је open-source имплементација игре "Rick Dangerous". Rick Dangerous је платформска игра коју је развио Core Design за Acorn Archimedes, Amiga, Atari ST, Amstrad CPC, ZX Spectrum, Commodore 64 и MS-DOS.
+
+Игра је објављена 1989. године и издата од стране MicroProse на Firebird Software издавачкој етикети у Великој Британији, и на MicroPlay етикети у Америци. Такође је објављена у Шпанији од стране Erbe Software.</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>XRick är en öppen källkodsimplementation av spelet "Rick Dangerous". Rick Dangerous är ett plattformsspel utvecklat av Core Design för Acorn Archimedes, Amiga, Atari ST, Amstrad CPC, ZX Spectrum, Commodore 64 och MS-DOS.
+
+Spelet släpptes 1989 och publicerades av MicroProse på Firebird Software-etiketten i Storbritannien och på MicroPlay-etiketten i Amerika. Det publicerades även i Spanien av Erbe Software.</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>XRick 是《Rick Dangerous》一作的开源实现。《Rick Dangerous》由 Core Design 开发，是一款面向 Acorn Archimedes、Amiga、Atari ST、Amstrad CPC、ZX Spectrum、Commodore 64 和 MS-DOS 的平台游戏。
+
+该游戏于 1989 年发布，在英国由 MicroProse 通过 Firebird Software 发行，在美国由 MicroProse 通过 MicroPlay 发行，并在西班牙由 Erbe Software 发行。</systemDescription>
+  </variables>
 </theme>

@@ -10,4 +10,94 @@ It was used in a range of arcade games, including some that involved gambling, t
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
+  <variables lang="ar">
+    <systemDescription>لوحة ألعاب الأركيد Sega System SP، المعروفة أيضًا باسم Aurora، هي لوحة أنظمة طورتها شركة Sega. هي أساسًا "دريمكاست على رقاقة"، وتضم نفس معالج SH-4 ووحدة رسومية PowerVR2 كما في جهاز Sega Dreamcast. صُممت هذه المنصة لتكون متعددة الاستخدامات، داعمة لأشكال وتكوينات الألعاب الأركيدية المتنوعة.
+
+استُخدمت في مجموعة من ألعاب الأركيد، بما في ذلك بعضها الذي شمل المقامرة، واسترداد التذاكر، ومعارض للأطفال. تم تصنيع Sega System SP حتى عام 2014 وتُعرف بتصميمها المدمج والكفء.</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>Sega System SP, također poznat kao Aurora, je arcade matična ploča razvijena od strane Sega-e. U suštini predstavlja "Dreamcast-on-a-chip", s istim SH-4 CPU-om i PowerVR2 GPU-om kao Sega Dreamcast konzola. Ovaj sistem je dizajniran da bude svestran, podržavajući razne formate i konfiguracije arkadnih igara.
+
+Koristio se u nizu arkadnih igara, uključujući neke koje su uključivale kockanje, povrat bonova i atrakcije za djecu. Sega System SP je proizvođen do 2014. i poznat je po svom kompaktnom i efikasnom dizajnu.</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>El Sega System SP, també conegut com a Aurora, és una placa de sistema d'arcade desenvolupada per Sega. És essencialment un "Dreamcast-en-un-xip", amb la mateixa CPU SH-4 i GPU PowerVR2 que la consola Sega Dreamcast. Aquest sistema va ser dissenyat per ser versàtil, admetent diversos formats i configuracions de jocs d'arcade.
+
+Es va utilitzar en una sèrie de jocs d'arcade, inclosos alguns que implicaven jocs d'atzar, canvi de tiquets i atraccions infantils. Sega System SP es va fabricar fins al 2014 i destaca per disseny compacte i eficient.</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemDescription>Das Sega System SP, auch als Aurora bekannt, ist ein Arcade-Systemboard, das von Sega entwickelt wurde. Es ist im Wesentlichen ein "Dreamcast-on-a-chip" und verfügt über die gleiche SH-4-CPU und PowerVR2-GPU wie die Sega Dreamcast-Konsole. Dieses System wurde so konzipiert, dass es vielseitig ist und verschiedene Arcade-Spielformate und -konfigurationen unterstützt.
+
+Es wurde in einer Reihe von Arcade-Spielen eingesetzt, darunter einige mit Glücksspiel, Ticket-Einlösung und Kinderattraktionen. Das Sega System SP wurde bis 2014 hergestellt und ist für sein kompaktes und effizientes Design bekannt.</systemDescription>
+  </variables>
+  <variables lang="es">
+    <systemDescription>El Sega System SP, también conocido como Aurora, es una placa de sistema arcade desarrollada por Sega. Es esencialmente un "Dreamcast-en-un-chip", con la misma CPU SH-4 y GPU PowerVR2 que la consola Sega Dreamcast. Este sistema fue diseñado para ser versátil, soportando varios formatos y configuraciones de juegos arcade.
+
+Se utilizó en una variedad de juegos arcade, incluyendo algunos que implicaban apuestas, canje de tickets y atracciones infantiles. El Sega System SP se fabricó hasta 2014 y es notable por su diseño compacto y eficiente.</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>Le Sega System SP, également connu sous le nom d'Aurora, est une carte système d'arcade développée par Sega. C'est essentiellement un "Dreamcast-on-a-chip", disposant du même CPU SH-4 et du GPU PowerVR2 que la console Sega Dreamcast. Ce système a été conçu pour être polyvalent, prenant en charge divers formats et configurations de jeux d'arcade.
+
+Il a été utilisé dans une gamme de jeux d'arcade, y compris certains impliquant des jeux d'argent, l'échange de tickets et des attractions pour enfants. Le Sega System SP a été fabriqué jusqu'en 2014 et est notable pour son design compact et efficace.</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>Sega System SP, poznat i kao Aurora, je arcade matična ploča koju je razvila tvrtka Sega. U suštini je to "Dreamcast-on-a-chip", s istim SH-4 CPU-om i PowerVR2 GPU-om kao konzola Sega Dreamcast. Ovaj sustav je dizajniran da bude svestran, podržavajući razne arkadne formate i konfiguracije.
+
+Koristio se u nizu arkadnih igara, uključujući neke koje su uključivale kockanje, otkup karata i dječje atrakcije. Sega System SP se proizvodio do 2014. i poznat je po kompaktnom i učinkovitom dizajnu.</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemDescription>Il Sega System SP, noto anche come Aurora, è una scheda di sistema arcade sviluppata da Sega. È fondamentalmente un "Dreamcast-on-a-chip", con la stessa CPU SH-4 e GPU PowerVR2 della console Sega Dreamcast. Questo sistema è stato progettato per essere versatile, supportando vari formati e configurazioni di giochi arcade.
+
+È stato utilizzato in una serie di giochi arcade, inclusi alcuni che prevedevano giochi d'azzardo, riscossione di biglietti e attrazioni per bambini. Il Sega System SP è stato prodotto fino al 2014 ed è noto per il suo design compatto ed efficiente.</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>Sega System SP（オーロラとも呼ばれる）は、Sega によって開発されたアーケード用システムボードです。基本的には「チップ上のドリームキャスト」であり、Sega Dreamcast 本体と同じ SH-4 CPU と PowerVR2 GPU を搭載しています。本システムは多用途に設計され、さまざまなアーケードゲームの形式や構成に対応します。
+
+ギャンブル要素、チケット交換、子供向けアトラクションなどを含む幅広いアーケードゲームで使用されました。Sega System SP は 2014 年まで製造され、そのコンパクトで効率的な設計が特長です。</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>Sega System SP(오로라라고도 알려짐)는 Sega에서 개발한 아케이드 시스템 보드입니다. 본질적으로 "칩 위의 드림캐스트"로, Sega Dreamcast 콘솔과 동일한 SH-4 CPU 및 PowerVR2 GPU를 탑재하고 있습니다. 이 시스템은 다양한 아케이드 게임 형식과 구성을 지원하도록 설계되어 다목적으로 사용될 수 있습니다.
+
+도박, 티켓 교환, 어린이용 어트랙션 등이 포함된 다양한 아케이드 게임에서 사용되었습니다. Sega System SP는 2014년까지 제조되었으며 소형화되고 효율적인 설계로 유명합니다。</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>De Sega System SP, ook bekend als Aurora, is een arcade-systeemkaart ontwikkeld door Sega. Het is in wezen een "Dreamcast-on-a-chip", met dezelfde SH-4 CPU en PowerVR2 GPU als de Sega Dreamcast-console. Dit systeem is ontworpen om veelzijdig te zijn en ondersteunt verschillende arcade-spelformaten en configuraties.
+
+Het werd gebruikt in een reeks arcade-spellen, waaronder sommige met gokken, ticketinwisseling en kinderattracties. De Sega System SP werd geproduceerd tot 2014 en staat bekend om zijn compacte en efficiënte ontwerp.</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>Sega System SP, znany również jako Aurora, to płyta systemowa arcade opracowana przez firmę Sega. W istocie jest to „Dreamcast-on-a-chip”, wyposażony w ten sam procesor SH-4 i GPU PowerVR2 co konsola Sega Dreamcast. System ten został zaprojektowany jako wszechstronny, obsługujący różne formaty i konfiguracje gier arcade.
+
+Był używany w szeregu gier arcade, w tym takich, które obejmowały hazard, wymianę biletów i atrakcje dla dzieci. Sega System SP był produkowany do 2014 roku i wyróżnia się kompaktowym i wydajnym projektem.</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>O Sega System SP, também conhecido como Aurora, é uma placa de sistema arcade desenvolvida pela Sega. É, essencialmente, um "Dreamcast-on-a-chip", com a mesma CPU SH-4 e GPU PowerVR2 da consola Sega Dreamcast. Este sistema foi concebido para ser versátil, suportando vários formatos e configurações de jogos arcade.
+
+Foi utilizado numa série de jogos arcade, incluindo alguns que envolviam apostas, troca de bilhetes e atrações infantis. O Sega System SP foi fabricado até 2014 e é notável pelo seu design compacto e eficiente.</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>Sega System SP, cunoscut și sub numele Aurora, este o placă de sistem arcade dezvoltată de Sega. Este, în esență, un „Dreamcast-on-a-chip”, având același CPU SH-4 și GPU PowerVR2 ca și consola Sega Dreamcast. Acest sistem a fost proiectat pentru a fi versatil, suportând diverse formate și configurații de jocuri arcade.
+
+A fost folosit într-o gamă de jocuri arcade, inclusiv unele care implicau jocuri de noroc, schimbul de bilete și atracții pentru copii. Sega System SP a fost produs până în 2014 și este remarcabil pentru designul său compact și eficient.</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>Sega System SP, также известная как Aurora, — это плата аркадной системы, разработанная компанией Sega. По сути это «Dreamcast-on-a-chip», оснащённая тем же процессором SH-4 и GPU PowerVR2, что и консоль Sega Dreamcast. Система была разработана как универсальная, поддерживающая различные форматы и конфигурации аркадных игр.
+
+Она использовалась в ряде аркадных игр, включая те, что связаны с азартными играми, обменом билетов и детскими аттракционами. Sega System SP производилась до 2014 года и примечательна компактным и эффективным дизайном.</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>Sega System SP, познат и као Aurora, је аркадна матична плоча коју је развила компанија Sega. У суштини је то „Dreamcast-on-a-chip“, са истим SH-4 CPU и PowerVR2 GPU као и конзола Sega Dreamcast. Овај систем је дизајниран да буде свестран и подржава разне формате и конфигурације аркадних игара.
+
+Користио се у низу аркадних игара, укључујући неке које укључују коцкање, обраду тикета и дечје атракције. Sega System SP се производио до 2014. и познат је по свом компактном и ефикасном дизајну.</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>Sega System SP, även känd som Aurora, är ett arkadsystemkort utvecklat av Sega. Det är i huvudsak en "Dreamcast-on-a-chip" med samma SH-4-CPU och PowerVR2-GPU som Sega Dreamcast-konsolen. Systemet var utformat för att vara mångsidigt och stödja olika arkadspelsformat och konfigurationer.
+
+Det användes i en rad arkadspel, inklusive vissa som involverade spel om pengar, biljettinlösen och barnattraktioner. Sega System SP tillverkades fram till 2014 och är känt för sin kompakta och effektiva design.</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>Sega System SP，也称为 Aurora，是 Sega 开发的一款街机系统主板。本质上它是“芯片上的 Dreamcast”，采用与 Sega Dreamcast 主机相同的 SH-4 CPU 和 PowerVR2 GPU。该系统被设计为通用平台，支持各种街机游戏格式和配置。
+
+它被用于多种街机游戏，包括一些涉及赌博、兑换奖券和儿童游乐设施的游戏。Sega System SP 生产至 2014 年，以其紧凑高效的设计而著称。</systemDescription>
+  </variables>
 </theme>

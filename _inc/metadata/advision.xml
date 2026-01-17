@@ -13,4 +13,94 @@ On top of the console, there are special shelves where cartridges can be stored.
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
+  <variables lang="ar">
+    <systemDescription>Entex Adventure Vision أو Adventure Vision باختصار هي جهاز ألعاب فيديو محمول من الجيل الثاني صنعته شركة Entex في عام 1982. يتم التحكم في الألعاب بواسطة عصا تحكم واحدة ومجموعة من أربعة أزرار، وتقع الأزرار على يسار ويمين عصا التحكم لتسمح للأشخاص الذين يستخدمون اليد اليسرى واليمنى باللعب.
+لا تستخدم وحدة التحكم شاشة LCD أو شاشات خارجية، بل تستخدم مصابيح LED مرتبة في أربعين صفًا لعرض الصورة، مما يوفر دقة 153 × 40 بكسل، وهناك وحدة تحكم أخرى تستخدم تقنية مماثلة وهي Virtual Boy. تتطلب التقنية المستخدمة في Entex Adventure Vision قدرًا كبيرًا من الطاقة، لذا فهي تحتاج إلى ما يصل إلى أربع بطاريات D. يمكن أيضًا استخدام محول تيار متردد لتشغيل وحدة التحكم.
+يوجد في الجزء العلوي من وحدة التحكم أرفف خاصة لتخزين الخراطيش.</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>Entex Adventure Vision, ili skraćeno Adventure Vision, je prenosiva igraća konzola druge generacije koju je proizveo Entex 1982. godine. Igre se upravljaju jednim džojstikom i skupom od četiri tipke, a tipke su smještene lijevo i desno od džojstika kako bi i ljevaci i desnoruki igrači mogli igrati.
+Konzole ne koristi LCD ekran ili vanjske monitore, već se za prikaz slike koriste LED diode raspoređene u četrdeset redova, što omogućava rezoluciju od 153 x 40 piksela. Druga konzole koja koristi sličnu tehnologiju je Virtual Boy. Tehnologija korištena u Entex Adventure Visionu zahtijevala je veliku količinu energije, stoga je bila potrebna do četiri D baterije. Za napajanje konzole mogao se koristiti i AC adapter.
+Na vrhu konzole nalaze se posebne police na kojima se mogu čuvati kartridži.</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>Entex Adventure Vision, o Adventure Vision per abreujar, és una consola de videojocs portàtil de segona generació fabricada per Entex l'any 1982. Els jocs es controlen amb un sol palanquer i un conjunt de quatre botons; els botons estan situats a l'esquerra i a la dreta del palanquer per permetre que hi juguin tant les persones esqueranes com les dretanes.
+La consola no utilitza una pantalla LCD ni monitors externs; s'utilitzen LEDs disposats en quaranta files per mostrar la imatge, la qual cosa proporciona una resolució de 153 x 40 píxels. Una altra consola que utilitza una tecnologia similar és la Virtual Boy. La tecnologia utilitzada a l'Entex Adventure Vision requeria molta potència, per la qual cosa necessitava fins a quatre piles D. També es podia utilitzar un adaptador de corrent per alimentar la consola.
+A la part superior de la consola, hi ha uns prestatges especials on es poden emmagatzemar els cartutxos.</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemDescription>Entex Adventure Vision, kurz Adventure Vision, ist eine tragbare Videospielkonsole der zweiten Generation, die 1982 von Entex hergestellt wurde. Die Spiele werden über einen einzigen Joystick und vier Tasten gesteuert, die sich links und rechts vom Joystick befinden, sodass sowohl Links- als auch Rechtshänder spielen können.
+Die Konsole verwendet keinen LCD-Bildschirm oder externe Monitore, sondern vierzig Reihen von LEDs zur Bilddarstellung mit einer Auflösung von 153 x 40 Pixeln. Eine weitere Konsole, die eine ähnliche Technologie verwendet, ist Virtual Boy. Die in Entex Adventure Vision verwendete Technologie erforderte eine große Menge an Strom, weshalb bis zu vier D-Batterien benötigt wurden. Zur Stromversorgung der Konsole konnte auch ein Netzteil verwendet werden.
+Auf der Oberseite der Konsole befinden sich spezielle Ablagen, in denen Kassetten aufbewahrt werden können.</systemDescription>
+  </variables>
+  <variables lang="es">
+    <systemDescription>Entex Adventure Vision, o Adventure Vision para abreviar, es una consola de videojuegos portátil de segunda generación fabricada por Entex en 1982. Los juegos se controlan mediante un único joystick y un conjunto de cuatro botones, situados a la izquierda y a la derecha del joystick para que puedan jugar tanto personas diestras como zurdas.
+La consola no utiliza una pantalla LCD ni monitores externos, sino que utiliza LED dispuestos en cuarenta filas para mostrar la imagen, lo que proporciona una resolución de 153 x 40 píxeles. Otra consola que utiliza una tecnología similar es Virtual Boy. La tecnología utilizada en Entex Adventure Vision requería una gran cantidad de energía, por lo que necesitaba hasta cuatro pilas D. También se podía utilizar un adaptador de CA para alimentar la consola.
+En la parte superior de la consola hay unos estantes especiales donde se pueden guardar los cartuchos.</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>Entex Adventure Vision, ou Adventure Vision en abrégé, est une console de jeux vidéo portable de deuxième génération fabriquée par Entex en 1982. Les jeux sont contrôlés à l'aide d'un seul joystick et d'un ensemble de quatre boutons situés à gauche et à droite du joystick afin de permettre aux gauchers comme aux droitiers de jouer.
+La console n'utilise pas d'écran LCD ni de moniteur externe. Quarante rangées de LED sont utilisées pour afficher l'image, avec une résolution de 153 x 40 pixels. Une autre console utilisant une technologie similaire est la Virtual Boy. La technologie utilisée dans l'Entex Adventure Vision nécessitait une grande quantité d'énergie, d'où la nécessité d'utiliser jusqu'à quatre piles D. Un adaptateur secteur pouvait également être utilisé pour alimenter la console.
+Sur le dessus de la console, des étagères spéciales permettent de ranger les cartouches.</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>Entex Adventure Vision ili skraćeno Adventure Vision je prijenosna igraća konzola druge generacije koju je proizveo Entex 1982. godine. Igre se upravljaju jednim joystickom i skupom od četiri tipke, a tipke su smještene lijevo i desno od joysticka kako bi i ljevaci i desnoruki igrači mogli igrati.
+Konzola ne koristi LCD zaslon ili vanjske monitore, već se za prikaz slike koriste LED-ice raspoređene u četrdeset redova, što omogućuje rezoluciju od 153 x 40 piksela. Druga konzola koja koristi sličnu tehnologiju je Virtual Boy. Tehnologija korištena u Entex Adventure Visionu zahtijevala je veliku količinu energije, stoga je bila potrebna do četiri D baterije. Za napajanje konzole mogao se koristiti i AC adapter.
+Na vrhu konzole nalaze se posebne police na kojima se mogu pohraniti kartridži.</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemDescription>Entex Adventure Vision, abbreviato in Adventure Vision, è una console per videogiochi portatile di seconda generazione prodotta da Entex nel 1982. I giochi sono controllati da un unico joystick e da una serie di quattro pulsanti, posizionati a sinistra e a destra del joystick per consentire sia ai mancini che ai destrimani di giocare.
+La console non utilizza uno schermo LCD o monitor esterni, ma quaranta file di LED disposti in modo da visualizzare l'immagine con una risoluzione di 153 x 40 pixel. Un'altra console che utilizza una tecnologia simile è Virtual Boy. La tecnologia utilizzata in Entex Adventure Vision richiedeva una grande quantità di energia, quindi erano necessarie fino a quattro batterie D. Per alimentare la console era possibile utilizzare anche un adattatore CA.
+Sulla parte superiore della console sono presenti degli appositi ripiani dove è possibile riporre le cartucce.</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>エンテックス・アドベンチャービジョン（略称アドベンチャービジョン）は、1982年にエンテックス社が製造した第二世代の携帯型ゲーム機である。操作は単一のジョイスティックと4つのボタンで行われ、ボタンはジョイスティックの左右に配置されているため、左右どちらの手でも操作可能である。
+本機は液晶画面や外部モニターを使用せず、40列に配列されたLEDを用いて画像を表示する。解像度は153×40ピクセルで、同様の技術を採用した別のゲーム機としてバーチャルボーイが挙げられる。エンテックス・アドベンチャービジョンの技術は多大な電力を必要としたため、最大4本のD型電池を要した。ACアダプターによる給電も可能であった。
+本体上部にはカートリッジを収納できる専用棚が設けられている。</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>엔텍스 어드벤처 비전(Entex Adventure Vision) 또는 줄여서 어드벤처 비전은 1982년 엔텍스(Entex)에서 제조한 2세대 휴대용 비디오 게임 콘솔이다. 게임은 단일 조이스틱과 네 개의 버튼 세트로 조작되며, 버튼은 조이스틱 좌우에 배치되어 좌우손잡이 모두 플레이할 수 있도록 했다.
+이 콘솔은 LCD 화면이나 외부 모니터를 사용하지 않으며, 40열로 배열된 LED를 이용해 영상을 표시합니다. 해상도는 153 x 40 픽셀이며, 유사한 기술을 사용한 다른 콘솔로는 버추얼 보이(Virtual Boy)가 있습니다. 엔텍스 어드벤처 비전에 사용된 기술은 많은 전력을 필요로 했기 때문에, 최대 4개의 D형 건전지가 필요했습니다. 콘솔에 전원을 공급하기 위해 AC 어댑터도 사용할 수 있었습니다.
+콘솔 상단에는 카트리지를 보관할 수 있는 특수 선반이 마련되어 있습니다.</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>Entex Adventure Vision, kortweg Adventure Vision, is een draagbare videogameconsole van de tweede generatie, geproduceerd door Entex in 1982. Games worden bediend met een enkele joystick en vier knoppen, die links en rechts van de joystick zijn geplaatst, zodat zowel links- als rechtshandigen kunnen spelen.
+De console maakt geen gebruik van een LCD-scherm of externe monitoren. In plaats daarvan worden veertig rijen LED's gebruikt om het beeld weer te geven, met een resolutie van 153 x 40 pixels. Een andere console die gebruikmaakt van vergelijkbare technologie is Virtual Boy. De technologie die in de Entex Adventure Vision wordt gebruikt, vereist veel stroom, waardoor er maximaal vier D-batterijen nodig zijn. Er kan ook een wisselstroomadapter worden gebruikt om de console van stroom te voorzien.
+Bovenop de console bevinden zich speciale planken waar cartridges kunnen worden opgeborgen.</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>Entex Adventure Vision, w skrócie Adventure Vision, to przenośna konsola do gier wideo drugiej generacji wyprodukowana przez firmę Entex w 1982 roku. Gry są sterowane za pomocą jednego joysticka i zestawu czterech przycisków, które znajdują się po lewej i prawej stronie joysticka, aby umożliwić grę zarówno osobom prawo-, jak i leworęcznym.
+Konsola nie wykorzystuje ekranu LCD ani zewnętrznych monitorów. Do wyświetlania obrazu służą diody LED rozmieszczone w czterdziestu rzędach, zapewniające rozdzielczość 153 x 40 pikseli. Inną konsolą wykorzystującą podobną technologię jest Virtual Boy. Technologia zastosowana w Entex Adventure Vision wymagała dużej ilości energii, dlatego konsola potrzebowała aż czterech baterii D. Do zasilania konsoli można było również użyć zasilacza sieciowego.
+Na górze konsoli znajdują się specjalne półki, na których można przechowywać kartridże.</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>Entex Adventure Vision, ou Adventure Vision, é uma consola de videojogos portátil de segunda geração fabricada pela Entex em 1982. Os jogos são controlados por um único joystick e um conjunto de quatro botões, localizados à esquerda e à direita do joystick, para permitir que pessoas destras e canhotas possam jogar.
+O console não usa uma tela LCD ou monitores externos, LEDs dispostos em quarenta fileiras são usados para exibir a imagem, proporcionando uma resolução de 153 x 40 pixels. Outro console que usa tecnologia semelhante é o Virtual Boy. A tecnologia usada no Entex Adventure Vision exigia uma grande quantidade de energia, por isso precisava de até quatro pilhas D. Um adaptador A/C também podia ser usado para alimentar o console.
+Na parte superior do console, há prateleiras especiais onde os cartuchos podem ser armazenados.</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>Entex Adventure Vision sau Adventure Vision pe scurt este o consolă portabilă de jocuri video de a doua generație fabricată de Entex în 1982. Jocurile sunt controlate de un singur joystick și un set de patru butoane, butoanele fiind amplasate în stânga și în dreapta joystick-ului pentru a permite jucătorilor stângaci și dreptaci să joace.
+Consola nu utilizează un ecran LCD sau monitoare externe, ci LED-uri dispuse în patruzeci de rânduri pentru a afișa imaginea, oferind o rezoluție de 153 x 40 pixeli. O altă consolă care utilizează o tehnologie similară este Virtual Boy. Tehnologia utilizată în Entex Adventure Vision necesita o cantitate mare de energie, de aceea avea nevoie de până la patru baterii D. Pentru alimentarea consolei se putea utiliza și un adaptor de curent alternativ.
+În partea superioară a consolei există rafturi speciale unde pot fi depozitate cartușele.</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>Entex Adventure Vision, или Adventure Vision для краткости, — это портативная игровая консоль второго поколения, выпущенная компанией Entex в 1982 году. Управление играми осуществляется с помощью одного джойстика и набора из четырех кнопок, расположенных слева и справа от джойстика, что позволяет играть как левшам, так и правшам.
+Консоль не использует ЖК-экран или внешние мониторы, для отображения изображения используются светодиоды, расположенные в сорока рядах, что дает разрешение 153 x 40 пикселей. Другая консоль, использующая аналогичную технологию, — Virtual Boy. Технология, используемая в Entex Adventure Vision, требовала большого количества энергии, поэтому для ее работы требовалось до четырех батареек типа D. Для питания консоли также можно было использовать адаптер переменного тока.
+На верхней части консоли имеются специальные полки, на которых можно хранить картриджи.</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>Entex Adventure Vision, или скраћено Adventure Vision, је преносива видео-играћа конзола друге генерације коју је компанија Entex произвела 1982. године. Игре се управљају једним џојстиком и скупом од четири дугмета, која су смештена са леве и десне стране џојстика како би и леворуки и десноруки играчи могли да играју.
+Конзола не користи ЛЦД екран или спољне мониторе, већ се за приказ слике користе ЛЕД диоде распоређене у четрдесет редова, што омогућава резолуцију од 153 x 40 пиксела. Друга конзола која користи сличну технологију је Virtual Boy. Технологија коришћена у Entex Adventure Vision захтевала је велику количину енергије, па је конзола користила до четири батерије типа D. За напајање конзоле могао се користити и наизменични адаптер.
+На врху конзоле налазе се посебне полице за одлагање касета.</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>Entex Adventure Vision, eller Adventure Vision i kortform, är en bärbar spelkonsol av andra generationen som tillverkades av Entex 1982. Spelen styrs med en enda joystick och fyra knappar, som är placerade till vänster och höger om joysticken så att både vänster- och högerhänta kan spela.
+Konsolen använder inte en LCD-skärm eller externa bildskärmar, utan bilderna visas med hjälp av 40 rader med lysdioder, vilket ger en upplösning på 153 x 40 pixlar. En annan konsol som använder liknande teknik är Virtual Boy. Tekniken som används i Entex Adventure Vision kräver mycket ström, varför den behöver upp till fyra D-batterier. En nätadapter kan också användas för att driva konsolen.
+Ovanpå konsolen finns specialhyllor där kassetterna kan förvaras.</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>Entex Adventure Vision（简称Adventure Vision）是Entex公司于1982年推出的第二代便携式电子游戏主机。游戏通过单摇杆及四键按钮组进行操控，按键分布于摇杆左右两侧，以适配左右手玩家。
+该主机未采用液晶屏或外接显示器，而是通过四十行排列的LED灯点阵显示图像，分辨率为153×40像素。采用类似技术的另一款主机是Virtual Boy。冒险视野所用的技术耗电量极大，需配备多达四节D型电池供电，亦可通过交流适配器供电。
+主机顶部设有专用卡带收纳架。</systemDescription>
+  </variables>
 </theme>

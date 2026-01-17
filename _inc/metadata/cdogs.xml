@@ -11,4 +11,112 @@ The "dog fight" gameplay is the typical deathmatch: players attempt to kill each
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
+  <variables lang="ar">
+    <systemDescription>C-Dogs، تكملة لعبة Cyberdogs، هي لعبة فيديو من نوع shoot'em up حيث يتعاون اللاعبون خلال المهام، ويتنافسون ضد بعضهم البعض في وضع "dogfight" deathmatch.
+أدخلت C-Dogs تغييرات وتحسينات على آليات اللعبة الأصلية Cyberdogs. تنقسم طريقة اللعب الفردية/التعاونية إلى حملات، تتألف كل منها من العديد من المهام. عادةً ما يتضمن كل مستوى قيام اللاعب (اللاعبين) بقتل الأعداء (مع تجنب إيذاء المدنيين وزملائهم في الفريق) باستخدام مجموعة متنوعة من الأسلحة المحددة مسبقًا؛ وجمع المفاتيح لفتح غرف خاصة؛ والتقاط العناصر المطلوبة لتحقيق أهداف المهمة.
+
+طريقة اللعب "dog fight" هي طريقة اللعب النموذجية للمباريات المميتة: يحاول اللاعبون قتل بعضهم البعض للحصول على نقاط، من أجل تحقيق النصر. يمكن للاعبين اثنين فقط اللعب ضد بعضهما البعض، من خلال الجلوس على نفس الكمبيوتر واستخدام لوحة المفاتيح أو عصا التحكم أو لوحات الألعاب.</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>C-Dogs, nastavak igre Cyberdogs, je pucačina u kojoj igrači sarađuju tokom misija, a međusobno se bore u "dogfight" deathmatch modu.
+C-Dogs je donio izmjene i poboljšanja u mehaniku originalne igre Cyberdogs. Igra za jednog igrača/kooperativna igra podijeljena je na kampanje, od kojih svaka sadrži mnogo misija. Obično svaki nivo uključuje da igrač(i) ubijaju neprijatelje (izbjegavajući da povrijede civile i saigrače) koristeći razna unaprijed odabrana oružja; skupljanje ključeva za otvaranje posebnih soba; i prikupljanje potrebnih predmeta za ispunjavanje ciljeva misije.
+
+Igranje u "dog fight" modu je tipični deathmatch: igrači pokušavaju ubiti jedni druge za bodove kako bi ostvarili pobjedu. Samo dva igrača mogu igrati jedan protiv drugog, sjedeći za istim računarom i koristeći tastaturu, džojstike ili gamepade.</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>C-Dogs, la seqüela de Cyberdogs, és un videojoc de trets on els jugadors treballen cooperativament durant les missions i s'enfronten els uns contra els altres en el mode de combat aeri a mort ("dogfight").
+C-Dogs va introduir canvis i millores en la mecànica de joc original de Cyberdogs. El joc per a un jugador o en cooperatiu està dividit en campanyes, cadascuna de les quals consta de moltes missions. Normalment, cada nivell implica que el jugador (o els jugadors) mati enemics (evitant fer mal als civils i als companys d'equip) amb una varietat d'armes preescollides; reculli claus per obrir habitacions especials; i reculli els objectes necessaris per complir els objectius de la missió.
+
+El joc de "dog fight" és el típic deathmatch: els jugadors intenten matar-se els uns als altres per punts, per tal d'aconseguir la victòria. Només dos jugadors poden jugar l'un contra l'altre, asseguts al mateix ordinador i utilitzant el teclat, els manetes o els comandaments.</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemDescription>C-Dogs, die Fortsetzung von Cyberdogs, ist ein Shoot'em-up-Videospiel, bei dem die Spieler während der Missionen kooperativ zusammenarbeiten und im „Dogfight“-Deathmatch-Modus gegeneinander antreten.
+C-Dogs hat Änderungen und Verbesserungen an der Spielmechanik des ursprünglichen Cyberdogs vorgenommen. Das Einzelspieler-/Koop-Gameplay ist in Kampagnen unterteilt, die jeweils aus vielen Missionen bestehen. In der Regel müssen die Spieler in jedem Level Feinde töten (wobei sie Zivilisten und Teamkameraden nicht verletzen dürfen), indem sie eine Vielzahl von vorab ausgewählten Waffen einsetzen, Schlüssel sammeln, um spezielle Räume freizuschalten, und erforderliche Gegenstände einsammeln, um die Missionsziele zu erfüllen.
+
+Das „Dogfight“-Gameplay ist ein typisches Deathmatch: Die Spieler versuchen, sich gegenseitig zu töten, um Punkte zu sammeln und den Sieg zu erringen. Es können nur zwei Spieler gegeneinander antreten, indem sie sich an denselben Computer setzen und die Tastatur, Joysticks oder Gamepads verwenden.</systemDescription>
+  </variables>
+  <variables lang="es">
+    <systemDescription>C-Dogs, la secuela de Cyberdogs, es un videojuego de disparos en el que los jugadores colaboran durante las misiones y compiten entre sí en el modo «dogfight» (combate aéreo).
+C-Dogs introdujo cambios y mejoras en la mecánica del juego original Cyberdogs. El modo de juego para un solo jugador/cooperativo se divide en campañas, cada una de las cuales comprende muchas misiones. Por lo general, en cada nivel los jugadores deben matar a los enemigos (evitando dañar a los civiles y a sus compañeros de equipo) utilizando una variedad de armas preseleccionadas; recoger llaves para desbloquear salas especiales; y recoger los objetos necesarios para cumplir los objetivos de la misión.
+
+El modo de juego «dogfight» es el típico deathmatch: los jugadores intentan matarse entre sí para ganar puntos y conseguir la victoria. Solo pueden jugar dos jugadores entre sí, sentados frente al mismo ordenador y utilizando el teclado, joysticks o mandos.</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>C-Dogs, la suite de Cyberdogs, est un jeu vidéo de tir dans lequel les joueurs coopèrent pendant les missions et s'affrontent dans le mode « dogfight » (combat aérien).
+C-Dogs a apporté des modifications et des améliorations au gameplay original de Cyberdogs. Le gameplay solo/coopératif est divisé en campagnes, chacune comprenant de nombreuses missions. En général, chaque niveau consiste pour le ou les joueurs à tuer des ennemis (tout en évitant de blesser les civils et leurs coéquipiers) à l'aide d'une variété d'armes présélectionnées, à collecter des clés pour déverrouiller des salles spéciales et à ramasser les objets nécessaires pour remplir les objectifs de la mission.
+
+Le gameplay « dogfight » est un deathmatch classique : les joueurs tentent de s'entre-tuer pour gagner des points et remporter la victoire. Seuls deux joueurs peuvent s'affronter, assis devant le même ordinateur et utilisant le clavier, des manettes ou des gamepads.</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>C-Dogs, nastavak igre Cyberdogs, je pucačina u kojoj igrači tijekom misija surađuju, a u modu "dogfight" deathmatch međusobno se bore.
+C-Dogs donio je promjene i poboljšanja u mehaniku originalne igre Cyberdogs. Igra za jednog igrača/kooperativna igra podijeljena je na kampanje, od kojih svaka sadrži mnogo misija. Obično svaka razina uključuje da igrač(i) ubijaju neprijatelje (izbjegavajući pri tome nanošenje štete civilima i suigračima) koristeći razna unaprijed odabrana oružja; skupljanje ključeva za otvaranje posebnih soba; te prikupljanje potrebnih predmeta za ispunjavanje ciljeva misije.
+
+Igranje u "dog fight" načinu je tipični deathmatch: igrači pokušavaju ubiti jedni druge za bodove kako bi ostvarili pobjedu. Protiv drugoga mogu igrati samo dva igrača, sjedeći za istim računalom i koristeći tipkovnicu, joysticke ili gamepade.</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemDescription>C-Dogs, il sequel di Cyberdogs, è un videogioco sparatutto in cui i giocatori collaborano durante le missioni e si sfidano l'uno contro l'altro nella modalità deathmatch "dogfight".
+C-Dogs ha apportato modifiche e miglioramenti alle meccaniche di gioco originali di Cyberdogs. Il gameplay per giocatore singolo/cooperativo è suddiviso in campagne, ciascuna delle quali comprende numerose missioni. Di solito, ogni livello prevede che il giocatore (o i giocatori) uccida i nemici (evitando di danneggiare civili e compagni di squadra) utilizzando una varietà di armi preselezionate, raccolga chiavi per sbloccare stanze speciali e raccolga gli oggetti necessari per completare gli obiettivi della missione.
+
+Il gameplay "dog fight" è il tipico deathmatch: i giocatori cercano di uccidersi a vicenda per ottenere punti e vincere. Solo due giocatori possono giocare l'uno contro l'altro, sedendosi allo stesso computer e utilizzando la tastiera, i joystick o i gamepad.</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>C-Dogs（サイバードッグス）は、サイバードッグスの続編となるシューティングゲームで、プレイヤーはミッション中は協力し合い、一方「ドッグファイト」デスマッチモードでは互いに競い合う。
+C-Dogsはオリジナル版『Cyberdogs』のゲームシステムを改良・進化させた。シングルプレイ／協力プレイはキャンペーン単位で構成され、各キャンペーンには多数のミッションが収録されている。通常、各ステージではプレイヤーが（民間人や味方を傷つけずに）様々な事前選択武器で敵を撃破し、特殊ルームの鍵を回収し、ミッション達成に必要なアイテムを収集する。
+
+「ドッグファイト」ゲームプレイは典型的なデスマッチ：プレイヤーは勝利を得るため、ポイント獲得を目指して互いを倒そうとする。対戦は2人限定で、同一コンピュータに同席しキーボード、ジョイスティック、またはゲームパッドを使用して行う。</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>사이버독스의 후속작인 C-Dogs는 슈팅 게임으로, 플레이어들은 미션 중에는 협력하고 "공중전" 데스매치 모드에서는 서로 대결합니다.
+C-Dogs는 원작 사이버독스의 게임 메커니즘을 개선하고 변경했습니다. 싱글플레이어/협동 플레이는 여러 미션으로 구성된 캠페인으로 나뉘어 있습니다. 일반적으로 각 레벨에서는 플레이어가 미리 선택된 다양한 무기를 사용해 적을 처치하고(민간인과 아군을 해치지 않도록 주의하며), 특수 방을 열기 위한 열쇠를 수집하며, 미션 목표를 달성하기 위한 필수 아이템을 획득하는 것이 주된 내용입니다.
+
+"도그파이트" 게임플레이는 전형적인 데스매치입니다: 플레이어들은 승리를 위해 점수를 얻기 위해 서로를 처치하려 합니다. 동일한 컴퓨터에 앉아 키보드, 조이스틱 또는 게임패드를 사용하여 최대 두 명의 플레이어만 서로 대결할 수 있습니다.</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>C-Dogs, het vervolg op Cyberdogs, is een shoot'em up-videogame waarin spelers samenwerken tijdens missies en tegen elkaar strijden in de "dogfight"-deathmatch-modus.
+C-Dogs heeft wijzigingen en verbeteringen aangebracht in de originele Cyberdogs-spelmechanica. De singleplayer-/coöperatieve gameplay is onderverdeeld in campagnes, die elk uit vele missies bestaan. Meestal moeten de spelers in elk level vijanden doden (zonder burgers en teamgenoten te verwonden) met behulp van een verscheidenheid aan vooraf geselecteerde wapens, sleutels verzamelen om speciale kamers te ontgrendelen en de benodigde items oppakken om de missiedoelen te voltooien.
+
+De "dogfight"-gameplay is de typische deathmatch: spelers proberen elkaar te doden voor punten, om zo de overwinning te behalen. Slechts twee spelers kunnen tegen elkaar spelen, door achter dezelfde computer te zitten en het toetsenbord, joysticks of gamepads te gebruiken.</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>C-Dogs, kontynuacja gry Cyberdogs, to strzelanka, w której gracze współpracują podczas misji, a także rywalizują ze sobą w trybie deathmatch „dogfight”.
+W C-Dogs wprowadzono zmiany i ulepszenia w stosunku do oryginalnej mechaniki gry Cyberdogs. Rozgrywka dla jednego gracza/współpraca jest podzielona na kampanie, z których każda składa się z wielu misji. Zazwyczaj każdy poziom polega na zabijaniu wrogów (unikając przy tym ranienia cywilów i członków drużyny) przy użyciu różnych, wcześniej wybranych broni, zbieraniu kluczy do odblokowania specjalnych pomieszczeń oraz zbieraniu przedmiotów niezbędnych do wykonania celów misji.
+
+Rozgrywka „dogfight” jest typowym deathmatchem: gracze próbują zabijać się nawzajem, aby zdobyć punkty i wygrać. Tylko dwóch graczy może grać przeciwko sobie, siedząc przy tym samym komputerze i używając klawiatury, joysticków lub gamepadów.</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>C-Dogs, a sequência de Cyberdogs, é um jogo de tiro em que os jogadores trabalham cooperativamente durante as missões e competem entre si no modo deathmatch "dogfight".
+C-Dogs fez alterações e melhorias na mecânica do jogo Cyberdogs original. A jogabilidade para um jogador/cooperativa é dividida em campanhas, cada uma composta por várias missões. Normalmente, cada nível envolve o(s) jogador(es) matando inimigos (evitando ferir civis e companheiros de equipe) usando uma variedade de armas pré-selecionadas; coletando chaves para desbloquear salas especiais; e pegando itens necessários para cumprir os objetivos da missão.
+
+A jogabilidade "dog fight" é o típico deathmatch: os jogadores tentam matar uns aos outros para ganhar pontos e obter a vitória. Apenas dois jogadores podem jogar um contra o outro, sentados no mesmo computador e usando o teclado, joysticks ou gamepads.</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>C-Dogs, continuarea jocului Cyberdogs, este un joc video de tip shoot'em up în care jucătorii colaborează în timpul misiunilor și se luptă între ei în modul deathmatch „dogfight”.
+C-Dogs a adus modificări și îmbunătățiri mecanicii jocului original Cyberdogs. Modul de joc single-player/cooperativ este împărțit în campanii, fiecare cuprinzând mai multe misiuni. De obicei, fiecare nivel implică uciderea inamicilor (evitând rănirea civililor și a coechipierilor) folosind o varietate de arme preselectate, colectarea cheilor pentru a debloca camere speciale și colectarea obiectelor necesare pentru îndeplinirea obiectivelor misiunii.
+
+Modul de joc „dogfight” este tipic pentru deathmatch: jucătorii încearcă să se omoare reciproc pentru a câștiga puncte și a obține victoria. Doar doi jucători pot juca unul împotriva celuilalt, stând la același computer și folosind tastatura, joystick-uri sau gamepad-uri.</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>C-Dogs, продолжение Cyberdogs, — это шутер, в котором игроки сотрудничают во время миссий и сражаются друг с другом в режиме «воздушного боя» на выживание.
+C-Dogs внесла изменения и улучшения в оригинальную игровую механику Cyberdogs. Однопользовательский/кооперативный игровой процесс разделен на кампании, каждая из которых состоит из множества миссий. Обычно на каждом уровне игроку (игрокам) предстоит убивать врагов (стараясь не навредить гражданским лицам и товарищам по команде) с помощью различных заранее выбранных видов оружия, собирать ключи, чтобы открыть специальные комнаты, и подбирать необходимые предметы для выполнения целей миссии.
+
+Игровой процесс «воздушного боя» представляет собой типичный deathmatch: игроки пытаются убить друг друга, чтобы набрать очки и одержать победу. Играть друг против друга могут только два игрока, сидя за одним компьютером и используя клавиатуру, джойстики или геймпады.</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>C-Dogs, наставак игре Cyberdogs, је шутер видео-игра у којој играчи сарађују током мисија, а међусобно се супротстављају у "dogfight" deathmatch режиму.
+C-Dogs је унео измене и побољшања у оригиналну механику игре Cyberdogs. Једнокориснички/кооперативни режим игре подељен је на кампање, од којих свака обухвата више мисија. Обично сваки ниво подразумева да играч(и) убијају непријатеље (избегавајући да повреде цивиле и саиграче) користећи разна унапред одабрана оружја; прикупљају кључеве за отварање посебних просторија; и прикупљају потребне предмете како би испунили циљеве мисије.
+
+Играње у "догфајту" је типичан деатхматч: играчи покушавају да убију једни друге за поене како би остварили победу. Само два играча могу да играју један против другог, седећи за истим рачунаром и користећи тастатуру, џојстике или гејмпадове.</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>C-Dogs, uppföljaren till Cyberdogs, är ett skjutspel där spelarna samarbetar under uppdrag och tävlar mot varandra i "dogfight"-deathmatch-läget.
+C-Dogs har gjort ändringar och förbättringar av det ursprungliga Cyberdogs-spelets mekanik. Spelet för en spelare/samarbete är uppdelat i kampanjer, som var och en består av många uppdrag. Vanligtvis innebär varje nivå att spelaren/spelarna dödar fiender (samtidigt som de undviker att skada civila och lagkamrater) med hjälp av en rad förvalda vapen, samlar nycklar för att låsa upp specialrum och plockar upp nödvändiga föremål för att uppfylla uppdragets mål.
+
+"Dogfight"-spelet är ett typiskt deathmatch-spel: spelarna försöker döda varandra för att få poäng och vinna. Endast två spelare kan spela mot varandra genom att sitta vid samma dator och använda tangentbord, joysticks eller gamepads.</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>《C-Dogs》作为《Cyberdogs》的续作，是一款射击类游戏。玩家在任务中需协同作战，而在"空战"死亡竞赛模式中则需相互对抗。
+《C-Dogs》在原版《Cyberdogs》游戏机制基础上进行了改进与优化。单人/合作玩法被划分为多个战役，每个战役包含多项任务。通常每个关卡要求玩家使用预设武器消灭敌人（同时避免伤害平民和队友）、收集钥匙解锁特殊房间、拾取必要物品以完成任务目标。
+
+"狗斗"模式采用经典死亡竞赛玩法：玩家通过击杀对手获取积分以争夺胜利。该模式仅支持双人同屏对战，玩家需共用一台电脑，通过键盘、摇杆或手柄进行操作。</systemDescription>
+  </variables>
 </theme>

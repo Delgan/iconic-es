@@ -8,4 +8,58 @@
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
+  <variables lang="ar">
+    <systemDescription>ioRTCW هو مشروع مفتوح المصدر يهدف إلى إنشاء نسخة أساسية من Return to Castle Wolfenstein، والتي يمكن استخدامها لمزيد من التطوير والتحسين. على سبيل المثال، إصلاح أخطاء النسخة الأصلية، وتوفير الدعم لدقة الشاشة العريضة وأنظمة 64 بت، وتحسين الرسومات وغير ذلك الكثير.</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>ioRTCW je projekt otvorenog koda koji ima za cilj stvoriti osnovnu verziju igre Return to Castle Wolfenstein, koja se može koristiti za daljnji razvoj i poboljšanja. Na primjer, ispravljanje grešaka originala, pružanje podrške za širokoekranne rezolucije i 64-bitne sisteme, poboljšanje grafike i još mnogo toga.</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>ioRTCW és un projecte de codi obert que té com a objectiu crear una versió bàsica de Return to Castle Wolfenstein que es pugui utilitzar per al desenvolupament i la millora posteriors. Per exemple, corregir errors de l'original, oferir suport per a resolucions panoràmiques i sistemes de 64 bits, millorar els gràfics i molt més.</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemDescription>ioRTCW ist ein Open-Source-Projekt, dessen Ziel es ist, eine Basisversion von Return to Castle Wolfenstein zu erstellen, die für die weitere Entwicklung und Verbesserung genutzt werden kann. Dazu gehören beispielsweise die Behebung von Fehlern im Original, die Unterstützung von Breitbildauflösungen und 64-Bit-Systemen, die Verbesserung der Grafik und vieles mehr.</systemDescription>
+  </variables>
+  <variables lang="es">
+    <systemDescription>ioRTCW es un proyecto de código abierto cuyo objetivo es crear una versión básica de Return to Castle Wolfenstein que pueda utilizarse para su posterior desarrollo y mejora. Por ejemplo, corregir errores del original, proporcionar compatibilidad con resoluciones de pantalla panorámica y sistemas de 64 bits, mejorar los gráficos y mucho más.</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>ioRTCW est un projet open source qui vise à créer une version de base de Return to Castle Wolfenstein, pouvant être utilisée pour poursuivre le développement et l'amélioration du jeu. Par exemple, corriger les bugs de la version originale, prendre en charge les résolutions grand écran et les systèmes 64 bits, améliorer les graphismes et bien plus encore.</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>ioRTCW je projekt otvorenog koda koji ima za cilj stvoriti osnovnu verziju igre Return to Castle Wolfenstein, koja se može koristiti za daljnji razvoj i poboljšanja. Na primjer, ispravljanje bugova originala, podrška za širokoekranske rezolucije i 64-bitne sustave, poboljšanje grafike i još mnogo toga.</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemDescription>ioRTCW è un progetto open source che mira a creare una versione base di Return to Castle Wolfenstein, che può essere utilizzata per ulteriori sviluppi e miglioramenti. Ad esempio, correggere i bug dell'originale, fornire supporto per risoluzioni widescreen e sistemi a 64 bit, migliorare la grafica e molto altro ancora.</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>ioRTCWは、Return to Castle Wolfensteinのベースバージョンを作成することを目的としたオープンソースプロジェクトです。これにより、さらなる開発や改良が可能となります。例えば、オリジナルのバグ修正、ワイドスクリーン解像度や64ビットシステムへの対応、グラフィックの改善など、様々な改良が行われます。</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>ioRTCW는 Return to Castle Wolfenstein의 기본 버전을 제작하여 향후 개발 및 개선에 활용할 수 있도록 하는 오픈 소스 프로젝트입니다. 예를 들어, 원작의 버그 수정, 와이드스크린 해상도 및 64비트 시스템 지원 제공, 그래픽 개선 등 다양한 작업을 수행합니다.</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>ioRTCW is een open source-project dat tot doel heeft een basisversie van Return to Castle Wolfenstein te creëren, die kan worden gebruikt voor verdere ontwikkeling en verbetering. Bijvoorbeeld het verhelpen van bugs in het origineel, ondersteuning bieden voor breedbeeldresoluties en 64-bits systemen, de graphics verbeteren en nog veel meer.</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>ioRTCW to projekt typu open source, którego celem jest stworzenie podstawowej wersji gry Return to Castle Wolfenstein, która może być wykorzystana do dalszego rozwoju i ulepszeń. Na przykład do naprawiania błędów oryginału, zapewnienia obsługi rozdzielczości panoramicznych i systemów 64-bitowych, poprawy grafiki i wielu innych rzeczy.</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>ioRTCW é um projeto de código aberto que visa criar uma versão base do Return to Castle Wolfenstein, que pode ser usada para desenvolvimento e melhorias futuras. Por exemplo, corrigir bugs do original, fornecer suporte para resoluções widescreen e sistemas de 64 bits, melhorar os gráficos e muito mais.</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>ioRTCW este un proiect open source care are ca scop crearea unei versiuni de bază a jocului Return to Castle Wolfenstein, care poate fi utilizată pentru dezvoltarea și îmbunătățirea ulterioară a acestuia. De exemplu, remedierea erorilor din versiunea originală, oferirea de suport pentru rezoluții widescreen și sisteme pe 64 de biți, îmbunătățirea graficii și multe altele.</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>ioRTCW — это проект с открытым исходным кодом, цель которого — создать базовую версию игры Return to Castle Wolfenstein, которую можно будет использовать для дальнейшей разработки и усовершенствования. Например, исправлять ошибки оригинальной версии, обеспечить поддержку широкоформатных разрешений и 64-разрядных систем, улучшить графику и многое другое.</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>ioRTCW је пројекат отвореног кода који има за циљ да створи основну верзију Return to Castle Wolfenstein, која се може користити за даљи развој и унапређење. На пример, исправљање грешака оригинала, обезбеђивање подршке за широкоформатне резолуције и 64-битне системе, побољшање графике и још много тога.</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>ioRTCW är ett öppen källkodsprojekt som syftar till att skapa en basversion av Return to Castle Wolfenstein, som kan användas för vidare utveckling och förbättring. Till exempel att fixa buggar i originalet, ge stöd för bredbildsresolutioner och 64-bitars system, förbättra grafiken och mycket mer.</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>ioRTCW是一个开源项目，旨在创建《重返狼堡》的基础版本，以便进行后续开发与改进。例如修复原版游戏的漏洞、支持宽屏分辨率和64位系统、提升画面表现力等诸多改进。</systemDescription>
+  </variables>
 </theme>

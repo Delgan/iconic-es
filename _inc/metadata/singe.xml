@@ -8,4 +8,58 @@
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
+  <variables lang="ar">
+    <systemDescription>Hypseus SINGE هو "محرك ألعاب تفاعلي إلى حد ما" (سمي على اسم التنين من Dragon's Lair). وهو التطور المنطقي لمحاكي Daphne، الذي يستخدم نظام برمجة قائم على Lua لمحاكاة ألعاب LaserDisc بسرعة أو إنشاء ألعاب جديدة تمامًا استنادًا إلى ملفات الفيديو! اللغة سهلة التعلم وقوية جدًا وسريعة. جميع الوظائف اللازمة لتطوير لعبتك الخاصة متاحة من خلال واجهة برمجة تطبيقات (API) بسيطة.</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>Hypseus SINGE je "Donekle interaktivni nostalgični game engine" (nazvan po zmaju iz Dragon's Laira). To je logička evolucija emulatora Daphne, koji koristi skriptni sistem zasnovan na Lua-i za brzu simulaciju LaserDisc igara ili kreiranje potpuno novih igara zasnovanih na video datotekama! Jezik je jednostavan za učenje, veoma moćan i brz. Sve funkcije potrebne za razvoj vlastite igre dostupne su putem jednostavnog aplikacijskog programskog sučelja (API).</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>Hypseus SINGE és el "Somewhat Interactive Nostalgic Game Engine" (anomenat així pel drac de Dragon's Lair). És l'evolució lògica de l'emulador Daphne, que utilitza un sistema d'escriptura basat en Lua per simular ràpidament jocs de LaserDisc o crear jocs completament nous basats en fitxers de vídeo! El llenguatge és fàcil d'aprendre, molt potent i ràpid. Totes les funcions necessàries per desenvolupar el teu propi joc estan disponibles a través d'una simple interfície de programació d'aplicacions (API).</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemDescription>Hypseus SINGE ist die „Somewhat Interactive Nostalgic Game Engine” (benannt nach dem Drachen aus Dragon's Lair). Es handelt sich um die logische Weiterentwicklung des Daphne-Emulators, der ein Lua-basiertes Skriptsystem verwendet, um LaserDisc-Spiele schnell zu simulieren oder völlig neue Spiele auf der Grundlage von Videodateien zu erstellen! Die Sprache ist leicht zu erlernen, sehr leistungsfähig und schnell. Alle Funktionen, die Sie zur Entwicklung Ihres eigenen Spiels benötigen, sind über eine einfache Anwendungsprogrammierschnittstelle (API) verfügbar.</systemDescription>
+  </variables>
+  <variables lang="es">
+    <systemDescription>Hypseus SINGE es el «Somewhat Interactive Nostalgic Game Engine» (motor de juegos nostálgicos algo interactivo, cuyo nombre proviene del dragón de Dragon's Lair). Es la evolución lógica del emulador Daphne, que utiliza un sistema de scripting basado en Lua para simular rápidamente juegos de LaserDisc o crear juegos completamente nuevos basados en archivos de vídeo. El lenguaje es fácil de aprender, muy potente y rápido. Todas las funciones necesarias para desarrollar tu propio juego están disponibles a través de una sencilla interfaz de programación de aplicaciones (API).</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>Hypseus SINGE est le « Somewhat Interactive Nostalgic Game Engine » (nommé d'après le dragon de Dragon's Lair). Il s'agit de l'évolution logique de l'émulateur Daphne, qui utilise un système de script basé sur Lua pour simuler rapidement des jeux LaserDisc ou créer des jeux entièrement nouveaux à partir de fichiers vidéo ! Le langage est facile à apprendre, très puissant et rapide. Toutes les fonctions nécessaires au développement de votre propre jeu sont disponibles via une interface de programmation d'application (API) simple.</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>Hypseus SINGE je "Donekle interaktivni nostalgični igraći motor" (nazvan po zmaju iz Dragon's Laira). To je logična evolucija emulatora Daphne, koji koristi skriptni sustav temeljen na Lua jeziku za brzu simulaciju LaserDisc igara ili stvaranje potpuno novih igara temeljenih na video datotekama! Jezik je jednostavan za učenje, vrlo moćan i brz. Sve potrebne funkcije za razvoj vlastite igre dostupne su putem jednostavnog sučelja za programiranje aplikacija (API).</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemDescription>Hypseus SINGE è il "Somewhat Interactive Nostalgic Game Engine" (dal nome del drago di Dragon's Lair). È l'evoluzione logica dell'emulatore Daphne, che utilizza un sistema di scripting basato su Lua per simulare rapidamente giochi LaserDisc o creare giochi completamente nuovi basati su file video! Il linguaggio è facile da imparare, molto potente e veloce. Tutte le funzioni necessarie per sviluppare il proprio gioco sono disponibili attraverso una semplice interfaccia di programmazione dell'applicazione (API).</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>Hypseus SINGEは「ややインタラクティブなノスタルジックゲームエンジン」（ドラゴンズレアのドラゴンにちなんで命名）です。これはDaphneエミュレータの論理的進化形であり、Luaベースのスクリプトシステムを用いてレーザーディスクゲームを迅速にシミュレートしたり、動画ファイルを基に全く新しいゲームを作成したりできます！この言語は習得が容易で、非常に強力かつ高速です。 独自のゲーム開発に必要な全機能が、シンプルなアプリケーションプログラミングインターフェース（API）を通じて利用可能です。</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>Hypseus SINGE는 "어느 정도 상호작용이 가능한 향수를 자극하는 게임 엔진"(Dragon's Lair의 용에서 이름을 따옴)입니다. 이는 Daphne 에뮬레이터의 논리적 진화 형태로, Lua 기반 스크립팅 시스템을 사용하여 레이저디스크 게임을 신속하게 시뮬레이션하거나 동영상 파일을 기반으로 완전히 새로운 게임을 제작할 수 있습니다! 이 언어는 배우기 쉽고 매우 강력하며 빠릅니다. 사용자만의 게임 개발에 필요한 모든 기능은 간단한 애플리케이션 프로그래밍 인터페이스(API)를 통해 제공됩니다.</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>Hypseus SINGE is de "Somewhat Interactive Nostalgic Game Engine" (vernoemd naar de draak uit Dragon's Lair). Het is de logische evolutie van de Daphne-emulator, die een op Lua gebaseerd scriptsysteem gebruikt om snel LaserDisc-games te simuleren of volledig nieuwe games te maken op basis van videobestanden! De taal is gemakkelijk te leren, zeer krachtig en snel. Alle functies die nodig zijn om je eigen game te ontwikkelen, zijn beschikbaar via een eenvoudige applicatieprogrammeerinterface (API).</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>Hypseus SINGE to „Somewhat Interactive Nostalgic Game Engine” (nazwa pochodzi od smoka z gry Dragon's Lair). Jest to logiczna ewolucja emulatora Daphne, który wykorzystuje system skryptowy oparty na języku Lua do szybkiej symulacji gier LaserDisc lub tworzenia zupełnie nowych gier na podstawie plików wideo! Język jest łatwy do nauczenia, bardzo wydajny i szybki. Wszystkie funkcje potrzebne do stworzenia własnej gry są dostępne poprzez prosty interfejs programowania aplikacji (API).</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>Hypseus SINGE é o "Somewhat Interactive Nostalgic Game Engine" (batizado em homenagem ao dragão do Dragon's Lair). É a evolução lógica do emulador Daphne, que usa um sistema de script baseado em Lua para simular rapidamente jogos LaserDisc ou criar jogos completamente novos com base em arquivos de vídeo! A linguagem é fácil de aprender, muito poderosa e rápida. Todas as funções necessárias para desenvolver seu próprio jogo estão disponíveis por meio de uma interface de programação de aplicativos (API) simples.</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>Hypseus SINGE este „Somewhat Interactive Nostalgic Game Engine” (numit după dragonul din Dragon's Lair). Este evoluția logică a emulatorului Daphne, care utilizează un sistem de scripturi bazat pe Lua pentru a simula rapid jocurile LaserDisc sau pentru a crea jocuri complet noi pe baza fișierelor video! Limbajul este ușor de învățat, foarte puternic și rapid. Toate funcțiile necesare pentru a dezvolta propriul joc sunt disponibile printr-o interfață simplă de programare a aplicațiilor (API).</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>Hypseus SINGE — это «Somewhat Interactive Nostalgic Game Engine» (названный в честь дракона из Dragon's Lair). Это логическое развитие эмулятора Daphne, который использует скриптовую систему на основе Lua для быстрой симуляции игр LaserDisc или создания совершенно новых игр на основе видеофайлов! Язык прост в освоении, очень мощный и быстрый. Все функции, необходимые для разработки собственной игры, доступны через простой интерфейс прикладного программирования (API).</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>Hypseus SINGE је "Нешто интерактивни носталгични гејм енджин" (назван по змају из Dragon's Lair). То је логичан наставак емулатора Daphne, који користи скриптни систем заснован на Lua-и за брзу симулацију LaserDisc игара или креирање потпуно нових игара заснованих на видео фајловима! Језик је лак за учење, веома моћан и брз. Све функције потребне за развој сопствене игре доступне су преко једноставног интерфејса за програмирање апликација (API).</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>Hypseus SINGE är "Somewhat Interactive Nostalgic Game Engine" (uppkallad efter draken från Dragon's Lair). Det är den logiska utvecklingen av Daphne-emulatorn, som använder ett Lua-baserat skriptsystem för att snabbt simulera LaserDisc-spel eller skapa helt nya spel baserade på videofiler! Språket är lätt att lära sig, mycket kraftfullt och snabbt. Alla funktioner som behövs för att utveckla ditt eget spel är tillgängliga via ett enkelt applikationsprogrammeringsgränssnitt (API).</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>Hypseus SINGE 是"略带互动性的怀旧游戏引擎"（其名源自《龙穴》中的巨龙）。作为 Daphne 模拟器的自然进化，它采用基于 Lua 的脚本系统，可快速模拟激光碟游戏或基于视频文件创建全新游戏！该语言易于学习，功能强大且运行迅捷。 所有开发游戏所需的功能均可通过简洁的应用程序接口（API）调用。</systemDescription>
+  </variables>
 </theme>

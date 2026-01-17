@@ -12,4 +12,130 @@ The console was produced by different companies and sold with different names. N
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
+  <variables lang="ar">
+    <systemDescription>جهاز Interton Video Computer 4000 (المختصر رسميًا Interton VC 4000) هو جهاز ألعاب منزلي مبكر من الجيل الثاني قائم على خرطوشة ROM بقدرة 8 بت، صدر في ألمانيا والمملكة المتحدة وفرنسا وإسبانيا والنمسا وهولندا وأستراليا عام 1978 من قبل شركة Interton الألمانية المتخصصة في أجهزة مساعدة السمع. يُعد هذا الجهاز خليفة Interton Video 3001 وكان يُباع بسعر 298 مارك ألماني وتم إيقافه في 1983.
+
+يعتمد جهاز Interton VC 4000 على معالج Signetics 2650 (وهو نفسه المستخدم في Arcadia 2001) ووحدة تحكم Signetics 2636. تحتوي وحدات التحكم على لوحة مفاتيح مكونة من 12 زرًا، وزرين لإطلاق النار، وعصا تحكم. داخل لوحة التحكم الخاصة بالنظام توجد أربعة أزرار مختلفة: تشغيل/إيقاف، إعادة تعيين، اختيار، وبدء.
+
+تم تصنيع الجهاز بواسطة شركات مختلفة وبيع بأسماء مختلفة. ليست كل الوحدات متوافقة مع بعضها بسبب اختلافات في شكل وأبعاد فتحات الخراطيش، لكن جميع الأنظمة متوافقة من ناحية البرمجيات.</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>Interton Video Computer 4000 (službeno skraćeno Interton VC 4000) je rani 8-bit ROM cartridge konzola drugog naraštaja, izdana 1978. u Njemačkoj, Engleskoj, Francuskoj, Španjolskoj, Austriji, Nizozemskoj i Australiji od strane njemačkog proizvođača aparata za sluh Interton. Konzola je nasljednik Interton Video 3001 i prodavana je za 298 Deutsche Mark, a proizvodnja je prestala 1983.
+
+Snaga Interton VC 4000 dolazi od Signetics 2650 CPU-a (isti kao u Arcadia 2001) i Signetics 2636 kontrolera. Oba kontrolera sadrže 12-tipkovničku tipkovnicu, dvije tipke za pucanje i joystick. U okviru sistemske upravljačke ploče nalaze se četiri različita gumba: ON/OFF, RESET, SELECT i START.
+
+Konzolu su proizvodile različite tvrtke i prodavana je pod različitim imenima. Nisu sve konzole međusobno kompatibilne zbog razlika u obliku i dimenzijama utora za kartridže, ali svi sustavi su softverski kompatibilni.</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>L'Interton Video Computer 4000 (abreujat oficialment com Interton VC 4000) és una consola domèstica primitiva de 8 bits basada en cartutx ROM de segona generació, llançada a Alemanya, Anglaterra, França, Espanya, Àustria, els Països Baixos i Austràlia el 1978 per la companyia alemanya Interton, fabricant d'aids auditius. La consola és la successora de la Interton Video 3001 i es venia per 298 marcs alemanys, i es va descontinuar el 1983.
+
+La potència de l'Interton VC 4000 prové d'un CPU Signetics 2650 (el mateix que a l'Arcadia 2001) i d'un controlador Signetics 2636. Ambdós controladors tenen un teclat de 12 tecles, dos botons de disparo i una palanca. Al panell de control del sistema hi ha quatre botons diferents: ON/OFF, RESET, SELECT i START.
+
+La consola va ser fabricada per diferents empreses i venuda amb diferents noms. No totes les consoles són compatibles entre si a causa de diferències en la forma i dimensions de les ranures dels cartutxos, però tots els sistemes són compatibles a nivell de programari.</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemDescription>Der Interton Video Computer 4000 (offiziell abgekürzt Interton VC 4000) ist eine frühe 8-Bit-ROM-Cartridge-Heimvideospielkonsole der zweiten Generation, die 1978 in Deutschland, England, Frankreich, Spanien, Österreich, den Niederlanden und Australien von dem deutschen Hörgerätehersteller Interton veröffentlicht wurde. Die Konsole ist der Nachfolger des Interton Video 3001, wurde für 298 Deutsche Mark verkauft und 1983 eingestellt.
+
+Die Leistung des Interton VC 4000 stammt von einer Signetics 2650 CPU (wie auch die Arcadia 2001) und einem Signetics 2636 Spielcontroller. Beide Controller verfügen über ein 12-Tasten-Layout, zwei Feuerknöpfe und einen Joystick. Am Bedienfeld des Systems befinden sich vier verschiedene Tasten: ON/OFF, RESET, SELECT und START.
+
+Die Konsole wurde von verschiedenen Firmen hergestellt und unter unterschiedlichen Namen verkauft. Nicht alle Konsolen sind aufgrund von Unterschieden in Form und Abmessungen der Cartridge-Slots miteinander kompatibel, aber alle Systeme sind softwareseitig kompatibel.</systemDescription>
+  </variables>
+  <variables lang="es">
+    <systemDescription>El Interton Video Computer 4000 (abreviado oficialmente como Interton VC 4000) es una consola doméstica temprana de segunda generación basada en cartuchos ROM de 8 bits que se lanzó en Alemania, Inglaterra, Francia, España, Austria, los Países Bajos y Australia en 1978 por el fabricante alemán de audífonos Interton. La consola es la sucesora de la Interton Video 3001 y se vendía por 298 marcos alemanes y se descontinuó en 1983.
+
+La potencia del Interton VC 4000 procede de una CPU Signetics 2650 (la misma que en la Arcadia 2001) y de un controlador Signetics 2636. Ambos mandos contienen un teclado de 12 botones, dos botones de disparo y un joystick. En el panel de control del sistema hay cuatro botones diferentes: ON/OFF, RESET, SELECT y START.
+
+La consola fue fabricada por diferentes compañías y vendida con distintos nombres. No todas las consolas son compatibles entre sí debido a diferencias en las formas y dimensiones de las ranuras de los cartuchos, pero todos los sistemas son compatibles a nivel de software.</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>L'Interton Video Computer 4000 (abrégé officiellement Interton VC 4000) est une console de jeux vidéo domestique de deuxième génération basée sur cartouche ROM 8 bits, sortie en Allemagne, au Royaume-Uni, en France, en Espagne, en Autriche, aux Pays-Bas et en Australie en 1978 par le fabricant allemand d'appareils auditifs Interton. La console est le successeur de l'Interton Video 3001 et était vendue pour 298 Deutsche Mark ; elle a été arrêtée en 1983.
+
+La puissance de l'Interton VC 4000 provient d'un CPU Signetics 2650 (le même que sur l'Arcadia 2001) et d'un contrôleur Signetics 2636. Les deux contrôleurs disposent d'un clavier à 12 touches, de deux boutons de tir et d'un joystick. Sur le panneau de contrôle du système, il y a quatre boutons différents : ON/OFF, RESET, SELECT et START.
+
+La console a été fabriquée par différentes entreprises et vendue sous différents noms. Toutes les consoles ne sont pas compatibles entre elles en raison de différences de forme et de dimensions des emplacements cartouche, mais tous les systèmes sont compatibles au niveau logiciel.</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>Interton Video Computer 4000 (službeno skraćeno Interton VC 4000) je rana 8-bitna ROM kartridž konzola drugog naraštaja, izdana 1978. u Njemačkoj, Engleskoj, Francuskoj, Španjolskoj, Austriji, Nizozemskoj i Australiji od strane njemačkog proizvođača aparata za sluh Interton. Konzola je nasljednik Interton Video 3001 i prodavana je za 298 Deutsche Mark te je ukinuta 1983.
+
+Snaga Interton VC 4000 dolazi iz Signetics 2650 CPU-a (isti kao u Arcadia 2001) i Signetics 2636 kontrolera. Oba kontrolera sadrže 12-tipkovničku tipkovnicu, dvije tipke za pucanje i joystick. Na upravljačkoj ploči sustava nalaze se četiri različita gumba: ON/OFF, RESET, SELECT i START.
+
+Konzolu su proizvodile različite tvrtke i prodavana je pod različitim imenima. Nisu sve konzole međusobno kompatibilne zbog razlika u obliku i dimenzijama utora za kartridže, ali svi sustavi su softverski kompatibilni.</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemDescription>L'Interton Video Computer 4000 (ufficialmente abbreviato Interton VC 4000) è una console domestica di seconda generazione basata su cartucce ROM a 8 bit, rilasciata in Germania, Inghilterra, Francia, Spagna, Austria, Paesi Bassi e Australia nel 1978 dal produttore tedesco di apparecchi acustici Interton. La console è il successore dell'Interton Video 3001 ed era venduta al prezzo di 298 marchi tedeschi, ed è stata interrotta nel 1983.
+
+La potenza dell'Interton VC 4000 proviene da una CPU Signetics 2650 (la stessa dell'Arcadia 2001) e da un controller Signetics 2636. Entrambi i controller contengono una tastiera a 12 tasti, due pulsanti di fuoco e un joystick. Nel pannello di controllo del sistema ci sono quattro pulsanti diversi: ON/OFF, RESET, SELECT e START.
+
+La console è stata prodotta da diverse aziende e venduta con nomi diversi. Non tutte le console sono compatibili tra loro a causa delle differenze nella forma e nelle dimensioni degli slot delle cartucce, ma tutti i sistemi sono compatibili a livello software.</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>Interton Video Computer 4000（公式略称 Interton VC 4000）は、ドイツの補聴器メーカー Interton によって 1978 年にドイツ、英国、フランス、スペイン、オーストリア、オランダ、オーストラリアで発売された、初期の 8 ビット ROM カートリッジ方式第2世代家庭用ゲーム機です。このコンソールは Interton Video 3001 の後継機で、298 ドイツマルクで販売され、1983 年に生産終了となりました。
+
+Interton VC 4000 の駆動は Signetics 2650 CPU（Arcadia 2001 と同じ）および Signetics 2636 コントローラによって行われます。両コントローラは 12 キーのキーパッド、2 つのファイアボタン、ジョイスティックを備えています。システムの操作パネルには、ON/OFF、RESET、SELECT、START の 4 つのボタンがあります。
+
+このコンソールは複数の企業によって製造され、異なる名称で販売されました。カートリッジスロットの形状や寸法の違いによりすべての本体が互換性を持つわけではありませんが、ソフトウェアは互換性があります。</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>Interton Video Computer 4000(공식 약칭 Interton VC 4000)는 독일의 보청기 제조업체 Interton이 1978년에 독일, 영국, 프랑스, 스페인, 오스트리아, 네덜란드, 호주에서 출시한 초기 8비트 ROM 카트리지 기반 2세대 가정용 비디오 게임 콘솔입니다. 이 콘솔은 Interton Video 3001의 후속 기종으로 298 도이체마르크에 판매되었으며 1983년에 단종되었습니다.
+
+Interton VC 4000의 동력은 Signetics 2650 CPU(Arcadia 2001과 동일)와 Signetics 2636 게임 컨트롤러에서 나옵니다. 두 컨트롤러 모두 12버튼 키패드, 두 개의 발사 버튼 및 조이스틱을 포함합니다. 시스템 제어 패널에는 ON/OFF, RESET, SELECT 및 START의 네 가지 버튼이 있습니다.
+
+이 콘솔은 여러 회사에서 제작되어 다양한 이름으로 판매되었습니다. 카트리지 슬롯의 모양과 치수 차이로 인해 모든 콘솔이 서로 호환되는 것은 아니지만, 소프트웨어적으로는 모든 시스템이 호환됩니다.</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>De Interton Video Computer 4000 (officieel afgekort als Interton VC 4000) is een vroege 8-bit ROM-cartridge homevideospelconsole van de tweede generatie, uitgebracht in Duitsland, Engeland, Frankrijk, Spanje, Oostenrijk, Nederland en Australië in 1978 door de Duitse hoortoestelfabrikant Interton. De console is de opvolger van de Interton Video 3001 en werd verkocht voor 298 Deutsche Mark en uit productie genomen in 1983.
+
+De kracht van de Interton VC 4000 komt van een Signetics 2650 CPU (dezelfde als in de Arcadia 2001) en een Signetics 2636 controller. Beide controllers bevatten een 12-knoppen toetsenbord, twee vuurk noppen en een joystick. Op het bedieningspaneel van het systeem bevinden zich vier verschillende knoppen: ON/OFF, RESET, SELECT en START.
+
+De console werd door verschillende bedrijven geproduceerd en onder verschillende namen verkocht. Niet alle consoles zijn compatibel met elkaar vanwege verschillen in vorm en afmetingen van de cartridge-slots, maar alle systemen zijn softwarematig compatibel.</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>Interton Video Computer 4000 (oficjalnie skracane jako Interton VC 4000) to wczesna, oparta na kartridżach ROM, domowa konsola wideo drugiej generacji 8-bit, wydana w Niemczech, Anglii, Francji, Hiszpanii, Austrii, Holandii i Australii w 1978 roku przez niemieckiego producenta aparatów słuchowych Interton. Konsola jest następcą Interton Video 3001 i sprzedawana była za 298 marek niemieckich, produkcję zakończono w 1983 roku.
+
+Moc Interton VC 4000 pochodzi z procesora Signetics 2650 (takiego samego jak w Arcadia 2001) i kontrolera Signetics 2636. Oba kontrolery zawierają klawiaturę 12-przyciskową, dwa przyciski ognia i joystick. Na panelu sterowania systemu znajdują się cztery różne przyciski: ON/OFF, RESET, SELECT i START.
+
+Konsola była produkowana przez różne firmy i sprzedawana pod różnymi nazwami. Nie wszystkie konsole są ze sobą kompatybilne z powodu różnic w kształcie i wymiarach slotów na kartridże, ale wszystkie systemy są kompatybilne programowo.</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>O Interton Video Computer 4000 (abreviado oficialmente como Interton VC 4000) é uma consola doméstica de videojogos de segunda geração baseada em cartucho ROM de 8 bits, lançada na Alemanha, Inglaterra, França, Espanha, Áustria, Países Baixos e Austrália em 1978 pelo fabricante alemão de aparelhos auditivos Interton. A consola é o sucessor do Interton Video 3001 e era vendida por 298 marcos alemães, tendo sido descontinuada em 1983.
+
+O Interton VC 4000 é alimentado por uma CPU Signetics 2650 (a mesma que a Arcadia 2001) e um controlador Signetics 2636. Ambos os controladores contêm um teclado de 12 botões, dois botões de disparo e um joystick. No painel de controlo do sistema existem quatro botões diferentes: ON/OFF, RESET, SELECT e START.
+
+A consola foi fabricada por diferentes empresas e vendida com nomes diferentes. Nem todas as consolas são compatíveis entre si devido a diferenças na forma e dimensões das ranhuras dos cartuchos, mas todos os sistemas são compatíveis a nível de software.</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>Interton Video Computer 4000 (abreviat oficial Interton VC 4000) este o consolă de jocuri video de primă generație bazată pe cartuș ROM pe 8 biți, lansată în Germania, Anglia, Franța, Spania, Austria, Țările de Jos și Australia în 1978 de către producătorul german de aparate auditive Interton. Consola este succesoarea Interton Video 3001 și a fost vândută pentru 298 de mărci germane, fiind întreruptă în 1983.
+
+Puterea Interton VC 4000 provine de la un CPU Signetics 2650 (același ca în Arcadia 2001) și un controller Signetics 2636. Ambele controllere au o tastatură cu 12 butoane, două butoane de foc și un joystick. Pe panoul de control al sistemului se află patru butoane diferite: ON/OFF, RESET, SELECT și START.
+
+Consola a fost fabricată de diferite companii și vândută sub nume diferite. Nu toate consolele sunt compatibile între ele din cauza diferențelor de formă și dimensiuni ale sloturilor pentru cartușe, dar toate sistemele sunt compatibile la nivel software.</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>Interton Video Computer 4000 (официально сокращённо Interton VC 4000) — ранняя 8-битная домашняя игровая консоль второго поколения на основе ROM-картриджей, выпущенная в 1978 году в Германии, Англии, Франции, Испании, Австрии, Нидерландах и Австралии немецким производителем слуховых аппаратов Interton. Консоль является преемником Interton Video 3001, продавалась за 298 немецких марок и была снята с производства в 1983 году.
+
+Работу Interton VC 4000 обеспечивает процессор Signetics 2650 (такой же, как в Arcadia 2001) и контроллер Signetics 2636. Оба контроллера содержат 12-кнопочную клавиатуру, две кнопки огня и джойстик. На панели управления системы есть четыре разные кнопки: ON/OFF, RESET, SELECT и START.
+
+Консоль производилась разными компаниями и продавалась под разными названиями. Не все консоли совместимы друг с другом из-за различий в форме и размерах слотов для картриджей, но все системы совместимы с точки зрения программного обеспечения.</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>Interton Video Computer 4000 (званично скраћено Interton VC 4000) је рана 8-битна ROM картридж конзола друге генерације која је објављена 1978. у Немачкој, Енглеској, Француској, Шпанији, Аустрији, Холандији и Аустралији од стране немачког произвођача помагала за слух Interton. Конзола је наследник Interton Video 3001 и продавана је за 298 немачких марака, а производња је прекинута 1983.
+
+Снага Interton VC 4000 долази од Signetics 2650 CPU-а (исти као у Arcadia 2001) и Signetics 2636 контролера. Оба контролера садрже 12-дугмадну тастатуру, два дугмета за пуцање и џојстик. На контролној табли система налазе се четири различита дугмета: ON/OFF, RESET, SELECT и START.
+
+Конзолу су производиле различите компаније и продаване су под различитим именима. Нису све конзоле међусобно компатибилне због разлика у облику и димензијама слотова за картридже, али сви системи су софтверски компатибилни.</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>Interton Video Computer 4000 (officiellt förkortat Interton VC 4000) är en tidig 8-bitars ROM-kassettbaserad hemmavideospelskonsol (andra generationen) som släpptes i Tyskland, England, Frankrike, Spanien, Österrike, Nederländerna och Australien 1978 av den tyska hörapparattillverkaren Interton. Konsolen är efterföljaren till Interton Video 3001 och såldes för 298 Deutsche Mark, produktionen upphörde 1983.
+
+Interton VC 4000 drivs av en Signetics 2650 CPU (samma som i Arcadia 2001) och en Signetics 2636 spelkontroll. Båda kontrollerna har ett 12-knapps numeriskt tangentbord, två elknappar och en joystick. På systemets kontrollpanel finns fyra olika knappar: ON/OFF, RESET, SELECT och START.
+
+Konsolen tillverkades av olika företag och såldes under olika namn. Inte alla konsoler är kompatibla med varandra på grund av skillnader i form och dimensioner av kassettfacken, men alla system är kompatibla programvarumässigt.</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>Interton Video Computer 4000（官方简称 Interton VC 4000）是一款早期第二代 8 位 ROM 卡带家用电子游戏机，由德国助听器制造商 Interton 于 1978 年在德国、英国、法国、西班牙、奥地利、荷兰和澳大利亚推出。该主机是 Interton Video 3001 的继任者，售价为 298 德国马克，于 1983 年停产。
+
+Interton VC 4000 由 Signetics 2650 CPU（与 Arcadia 2001 相同）和 Signetics 2636 控制器驱动。两个控制器都有 12 键键盘、两个发射按钮和一个摇杆。系统控制面板上有四个不同的按钮：ON/OFF、RESET、SELECT 和 START。
+
+该主机由不同公司生产并以不同名称出售。由于卡带插槽的形状和尺寸存在差异，并非所有机型都互换兼容，但所有系统在软件层面上是兼容的。</systemDescription>
+  </variables>
 </theme>

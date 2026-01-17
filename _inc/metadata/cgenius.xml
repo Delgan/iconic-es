@@ -10,4 +10,58 @@ Commander Keen is a series of computer games developed in the early 1990s, by id
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
+  <variables lang="ar">
+    <systemDescription>CGenius (Commander Genius) هي منصة لتشغيل ألعاب DOS الكلاسيكية من سلسلة Commander Keen. Commander Keen هي سلسلة من ألعاب الكمبيوتر التي طورتها شركة id Software في أوائل التسعينيات. تميزت ألعاب هذه السلسلة باستخدامها المبتكر لرسومات EGA، وتحتوي السلسلة على سبع ألعاب رسمية، مقسمة إلى مسلسلات قصيرة وتعتبر "حلقات".</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>CGenius (Commander Genius) je platforma za pokretanje klasičnih DOS igara iz serijala Commander Keen. Commander Keen je serijal računarskih igara koji je razvio id Software početkom 1990-ih. Igre u serijalu bile su karakteristične po inovativnoj upotrebi EGA grafike, a serijal sadrži sedam zvaničnih igara podijeljenih u mini-serije koje se smatraju "epizodama".</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>CGenius (Commander Genius) és una plataforma per executar els jocs clàssics de DOS de la sèrie Commander Keen. Commander Keen és una sèrie de jocs d'ordinador desenvolupada a principis dels anys noranta per id Software. Els jocs de la sèrie es caracteritzaven per l'ús innovador de gràfics EGA; la sèrie conté set jocs oficials, dividits en minisèries que es consideren "episodis".</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemDescription>CGenius (Commander Genius) ist eine Plattform zum Ausführen der klassischen DOS-Spiele der Commander Keen-Reihe. Commander Keen ist eine Reihe von Computerspielen, die Anfang der 1990er Jahre von id Software entwickelt wurde. Die Spiele der Reihe zeichneten sich durch die innovative Verwendung von EGA-Grafiken aus. Die Reihe umfasst sieben offizielle Spiele, die in Miniserien unterteilt sind und als „Episoden” betrachtet werden.</systemDescription>
+  </variables>
+  <variables lang="es">
+    <systemDescription>CGenius (Commander Genius) es una plataforma para ejecutar los clásicos juegos DOS de la serie Commander Keen. Commander Keen es una serie de videojuegos desarrollados a principios de la década de 1990 por id Software. Los juegos de la serie se caracterizaban por el uso innovador de gráficos EGA. La serie contiene siete juegos oficiales, divididos en miniseries y considerados «episodios».</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>CGenius (Commander Genius) est une plateforme permettant de jouer aux jeux DOS classiques de la série Commander Keen. Commander Keen est une série de jeux vidéo développée au début des années 1990 par id Software. Les jeux de la série se caractérisaient par une utilisation innovante des graphismes EGA. La série comprend sept jeux officiels, divisés en mini-séries et considérés comme des « épisodes ».</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>CGenius (Commander Genius) je platforma za pokretanje klasičnih DOS igara iz serijala Commander Keen. Commander Keen je serijal računalnih igara koji je razvio id Software početkom 1990-ih. Igre u serijalu bile su karakterizirane inovativnom upotrebom EGA grafike, a serijal sadrži sedam službenih igara podijeljenih u mini-serije koje se smatraju "epizodama".</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemDescription>CGenius (Commander Genius) è una piattaforma per eseguire i classici giochi DOS della serie Commander Keen. Commander Keen è una serie di videogiochi sviluppata all'inizio degli anni '90 da id Software. I giochi della serie erano caratterizzati da un uso innovativo della grafica EGA. La serie comprende sette giochi ufficiali, suddivisi in miniserie e considerati "episodi".</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>CGenius（コマンダー・ジーニアス）は、クラシックなDOSゲームであるコマンダー・キーンシリーズを実行するためのプラットフォームです。コマンダー・キーンは、id Softwareによって1990年代初頭に開発されたコンピュータゲームシリーズです。このシリーズのゲームは、EGAグラフィックスの革新的な使用が特徴であり、公式ゲームは7作品あり、ミニシリーズに分けられ「エピソード」と見なされています。</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>CGenius(커맨더 지니어스)는 커맨더 킨 시리즈의 클래식 DOS 게임을 실행하는 플랫폼입니다. 커맨더 킨은 1990년대 초 id Software에서 개발한 컴퓨터 게임 시리즈입니다. 이 시리즈의 게임들은 EGA 그래픽의 혁신적인 활용으로 특징지어졌으며, 공식 게임 7편으로 구성되어 미니 시리즈로 나뉘어 '에피소드'로 간주됩니다.</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>CGenius (Commander Genius) is een platform om de klassieke DOS-games van de Commander Keen-serie te spelen. Commander Keen is een serie computerspellen die begin jaren negentig is ontwikkeld door id Software. De games in de serie werden gekenmerkt door innovatief gebruik van EGA-graphics. De serie bestaat uit zeven officiële games, verdeeld in miniseries, die worden beschouwd als "afleveringen".</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>CGenius (Commander Genius) to platforma do uruchamiania klasycznych gier DOS z serii Commander Keen. Commander Keen to seria gier komputerowych opracowana na początku lat 90. przez firmę id Software. Gry z tej serii charakteryzowały się innowacyjnym wykorzystaniem grafiki EGA. Seria zawiera siedem oficjalnych gier, podzielonych na miniseriale i uważanych za „odcinki”.</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>CGenius (Commander Genius) é uma plataforma para executar os jogos clássicos DOS da série Commander Keen. Commander Keen é uma série de jogos de computador desenvolvida no início dos anos 90 pela id Software. Os jogos da série caracterizavam-se pelo uso inovador de gráficos EGA. A série contém sete jogos oficiais, divididos em minisséries e considerados "episódios".</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>CGenius (Commander Genius) este o platformă pentru rularea jocurilor clasice DOS din seria Commander Keen. Commander Keen este o serie de jocuri pentru computer dezvoltată la începutul anilor 1990 de către id Software. Jocurile din serie se caracterizau prin utilizarea inovatoare a graficii EGA. Seria conține șapte jocuri oficiale, împărțite în mini-serii și considerate „episoade”.</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>CGenius (Commander Genius) — это платформа для запуска классических DOS-игр серии Commander Keen. Commander Keen — серия компьютерных игр, разработанная в начале 1990-х годов компанией id Software. Игры серии отличались инновационным использованием EGA-графики. Серия состоит из семи официальных игр, разделенных на мини-серии и считающихся «эпизодами».</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>CGenius (Commander Genius) је платформа за покретање класичних ДОС игара серије Commander Keen. Commander Keen је серија рачунарских игара коју је развио id Software почетком 1990-их. Игре у серији карактерисало је иновативно коришћење EGA графике; серија обухвата седам званичних игара, подељених у мини-серије које се сматрају "епизодама".</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>CGenius (Commander Genius) är en plattform för att köra de klassiska DOS-spelen i Commander Keen-serien. Commander Keen är en serie datorspel som utvecklades i början av 1990-talet av id Software. Spelen i serien kännetecknades av innovativ användning av EGA-grafik. Serien innehåller sju officiella spel, uppdelade i miniserier, som betraktas som "episoder".</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>CGenius（指挥官天才）是一个运行经典DOS游戏《Commander Keen》系列的平台。《Commander Keen》是由id Software于1990年代初开发的电脑游戏系列。该系列游戏以创新运用EGA图形技术为特色，包含七款官方作品，分为多个迷你系列，被视为"剧集"形式呈现。</systemDescription>
+  </variables>
 </theme>

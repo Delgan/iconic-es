@@ -11,4 +11,94 @@ The Vircon32 is designed to be implemented either in software or hardware, makin
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
+  <variables lang="ar">
+    <systemDescription>Vircon32 هو جهاز ألعاب افتراضي 32-بت مصمم ليكون بسيطًا ولكنه قوي بما يكفي لدعم ألعاب كاملة ومعقدة. يتميز CPU بتردد 15 ميجاهرتز مع دعم الأعداد العشرية العائمة، وذاكرة بحجم 16 ميجابايت، ودقة شاشة 640 × 360 بكسل مع ألوان حقيقية.
+
+يدعم الجهاز الدوران، والتدرج، والشفافية، ويقدم صوت ستيريو بجودة CD مع 16 قناة. يمكنه التعامل مع ما يصل إلى 4 وحدات تحكم بأزرار 6 لكل منها بالإضافة إلى زر Start. تم تصميم Vircon32 ليتم تنفيذه إما برمجياً أو عتادياً، مما يجعله منصة مرنة للمطورين واللاعبين على حد سواء.</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>Vircon32 je virtualna 32-bitna igraća konzola dizajnirana da bude jednostavna, ali dovoljno moćna da podrži pune, razrađene igre. Ima 15 MHz CPU s podrškom za floating point, 16 MB RAM-a i rezoluciju ekrana 640 × 360 piksela s true color podrškom.
+
+Konzola podržava rotaciju, skaliranje i transparencije, te nudi CD-kvalitetan stereo zvuk sa 16 kanala. Može rukovati do 4 gamepada sa po 6 tipki svako, plus Start tipka. Vircon32 je dizajniran da se implementira ili softverski ili hardverski, čineći ga svestranom platformom za programere i igrače.</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>Vircon32 és una consola de jocs virtual de 32 bits dissenyada per ser senzilla però prou potent per donar suport a jocs complets i elaborats. Consta d'un CPU a 15 MHz amb suport de coma flotant, 16 MB de RAM i una resolució de pantalla de 640 × 360 píxels amb color real.
+
+La consola admet rotació, escalat i transparències, i ofereix so estèreo de qualitat CD amb 16 canals. Pot gestionar fins a 4 gamepads amb 6 botons cadascun, més un botó Start. Vircon32 està dissenyat per poder implementar-se tant en programari com en maquinari, fent-lo una plataforma versàtil per a desenvolupadors i jugadors.</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemDescription>Der Vircon32 ist eine virtuelle 32-Bit-Spielkonsole, die einfach, aber leistungsfähig genug gestaltet wurde, um vollständige, aufwändige Spiele zu unterstützen. Sie verfügt über eine 15 MHz CPU mit Gleitpunktunterstützung, 16 MB RAM und eine Bildschirmauflösung von 640 × 360 Pixel mit True Color.
+
+Die Konsole unterstützt Rotation, Skalierung und Transparenzen und bietet CD-Qualität Stereo-Sound mit 16 Kanälen. Sie kann bis zu 4 Gamepads mit je 6 Tasten sowie einen Start-Knopf handhaben. Der Vircon32 ist so konzipiert, dass er entweder software- oder hardwareseitig implementiert werden kann, wodurch er eine vielseitige Plattform für Entwickler und Spieler darstellt.</systemDescription>
+  </variables>
+  <variables lang="es">
+    <systemDescription>Vircon32 es una consola de juego virtual de 32 bits diseñada para ser sencilla pero lo suficientemente potente como para soportar juegos completos y elaborados. Cuenta con una CPU de 15 MHz con soporte de coma flotante, 16 MB de RAM y una resolución de pantalla de 640 × 360 píxeles con color verdadero.
+
+La consola soporta rotación, escalado y transparencias, y ofrece sonido estéreo de calidad CD con 16 canales. Puede manejar hasta 4 gamepads con 6 botones cada uno, además de un botón Start. Vircon32 está diseñado para ser implementado tanto en software como en hardware, lo que lo convierte en una plataforma versátil para desarrolladores y jugadores.</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>Le Vircon32 est une console de jeux virtuelle 32 bits conçue pour être simple tout en étant suffisamment puissante pour supporter des jeux complets et élaborés. Elle dispose d'un CPU à 15 MHz avec prise en charge du point flottant, de 16 Mo de RAM et d'une résolution d'écran de 640 × 360 pixels en vraie couleur.
+
+La console prend en charge la rotation, le redimensionnement et les transparences, et offre un son stéréo de qualité CD sur 16 canaux. Elle peut gérer jusqu'à 4 manettes avec 6 boutons chacune, plus un bouton Start. Le Vircon32 est conçu pour être implémenté en logiciel ou en matériel, ce qui en fait une plateforme polyvalente pour développeurs et joueurs.</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>Vircon32 je virtualna 32-bitna igraća konzola dizajnirana da bude jednostavna, ali dovoljno moćna da podrži potpune, složene igre. Ima 15 MHz CPU s podrškom za floating point, 16 MB RAM-a i rezoluciju zaslona 640 × 360 piksela s true color podrškom.
+
+Konzola podržava rotaciju, skaliranje i transparencije te nudi stereo zvuk kvalitete CD-a s 16 kanala. Može upravljati s do 4 gamepada s 6 tipki svaki, plus Start tipka. Vircon32 je dizajniran za implementaciju softverski ili hardverski, što ga čini svestranom platformom za programere i igrače.</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemDescription>Vircon32 è una console di gioco virtuale a 32 bit progettata per essere semplice ma abbastanza potente da supportare giochi completi e complessi. Dispone di una CPU a 15 MHz con supporto in virgola mobile, 16 MB di RAM e una risoluzione dello schermo di 640 × 360 pixel a colori reali.
+
+La console supporta rotazione, scaling e trasparenze e offre audio stereo di qualità CD con 16 canali. Può gestire fino a 4 gamepad con 6 pulsanti ciascuno, più un pulsante Start. Vircon32 è progettata per essere implementata sia in software che in hardware, rendendola una piattaforma versatile per sviluppatori e giocatori.</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>Vircon32 は、完全で洗練されたゲームをサポートするのに十分な強力さを持ちながら、シンプルに設計された仮想 32 ビットゲームコンソールです。15 MHz の CPU（浮動小数点対応）、16 MB の RAM、実色表示の画面解像度 640 × 360 を備えています。
+
+回転、スケーリング、透過をサポートし、16 チャンネルの CD 品質ステレオサウンドを提供します。最大 4 つのゲームパッド（各 6 ボタン）と Start ボタンを扱えます。Vircon32 はソフトウェアまたはハードウェアで実装できるよう設計されており、開発者とプレイヤーの両方にとって柔軟なプラットフォームとなっています。</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>Vircon32는 단순하지만 완전하고 정교한 게임을 지원할 만큼 강력하게 설계된 가상 32비트 게임 콘솔입니다. 부동소수점 지원이 있는 15MHz CPU, 16MB RAM, 실제 색상을 지원하는 640 × 360 해상도의 화면을 특징으로 합니다.
+
+이 콘솔은 회전, 스케일링 및 투명 효과를 지원하며 16채널의 CD 품질 스테레오 사운드를 제공합니다. 각각 6개의 버튼이 있는 최대 4개의 게임패드를 지원하며 Start 버튼도 사용할 수 있습니다. Vircon32는 소프트웨어 또는 하드웨어로 구현되도록 설계되어 개발자와 게이머 모두에게 유연한 플랫폼을 제공합니다。</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>De Vircon32 is een virtuele 32-bit spelconsole die is ontworpen om eenvoudig te zijn maar toch krachtig genoeg om volledige, uitgebreide games te ondersteunen. Hij heeft een 15 MHz CPU met floating point-ondersteuning, 16 MB RAM en een schermresolutie van 640 × 360 pixels met true color.
+
+De console ondersteunt rotatie, schaling en transparanties, en biedt CD-kwaliteit stereogeluid met 16 kanalen. Hij kan tot 4 gamepads met elk 6 knoppen aan, plus een Start-knop. De Vircon32 is ontworpen om zowel in software als hardware te worden geïmplementeerd, waardoor het een veelzijdig platform is voor ontwikkelaars en spelers.</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>Vircon32 to wirtualna 32-bitowa konsola zaprojektowana tak, aby była prosta, ale wystarczająco wydajna, by obsługiwać pełne, zaawansowane gry. Wyposażona jest w 15 MHz CPU z obsługą zmiennoprzecinkową, 16 MB pamięci RAM oraz rozdzielczość ekranu 640 × 360 pikseli w trybie true color.
+
+Konsola obsługuje obrót, skalowanie i przezroczystości oraz oferuje stereofoniczny dźwięk w jakości CD z 16 kanałami. Może obsłużyć do 4 gamepadów po 6 przycisków każdy oraz przycisk Start. Vircon32 jest zaprojektowany do implementacji zarówno programowej, jak i sprzętowej, co czyni go wszechstronną platformą dla deweloperów i graczy.</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>Vircon32 é uma consola de jogos virtual de 32 bits concebida para ser simples, mas suficientemente potente para suportar jogos completos e elaborados. Tem uma CPU de 15 MHz com suporte de ponto flutuante, 16 MB de RAM e uma resolução de ecrã de 640 × 360 píxeis com true color.
+
+A consola suporta rotação, escalamento e transparências, e oferece som estéreo de qualidade CD com 16 canais. Pode gerir até 4 gamepads com 6 botões cada, mais um botão Start. O Vircon32 foi projetado para ser implementado em software ou hardware, tornando-o uma plataforma versátil para desenvolvedores e jogadores.</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>Vircon32 este o consolă virtuală pe 32 de biți proiectată să fie simplă, dar suficient de puternică pentru a susține jocuri complete și elaborate. Dispune de un CPU de 15 MHz cu suport floating point, 16 MB RAM și o rezoluție de ecran de 640 × 360 pixeli cu true color.
+
+Consola suportă rotație, scalare și transparențe și oferă sunet stereo de calitate CD pe 16 canale. Poate gestiona până la 4 gamepad-uri cu câte 6 butoane fiecare, plus un buton Start. Vircon32 este proiectat pentru a fi implementat fie software, fie hardware, făcându-l o platformă versatilă pentru dezvoltatori și jucători.</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>Vircon32 — виртуальная 32-битная игровая консоль, спроектированная быть простой, но достаточно мощной для поддержки полноценных сложных игр. Она оснащена 15 МГц CPU с поддержкой плавающей точки, 16 МБ ОЗУ и разрешением экрана 640 × 360 пикселей с true color.
+
+Консоль поддерживает вращение, масштабирование и прозрачности, и предлагает стереозвук качества CD с 16 каналами. Может работать с до 4 игровыми контроллерами по 6 кнопок каждый, плюс кнопка Start. Vircon32 спроектирован для реализации как программно, так и аппаратно, что делает его универсальной платформой для разработчиков и игроков.</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>Vircon32 је виртуелна 32-битна играћа конзола дизајнирана да буде једноставна, али довољно моћна да подржи пуноправне, сложене игре. Има 15 MHz CPU са подршком за floating point, 16 MB RAM-а и резолуцију екрана 640 × 360 пиксела са true color подршком.
+
+Конзола подржава ротацију, скалирање и транспарентности, и нуди CD-квалитет стерео звук са 16 канала. Може да рукује до 4 гејмпада са по 6 тастера сваки, плус Start тастер. Vircon32 је дизајниран да се имплементира или софтверски или хардверски, чинећи га свестраном платформом за програмере и играче.</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>Vircon32 är en virtuell 32-bitars spelkonsol designad för att vara enkel men tillräckligt kraftfull för att stödja fullständiga, avancerade spel. Den har en 15 MHz CPU med flyttalsstöd, 16 MB RAM och en skärmupplösning på 640 × 360 pixlar med true color.
+
+Konsolen stöder rotation, skalning och transparens, och erbjuder CD-kvalitet stereoljud med 16 kanaler. Den kan hantera upp till 4 spelkontroller med 6 knappar vardera, plus en Start-knapp. Vircon32 är designad för att implementeras antingen i mjukvara eller hårdvara, vilket gör den till en mångsidig plattform för utvecklare och spelare.</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>Vircon32 是一个虚拟的 32 位游戏主机，设计旨在保持简洁同时足够强大以支持完整且复杂的游戏。它配备一颗 15 MHz 的 CPU（支持浮点运算）、16 MB 内存，以及 640 × 360 像素的真彩色屏幕分辨率。
+
+该主机支持旋转、缩放与透明效果，并提供具有 16 通道的 CD 级立体声。它可支持多达 4 个每个有 6 个按键的手柄以及一个 Start 按钮。Vircon32 设计可通过软件或硬件实现，使其对开发者和玩家来说都是一个灵活的平台。</systemDescription>
+  </variables>
 </theme>

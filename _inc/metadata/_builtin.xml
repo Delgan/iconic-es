@@ -1,8 +1,8 @@
 <theme>
-    <variables>
-        <systemName>${system.fullName}</systemName>
-        <systemReleaseYear>${system.releaseYear}</systemReleaseYear>
-        <systemHardwareType>${system.hardwareType}</systemHardwareType>
-        <systemManufacturer>${system.manufacturer}</systemManufacturer>
-    </variables>
+  <variables>
+    <systemName>${system.fullName}</systemName>
+    <systemReleaseYear>${system.releaseYear}</systemReleaseYear>
+    <systemHardwareType>${system.hardwareType}</systemHardwareType>
+    <systemManufacturer>${system.manufacturer}</systemManufacturer>
+  </variables>
 </theme>

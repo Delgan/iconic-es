@@ -12,4 +12,94 @@ The port adds new and enhanced options that are not available in the vanilla Bla
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
+  <variables lang="ar">
+    <systemDescription>BStone هو منفذ مصدر لألعاب Blake Stone التي تعمل على أنظمة Windows و Linux و Mac OS X. تم إصدار المنفذ في عام 2013 بواسطة Boris Bendovsky، بعد أن أصدرت Apogee Software كود مصدر Planet Strike.
+
+كان المنفذ يدعم في الأصل Planet Strike فقط، ولكن تم تحديثه لاحقًا ليشمل دعم Aliens of Gold (كل من الإصدار التجريبي والإصدار الكامل). يضيف المنفذ خيارات جديدة ومحسّنة غير متوفرة في محرك Blake Stone الأصلي، مثل خيار "التشغيل الدائم" ودعم الدقة العالية، بما في ذلك عرض عالم اللعبة بدقة عالية.</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>BStone je source port za igre Blake Stone koji radi na Windows, Linux i Mac OS X. Port je objavljen 2013. godine od strane Borisa Bendovskog, nakon što je Apogee Software objavio izvorni kod za Planet Strike.
+
+U početku podržavajući samo Planet Strike, port je kasnije ažuriran da uključi podršku za Aliens of Gold (i shareware i punu verziju). Port dodaje nove i poboljšane opcije koje nisu dostupne u izvornom Blake Stone enginu, kao što su opcija "uvijek pokreni" i podrška za visoke rezolucije, uključujući renderiranje svijeta igre u visokoj rezoluciji.</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>BStone és un port de codi font dels jocs de Blake Stone que funciona a Windows, Linux i Mac OS X. El port va ser publicat el 2013 per Boris Bendovsky, després que Apogee Software publiqués el codi font de Planet Strike.
+
+Originalment només era compatible amb Planet Strike, però més tard es va actualitzar per incloure suport per a Aliens of Gold (tant la versió shareware com la completa). El port afegeix opcions noves i millorades que no estan disponibles en el motor original de Blake Stone, com ara una opció d'execució sempre activa i suport per a altes resolucions, incloent-hi el renderitzat de l'entorn del joc a alta resolució.</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemDescription>BStone ist ein Source-Port der Blake Stone-Spiele, der unter Windows, Linux und Mac OS X läuft. Der Port wurde 2013 von Boris Bendovsky veröffentlicht, nachdem Apogee Software den Quellcode von Planet Strike freigegeben hatte.
+
+Ursprünglich unterstützte der Port nur Planet Strike, wurde aber später aktualisiert, um auch Aliens of Gold (sowohl Shareware- als auch Vollversionen) zu unterstützen. Der Port fügt neue und verbesserte Optionen hinzu, die in der Vanilla-Blake-Stone-Engine nicht verfügbar sind, wie z. B. eine „Always Run”-Option und Unterstützung für hohe Auflösungen, einschließlich hochauflösender Darstellung der Spielwelt.</systemDescription>
+  </variables>
+  <variables lang="es">
+    <systemDescription>BStone es un puerto fuente de los juegos Blake Stone que funciona en Windows, Linux y Mac OS X. El puerto fue lanzado en 2013 por Boris Bendovsky, después de que Apogee Software publicara el código fuente de Planet Strike.
+
+Originalmente solo era compatible con Planet Strike, pero posteriormente se actualizó para incluir compatibilidad con Aliens of Gold (tanto la versión shareware como la completa). El puerto añade opciones nuevas y mejoradas que no están disponibles en el motor Blake Stone básico, como la opción «always run» (ejecutar siempre) y la compatibilidad con altas resoluciones, incluido el renderizado en alta resolución del mundo del juego.</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>BStone est un portage source des jeux Blake Stone qui fonctionne sous Windows, Linux et Mac OS X. Le portage a été publié en 2013 par Boris Bendovsky, après la publication du code source de Planet Strike par Apogee Software.
+
+À l'origine, le port ne prenait en charge que Planet Strike, mais il a ensuite été mis à jour pour inclure la prise en charge d'Aliens of Gold (versions shareware et complète). Le port ajoute de nouvelles options améliorées qui ne sont pas disponibles dans le moteur Blake Stone standard, telles que l'option « toujours exécuter » et la prise en charge des hautes résolutions, y compris le rendu haute résolution du monde du jeu.</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>BStone je source port za igre Blake Stone koji radi na Windowsu, Linuxu i Mac OS X-u. Port je objavio Boris Bendovsky 2013. godine, nakon što je Apogee Software objavio izvorni kod za Planet Strike.
+
+Izvorno podržavajući samo Planet Strike, port je kasnije ažuriran kako bi uključio podršku za Aliens of Gold (i shareware i punu verziju). Port dodaje nove i poboljšane opcije koje nisu dostupne u izvornom Blake Stone enginu, kao što su opcija "uvijek pokreni" i podrška za visoke rezolucije, uključujući renderiranje svijeta igre u visokoj rezoluciji.</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemDescription>BStone è un porting sorgente dei giochi Blake Stone che funziona su Windows, Linux e Mac OS X. Il porting è stato rilasciato nel 2013 da Boris Bendovsky, dopo che il codice sorgente di Planet Strike è stato rilasciato da Apogee Software.
+
+Inizialmente compatibile solo con Planet Strike, il porting è stato successivamente aggiornato per includere il supporto per Aliens of Gold (sia nella versione shareware che in quella completa). Il porting aggiunge nuove opzioni migliorate che non sono disponibili nel motore Blake Stone vanilla, come l'opzione "always run" e il supporto per le alte risoluzioni, compreso il rendering ad alta risoluzione del mondo di gioco.</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>BStoneは、Windows、Linux、Mac OS X上で動作するBlake Stoneシリーズのソースポートです。このポートは、アポジーソフトウェアがPlanet Strikeのソースコードを公開した後、2013年にボリス・ベンドフスキーによってリリースされました。
+
+当初は『Planet Strike』のみをサポートしていましたが、後に『Aliens of Gold』（シェアウェア版とフル版の両方）のサポートを追加するアップデートが行われました。この移植版では、オリジナルのブレイク・ストーンエンジンには存在しない新たな強化オプションが追加されています。例えば「常時実行」オプションや高解像度サポート（ゲーム世界の高解像度レンダリングを含む）などが挙げられます。</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>BStone은 Windows, Linux, Mac OS X에서 실행되는 Blake Stone 게임의 소스 포트입니다. 이 포트는 Apogee Software가 Planet Strike의 소스 코드를 공개한 후, 2013년 Boris Bendovsky에 의해 출시되었습니다.
+
+원래 플래닛 스트라이크만 지원했으나, 이후 업데이트를 통해 골드 외계인(셰어웨어 및 정식 버전 모두) 지원이 추가되었습니다. 이 포트는 기본 블레이크 스톤 엔진에서는 제공되지 않는 새로운 향상된 옵션을 추가합니다. 예를 들어 "항상 실행" 옵션과 고해상도 지원(게임 세계의 고해상도 렌더링 포함) 등이 있습니다.</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>BStone is een source port van de Blake Stone-games die draait op Windows, Linux en Mac OS X. De port werd in 2013 uitgebracht door Boris Bendovsky, nadat de broncode van Planet Strike was vrijgegeven door Apogee Software.
+
+Oorspronkelijk ondersteunde de port alleen Planet Strike, maar later werd deze bijgewerkt met ondersteuning voor Aliens of Gold (zowel shareware als volledige versies). De port voegt nieuwe en verbeterde opties toe die niet beschikbaar zijn in de standaard Blake Stone-engine, zoals een "altijd uitvoeren"-optie en ondersteuning voor hoge resoluties, waaronder hoge resolutie weergave van de gamewereld.</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>BStone to port źródłowy gier Blake Stone, który działa na systemach Windows, Linux i Mac OS X. Port został wydany w 2013 roku przez Borisa Bendovsky'ego, po tym jak firma Apogee Software udostępniła kod źródłowy gry Planet Strike.
+
+Pierwotnie obsługujący tylko Planet Strike, port został później zaktualizowany, aby uwzględnić obsługę Aliens of Gold (zarówno wersji shareware, jak i pełnej). Port dodaje nowe i ulepszone opcje, które nie są dostępne w podstawowym silniku Blake Stone, takie jak opcja „zawsze uruchamiaj” i obsługa wysokich rozdzielczości, w tym renderowanie świata gry w wysokiej rozdzielczości.</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>BStone é uma versão portátil dos jogos Blake Stone que funciona em Windows, Linux e Mac OS X. A versão foi lançada em 2013 por Boris Bendovsky, depois que o código-fonte do Planet Strike foi lançado pela Apogee Software.
+
+Originalmente compatível apenas com o Planet Strike, a porta foi posteriormente atualizada para incluir compatibilidade com o Aliens of Gold (tanto a versão shareware quanto a versão completa). A porta adiciona opções novas e aprimoradas que não estão disponíveis no mecanismo Blake Stone padrão, como a opção "sempre executar" e compatibilidade com altas resoluções, incluindo renderização em alta resolução do mundo do jogo.</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>BStone este un port sursă al jocurilor Blake Stone care rulează pe Windows, Linux și Mac OS X. Portul a fost lansat în 2013 de Boris Bendovsky, după ce codul sursă al Planet Strike a fost lansat de Apogee Software.
+
+Inițial, portul suporta doar Planet Strike, dar ulterior a fost actualizat pentru a include suport pentru Aliens of Gold (atât versiunea shareware, cât și versiunea completă). Portul adaugă opțiuni noi și îmbunătățite care nu sunt disponibile în motorul Blake Stone vanilla, cum ar fi opțiunea „always run” (rulează întotdeauna) și suport pentru rezoluții înalte, inclusiv redarea în rezoluție înaltă a lumii jocului.</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>BStone — это порт исходного кода игр Blake Stone, который работает на Windows, Linux и Mac OS X. Порт был выпущен в 2013 году Борисом Бендовским после того, как Apogee Software опубликовала исходный код Planet Strike.
+
+Первоначально порт поддерживал только Planet Strike, но позже был обновлен и теперь поддерживает Aliens of Gold (как условно-бесплатную, так и полную версии). Порт добавляет новые и улучшенные опции, которые недоступны в базовом движке Blake Stone, такие как опция «всегда запускать» и поддержка высоких разрешений, включая высокоразрешающее рендеринг игрового мира.</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>BStone је изворни порт игара Blake Stone који ради на Windows, Linux и Mac OS X. Порт је објавио Борис Бендовски 2013. године, након што је Apogee Software објавио изворни код за Planet Strike.
+
+Првобитно подржавајући само Planet Strike, порт је касније ажуриран да укључи подршку за Aliens of Gold (и shareware и пуну верзију). Порт додаје нове и унапређене опције које нису доступне у оригиналном Blake Stone мотору, као што су опција "увек у позадини" и подршка за високе резолуције, укључујући рендеровање света игре у високој резолуцији.</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>BStone är en källkodsport av Blake Stone-spelen som körs på Windows, Linux och Mac OS X. Porten släpptes 2013 av Boris Bendovsky, efter att Planet Strikes källkod släpptes av Apogee Software.
+
+Ursprungligen stödde porten endast Planet Strike, men uppdaterades senare för att inkludera stöd för Aliens of Gold (både shareware- och fullversioner). Porten lägger till nya och förbättrade alternativ som inte finns i den vanliga Blake Stone-motorn, såsom ett "always run"-alternativ och stöd för höga upplösningar, inklusive högupplöst rendering av spelvärlden.</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>BStone是Blake Stone系列游戏的源代码移植版，可在Windows、Linux和Mac OS X系统上运行。该移植版本由Boris Bendovsky于2013年发布，此前Apogee Software公司已公开《行星突袭》的源代码。
+
+该移植版最初仅支持《行星突袭》，后经更新新增对《黄金外星人》（含共享版与完整版）的支持。移植版引入了原版Blake Stone引擎所不具备的新增及增强功能，例如"始终运行"选项，以及对高分辨率的支持——包括游戏世界的高清渲染。</systemDescription>
+  </variables>
 </theme>
