@@ -1,0 +1,11 @@
+<theme>
+  <variables>
+    <systemName>SGB-MSU1</systemName>
+    <systemDescription>SGB-MSU1 is a modification for emulating the Super Game Boy (SGB) that adds the functionality of the MSU-1 enhancement chip. This allows for custom, high-quality audio to be played in a Game Boy game, as it uses external PCM audio files instead of the original sound hardware. This modification is supported on devices like SD2SNES/FXPAK Pro flash carts and some MiSTer FPGA cores.</systemDescription>
+    <systemManufacturer>byuu</systemManufacturer>
+    <systemReleaseYear>1994</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-portable}</systemHardwareType>
+    <systemCoverSize>1-1</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>

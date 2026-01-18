@@ -1,0 +1,11 @@
+<theme>
+  <variables>
+    <systemName>OpenJKDF2</systemName>
+    <systemDescription>OpenJKDF2 is described by the project developers as a "a function-by-function reimplementation of DF2 in C, with 64-bit ports to MacOS and Linux." Essentially, it is a project that reversed engineered major parts of Jedi Knight and added quality of life improvements to the game. This means it makes it easy to run Jedi Knight on modern machines with modern aspect ratios, monitor sizes, current generation graphic cards, and operating systems. It also now natively supports JKGFXMod—all of this simply by placing the contents of a zip file into your Jedi Knight directory!</systemDescription>
+    <systemManufacturer>Max Thomas</systemManufacturer>
+    <systemReleaseYear>2021</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-port}</systemHardwareType>
+    <systemCoverSize>1-1</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>

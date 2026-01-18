@@ -1,0 +1,13 @@
+<theme>
+  <variables>
+    <systemName>Sonic Mania</systemName>
+    <systemDescription>Sonic Mania is a sidecrolling 2017 Sonic game released by Sega. After several years of substandard Sonic games, including an attempt at a fourth 2D sidescroller, Sega decided perhaps the hardcore fans and ROM hackers might do a better job, so they allowed this game to be developed by a team including Christian Whitehead, whose reverse engineered Retro Engine was designed for allowing Sonic ports onto other platforms. The result was the best received Sonic game in fifteen years.
+
+The Retro Engine was a reverse engineered engine for Sonic games and RSDK is a reverse engineering of the Retro Engine. It's reverse engineering all the way down.</systemDescription>
+    <systemManufacturer>TheGammaSqueeze</systemManufacturer>
+    <systemReleaseYear>2017</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-port}</systemHardwareType>
+    <systemCoverSize>1-1</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>

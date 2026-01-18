@@ -1,0 +1,11 @@
+<theme>
+  <variables>
+    <systemName>dhewm3</systemName>
+    <systemDescription>Previously known as Boom3, dhewm3 is a Doom 3 source port which brings many fixes and support for various hardware. It is based on Doom 3 game released in 2004.</systemDescription>
+    <systemManufacturer>Daniel Gibson</systemManufacturer>
+    <systemReleaseYear>2015</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-port}</systemHardwareType>
+    <systemCoverSize>1-1</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>

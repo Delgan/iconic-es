@@ -1,0 +1,11 @@
+<theme>
+  <variables>
+    <systemName>Fallout CE</systemName>
+    <systemDescription>Fallout Community Edition is a fully working re-implementation of Fallout, with the same original gameplay, engine bugfixes, and some quality of life improvements, that works (mostly) hassle-free on multiple platforms.</systemDescription>
+    <systemManufacturer>Alexander Batalov</systemManufacturer>
+    <systemReleaseYear>2023</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-port}</systemHardwareType>
+    <systemCoverSize>1-1</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>

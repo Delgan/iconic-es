@@ -1,0 +1,11 @@
+<theme>
+  <variables>
+    <systemName>Quake 2</systemName>
+    <systemDescription>Quake 2 is the sequel to Quake 1, one of the first fully 3D First-person shooter games released by id software.</systemDescription>
+    <systemManufacturer>Yamagi Quake II</systemManufacturer>
+    <systemReleaseYear>2001</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-engine}</systemHardwareType>
+    <systemCoverSize>1-1</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>

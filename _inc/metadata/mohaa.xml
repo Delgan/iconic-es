@@ -1,0 +1,13 @@
+<theme>
+  <variables>
+    <systemName>OpenMoHAA</systemName>
+    <systemDescription>Medal of Honor: Allied Assault War Chest is a treasure trove of historical battles presented as a gritty World War II action FPS. Call in artillery and air strikes against the opposing forces and keep your squad away from the jaws of defeat and despair. Drive various assault vehicles, always charging onwards to victory. Uncle Sam wants YOU!
+
+OpenMoHAA is an open-source version of MoHAA that is fully compatible with both the original game and the Spearhead and Breakthrough expansions, which are all included in the War Chest release.</systemDescription>
+    <systemManufacturer>OpenMoH</systemManufacturer>
+    <systemReleaseYear>2007</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-port}</systemHardwareType>
+    <systemCoverSize>1-1</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>

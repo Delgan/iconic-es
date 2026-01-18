@@ -1,0 +1,11 @@
+<theme>
+  <variables>
+    <systemName>Quake 3</systemName>
+    <systemDescription>Quake III Arena is a 1999 multiplayer-focused first-person shooter developed by id Software.</systemDescription>
+    <systemManufacturer>Eugene C.</systemManufacturer>
+    <systemReleaseYear>2021</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-engine}</systemHardwareType>
+    <systemCoverSize>1-1</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>

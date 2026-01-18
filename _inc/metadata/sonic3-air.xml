@@ -1,0 +1,13 @@
+<theme>
+  <variables>
+    <systemName>Sonic 3 AIR</systemName>
+    <systemDescription>Re-experience one of Sonic's greatest adventures in a whole new light with Sonic 3 Angel Island Revisited (A.I.R.).
+
+Released in 2019 by Eukaryot, Sonic 3 A.I.R., is a full PC port of the 1994 Sega Genesis classic (and Knuckles) that boasts widescreen and smooth scrolling. On top of this screen filters, graphical improvements, achievement support, most of the changes from Sonic 3 Complete, Time Trials, a Knuckles and Tails mode, Sonic Mania's drop dash and mod support have been added.</systemDescription>
+    <systemManufacturer>Eukaryot</systemManufacturer>
+    <systemReleaseYear>2019</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-port}</systemHardwareType>
+    <systemCoverSize>1-1</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>

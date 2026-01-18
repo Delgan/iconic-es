@@ -1,0 +1,15 @@
+<theme>
+  <variables>
+    <systemName>BennuGD</systemName>
+    <systemDescription>BennuGD is a high-level, open-source game development suite that focuses on modularity and portability, making it an excellent choice for cross-platform game development.
+    
+Although officially supported only on Windows, Linux, and GP2X Wiz, BennuGD can run on several other platforms, including *BSD, MacOS X, and other consoles such as the Wii, Dingoo A320, GP2X, and the classic Xbox.
+
+This versatility makes coding in BennuGD enjoyable, as the game can be played on both your computer and your console!</systemDescription>
+    <systemManufacturer>SplinterGU</systemManufacturer>
+    <systemReleaseYear>2007</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-engine}</systemHardwareType>
+    <systemCoverSize>1-1</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>

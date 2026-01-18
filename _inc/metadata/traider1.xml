@@ -1,0 +1,11 @@
+<theme>
+  <variables>
+    <systemName>Tomb Raider</systemName>
+    <systemDescription>TRX is a lovingly rebuilt, enhanced version of the original Tomb Raider I and II engine – a passion project that brings Lara's very first adventure into the modern age. It preserves the soul of the classic while adding dozens (and dozens!) of improvements, fixes, and optional tweaks. Whether you're a purist or an experimenter, TRX lets you play your way.</systemDescription>
+    <systemManufacturer>LostArtefacts</systemManufacturer>
+    <systemReleaseYear>2021</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-port}</systemHardwareType>
+    <systemCoverSize>1-1</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>
