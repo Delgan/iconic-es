@@ -93,6 +93,7 @@ Inspiration and templates were taken from the following themes:
 
 This theme would not have been possible without the dedicated work of numerous artists who created the artworks, including but not limited to:
 
+- [manutortosa-collab](https://github.com/manutortosa-collab)
 - [fagnerpc](https://github.com/fagnerpc)
 - [Robert Fink](https://finklematter.artstation.com/)
 - [Mark Van Haitsma](https://www.artstation.com/mvhaitsma)

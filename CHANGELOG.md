@@ -1,8 +1,15 @@
 # Unreleased
 
+
+* Thanks to [Manu](https://github.com/manutortosa-collab)'s tremendous work, the theme now supports 93 new systems, including plenty of new collections with high-quality fanarts.
+* Add translations of all the UI and the systems metadata in 18 languages (spanish translation by [Manu](https://github.com/manutortosa-collab)).
 * Add video previews to the game details page (when available).
-* Add the following new system fanarts: `atom`, `pico`.
-* Update the following existing sytem fanarts: `vsmile`.
+* Add option to enable loading logos from SVG files for sharper and scalable graphics (thanks [Manu](https://github.com/manutortosa-collab)).
+* Add controllers status icons in carrousel (thanks [Manu](https://github.com/manutortosa-collab)).
+* Simplfy the customization of theme backgrounds (thanks [Manu](https://github.com/manutortosa-collab)).
+* Fix automatic collections not dynamically populating the games list (thanks [Manu](https://github.com/manutortosa-collab)).
+
+
 
 # 1.0.1 (2025-02-07)
 
