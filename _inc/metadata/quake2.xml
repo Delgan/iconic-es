@@ -8,4 +8,58 @@
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
+  <variables lang="ar">
+    <systemDescription>Quake 2 هو تتمة Quake 1، وهو واحد من أول ألعاب إطلاق نار من منظور أول بالكامل ثلاثية الأبعاد التي أصدرتها Id Software.</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>Quake 2 je nastavak Quake 1, jedan od prvih potpuno 3D igara pucanja iz prvog lica objavljenih od id software.</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>Quake 2 és la seqüela de Quake 1, un dels primers jocs de disparos completament 3D en primera persona llançats per Id Software.</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemDescription>Quake 2 ist die Fortsetzung von Quake 1, eines der ersten vollständig 3D-Ego-Shooter-Spiele von Id Software.</systemDescription>
+  </variables>
+  <variables lang="es">
+    <systemDescription>Quake 2 es la secuela de Quake 1, uno de los primeros juegos de disparo completamente 3D en primera persona lanzados por Id Software.</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>Quake 2 est la suite de Quake 1, l'un des premiers jeux de tir entièrement 3D à la première personne publié par Id Software.</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>Quake 2 je nastavak Quake 1, jedan od prvih potpuno 3D igara pucanja iz prvog lica objavljenih od id software.</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemDescription>Quake 2 è il seguito di Quake 1, uno dei primi giochi di sparatutto in prima persona completamente 3D pubblicati da Id Software.</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>Quake 2は、Quake 1の続編で、Id Softwareがリリースした最初の完全な3D一人称シューティングゲームの1つです。</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>Quake 2는 Quake 1의 후속작으로, Id Software이 출시한 최초의 완전 3D 1인칭 슈팅 게임 중 하나입니다.</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>Quake 2 is het vervolg op Quake 1, een van de eerste volledig 3D first-person shooters uitgebracht door Id Software.</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>Quake 2 to sequel Quake 1, jeden z pierwszych całkowicie 3D gier strzeleckich z perspektywy pierwszej osoby wydanych przez Id Software.</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>Quake 2 é a sequência de Quake 1, um dos primeiros jogos de tiro em primeira pessoa totalmente 3D lançados pela Id Software.</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>Quake 2 este continuarea Quake 1, unul dintre primele jocuri de tragere din perspectiva primei persoane complet 3D lansate de Id Software.</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>Quake 2 — это продолжение Quake 1, одна из первых полностью трехмерных игр-шутеров от первого лица, выпущенных компанией Id Software.</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>Quake 2 је наставак Quake 1, једна од првих потпуно 3D игара пуцања из првог лица објављених од Id Software.</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>Quake 2 är uppföljaren till Quake 1, ett av de första helt 3D first-person shooterspelen utgivet av Id Software.</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>Quake 2是Quake 1的续集，是Id Software发布的最早的完全3D第一人称射击游戏之一。</systemDescription>
+  </variables>
 </theme>

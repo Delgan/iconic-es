@@ -8,4 +8,58 @@
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
+  <variables lang="ar">
+    <systemDescription>ويعرف سابقا باسم Boom3، dhewm3 هو منفذ مصدري لـ Doom 3 الذي يجلب العديد من الإصلاحات والدعم لأجهزة مختلفة. يعتمد على لعبة Doom 3 التي تم إصدارها في عام 2004.</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>Prethodno poznat kao Boom3, dhewm3 je Doom 3 izvor port koji donosi mnoge ispravke i podršku za različit hardver. Zasniva se na igri Doom 3 objavljena 2004.</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>Anteriorment conegut com a Boom3, dhewm3 és un port de font de Doom 3 que aporta moltes correccions i suport per a diversos maquinari. Es basa en el joc Doom 3 llançat el 2004.</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemDescription>Zuvor als Boom3 bekannt, ist dhewm3 ein Doom 3-Quellport, der viele Fixes und Unterstützung für verschiedene Hardware bietet. Es basiert auf dem 2004 veröffentlichten Spiel Doom 3.</systemDescription>
+  </variables>
+  <variables lang="es">
+    <systemDescription>Anteriormente conocido como Boom3, dhewm3 es un puerto de código fuente de Doom 3 que trae muchas correcciones y soporte para diversos hardwares. Se basa en el juego Doom 3 lanzado en 2004.</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>Anciennement connu sous le nom de Boom3, dhewm3 est un port de code source de Doom 3 qui apporte de nombreuses corrections et un support pour divers matériels. Il est basé sur le jeu Doom 3 sorti en 2004.</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>Ranije poznat kao Boom3, dhewm3 je port izvornog koda Doom 3 koji donosi mnoge ispravke i podršku za različit hardver. Zasniva se na igri Doom 3 obavljenoj 2004.</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemDescription>Precedentemente conosciuto come Boom3, dhewm3 è un port del codice sorgente di Doom 3 che apporta molte correzioni e supporto per vari hardware. Si basa sul gioco Doom 3 rilasciato nel 2004.</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>以前はBoom3として知られていた、dhewm3はDoom 3のソースコードポートで、多くの修正と様々なハードウェアのサポートをもたらします。2004年にリリースされたDoom 3ゲームに基づいています。</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>이전에 Boom3로 알려져 있던 dhewm3는 다양한 하드웨어에 대한 많은 수정 및 지원을 제공하는 Doom 3 소스 코드 포트입니다. 2004년에 출시된 Doom 3 게임을 기반으로 합니다.</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>Voorheen bekend als Boom3, is dhewm3 een broncode-port van Doom 3 die veel fixes en ondersteuning voor verschillende hardware biedt. Het is gebaseerd op het spel Doom 3 dat in 2004 is uitgebracht.</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>Wcześniej znany jako Boom3, dhewm3 to port kodu źródłowego Doom 3, który przynosi wiele poprawek i obsługę różnych sprzętów. Jest oparty na grze Doom 3 wydanej w 2004 roku.</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>Anteriormente conhecido como Boom3, dhewm3 é uma porta de código-fonte de Doom 3 que traz muitos correções e suporte para diversos hardwares. É baseado no jogo Doom 3 lançado em 2004.</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>Anterior cunoscut sub numele de Boom3, dhewm3 este un port de cod sursă al Doom 3 care aduce multe remedieri și suport pentru diverse hardware-uri. Este bazat pe jocul Doom 3 lansat în 2004.</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>Ранее известный как Boom3, dhewm3 — это порт исходного кода Doom 3, который приносит много исправлений и поддержку различного оборудования. Он основан на игре Doom 3, выпущенной в 2004 году.</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>Раније познат као Boom3, dhewm3 је порт изворног кода Doom 3 који доноси многе исправке и подршку за различит хардвер. Заснива се на игри Doom 3 објављеној 2004.</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>Tidigare känd som Boom3, dhewm3 är en källkodsport av Doom 3 som ger många fixes och stöd för olika hårdvara. Det är baserat på spelet Doom 3 som släpptes 2004.</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>以前称为Boom3，dhewm3是Doom 3的源代码端口，带来许多修复和对各种硬件的支持。它基于2004年发布的Doom 3游戏。</systemDescription>
+  </variables>
 </theme>

@@ -8,4 +8,58 @@
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
+  <variables lang="ar">
+    <systemDescription>OpenJK هو جهد من قبل مجموعة JACoders للحفاظ على محركات اللعبة وتحسينها التي تعمل عليها ألعاب Jedi Academy (JA) و Jedi Outcast (JO)، مع الحفاظ على التوافق الكامل مع الإصدارات السابقة مع الألعاب الموجودة. هذا المشروع لا يحاول إعادة توازن أو تعديل اللعبة الأساسية.</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>OpenJK je napor grupe JACoders da održava i poboljša igre motore na kojima rade igre Jedi Academy (JA) i Jedi Outcast (JO), dok održava potpunu kompatibilnost unatrag sa postojećim igrama. Ovaj projekat ne pokušava da ponovno balansira ili drukčije menja osnovnu igru.</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>OpenJK és un esforç del grup JACoders per mantenir i millorar els motors de jocs en els quals s'executen els jocs Jedi Academy (JA) i Jedi Outcast (JO), mantenint la compatibilitat completa amb les versions anteriors amb els jocs existents. Aquest projecte no intenta reequilibrar ni modificar d'una altra manera el joc base.</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemDescription>OpenJK ist ein Bemühen der JACoders-Gruppe, die Spiel-Engines zu pflegen und zu verbessern, auf denen die Spiele Jedi Academy (JA) und Jedi Outcast (JO) laufen, während die vollständige Rückwärtskompatibilität mit bestehenden Spielen beibehalten wird. Dieses Projekt versucht nicht, das Core-Gameplay neu auszugleichen oder anderweitig zu modifizieren.</systemDescription>
+  </variables>
+  <variables lang="es">
+    <systemDescription>OpenJK es un esfuerzo del grupo JACoders para mantener y mejorar los motores de juegos en los que se ejecutan los juegos Jedi Academy (JA) y Jedi Outcast (JO), manteniendo la compatibilidad total con las versiones anteriores con los juegos existentes. Este proyecto no intenta reequilibrar ni modificar de otra manera el juego base.</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>OpenJK est un effort du groupe JACoders pour maintenir et améliorer les moteurs de jeu sur lesquels fonctionnent les jeux Jedi Academy (JA) et Jedi Outcast (JO), tout en maintenant la compatibilité complète avec les versions antérieures des jeux existants. Ce projet ne tente pas de rééquilibrer ou de modifier autrement le gameplay principal.</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>OpenJK je napor grupe JACoders da održava i poboljša igre motore na kojima rade igre Jedi Academy (JA) i Jedi Outcast (JO), dok održava potpunu kompatibilnost unazad sa postojećim igrama. Ovaj projekat ne pokušava da ponovno balansira ili drukčije menja osnovnu igru.</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemDescription>OpenJK è uno sforzo del gruppo JACoders per mantenere e migliorare i motori di gioco su cui funzionano i giochi Jedi Academy (JA) e Jedi Outcast (JO), mantenendo la piena compatibilità con le versioni precedenti con i giochi esistenti. Questo progetto non tenta di ribilanciare o altrimenti modificare il gameplay principale.</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>OpenJKはJACodersグループが、Jedi Academy（JA）とJedi Outcast（JO）ゲームが実行するゲームエンジンを保守および改善するためのひたむきな努力です。これは既存のゲームとの完全な下位互換性を維持しながら行われます。このプロジェクトは、コアゲームプレイの再バランスや変更を試みません。</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>OpenJK는 Jedi Academy (JA) 및 Jedi Outcast (JO) 게임이 실행되는 게임 엔진을 유지 관리하고 개선하기 위한 JACoders 그룹의 노력입니다. 기존 게임과의 완전한 역호환성을 유지합니다. 이 프로젝트는 핵심 게임 플레이를 다시 균형잡거나 다른 방식으로 수정하려고 시도하지 않습니다.</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>OpenJK is een inspanning van de JACoders-groep om de game-engines waarop de spellen Jedi Academy (JA) en Jedi Outcast (JO) draaien, te onderhouden en te verbeteren, terwijl volledige achterwaartse compatibiliteit met bestaande spellen wordt behouden. Dit project probeert niet het kernspel opnieuw uit te balanceren of op andere wijze te wijzigen.</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>OpenJK to wysiłek grupy JACoders mający na celu utrzymanie i ulepszenie silników gier, na których działają gry Jedi Academy (JA) i Jedi Outcast (JO), przy jednoczesnym zachowaniu pełnej kompatybilności wstecznej z istniejącymi grami. Ten projekt nie próbuje ponownie zrównoważyć ani w inny sposób modyfikować podstawowego gameplayu.</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>OpenJK é um esforço do grupo JACoders para manter e melhorar os motores de jogos em que os jogos Jedi Academy (JA) e Jedi Outcast (JO) funcionam, mantendo a compatibilidade total com versões anteriores com os jogos existentes. Este projeto não tenta reequilibrar ou modificar o gameplay principal.</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>OpenJK este un efort al grupului JACoders de a menține și îmbunătăți motoarele de joc pe care funcționează jocurile Jedi Academy (JA) și Jedi Outcast (JO), menținând compatibilitatea completă cu versiunile anterioare cu jocurile existente. Acest proiect nu încearcă să reechilibreze sau să modifice pe alte căi jocul de bază.</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>OpenJK — это усилие группы JACoders по поддержке и совершенствованию игровых движков, на которых работают игры Jedi Academy (JA) и Jedi Outcast (JO), при этом сохраняя полную обратную совместимость с существующими играми. Этот проект не пытается переосмыслить или иным образом изменить основной геймплей.</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>OpenJK је напор групе JACoders да одржава и унапреди игре мотора на којима раде игре Jedi Academy (JA) и Jedi Outcast (JO), док одржава потпуну компатибилност уназад са постојећим играма. Овај пројекат не покушава да поново балансира или друкчије мења основне игре.</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>OpenJK är en insats från JACoders-gruppen för att underhålla och förbättra spelmotorerna som Jedi Academy (JA) och Jedi Outcast (JO)-spelen körs på, samtidigt som fullständig bakåtkompatibilitet med befintliga spel bibehålls. Detta projekt försöker inte balansera om eller på annat sätt ändra kärngameplay.</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>OpenJK是JACoders小组维护和改进Jedi Academy（JA）和Jedi Outcast（JO）游戏运行的游戏引擎的努力。它维持与现有游戏的完全向后兼容性。该项目不试图重新平衡或以其他方式修改核心游戏。</systemDescription>
+  </variables>
 </theme>

@@ -10,4 +10,94 @@ The Retro Engine was a reverse engineered engine for Sonic games and RSDK is a r
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
+  <variables lang="ar">
+    <systemDescription>Sonic Mania هي لعبة Sonic جانبية من عام 2017 تم إصدارها بواسطة Sega. بعد سنوات عديدة من ألعاب Sonic دون المستوى، بما في ذلك محاولة لرابع لعبة جانبية ثنائية الأبعاد، قررت Sega أن المعجبين المتعصبين ومخترقي ROM قد يفعلون عملاً أفضل، لذلك سمحوا لهذه اللعبة بأن يتم تطويرها من قبل فريق يتضمن Christian Whitehead، الذي تم تصميم محرك Retro Engine الذي تم عكسه لتمكين منافذ Sonic على منصات أخرى. كانت النتيجة أفضل لعبة Sonic مستقبلة في خمسة عشر سنة.
+
+كان محرك Retro عبارة عن محرك معاد للهندسة للعكس لألعاب Sonic و RSDK هو إعادة هندسة عكسية لمحرك Retro. إنها إعادة هندسة معاكسة في كل الطريق</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>Sonic Mania je igra Sonic iz 2017. godine objavljenja od strane Sega. Nakon nekoliko godina substandnih Sonic igara, uključujući pokušaj četvrte 2D stranice, Sega je odlučila da su hardcore obožavatelji i ROM hakeri možda mogli uraditi bolji posao, tako da su dozvolili da ova igra bude razvijena od strane tima koji uključuje Christian Whitehead, čiji je obrnuto inženjerni Retro Engine dizajniran za omogućavanje Sonic portova na druge platforme. Rezultat je bio najbolje primljena Sonic igra u petnaest godina.
+
+Retro Engine je bio obrnuto inženjerski motor za Sonic igre i RSDK je obrnuta inženjerija Retro Engine. To je obrnuta inženjerija sve do puta.</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>Sonic Mania és un joc de desplaçament lateral de Sonic de 2017 llançat per Sega. Després de diversos anys de jocs de Sonic per sota de l'estàndard, inclòs un intent de quart joc de lado, Sega va decidir que potser els aficionats acèrrims i els hackers de ROM podrien fer una feina millor, de manera que van permetre que aquest joc fos desenvolupat per un equip que inclou Christian Whitehead, el motor Retro invertit del qual va ser dissenyat per permetre ports de Sonic a altres plataformes. El resultat va ser el joc Sonic millor rebut en quinze anys.
+
+El motor Retro era un motor de Sonic games invertit, i RSDK és una enginyeria inversa del motor Retro. Es fa enginyeria inversa de tota forma.</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemDescription>Sonic Mania ist ein 2017er-Seitenroller-Spiel von Sonic, das von Sega veröffentlicht wurde. Nach mehreren Jahren unterdurchschnittlicher Sonic-Spiele, einschließlich eines Versuchs mit einem vierten 2D-Seitenroller, beschloss Sega, dass hart gesottene Fans und ROM-Hacker möglicherweise bessere Arbeit leisten könnten, also erlaubten sie, dieses Spiel von einem Team zu entwickeln, das Christian Whitehead einschließt, dessen umgekehrte Retro Engine für die Aktivierung von Sonic-Ports auf anderen Plattformen konzipiert wurde. Das Ergebnis war das am besten angenommene Sonic-Spiel in fünfzehn Jahren.
+
+Die Retro Engine war eine rückwärts konstruierte Engine für Sonic-Spiele und RSDK ist eine Rückwärts-Reverse-Engineering der Retro Engine. Es ist Reverse Engineering den ganzen Weg.</systemDescription>
+  </variables>
+  <variables lang="es">
+    <systemDescription>Sonic Mania es un juego de desplazamiento lateral de Sonic de 2017 lanzado por Sega. Después de varios años de juegos de Sonic deficientes, incluido un intento de un cuarto juego 2D de desplazamiento lateral, Sega decidió que tal vez los aficionados acérrimos y los hackers de ROM podrían hacer un trabajo mejor, por lo que permitieron que este juego fuera desarrollado por un equipo que incluye a Christian Whitehead, cuyo Retro Engine de ingeniería inversa fue diseñado para permitir puertos de Sonic en otras plataformas. El resultado fue el juego de Sonic mejor recibido en quince años.
+
+El Retro Engine fue un motor de ingeniería inversa para juegos de Sonic y RSDK es una ingeniería inversa del Retro Engine. Es ingeniería inversa todo el camino.</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>Sonic Mania est un jeu de plateforme Sonic de 2017 publié par Sega. Après plusieurs années de jeux Sonic inférieurs aux normes, incluant une tentative de quatrième plateforme 2D, Sega a décidé que les fans hardcore et les hackers ROM pourraient peut-être faire un meilleur travail, ils ont donc autorisé ce jeu à être développé par une équipe qui inclut Christian Whitehead, dont le Retro Engine d'ingénierie inverse a été conçu pour permettre les ports Sonic sur d'autres plates-formes. Le résultat a été le jeu Sonic le mieux reçu en quinze ans.
+
+Le moteur Retro était un moteur d'ingénierie inverse pour les jeux Sonic et RSDK est une ingénierie inverse du moteur Retro. C'est de l'ingénierie inverse tout du long.</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>Sonic Mania je igra Sonic iz 2017. godine objavljenja od strane Sega. Nakon nekoliko godina loših Sonic igara, uključujući pokušaj četvrte 2D stranice, Sega je odlučila da su hardcore obožavatelji i ROM hakeri možda mogli uraditi bolji posao, tako da su dozvolili da ova igra bude razvijena od strane tima koji uključuje Christian Whitehead, čiji je obrnuto inženjerni Retro Engine dizajniran za omogućavanje Sonic portova na druge platforme. Rezultat je bio najbolje primljena Sonic igra u petnaest godina.
+
+Retro Engine je bio obrnuto inženjerni motor za Sonic igre i RSDK je obrnuta inženju Retro Engine. To je obrnuta inženju sve do puta.</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemDescription>Sonic Mania è un gioco di scorrimento laterale di Sonic del 2017 pubblicato da Sega. Dopo anni di giochi Sonic scadenti, incluso un tentativo di un quarto gioco di scorrimento laterale 2D, Sega ha deciso che i fan accaniti e gli hacker ROM avrebbero potuto fare un lavoro migliore, quindi hanno permesso a questo gioco di essere sviluppato da un team che include Christian Whitehead, il cui Retro Engine sottoposto a reverse engineering è stato progettato per consentire i port Sonic su altre piattaforme. Il risultato è stato il gioco Sonic più apprezzato in quindici anni.
+
+Le Retro Engine era un motore di reverse engineering per i giochi Sonic e RSDK è un reverse engineering del motore Retro. È reverse engineering tutto il modo.</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>ソニック・マニアは、セガによってリリースされた2017年のソニック横スクロールゲームです。標準以下のソニックゲームの数年後、4番目の2D横スクロールの試みを含む、セガはハードコアファンとROMハッカーがより良い仕事ができるかもしれないと決定しました。逆エンジニアリングされたRetro Engineが他のプラットフォームへのSonicポートを有効にするために設計されたChristian Whiteheadを含むチームによって開発されることを許可しました。結果は15年で最も受け入れられたソニックゲームでした。
+
+Retro Engineはソニックゲームの逆エンジニアリングエンジンであり、RSDKはRetro Engineの逆エンジニアリングです。全てにおいて逆エンジニアリング。</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>Sonic Mania는 Sega가 2017년에 출시한 Sonic 횡스크롤 게임입니다. 4번째 2D 횡스크롤 시도를 포함하여 수년 동안 표준 이하의 Sonic 게임 이후, Sega는 하드코어 팬과 ROM 해커가 더 나은 일을 할 수 있을 것이라고 결정했고, 역엔지니어링된 Retro Engine이 다른 플랫폼으로 Sonic 포트를 가능하게 하기 위해 설계한 Christian Whitehead를 포함한 팀에 의해 이 게임을 개발하도록 허용했습니다. 그 결과는 15년 동안 가장 잘 받아들여진 Sonic 게임이었습니다.
+
+Retro Engine은 Sonic 게임을 위한 역엔지니어링 엔진이었고 RSDK는 Retro Engine의 역엔지니어링입니다. 모든 방법이 역엔지니어링입니다.</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>Sonic Mania is een 2017-zijscrollspel van Sonic uitgebracht door Sega. Na jaren van ondermaatse Sonic-spellen, inclusief een poging tot een vierde 2D-zijscroller, besloot Sega dat hardcore-fans en ROM-hackers mogelijk beter werk zouden kunnen leveren, dus ze stelden dit spel in staat om te worden ontwikkeld door een team dat Christian Whitehead omvat, wiens omgekeerde Retro Engine is ontworpen om Sonic-ports op andere platforms mogelijk te maken. Het resultaat was het best ontvangen Sonic-spel in vijftien jaar.
+
+De Retro Engine was een omgekeerde engineeringmotor voor Sonic-spellen en RSDK is reverse engineering van de Retro Engine. Het is reverse engineering helemaal door.</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>Sonic Mania to gra Sonic z 2017 roku opublikowana przez Sega. Po latach poniżej standardowych gier Sonic, w tym próbę czwartego gry z przewijaniem 2D, Sega postanowiła, że ​​zaangażowani fani i hakerzy ROM mogliby wypadać lepiej, więc pozwolili tej grze być opracowanej przez zespół obejmujący Christian Whitehead, którego odwrócony Retro Engine został zaprojektowany do umożliwienia portów Sonic na innych platformach. Wynikiem była najlepiej przyjęta gra Sonic w ciągu piętnastu lat.
+
+Retro Engine był odwróconym silnikiem inżynieryjnym dla gier Sonic i RSDK jest reverse engineering Retro Engine. To jest reverse engineering całą drogę.</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>Sonic Mania é um jogo de rolagem lateral de Sonic de 2017 lançado pela Sega. Após anos de jogos Sonic abaixo do padrão, incluindo uma tentativa de um quarto jogo 2D de rolagem lateral, Sega decidiu que fãs hardcore e hackers de ROM poderiam fazer um trabalho melhor, portanto permitiram que este jogo fosse desenvolvido por um time que inclui Christian Whitehead, cujo Retro Engine de engenharia reversa foi projetado para permitir portas Sonic em outras plataformas. O resultado foi o jogo Sonic mais bem recebido em quinze anos.
+
+O Retro Engine era um mecanismo de engenharia reversa para jogos Sonic e RSDK é engenharia reversa do Retro Engine. É engenharia reversa o caminho todo.</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>Sonic Mania este un joc de defilare orizontal Sonic din 2017 lansat de Sega. După ani de jocuri Sonic sub standard, inclusiv o tentativă de al patrulea joc de defilare orizontal 2D, Sega a decis că fanii hardcore și hackerii ROM ar putea face o muncă mai bună, deci au permis ca acest joc să fie dezvoltat de o echipă care îl include pe Christian Whitehead, al cărui Retro Engine cu inginerie inversă a fost proiectat pentru a permite porturile Sonic pe alte platforme. Rezultatul a fost jocul Sonic cel mai bine primit în cincisprezece ani.
+
+Retro Engine era un motor de inginerie inversă pentru jocurile Sonic și RSDK este inginerie inversă a motorului Retro. Este inginerie inversă toată drumul.</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>Sonic Mania — это боковой скролл Sonic, выпущенный Sega в 2017 году. После лет неудачных игр Sonic, включая попытку четвертого 2D-бокового скролла, Sega решила, что фанаты и hackers ROM могут справиться лучше, поэтому они разрешили разработке этой игры командой, в которую входит Christian Whitehead, чей обратный Retro Engine был разработан для включения портов Sonic на другие платформы. Результатом стал лучший принятый Sonic игрок за пятнадцать лет.
+
+Retro Engine был двигателем обратного проектирования для игр Sonic, а RSDK — это обратная инженерия Retro Engine. Это обратная инженерия всю дорогу.</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>Sonic Mania је игра Sonic из 2017. године објављена од стране Sega. Након години лоших Sonic игара, укључујући покушај четврте 2D странице, Sega је одлучила да су hardcore обожавателй и ROM хакери можда могли урадити бољи посао, тако да су дозволили да ова игра буде развијена од стране тима који укључује Christian Whitehead, чији је обрнуто инжењирани Retro Engine дизајниран за омогућавање Sonic портова на друге платформе. Резултат је била најбоље примљена Sonic игра у петнаест година.
+
+Retro Engine је била обрнуто инжењирана мотора за Sonic игре и RSDK је обрнута инженјерија Retro Engine. То је обрнута инженјерија све до пута.</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>Sonic Mania är ett Sonic-sidscrollningsspel från 2017 utgivet av Sega. Efter år av undermaliga Sonic-spel, inklusive ett försök till ett fjärde 2D-sidscrollningsspel, beslöt Sega att hårdkokta fans och ROM-hackare kanske kunde göra ett bättre jobb, så de tillät att detta spel utvecklades av ett team som inkluderar Christian Whitehead, vars omvända Retro Engine designades för att möjliggöra Sonic-portar till andra plattformar. Resultatet var det mest väl mottagna Sonic-spelet på femtio år.
+
+Retro Engine var en omvänd enginering-motor för Sonic-spel och RSDK är omvänd engineering av Retro Engine. Det är omvänd ingenjöring hela vägen.</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>Sonic Mania是Sega在2017年发布的Sonic横向滚动游戏。在多年的低于标准的Sonic游戏之后，包括第四个2D横向滚动的尝试，Sega决定核心粉丝和ROM黑客可能会做得更好，因此允许由一个包括Christian Whitehead的团队开发这款游戏，其反向工程的Retro Engine旨在实现其他平台上的Sonic端口。结果是十五年来最受欢迎的Sonic游戏。
+
+Retro Engine是用于Sonic游戏的反向工程引擎，RSDK是Retro Engine的反向工程。这是一路上的反向工程。</systemDescription>
+  </variables>
 </theme>

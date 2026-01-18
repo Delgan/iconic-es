@@ -8,4 +8,58 @@
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
+  <variables lang="ar">
+    <systemDescription>Quake III Arena هي لعبة إطلاق نار من منظور الشخص الأول يركز على الملعب متعدد اللاعبين تم تطويرها بواسطة Id Software عام 1999.</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>Quake III Arena je igra pucanja iz prvog lica fokusirana na multiplayer arenu razvijena od id Software 1999.</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>Quake III Arena és un joc de disparos en primera persona enfocatzat en multijugador desenvolupat per Id Software el 1999.</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemDescription>Quake III Arena ist ein Ego-Shooter-Spiel mit Fokus auf Mehrspieler-Arena, das 1999 von Id Software entwickelt wurde.</systemDescription>
+  </variables>
+  <variables lang="es">
+    <systemDescription>Quake III Arena es un juego de disparo en primera persona enfocado en arena multijugador desarrollado por Id Software en 1999.</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>Quake III Arena est un jeu de tir à la première personne axé sur l'arène multijoueur développé par Id Software en 1999.</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>Quake III Arena je igra pucanja iz prvog lica fokusirana na multiplayer arenu razvijena od Id Software 1999.</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemDescription>Quake III Arena è un gioco di sparatutto in prima persona incentrato sull'arena multiplayer sviluppato da Id Software nel 1999.</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>Quake III Arenaは、1999年にId Softwareによって開発されたマルチプレイヤーアリーナに焦点を当てた一人称シューティングゲームです。</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>Quake III Arena은 1999년 Id Software가 개발한 멀티플레이어 경기장에 중점을 둔 1인칭 슈팅 게임입니다.</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>Quake III Arena is een first-person shooterspel met focus op multiplayer-arena, ontwikkeld door Id Software in 1999.</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>Quake III Arena to gra strzelecka z perspektywy pierwszej osoby skoncentrowana na multiplayer arenie opracowana przez Id Software w 1999 roku.</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>Quake III Arena é um jogo de tiro em primeira pessoa focado na arena multijogador desenvolvido pela Id Software em 1999.</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>Quake III Arena este un joc de tragere din perspectiva primei persoane concentrat pe arena multijucător dezvoltat de Id Software în 1999.</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>Quake III Arena — это игра-шутер от первого лица, ориентированная на многопользовательскую арену, разработанная компанией Id Software в 1999 году.</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>Quake III Arena је игра пуцања из првог лица фокусирана на multiplayer арену развијена од Id Software 1999.</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>Quake III Arena är ett first-person shooterspel fokuserat på multiplayer-arena utvecklat av Id Software 1999.</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>Quake III Arena是Id Software在1999年开发的专注于多人玩家竞技场的第一人称射击游戏。</systemDescription>
+  </variables>
 </theme>

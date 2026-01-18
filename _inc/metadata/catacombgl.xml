@@ -8,4 +8,58 @@
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
+  <variables lang="ar">
+    <systemDescription>CatacombGL هي نسخة من قانون مصدر Catacomb 3D وسلسلة Catacomb Adventure. تم تطوير هذه الألعاب في الأصل لـ MS-DOS. تم تطوير Catacomb 3D: The Descent بواسطة Id Software في عام 1991. تم تطوير سلسلة Catacomb Adventure بواسطة Softdisk Publishing في 1992-1993 وتتكون من The Catacomb Abyss و The Catacomb Armageddon و The Catacomb Apocalypse. صورت الألعاب الأصلية رسوماتها ثلاثية الأبعاد في 16 لونًا ونافذة عرض بحجم 320x200 بكسل. الهدف الرئيسي من نسخة مصدر CatacombGL هو استخدام OpenGL لتحسين العرض المرئي لألعاب Catacomb 3D.</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>CatacombGL je izvor port od Catacomb 3D i Catacomb Adventure serije. Ove igre su originalno razvijene za MS-DOS. Catacomb 3D: The Descent je razvila Id Software 1991. Catacomb Adventure serija je razvljena Softdisk Publishing 1992-1993 i sastoji se od The Catacomb Abyss, The Catacomb Armageddon i The Catacomb Apocalypse. Originalne igre su vizuelizovale svoje 3D grafike u 16 boja i 320x200 piksela video prozor. Glavna cilj CatacombGL izvora port je da koristi OpenGL da poboljša vizuelnu prezentaciju Catacomb 3D igara.</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>CatacombGL és un port de font de Catacomb 3D i la sèrie Catacomb Adventure. Aquests jocs van ser desenvolupats originalment per a MS-DOS. Catacomb 3D: The Descent va ser desenvolupat per Id Software el 1991. La sèrie Catacomb Adventure va ser desenvolupada per Softdisk Publishing el 1992-1993 i consta de The Catacomb Abyss, The Catacomb Armageddon i The Catacomb Apocalypse. Els jocs originals van visualitzar els seus gràfics 3D en 16 colors i una finestra de visualització de 320x200 píxels. L'objectiu principal del port de font CatacombGL és utilitzar OpenGL per millorar la presentació visual dels jocs Catacomb 3D.</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemDescription>CatacombGL ist ein Quellcode-Port von Catacomb 3D und der Catacomb Adventure-Serie. Diese Spiele wurden ursprünglich für MS-DOS entwickelt. Catacomb 3D: The Descent wurde 1991 von Id Software entwickelt. Die Catacomb Adventure-Serie wurde von 1992 bis 1993 von Softdisk Publishing entwickelt und besteht aus The Catacomb Abyss, The Catacomb Armageddon und The Catacomb Apocalypse. Die Original-Spiele zeigten ihre 3D-Grafiken in 16 Farben und einem 320x200-Pixel-Anzeigefenster. Das Hauptziel des CatacombGL-Quellports ist es, OpenGL zu nutzen, um die visuelle Darstellung der Catacomb 3D-Spiele zu verbessern.</systemDescription>
+  </variables>
+  <variables lang="es">
+    <systemDescription>CatacombGL es un puerto de código fuente de Catacomb 3D y la serie Catacomb Adventure. Estos juegos fueron desarrollados originalmente para MS-DOS. Catacomb 3D: The Descent fue desarrollado por Id Software en 1991. La serie Catacomb Adventure fue desarrollada por Softdisk Publishing en 1992-1993 y consiste en The Catacomb Abyss, The Catacomb Armageddon y The Catacomb Apocalypse. Los juegos originales visualizaron sus gráficos 3D en 16 colores y una ventana de visualización de 320x200 píxeles. El objetivo principal del puerto de código fuente CatacombGL es utilizar OpenGL para mejorar la presentación visual de los juegos Catacomb 3D.</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>CatacombGL est un port de code source de Catacomb 3D et de la série Catacomb Adventure. Ces jeux ont été développés à l'origine pour MS-DOS. Catacomb 3D: The Descent a été développé par Id Software en 1991. La série Catacomb Adventure a été développée par Softdisk Publishing en 1992-1993 et se compose de The Catacomb Abyss, The Catacomb Armageddon et The Catacomb Apocalypse. Les jeux originaux ont visualisé leurs graphiques 3D en 16 couleurs et une fenêtre d'affichage de 320x200 pixels. L'objectif principal du port de code source CatacombGL est d'utiliser OpenGL pour améliorer la présentation visuelle des jeux Catacomb 3D.</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>CatacombGL je port izvornog koda Catacomb 3D i serije Catacomb Adventure. Ove igre su originalno razvijene za MS-DOS. Catacomb 3D: The Descent je razvio Id Software 1991. Serija Catacomb Adventure je razvljena Softdisk Publishing 1992-1993 i sastoji se od The Catacomb Abyss, The Catacomb Armageddon i The Catacomb Apocalypse. Originalne igre su vizualizovale svoje 3D grafike u 16 boja i 320x200 prozor prikaza piksela. Glavna svrha CatacombGL izvornog porta je da koristi OpenGL za poboljšanje vizuelne prezentacije Catacomb 3D igara.</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemDescription>CatacombGL è un port del codice sorgente di Catacomb 3D e della serie Catacomb Adventure. Questi giochi sono stati originariamente sviluppati per MS-DOS. Catacomb 3D: The Descent è stato sviluppato da Id Software nel 1991. La serie Catacomb Adventure è stata sviluppata da Softdisk Publishing nel 1992-1993 e consiste in The Catacomb Abyss, The Catacomb Armageddon e The Catacomb Apocalypse. I giochi originali hanno visualizzato la loro grafica 3D in 16 colori e una finestra di visualizzazione di 320x200 pixel. L'obiettivo principale del port del codice sorgente CatacombGL è utilizzare OpenGL per migliorare la presentazione visiva dei giochi Catacomb 3D.</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>CatacombGLは、Catacomb 3DとCatacomb Adventureシリーズのソースコードポートです。これらのゲームは、元々MS-DOSのために開発されていました。Catacomb 3D：The Descentは、1991年にId Softwareによって開発されました。Catacomb Adventureシリーズは、1992年から1993年にSoftdisk Publishingによって開発され、The Catacomb Abyss、The Catacomb Armageddon、およびThe Catacomb Apocalypseで構成されています。元のゲームは、16色と320x200ピクセルのビューウィンドウで3Dグラフィックスを視覚化しました。CatacombGLソースコードポートの主な目標は、OpenGLを利用して、Catacomb 3Dゲームの視覚的な表現を改善することです。</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>CatacombGL은 Catacomb 3D 및 Catacomb Adventure 시리즈의 소스 코드 포트입니다. 이 게임들은 원래 MS-DOS용으로 개발되었습니다. Catacomb 3D: The Descent는 1991년 Id Software에 의해 개발되었습니다. Catacomb Adventure 시리즈는 1992-1993년 Softdisk Publishing에 의해 개발되었으며 The Catacomb Abyss, The Catacomb Armageddon 및 The Catacomb Apocalypse로 구성됩니다. 원래 게임들은 16색과 320x200 픽셀 보기 창에서 3D 그래픽을 시각화했습니다. CatacombGL 소스 포트의 주요 목표는 OpenGL을 활용하여 Catacomb 3D 게임의 시각적 표현을 개선하는 것입니다.</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>CatacombGL is een broncode-port van Catacomb 3D en de Catacomb Adventure-serie. Deze spellen zijn oorspronkelijk voor MS-DOS ontwikkeld. Catacomb 3D: The Descent is in 1991 door Id Software ontwikkeld. De Catacomb Adventure-serie is van 1992-1993 door Softdisk Publishing ontwikkeld en bestaat uit The Catacomb Abyss, The Catacomb Armageddon en The Catacomb Apocalypse. De originele spellen visualiseerden hun 3D-graphics in 16 kleuren en een 320x200-pixel weergavevenster. Het hoofddoel van de CatacombGL-broncode-port is om OpenGL in te zetten om de visuele presentatie van de Catacomb 3D-spellen te verbeteren.</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>CatacombGL to port kodu źródłowego Catacomb 3D i serii Catacomb Adventure. Gry te zostały pierwotnie opracowane dla MS-DOS. Catacomb 3D: The Descent opracowała firma Id Software w 1991 roku. Seria Catacomb Adventure została opracowana przez Softdisk Publishing w latach 1992-1993 i składa się z The Catacomb Abyss, The Catacomb Armageddon i The Catacomb Apocalypse. Oryginalne gry zwizualizowały swoją grafikę 3D w 16 kolorach i oknie wyświetlania 320x200 pikseli. Głównym celem portu kodu źródłowego CatacombGL jest wykorzystanie biblioteki OpenGL w celu poprawy wizualnej prezentacji gier Catacomb 3D.</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>CatacombGL é uma porta de código-fonte de Catacomb 3D e da série Catacomb Adventure. Esses jogos foram originalmente desenvolvidos para MS-DOS. Catacomb 3D: The Descent foi desenvolvido pela Id Software em 1991. A série Catacomb Adventure foi desenvolvida pela Softdisk Publishing em 1992-1993 e consiste em The Catacomb Abyss, The Catacomb Armageddon e The Catacomb Apocalypse. Os jogos originais visualizaram seus gráficos 3D em 16 cores e uma janela de visualização de 320x200 pixels. O objetivo principal da porta do código-fonte CatacombGL é utilizar OpenGL para melhorar a apresentação visual dos jogos Catacomb 3D.</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>CatacombGL este un port de cod sursă al Catacomb 3D și al seriei Catacomb Adventure. Aceste jocuri au fost dezvoltate inițial pentru MS-DOS. Catacomb 3D: The Descent a fost dezvoltat de Id Software în 1991. Seria Catacomb Adventure a fost dezvoltată de Softdisk Publishing în 1992-1993 și constă din The Catacomb Abyss, The Catacomb Armageddon și The Catacomb Apocalypse. Jocurile originale și-au vizualizat grafica 3D în 16 culori și o fereastră de vizionare de 320x200 de pixeli. Scopul principal al portului de cod sursă CatacombGL este să utilizeze OpenGL pentru a îmbunătăți prezentarea vizuală a jocurilor Catacomb 3D.</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>CatacombGL — это порт исходного кода Catacomb 3D и серии Catacomb Adventure. Эти игры были первоначально разработаны для MS-DOS. Catacomb 3D: The Descent был разработан компанией Id Software в 1991 году. Серия Catacomb Adventure была разработана компанией Softdisk Publishing в 1992-1993 годах и состоит из The Catacomb Abyss, The Catacomb Armageddon и The Catacomb Apocalypse. Исходные игры визуализировали свою 3D-графику в 16 цветах и окне просмотра 320x200 пикселей. Основная цель порта исходного кода CatacombGL — использовать OpenGL для улучшения визуального представления игр Catacomb 3D.</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>ЦатацомбГЛ је порт изворног кода од Цатацомб 3Д и Цатацомб Авентуре серије. Ове игре су первично развијене за МС-ДОС. Цатацомб 3Д: Тхе Десцент је развио Ид Софтваре 1991. Цатацомб Авентуре серија је развљена Софтдиск Публишинг 1992-1993 и састоји се од Тхе Цатацомб Абисс, Тхе Цатацомб Армагеддон и Тхе Цатацомб Апокалипсе. Оригиналне игре су визуелизовале своју 3Д графику у 16 боја и 320к200 пиксела видео прозор. Главна циљ ЦатацомбГЛ порта изворног кода је да користи ОпенГЛ да унапреди визуелну презентацију Цатацомб 3Д игара.</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>CatacombGL är en källkodsport av Catacomb 3D och Catacomb Adventure-serien. Dessa spel utvecklades ursprungligen för MS-DOS. Catacomb 3D: The Descent utvecklades av Id Software 1991. Catacomb Adventure-serien utvecklades av Softdisk Publishing 1992-1993 och består av The Catacomb Abyss, The Catacomb Armageddon och The Catacomb Apocalypse. De ursprungliga spelen visualiserade sin 3D-grafik i 16 färger och ett 320x200 pixel visningsfönster. Huvudsyftet med CatacombGL källkodsport är att använda OpenGL för att förbättra den visuella presentationen av Catacomb 3D-spelen.</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>CatacombGL是Catacomb 3D和Catacomb Adventure系列的源代码端口。这些游戏最初是为MS-DOS开发的。Catacomb 3D: The Descent由Id Software在1991年开发。Catacomb Adventure系列由Softdisk Publishing在1992-1993年开发，由The Catacomb Abyss、The Catacomb Armageddon和The Catacomb Apocalypse组成。原始游戏以16色和320x200像素的视图窗口实现了其3D图形。CatacombGL源代码端口的主要目标是利用OpenGL来改进Catacomb 3D游戏的视觉呈现。</systemDescription>
+  </variables>
 </theme>

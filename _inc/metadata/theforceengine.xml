@@ -8,4 +8,58 @@
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
+  <variables lang="ar">
+    <systemDescription>The Force Engine هو مشروع بهدف إجراء هندسة عكسية وإعادة بناء محرك Jedi لأنظمة حديثة والألعاب التي استخدمت هذا المحرك - Dark Forces و Outlaws. سيتضمن المشروع أدوات حديثة مدمجة مثل محرر المستوى وسيجعل من السهل تشغيل Dark Forces و Outlaws على الأنظمة الحديثة وكذلك العديد من مجموعات المجتمع المصممة للعمل مع الألعاب الأصلية.</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>The Force Engine je projekat sa ciljem da vrši obrnutu inženjeriju i obnovu Jedi Engine-a za moderne sisteme i igre koje su koristile taj engine - Dark Forces i Outlaws. Projekat će uključiti savremene, ugrađene alate, kao što je editor nivoa i učiniti lako da se Dark Forces i Outlaws pokrenu na modernim sistemima kao i za mnoge mods zajednice osmišljene da rade sa originalnim igrama.</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>The Force Engine és un projecte amb l'objectiu de fer enginyeria inversa i reconstruir el motor Jedi per a sistemes moderns i els jocs que van utilitzar aquest motor - Dark Forces i Outlaws. El projecte inclourà eines modernes integrades, com ara un editor de nivells, i facilitarà la reproducció de Dark Forces i Outlaws en sistemes moderns, així com els molts mods de la comunitat dissenyats per funcionar amb els jocs originals.</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemDescription>The Force Engine ist ein Projekt mit dem Ziel, die Jedi Engine für moderne Systeme und die Spiele, die diese Engine verwendet haben, rückwärts zu entwickeln und zu rekonstruieren - Dark Forces und Outlaws. Das Projekt wird moderne integrierte Tools wie einen Level-Editor enthalten und macht es einfach, Dark Forces und Outlaws auf modernen Systemen sowie auf den vielen Community-Mods zu spielen, die für die Zusammenarbeit mit den Originalspielen entwickelt wurden.</systemDescription>
+  </variables>
+  <variables lang="es">
+    <systemDescription>The Force Engine es un proyecto con el objetivo de realizar ingeniería inversa y reconstruir el motor Jedi para sistemas modernos y los juegos que usaron ese motor - Dark Forces y Outlaws. El proyecto incluirá herramientas modernas integradas, como un editor de niveles, y hará que sea fácil jugar Dark Forces y Outlaws en sistemas modernos, así como para los muchos mods de la comunidad diseñados para funcionar con los juegos originales.</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>The Force Engine est un projet visant à rétro-concevoir et à reconstruire le moteur Jedi pour les systèmes modernes et les jeux qui ont utilisé ce moteur - Dark Forces et Outlaws. Le projet comprendra des outils modernes intégrés, tels qu'un éditeur de niveaux, et permettra de jouer facilement à Dark Forces et Outlaws sur les systèmes modernes ainsi qu'aux nombreux mods communautaires conçus pour fonctionner avec les jeux originaux.</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>The Force Engine je projekat sa ciljem da vrši obrnutu inženjeriju i obnovu Jedi Engine-a za moderne sisteme i igre koje su koristile taj engine - Dark Forces i Outlaws. Projekat će uključiti savremene, ugrađene alate, kao što je editor nivoa i učiniti lako da se Dark Forces i Outlaws pokrenu na modernim sistemima kao i za mnoge mods zajednice osmišljene da rade sa originalnim igrama.</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemDescription>The Force Engine è un progetto volto a sottoporre a reverse engineering e ricostruire il motore Jedi per i sistemi moderni e i giochi che hanno utilizzato quel motore - Dark Forces e Outlaws. Il progetto includerà strumenti moderni integrati, come un editor di livelli, e renderà facile giocare a Dark Forces e Outlaws su sistemi moderni nonché ai molti mod della comunità progettati per funzionare con i giochi originali.</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>The Force Engineは、Jediエンジンをモダンシステム向けにリバースエンジニアリングして再構築するプロジェクトです。そのエンジンを使用したゲーム- Dark ForcesとOutlaws。プロジェクトには、レベルエディターなどの最新の組み込みツールが含まれ、Dark ForcesとOutlawsを最新システムで簡単にプレイでき、元のゲームと連動するように設計された多くのコミュニティmodもサポートします。</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>The Force Engine은 Jedi 엔진을 현대 시스템을 위해 역엔지니어링하고 재구축하는 것을 목표로 하는 프로젝트입니다. 해당 엔진을 사용한 게임 - Dark Forces 및 Outlaws. 이 프로젝트에는 레벨 에디터와 같은 최신 기본 제공 도구가 포함되며 현대 시스템에서 Dark Forces 및 Outlaws를 쉽게 재생할 수 있으며 원본 게임과 작동하도록 설계된 많은 커뮤니티 mod도 지원합니다.</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>The Force Engine is een project gericht op reverse engineering en herbouw van de Jedi Engine voor moderne systemen en de games die die engine hebben gebruikt - Dark Forces en Outlaws. Het project zal moderne, ingebouwde tools bevatten, zoals een level editor en zal het gemakkelijk maken om Dark Forces en Outlaws op moderne systemen te spelen, evenals voor de vele community mods ontworpen om met de originele games te werken.</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>The Force Engine to projekt mający na celu przeprowadzenie reverse engineering i odbudowę silnika Jedi dla nowoczesnych systemów oraz gier, które używały tego silnika - Dark Forces i Outlaws. Projekt będzie zawierać nowoczesne wbudowane narzędzia, takie jak edytor poziomów, i ułatwi grę w Dark Forces i Outlaws na nowoczesnych systemach, a także wiele modów społeczności zaprojektowanych do pracy z oryginalnymi grami.</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>The Force Engine é um projeto com o objetivo de fazer engenharia reversa e reconstruir o mecanismo Jedi para sistemas modernos e os jogos que usaram esse mecanismo - Dark Forces e Outlaws. O projeto incluirá ferramentas modernas integradas, como um editor de nível, e facilitará o jogo de Dark Forces e Outlaws em sistemas modernos, bem como muitos mods da comunidade projetados para funcionar com os jogos originais.</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>The Force Engine este un proiect cu scopul de a face inginerie inversă și a reconstrui motorul Jedi pentru sisteme moderne și jocurile care au folosit acel motor - Dark Forces și Outlaws. Proiectul va include instrumente moderne integrate, cum ar fi un editor de nivel, și va ușura jocul Dark Forces și Outlaws pe sisteme moderne, precum și pentru numeroasele moduri comunității concepute să funcționeze cu jocurile originale.</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>The Force Engine — это проект, направленный на обратную инженерию и восстановление двигателя Jedi для современных систем и игр, которые использовали этот двигатель - Dark Forces и Outlaws. Проект будет включать современные встроенные инструменты, такие как редактор уровней, и сделает легко играть в Dark Forces и Outlaws на современных системах, а также во многие моды сообщества, предназначенные для работы с оригинальными играми.</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>The Force Engine је пројекат са циљем да врши обрнуту инженјерију и обнову Једи мотора за модерне системе и игре које су користиле тај мотор - Dark Forces и Outlaws. Пројекат ће укључити модерне, уграђене алате, као што је уредник нивоа и учинити лако да се Dark Forces и Outlaws покрену на модерним системима као и за многе modove заједнице осмишљене да раде са оригиналним играма.</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>The Force Engine är ett projekt med syftet att utföra omvänd konstruktion och ombyggnad av Jedi Engine för moderna system och spel som använde denna engine - Dark Forces och Outlaws. Projektet kommer att inkludera moderna inbyggda verktyg, såsom en nivåredigerare, och kommer att göra det enkelt att spela Dark Forces och Outlaws på moderna system samt för många community mods designade för att fungera med originalspelen.</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>The Force Engine是一个项目，旨在对Jedi引擎进行逆向工程和重建，以用于现代系统和使用该引擎的游戏 - Dark Forces和Outlaws。该项目将包括现代的内置工具，例如关卡编辑器，并将使在现代系统上玩Dark Forces和Outlaws变得容易，以及为许多社区modz（旨在与原始游戏一起工作）。</systemDescription>
+  </variables>
 </theme>

@@ -10,4 +10,94 @@ OpenMoHAA is an open-source version of MoHAA that is fully compatible with both 
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
+  <variables lang="ar">
+    <systemDescription>Medal of Honor: Allied Assault War Chest هي كنز من المعارك التاريخية مقدمة كلعبة FPS حربية من الحرب العالمية الثانية. استدعِ المدفعية والضربات الجوية ضد القوات المعادية وأبقِ فريقك بعيداً عن براثن الهزيمة والاستسلام. قود مركبات هجومية مختلفة، وشحن دائماً نحو النصر.
+
+OpenMoHAA هو إصدار مفتوح المصدر من MoHAA متوافق بالكامل مع اللعبة الأصلية وتوسعات Spearhead و Breakthrough، والتي تم تضمينها جميعاً في إصدار War Chest.</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>Medal of Honor: Allied Assault War Chest je blagajnica istorijskih bitaka prikazanih kao Drugosvetski rat FPS. Pozovi artiljeriju i vazdušne napade protiv protivničkih snaga i drži svoj tim dalje od čeljusti poraza i očaja. Upravljaj različitim napadačkim vozilima, uvek jurišaj prema pobedi. Uncle Sam želi TEBE!
+
+OpenMoHAA je verzija otvorenog koda MoHAA koja je potpuno kompatibilna sa originalnom igrom i ekspanzijama Spearhead i Breakthrough, koje su sve uključene u izdanje War Chest.</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>Medal of Honor: Allied Assault War Chest és un tresor de batalles històriques presentades com una greu Segona Guerra Mundial FPS. Demana artilleria i atacs aeris contra les forces enemigues i mantén el teu equip lluny de les fauces de la derrota i la desesperació. Condueix diversos vehicles d'assalt, sempre càrregant cap a la victòria. L'oncle Sam vol TU!
+
+OpenMoHAA és una versió de codi obert de MoHAA que és completament compatible amb el joc original i les expansions Spearhead i Breakthrough, que estan totes incloses a l'edició de War Chest.</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemDescription>Medal of Honor: Allied Assault War Chest ist ein Schatz aus historischen Kämpfen, die als Hauser Zweiter Weltkrieg FPS präsentiert werden. Fordern Sie Artillerie und Luftangriffe gegen die gegnerischen Truppen auf und halten Sie Ihr Team fern von den Fängen der Niederlage und Hoffnungslosigkeit. Fahren Sie verschiedene Angriffsfahrzeuge und drängen Sie immer zum Sieg vor. Onkel Sam will DICH!
+
+OpenMoHAA ist eine Open-Source-Version von MoHAA, die vollständig mit dem Originalspiel und den Erweiterungen Spearhead und Breakthrough kompatibel ist, die alle im War Chest-Release enthalten sind.</systemDescription>
+  </variables>
+  <variables lang="es">
+    <systemDescription>Medal of Honor: Allied Assault War Chest es un tesoro de batallas históricas presentadas como un FPS sangriento de la Segunda Guerra Mundial. Llama la artillería y ataques aéreos contra las fuerzas enemigas y mantén tu escuadrón lejos de las fauces de la derrota y la desesperación. Conduce varios vehículos de asalto, siempre cargando hacia la victoria. ¡El Tío Sam te quiere a TI!
+
+OpenMoHAA es una versión de código abierto de MoHAA que es completamente compatible con el juego original y las expansiones Spearhead y Breakthrough, todas incluidas en la versión War Chest.</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>Medal of Honor: Allied Assault War Chest est un trésor de batailles historiques présentées comme un FPS brutal de la Seconde Guerre mondiale. Appelez l'artillerie et les frappes aériennes contre les forces ennemies et gardez votre escouade loin des mâchoires de la défaite et du désespoir. Conduisez divers véhicules d'assaut, toujours en avançant vers la victoire. Oncle Sam veut VOUS!
+
+OpenMoHAA est une version open-source de MoHAA qui est complètement compatible avec le jeu original et les extensions Spearhead et Breakthrough, qui sont toutes incluses dans la version War Chest.</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>Medal of Honor: Allied Assault War Chest je riznica povijesnih bitaka prikazanih kao krvnički Drugi svjetski rat FPS. Pozovi artiljeriju i vazdušne napade protiv neprijateljskih snaga i drži svoj tim dalje od čeljusti poraza i očaja. Upravljaj različitim napadačkim vozilima, uvek jurišaj prema pobedi. Uncle Sam želi TEBE!
+
+OpenMoHAA je verzija otvorenog koda MoHAA koja je potpuno kompatibilna sa originalnom igrom i ekspanzijama Spearhead i Breakthrough, koje su sve uključene u izdanje War Chest.</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemDescription>Medal of Honor: Allied Assault War Chest è un tesoro di battaglie storiche presentate come un brutale FPS della Seconda Guerra Mondiale. Chiama l'artiglieria e gli attacchi aerei contro le forze nemiche e mantieni la tua squadra lontana dalle fauci della sconfitta e della disperazione. Guida vari veicoli d'assalto, sempre caricando verso la vittoria. Zio Sam ti vuole TU!
+
+OpenMoHAA è una versione open-source di MoHAA che è completamente compatibile con il gioco originale e le espansioni Spearhead e Breakthrough, tutte incluse nella versione War Chest.</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>Medal of Honor: Allied Assault War Chestは、第二次世界大戦の粗雑なFPSとして提示された歴史的な戦闘の宝箱です。敵軍に対して砲兵と空爆を要求し、チームを敗北と絶望の牙から遠ざけてください。様々な突撃車両を運転し、常に勝利に向かって突進してください。サムおじさんはあなたを望んでいます!
+
+OpenMoHAAはMoHAAのオープンソース版で、元のゲームおよびSpearheadおよびBreakthroughエクスパンション（すべてWar Chestリリースに含まれている）と完全に互換性があります。</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>Medal of Honor: Allied Assault War Chest는 제2차 세계 대전의 험난한 FPS로 제시된 역사적 전투의 보물입니다. 적군에 대한 포병 및 공중 공격을 요청하고 팀을 패배와 절망의 위험으로부터 멀리 두십시오. 다양한 돌격 차량을 운전하고 항상 승리를 향해 나아가세요. 삼촌 샘이 당신을 원합니다!
+
+OpenMoHAA는 원본 게임 및 Spearhead 및 Breakthrough 확장 기능(모두 War Chest 릴리스에 포함됨)과 완벽하게 호환되는 MoHAA의 오픈 소스 버전입니다.</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>Medal of Honor: Allied Assault War Chest is een schat van historische gevechten gepresenteerd als een ruw Tweede Wereldoorlog FPS. Roep artillerie en luchtaanvallen in tegen vijandige troepen en houd je team uit de kaken van nederlaag en wanhoop. Bestuur verschillende aanvalsvoetuigen, steeds naar de overwinning stormend. Oom Sam wilt JOU!
+
+OpenMoHAA is een open-source versie van MoHAA die volledig compatibel is met het originele spel en de Spearhead- en Breakthrough-uitbreidingen, allemaal inbegrepen in de War Chest-versie.</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>Medal of Honor: Allied Assault War Chest to skarb bitew historycznych przedstawionych jako brutto drugiej wojny światowej FPS. Wezwij artylerię i naloty powietrzne przeciwko siłom wroga i trzymaj swoją drużynę z dala od paszczy porażki i rozpaczy. Prowadź różne pojazdy szturmowe, zawsze ładuj do zwycięstwa. Wujek Sam chce CIE!
+
+OpenMoHAA to wersja otwartego kodu MoHAA, która jest całkowicie kompatybilna z oryginalną grą i rozszerzeniami Spearhead i Breakthrough, wszystkie zawarte w wydaniu War Chest.</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>Medal of Honor: Allied Assault War Chest é um tesouro de batalhas históricas apresentadas como um bruto FPS da Segunda Guerra Mundial. Chame artilharia e ataques aéreos contra as forças inimigas e mantenha seu esquadrão longe das garras da derrota e desespero. Dirija vários veículos de assalto, sempre carregando para a vitória. Tio Sam quer VOCÊ!
+
+OpenMoHAA é uma versão de código aberto do MoHAA totalmente compatível com o jogo original e as expansões Spearhead e Breakthrough, todas incluídas na versão War Chest.</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>Medal of Honor: Allied Assault War Chest este o comoară de bătălii istorice prezentate ca un FPS brut din al Doilea Război Mondial. Solicită artilerie și atacuri aeriene împotriva forțelor inamice și ține-ți echipa departe de fălcile înfrângerii și disperării. Conduce diverse vehicule de asalt, întotdeauna încarcând spre victorie. Unchiul Sam te vrea pe TINE!
+
+OpenMoHAA este o versiune open-source a MoHAA care este complet compatibilă cu jocul original și extensiile Spearhead și Breakthrough, toate incluse în versiunea War Chest.</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>Medal of Honor: Allied Assault War Chest — это сокровищница исторических сражений, представленных в виде грубого шутера Второй мировой войны. Призовите артиллерию и авиаудары против противника и держите свою команду подальше от челюстей поражения и отчаяния. Управляйте различными боевыми машинами, всегда штурмуя к победе. Дядя Сэм хочет ТЕБЯ!
+
+OpenMoHAA — это версия MoHAA с открытым исходным кодом, полностью совместимая с оригинальной игрой и расширениями Spearhead и Breakthrough, все они включены в выпуск War Chest.</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>Medal of Honor: Allied Assault War Chest је благајна историјских битака представљених као брутално Други светски рат FPS. Позови артилјерију и ваздушне нападе против непријатељских снага и држи своју екипу подаље од челустима пораза и очаја. Управљај различитим наpadacima возилима, увек јурешавајући ка победи. Ујна Сем те жели!
+
+OpenMoHAA је верзија отвореног кода MoHAA која је потпуно компатибилна са оригиналном игром и проширењима Spearhead и Breakthrough, сва укључена у издање War Chest.</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>Medal of Honor: Allied Assault War Chest är en skattekammare för historiska strider presenterad som ett brutalt andra världskrigets FPS. Ring artilleri och luftattacker mot fiendetrupperoch håll ditt lag långt borta från nederlagets käftar och förtvivlan. Kör olika anfaldsfordon, alltid laddar mot seger. Onkel Sam vill HA DIG!
+
+OpenMoHAA är en open-source-version av MoHAA som är fullständigt kompatibel med det ursprungliga spelet och utvidgningarna Spearhead och Breakthrough, alla ingår i War Chest-versionen.</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>Medal of Honor: Allied Assault War Chest是以第二次世界大战为背景的粗糙FPS形式呈现的历史战役宝库。要求炮兵和空袭对抗敌方部队，使您的小队远离失败和绝望的嘴。驾驶各种突击车辆，始终冲向胜利。山姆叔叔想要你！
+
+OpenMoHAA是MoHAA的开源版本，与原始游戏以及Spearhead和Breakthrough扩展完全兼容，所有这些都包含在War Chest版本中。</systemDescription>
+  </variables>
 </theme>

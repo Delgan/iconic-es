@@ -8,4 +8,58 @@
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
+  <variables lang="ar">
+    <systemDescription>Jazz² Resurrection هي إعادة تطبيق لـ Jazz Jackrabbit 2 التي تم إصدارها عام 1998. تدعم إصدارات مختلفة من اللعبة (Shareware Demo و Holiday Hare '98 و The Secret Files و Christmas Chronicles). كما تدعم جزئياً بعض ميزات JJ2+ وMLLE.</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>Jazz² Resurrection je reimplementacija igre Jazz Jackrabbit 2 objavljena 1998. Podržava različite verzije igre (Shareware Demo, Holiday Hare '98, The Secret Files i Christmas Chronicles). Također, ona djelomično podržava neke karakteristike JJ2+ proširenja i MLLE.</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>Jazz² Resurrection és una reimplementació del joc Jazz Jackrabbit 2 llançat el 1998. Suporta diverses versions del joc (Shareware Demo, Holiday Hare '98, The Secret Files i Christmas Chronicles). A més, suporta parcialment algunes característiques de l'extensió JJ2+ i MLLE.</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemDescription>Jazz² Resurrection ist eine Neuimplementierung des Spiels Jazz Jackrabbit 2, das 1998 veröffentlicht wurde. Es unterstützt verschiedene Versionen des Spiels (Shareware Demo, Holiday Hare '98, The Secret Files und Christmas Chronicles). Außerdem unterstützt es teilweise einige Funktionen der JJ2+-Erweiterung und MLLE.</systemDescription>
+  </variables>
+  <variables lang="es">
+    <systemDescription>Jazz² Resurrection es una reimplementación del juego Jazz Jackrabbit 2 lanzado en 1998. Admite varias versiones del juego (Shareware Demo, Holiday Hare '98, The Secret Files y Christmas Chronicles). Además, admite parcialmente algunas funciones de la extensión JJ2+ y MLLE.</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>Jazz² Resurrection est une réimplémentation du jeu Jazz Jackrabbit 2 sorti en 1998. Il supporte diverses versions du jeu (Shareware Demo, Holiday Hare '98, The Secret Files et Christmas Chronicles). De plus, il supporte partiellement certaines fonctionnalités de l'extension JJ2+ et MLLE.</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>Jazz² Resurrection je ponovno implementirana igra Jazz Jackrabbit 2 objavljena 1998. Podržava različite verzije igre (Shareware Demo, Holiday Hare '98, The Secret Files i Christmas Chronicles). Također, ona djelomično podržava neke karakteristike JJ2+ proširenja i MLLE.</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemDescription>Jazz² Resurrection è una re-implementazione del gioco Jazz Jackrabbit 2 rilasciato nel 1998. Supporta varie versioni del gioco (Shareware Demo, Holiday Hare '98, The Secret Files e Christmas Chronicles). Inoltre, supporta parzialmente alcune funzionalità dell'estensione JJ2+ e MLLE.</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>Jazz² Resurrectionは1998年にリリースされたJazz Jackrabbit 2ゲームの再実装です。ゲームの様々なバージョン（Shareware Demo、Holiday Hare '98、The Secret Files、Christmas Chronicles）をサポートしています。さらに、JJ2+拡張とMLLEのいくつかの機能を部分的にサポートしています。</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>Jazz² Resurrection은 1998년에 출시된 Jazz Jackrabbit 2 게임의 재구현입니다. 게임의 다양한 버전(Shareware Demo, Holiday Hare '98, The Secret Files 및 Christmas Chronicles)을 지원합니다. 또한 JJ2+ 확장 및 MLLE의 일부 기능을 부분적으로 지원합니다.</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>Jazz² Resurrection is een herimplementatie van het spel Jazz Jackrabbit 2 dat in 1998 werd uitgebracht. Het ondersteunt verschillende versies van het spel (Shareware Demo, Holiday Hare '98, The Secret Files en Christmas Chronicles). Bovendien ondersteunt het gedeeltelijk enkele functies van de JJ2+-uitbreiding en MLLE.</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>Jazz² Resurrection to przeróbka gry Jazz Jackrabbit 2 wydana w 1998 roku. Obsługuje różne wersje gry (Shareware Demo, Holiday Hare '98, The Secret Files i Christmas Chronicles). Ponadto częściowo obsługuje niektóre funkcje rozszerzenia JJ2+ i MLLE.</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>Jazz² Resurrection é uma reimplementação do jogo Jazz Jackrabbit 2 lançado em 1998. Suporta várias versões do jogo (Shareware Demo, Holiday Hare '98, The Secret Files e Christmas Chronicles). Além disso, suporta parcialmente alguns recursos da extensão JJ2+ e MLLE.</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>Jazz² Resurrection este o re-implementare a jocului Jazz Jackrabbit 2 lansat în 1998. Suportă diverse versiuni ale jocului (Shareware Demo, Holiday Hare '98, The Secret Files și Christmas Chronicles). În plus, suportă parțial unele caracteristici ale extensiei JJ2+ și MLLE.</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>Jazz² Resurrection — это переделка игры Jazz Jackrabbit 2, выпущенной в 1998 году. Она поддерживает различные версии игры (Shareware Demo, Holiday Hare '98, The Secret Files и Christmas Chronicles). Кроме того, он частично поддерживает некоторые функции расширения JJ2+ и MLLE.</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>Jazz² Resurrection је поновна имплементација игре Jazz Jackrabbit 2 објављена 1998. Подржава различите верзије игре (Shareware Demo, Holiday Hare '98, The Secret Files и Christmas Chronicles). Такође, она делимично подржава неке карактеристике JJ2+ проширења и MLLE.</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>Jazz² Resurrection är en omimplementering av spelet Jazz Jackrabbit 2 som släpptes 1998. Den stöder olika versioner av spelet (Shareware Demo, Holiday Hare '98, The Secret Files och Christmas Chronicles). Dessutom stöder det delvis vissa funktioner i JJ2+-tillägget och MLLE.</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>Jazz² Resurrection是1998年发布的Jazz Jackrabbit 2游戏的重新实现。它支持游戏的各种版本（Shareware Demo、Holiday Hare '98、The Secret Files和Christmas Chronicles）。此外，它还部分支持JJ2+扩展和MLLE的某些功能。</systemDescription>
+  </variables>
 </theme>

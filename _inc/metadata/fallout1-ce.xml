@@ -8,4 +8,58 @@
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
+  <variables lang="ar">
+    <systemDescription>Fallout Community Edition هي إعادة تنفيذ كاملة وعاملة لـ Fallout، مع نفس اللعبة الأصلية والعديد من إصلاحات المحرك وبعض تحسينات جودة الحياة، التي تعمل (في الغالب) بدون مشاكل على منصات متعددة.</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>Fallout Community Edition je potpuno funkcionalna re-implementacija Fallout-a, sa istim originalnom igrom, ispravkama motora i nekim poboljšanjima kvalitete života, što radi (uglavnom) bez problema na više platformi.</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>Fallout Community Edition és una reimplementació completament funcional de Fallout, amb el mateix joc original, correccions del motor i algunes millores de qualitat de vida, que funciona (gairebé) sense problemes en múltiples plataformes.</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemDescription>Fallout Community Edition ist eine vollständig funktionierende Neuimplementierung von Fallout mit demselben Original-Gameplay, Engine-Bugfixes und einigen Quality-of-Life-Verbesserungen, die auf mehreren Plattformen (größtenteils) problemlos funktioniert.</systemDescription>
+  </variables>
+  <variables lang="es">
+    <systemDescription>Fallout Community Edition es una reimplementación completamente funcional de Fallout, con el mismo juego original, correcciones del motor y algunas mejoras de calidad de vida, que funciona (principalmente) sin problemas en múltiples plataformas.</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>Fallout Community Edition est une réimplémentation entièrement fonctionnelle de Fallout, avec le même gameplay original, des correctifs du moteur et quelques améliorations de qualité de vie, qui fonctionne (principalement) sans problème sur plusieurs plates-formes.</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>Fallout Community Edition je potpuno funkcionalna re-implementacija Fallout-a, sa istim originalnim igrama, ispravljenim greškama motora i nekim poboljšanjima kvalitete života, što funkcionira (uglavnom) bez problema na više platformi.</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemDescription>Fallout Community Edition è una re-implementazione completamente funzionante di Fallout, con lo stesso gameplay originale, correzioni del motore e alcuni miglioramenti della qualità della vita, che funzionano (principalmente) senza problemi su più piattaforme.</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>Fallout Community Editionは、Falloutの完全に機能する再実装で、同じオリジナルゲームプレイ、エンジンのバグ修正、およびいくつかの生活の質の向上を備えており、複数のプラットフォームでほぼ問題なく動作します。</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>Fallout Community Edition은 동일한 원본 게임플레이, 엔진 버그 수정 및 일부 삶의 질 개선 기능이 있는 Fallout의 완전히 기능하는 재구현으로, 대부분 여러 플랫폼에서 문제 없이 작동합니다.</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>Fallout Community Edition is een volledig werkende herimplementatie van Fallout, met dezelfde originele gameplay, motor-fixes en enkele quality-of-life-verbeteringen, die (grotendeels) probleemloosop meerdere platforms werkt.</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>Fallout Community Edition to w pełni funkcjonalna reimplementacja Fallout z tym samym oryginalnym gameplayem, poprawkami silnika i pewnymi ulepsz eniami jakości życia, która działa (głównie) bez problemów na wielu platformach.</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>Fallout Community Edition é uma reimplementação totalmente funcional de Fallout, com o mesmo gameplay original, correções do mecanismo e algumas melhorias de qualidade de vida, que funcionam (principalmente) sem problemas em múltiplas plataformas.</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>Fallout Community Edition este o re-implementare complet funcțională a Fallout, cu același gameplay original, remedieri ale motorului și anumite îmbunătățiri ale calității vieții, care funcționează (în mare parte) fără probleme pe mai multe platforme.</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>Fallout Community Edition — это полностью функциональная переделка Fallout с тем же оригинальным геймплеем, исправлениями двигателя и некоторыми улучшениями качества жизни, которая работает (в основном) без проблем на нескольких платформах.</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>Fallout Community Edition је потпуно функционална поновна имплементација Fallout-а, са истим оригиналним играњем, исправкама мотора и неким побољшањима квалитета живота, што функционира (углавном) без проблема на више платформи.</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>Fallout Community Edition är en helt funktionell omimplementering av Fallout, med samma ursprungliga gameplay, motorfixar och vissa kvalitetsförbättringar, som fungerar (främst) problemfritt på flera plattformar.</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>Fallout Community Edition是Fallout的完全正常重新实现，具有相同的原始游戏玩法、引擎错误修复和一些生活质量改进，可以在多个平台上（基本上）无障碍运行。</systemDescription>
+  </variables>
 </theme>

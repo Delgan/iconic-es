@@ -12,4 +12,130 @@ This versatility makes coding in BennuGD enjoyable, as the game can be played on
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
+  <variables lang="ar">
+    <systemDescription>BennuGD هي مجموعة تطوير ألعاب مفتوحة المصدر عالية المستوى تركز على المعيارية والقابلية للنقل، مما يجعلها خيارًا ممتازًا لتطوير الألعاب متعددة المنصات.
+
+على الرغم من أنها مدعومة رسميًا فقط على Windows و Linux و GP2X Wiz، يمكن لـ BennuGD أن تعمل على عدة منصات أخرى، بما في ذلك *BSD و MacOS X وأنظمة أساسية أخرى مثل Wii و Dingoo A320 و GP2X و Xbox الكلاسيكية.
+
+هذا التنوع يجعل البرمجة في BennuGD ممتعة، لأنه يمكن لعب اللعبة على كل من جهاز الكمبيوتر الخاص بك وجهازك الطرفي!</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>BennuGD je visokostupnjev, open-source software za razvoj igara koji se fokusira na modularnost i portabilnost, čineći ga odličnom opcijom za razvoj igara na više platformi.
+
+Iako je službeno podržan samo na Windows, Linux i GP2X Wiz, BennuGD može raditi na nekoliko drugih platformi, uključujući *BSD, MacOS X i druge konzole poput Wii, Dingoo A320, GP2X i klasičnog Xbox-a.
+
+Ova svestranost čini programiranje u BennuGD-u uživanjem, jer igra može biti odigrana na vašem računalu i vašoj konzoli!</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>BennuGD és un conjunt de desenvolupament de jocs de codi obert d'alt nivell que se centra en la modularitat i la portabilitat, la qual cosa la fa una opció excel·lent per al desenvolupament de jocs multiplataforma.
+
+Although officially supported only on Windows, Linux, and GP2X Wiz, BennuGD can run on several other platforms, including *BSD, MacOS X, and other consoles such as the Wii, Dingoo A320, GP2X, and the classic Xbox.
+
+Aquest gama de suport fa que la programació en BennuGD sigui divertida, ja que el joc es pot jugar tant a l'ordinador com a la consola!</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemDescription>BennuGD ist eine Open-Source-Spiele-Entwicklungssuite auf hoher Ebene, die sich auf Modularität und Portabilität konzentriert und eine hervorragende Wahl für die plattformübergreifende Spieleentwicklung darstellt.
+
+Obwohl offiziell nur unter Windows, Linux und GP2X Wiz unterstützt, kann BennuGD auf mehreren anderen Plattformen ausgeführt werden, darunter *BSD, MacOS X und andere Konsolen wie Wii, Dingoo A320, GP2X und das klassische Xbox.
+
+Diese Vielseitigkeit macht die Programmierung in BennuGD angenehm, da das Spiel sowohl auf Ihrem Computer als auch auf Ihrer Konsole gespielt werden kann!</systemDescription>
+  </variables>
+  <variables lang="es">
+    <systemDescription>BennuGD es un conjunto de desarrollo de juegos de código abierto de alto nivel que se enfoca en la modularidad y la portabilidad, lo que la convierte en una opción excelente para el desarrollo de juegos multiplataforma.
+
+Aunque oficialmente solo se admite en Windows, Linux y GP2X Wiz, BennuGD puede ejecutarse en varias otras plataformas, incluidas *BSD, MacOS X y otras consolas como Wii, Dingoo A320, GP2X y el Xbox clásico.
+
+¡Esta versatilidad hace que la codificación en BennuGD sea agradable, ya que el juego se puede jugar tanto en su computadora como en su consola!</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>BennuGD est une suite de développement de jeux open-source de haut niveau qui se concentre sur la modularité et la portabilité, ce qui en fait un excellent choix pour le développement de jeux multiplateformes.
+
+Bien qu'officiellement pris en charge uniquement sur Windows, Linux et GP2X Wiz, BennuGD peut s'exécuter sur plusieurs autres plates-formes, notamment *BSD, MacOS X et d'autres consoles telles que la Wii, Dingoo A320, GP2X et le Xbox classique.
+
+Cette polyvalence rend la programmation dans BennuGD agréable, car le jeu peut être joué à la fois sur votre ordinateur et sur votre console!</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>BennuGD je visokostupnjev, open-source software za razvoj igara koji se fokusira na modularnost i portabilnost, čineći ga odličnom opcijom za razvoj igara na više platformi.
+
+Iako je službeno podržan samo na Windows, Linux i GP2X Wiz, BennuGD može raditi na nekoliko drugih platformi, uključujući *BSD, MacOS X i druge konzole poput Wii, Dingoo A320, GP2X i klasičnog Xbox-a.
+
+Ova svestranost čini programiranje u BennuGD-u uživanjem, jer igra može biti odigrana na vašem računalu i vašoj konzoli!</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemDescription>BennuGD è una suite di sviluppo di giochi open-source di alto livello che si concentra sulla modularità e sulla portabilità, rendendola una scelta eccellente per lo sviluppo di giochi multipiattaforma.
+
+Although officially supported only on Windows, Linux, and GP2X Wiz, BennuGD can run on several other platforms, including *BSD, MacOS X, and other consoles such as the Wii, Dingoo A320, GP2X, and the classic Xbox.
+
+Questa versatilità rende la programmazione in BennuGD piacevole, poiché il gioco può essere giocato sia sul tuo computer che sulla tua console!</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>BennuGDは、モジュール性とポータビリティに焦点を当てた高レベルのオープンソースゲーム開発スイートであり、クロスプラットフォームゲーム開発に最適です。
+
+Windows、Linux、GP2X Wizでのみ公式にサポートされていますが、BennuGDは*BSD、MacOS X、およびWii、Dingoo A320、GP2X、クラシックXboxなどの他のいくつかのプラットフォームで実行できます。
+
+この汎用性により、BennuGDでのコーディングが楽しくなります。ゲームはコンピューターとコンソールの両方でプレイできるからです!</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>BennuGD는 모듈성 및 이식성에 중점을 두는 고수준의 오픈소스 게임 개발 제품군으로, 크로스 플랫폼 게임 개발에 탁월한 선택입니다.
+
+Windows, Linux 및 GP2X Wiz에서만 공식적으로 지원되지만 BennuGD는 *BSD, MacOS X 및 Wii, Dingoo A320, GP2X 및 클래식 Xbox와 같은 기타 여러 플랫폼에서 실행할 수 있습니다.
+
+이러한 다양성은 게임을 컴퓨터와 콘솔 모두에서 플레이할 수 있기 때문에 BennuGD에서의 코딩을 즐겁게 만듭니다!</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>BennuGD is een open-source game-development suite op hoog niveau die zich richt op modulariteit en draagbaarheid, waardoor het een uitstekende keuze is voor platformonafhankelijke spelontwikkeling.
+
+Although officially supported only on Windows, Linux, and GP2X Wiz, BennuGD can run on several other platforms, including *BSD, MacOS X, and other consoles such as the Wii, Dingoo A320, GP2X, and the classic Xbox.
+
+Deze veelzijdigheid maakt programmeren in BennuGD aangenaam, omdat het spel zowel op uw computer als op uw console kan worden gespeeld!</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>BennuGD to oparta na open-source, wysokopoziomowa pakiet do tworzenia gier, który skupia się na modularności i przenośności, co czyni ją doskonałym wyborem do międzyplatformowego tworzenia gier.
+
+Chociaż oficjalnie obsługiwane jest tylko na Windows, Linux i GP2X Wiz, BennuGD może działać na kilku innych platformach, w tym *BSD, MacOS X i inne konsole, takie jak Wii, Dingoo A320, GP2X i klasyczny Xbox.
+
+Ta wszechstronność sprawia, że kodowanie w BennuGD jest przyjemne, ponieważ gra może być grana zarówno na Twoim komputerze, jak i na Twojej konsoli!</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>BennuGD é um pacote de desenvolvimento de jogos de código aberto de alto nível que se concentra na modularidade e portabilidade, tornando-o uma excelente opção para desenvolvimento de jogos multiplataforma.
+
+Embora oficialmente suportado apenas no Windows, Linux e GP2X Wiz, BennuGD pode ser executado em várias outras plataformas, incluindo *BSD, MacOS X e outros consoles, como Wii, Dingoo A320, GP2X e o Xbox clássico.
+
+Esta versatilidade torna a codificação no BennuGD agradável, pois o jogo pode ser jogado tanto em seu computador quanto em seu console!</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>BennuGD este o suite de dezvoltare jocuri open-source de nivel înalt care se concentrează pe modularitate și portabilitate, făcând-o o alegere excelentă pentru dezvoltarea jocurilor multiplatformă.
+
+Deși este suportat oficial numai pe Windows, Linux și GP2X Wiz, BennuGD poate rula pe mai multe alte platforme, inclusiv *BSD, MacOS X și alte console cum ar fi Wii, Dingoo A320, GP2X și clasicul Xbox.
+
+Această versatilitate face ca programarea în BennuGD să fie plăcută, deoarece jocul poate fi jucat atât pe computerul tău cât și pe consola ta!</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>BennuGD — это высокоуровневый пакет разработки игр с открытым исходным кодом, ориентированный на модульность и портативность, что делает его отличным выбором для кроссплатформенной разработки игр.
+
+Хотя официально поддерживается только в Windows, Linux и GP2X Wiz, BennuGD может работать на нескольких других платформах, включая *BSD, MacOS X и другие консоли, такие как Wii, Dingoo A320, GP2X и классический Xbox.
+
+Эта универсальность делает программирование в BennuGD приятным, так как игра может быть запущена как на вашем компьютере, так и на вашей консоли!</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>BennuGD је високостепена софтвериска пакета за развој игара отворене изворе која се фокусира на модуларност и портабилност, чинећи га одличном опцијом за развој игара на више платформи.
+
+Мада је званично подржана само на Windows, Linux и GP2X Wiz, BennuGD може радити на неколико других платформи, укључујући *BSD, MacOS X и другим конзолама као што су Wii, Dingoo A320, GP2X и класична Xbox.
+
+Ова свестраност чини програмирање у BennuGD-у уживањем, јер се игра може играти и на вашем рачунару и на вашој конзоли!</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>BennuGD är en open-source-spelsutvekling på högt nivå som fokuserar på modularitet och portabilitet, vilket gör det ett utmärkt val för plattformsoberoende spelutveckling.
+
+Although officially supported only on Windows, Linux, and GP2X Wiz, BennuGD can run on several other platforms, including *BSD, MacOS X, and other consoles such as the Wii, Dingoo A320, GP2X, and the classic Xbox.
+
+Denna mångsidighet gör programmering i BennuGD roligt, eftersom spelet kan spelas på både din dator och din konsol!</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>BennuGD是一个高级的开源游戏开发套件，专注于模块化和可移植性，使其成为跨平台游戏开发的绝佳选择。
+
+虽然官方仅在Windows、Linux和GP2X Wiz上支持，但BennuGD可以在多个其他平台上运行，包括*BSD、MacOS X和其他游戏机，如Wii、Dingoo A320、GP2X和经典Xbox。
+
+这种多功能性使BennuGD中的编码令人愉悦，因为游戏可以在您的计算机和游戏机上玩！</systemDescription>
+  </variables>
 </theme>

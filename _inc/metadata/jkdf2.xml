@@ -8,4 +8,58 @@
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
+  <variables lang="ar">
+    <systemDescription>يتم وصف OpenJKDF2 من قبل مطوري المشروع بأنه إعادة تطبيق كاملة لـ DF2 في C مع منافذ 64 بت لـ MacOS و Linux. إنه مشروع قام بهندسة عكسية لأجزاء رئيسية من Jedi Knight وأضاف تحسينات على جودة الحياة في اللعبة. هذا يعني أنه يسهل تشغيل Jedi Knight على الآلات الحديثة مع نسب العرض إلى الارتفاع الحديثة وأحجام الشاشات وبطاقات الرسومات من الجيل الحالي وأنظمة التشغيل. كما أنها تدعم الآن بشكل أصلي JKGFXMod عن طريق وضع محتويات ملف zip في مجلد Jedi Knight الخاص بك!</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>OpenJKDF2 je opisana kao funkcionalna re-implementacija DF2 u C sa 64-bitnim portovima za MacOS i Linux. To je projekt koji je obrnuto inženjerno osmislio glavne dijelove Jedi Knight i dodao poboljšanja kvalitete života igre. Lako je pokrenuti Jedi Knight na modernim mašinama sa modernim omjerima stranica, veličinama monitora, grafičkim karticama trenutne generacije i operativnim sistemima. Sada nativno podržava JKGFXMod jednostavno postavljanjem sadržaja zip datoteke u direktorijum Jedi Knight!</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>OpenJKDF2 és descrit com una reimplementació completa de DF2 en C amb ports de 64 bits per a MacOS i Linux. És un projecte que va fer enginyeria inversa de parts principals de Jedi Knight i va afegir millores de qualitat de vida del joc. Llavors és fàcil executar Jedi Knight en màquines modernes amb proporcions d'aspecte modernes, mides de pantalla, targetes gràfiques de generació actual i sistemes operatius. Ara suporta natiu JKGFXMod col·locant el contingut d'un fitxer zip al directorioJedi Knight!</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemDescription>OpenJKDF2 wird als eine komplette Neuimplementierung von DF2 in C mit 64-Bit-Ports zu MacOS und Linux beschrieben. Es ist ein Projekt, das große Teile von Jedi Knight reverse-engineered hat und Quality-of-Life-Verbesserungen hinzugefügt hat. Es ist einfach, Jedi Knight auf modernen Maschinen mit modernen Seitenverhältnissen, Bildschirmgrößen, aktuellen Grafikkarten und Betriebssystemen auszuführen. Es unterstützt nun nativ JKGFXMod, indem man einfach den Inhalt einer ZIP-Datei in sein Jedi Knight-Verzeichnis legt!</systemDescription>
+  </variables>
+  <variables lang="es">
+    <systemDescription>OpenJKDF2 se describe como una reimplementación completa de DF2 en C con puertos de 64 bits para MacOS y Linux. Es un proyecto que hizo ingeniería inversa de partes principales de Jedi Knight y agregó mejoras de calidad de vida al juego. Luego es fácil ejecutar Jedi Knight en máquinas modernas con relaciones de aspecto modernas, tamaños de pantalla, tarjetas gráficas de generación actual y sistemas operativos. Ahora soporta nativamente JKGFXMod colocando el contenido de un archivo zip en su directorio de Jedi Knight!</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>OpenJKDF2 est décrite comme une réimplémentation complète de DF2 en C avec des ports 64 bits pour MacOS et Linux. C'est un projet qui a désassemblé par rétro-ingénierie les parties principales de Jedi Knight et a ajouté des améliorations de qualité de vie au jeu. Il est alors facile d'exécuter Jedi Knight sur des machines modernes avec des rapports d'aspect modernes, des tailles d'écran, des cartes graphiques de génération actuelle et des systèmes d'exploitation. Il supporte maintenant nativement JKGFXMod en plaçant le contenu d'un fichier zip dans votre répertoire Jedi Knight!</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>OpenJKDF2 je opisana kao kompletna re-implementacija DF2 u C sa 64-bitnim portovima za MacOS i Linux. To je projekt koji je obrnuto inženjerno osmislio glavne dijelove Jedi Knight i dodao poboljšanja kvalitete života igre. Tada je lako pokrenuti Jedi Knight na modernim strojevima sa modernim omjerima stranica, veličinama ekrana, grafičkim karticama trenutne generacije i operativnim sistemima. Sada nativno podržava JKGFXMod postavljanjem sadržaja zip datoteke u direktorijum Jedi Knight!</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemDescription>OpenJKDF2 è descritta come una re-implementazione completa di DF2 in C con porte a 64 bit per MacOS e Linux. È un progetto che ha eseguito l'ingegneria inversa delle parti principali di Jedi Knight e ha aggiunto miglioramenti alla qualità della vita del gioco. È quindi facile eseguire Jedi Knight su macchine moderne con rapporti di aspetto moderni, dimensioni dello schermo, schede grafiche di generazione attuale e sistemi operativi. Ora supporta nativamente JKGFXMod posizionando il contenuto di un file zip nella directory Jedi Knight!</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>OpenJKDF2は、C言語でのDF2の完全な再実装であり、MacOSおよびLinux用の64ビットポートがあります。Jedi Knightの主要部分をリバースエンジニアリングし、ゲームの生活の質を改善する機能を追加したプロジェクトです。その後、モダンなアスペクト比、モニタサイズ、現世代のグラフィックカード、およびOSを備えた最新マシンでJedi Knightを実行することは簡単です。JKGFXModをネイティブにサポートするようになりました。zipファイルの内容をJedi Knightディレクトリに入れるだけです!</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>OpenJKDF2는 C의 DF2의 완전한 재구현이며 MacOS 및 Linux용 64비트 포트를 가지고 있습니다. Jedi Knight의 주요 부분을 역엔지니어링하고 게임의 생활 품질을 개선하는 기능을 추가한 프로젝트입니다. 그 후 최신 화면 비율, 모니터 크기, 현세대 그래픽 카드 및 운영 체제가 있는 최신 컴퓨터에서 Jedi Knight를 실행하기가 쉽습니다. JKGFXMod를 기본적으로 지원하며 zip 파일 내용을 Jedi Knight 디렉토리에 넣기만 하면 됩니다!</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>OpenJKDF2 wordt beschreven als een volledige herimplementatie van DF2 in C met 64-bits ports naar MacOS en Linux. Het is een project dat grote delen van Jedi Knight reverse-engineered heeft en kwaliteit-van-leven-verbeteringen aan het spel heeft toegevoegd. Vervolgens is het gemakkelijk om Jedi Knight op moderne machines met moderne beeldverhoudingen, schermgrootten, grafische kaarten van de huidige generatie en besturingssystemen uit te voeren. Het ondersteunt nu natiefJKGFXMod door de inhoud van een zip-bestand in uw Jedi Knight-directory te plaatsen!</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>OpenJKDF2 jest opisywana jako pełna reimplementacja DF2 w C z 64-bitowymi portami na MacOS i Linux. To projekt, który wstecznie zainżynierował główne części Jedi Knight i dodał ulepszenia jakości życia do gry. Następnie łatwo jest uruchomić Jedi Knight na nowoczesnych maszynach ze współczesnymi proporcjami ekranu, wielkościami monitorów, kartami graficznymi obecnej generacji i systemami operacyjnymi. Teraz natywnie obsługuje JKGFXMod umieszczając zawartość pliku zip w katalogu Jedi Knight!</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>OpenJKDF2 é descrita como uma reimplementação completa de DF2 em C com portas de 64 bits para MacOS e Linux. É um projeto que fez engenharia reversa de partes principais de Jedi Knight e adicionou melhorias de qualidade de vida ao jogo. Então é fácil executar Jedi Knight em máquinas modernas com proporções de aspecto modernas, tamanhos de tela, placas gráficas de geração atual e sistemas operacionais. Agora suporta nativamente JKGFXMod colocando o conteúdo de um arquivo zip no diretório Jedi Knight!</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>OpenJKDF2 este descrisă ca o re-implementare completă a DF2 în C cu porturi pe 64 de biți pentru MacOS și Linux. Este un proiect care a dezasamblat prin inginerie inversă părțile principale ale Jedi Knight și a adăugat îmbunătățiri ale calității vieții în joc. Apoi este ușor să rulezi Jedi Knight pe mașini moderne cu proporții de aspect moderne, dimensiuni ale ecranului, plăci grafice de generația curentă și sisteme de operare. Suportă acum nativ JKGFXMod plasând conținutul unui fișier zip în directorul tău Jedi Knight!</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>OpenJKDF2 описывается как полная переделка DF2 на C с 64-битными портами на MacOS и Linux. Это проект, который провел обратную инженерию основных частей Jedi Knight и добавил улучшения качества жизни в игру. Затем легко запустить Jedi Knight на современных машинах с современными соотношениями сторон, размерами мониторов, видеокартами текущего поколения и операционными системами. Теперь он нативно поддерживает JKGFXMod, поместив содержимое zip-файла в ваш каталог Jedi Knight!</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>OpenJKDF2 је описана као комплетна поновна имплементација DF2 у C са 64-битним портовима за MacOS и Linux. То је пројекат који је обрнуто инжењирао главне делове Jedi Knight и додао побољшања квалитета живота у игри. Затим је лако покренути Jedi Knight на модерним машинама са модерним омјерима страница, величинама екрана, графичким картицама тренутне генерације и оперативним системима. Сада нативно подржава JKGFXMod стављањем садржаја zip датотеке у його Jedi Knight директоријум!</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>OpenJKDF2 beskrivs som en fullständig omimplementering av DF2 i C med 64-bitars portar till MacOS och Linux. Det är ett projekt som har gjort omvänd inbyggnad av huvuddelar av Jedi Knight och lagt till livskvalitetsförbättringar för spelet. Då är det enkelt att köra Jedi Knight på moderna datorer med moderna bildförhållanden, skärmstorlekar, aktuella grafikkortkort och operativsystem. Det stöder nu nativt JKGFXMod genom att placera innehållet i en zip-fil i din Jedi Knight-katalog!</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>OpenJKDF2被描述为C中DF2的完整重新实现，具有MacOS和Linux的64位端口。这是一个对Jedi Knight的主要部分进行了逆向工程并为游戏增加了生活质量改进的项目。然后可以轻松在具有现代宽高比、监视器尺寸、当前一代图形卡和操作系统的现代计算机上运行Jedi Knight。现在本地支持JKGFXMod，只需将zip文件内容放入您的Jedi Knight目录中！</systemDescription>
+  </variables>
 </theme>

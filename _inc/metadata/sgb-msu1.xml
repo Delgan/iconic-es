@@ -8,4 +8,58 @@
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
+  <variables lang="ar">
+    <systemDescription>SGB-MSU1 هو تعديل لمحاكاة Super Game Boy (SGB) يضيف وظيفة رقاقة التحسين MSU-1. هذا يسمح بتشغيل صوت مخصص عالي الجودة في لعبة Game Boy، حيث يستخدم ملفات PCM صوتية خارجية بدلاً من أجهزة الصوت الأصلية. يتم دعم هذا التعديل على أجهزة مثل عربات الفلاش SD2SNES / FXPAK Pro وبعض نوى MiSTer FPGA.</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>SGB-MSU1 je modifikacija za emulaciju Super Game Boy (SGB) koja dodaje funkcionalnost čipa za poboljšanje MSU-1. To omogućava da se prilagođeni, visokokvalitetni zvuk reprodukuje u igrici Game Boy, jer koristi eksterne PCM audio datoteke umesto originalnog hardvera za zvuk. Ova modifikacija je podržana na uređajima kao što su SD2SNES / FXPAK Pro flash kartice i neki MiSTer FPGA jezgra.</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>SGB-MSU1 és una modificació per emular el Super Game Boy (SGB) que afegeix la funcionalitat del xip d'millora MSU-1. Això permet que es reprodueixi àudio personalitzat d'alta qualitat en un joc de Game Boy, ja que utilitza fitxers d'àudio PCM externs en lloc del maquinari de so original. Aquesta modificació és compatible amb dispositius com ara cartutxos flash SD2SNES / FXPAK Pro i alguns nuclis MiSTer FPGA.</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemDescription>SGB-MSU1 ist eine Modifikation zur Emulation des Super Game Boy (SGB), die die Funktionalität des MSU-1-Verbesserungschips hinzufügt. Dies ermöglicht die Wiedergabe von benutzerdefinierten, hochqualitativen Audios in einem Game Boy-Spiel, da externe PCM-Audiodateien anstelle der ursprünglichen Sound-Hardware verwendet werden. Diese Modifikation wird auf Geräten wie SD2SNES / FXPAK Pro Flash-Cartridges und einigen MiSTer FPGA-Kernen unterstützt.</systemDescription>
+  </variables>
+  <variables lang="es">
+    <systemDescription>SGB-MSU1 es una modificación para emular el Super Game Boy (SGB) que añade la funcionalidad del chip de mejora MSU-1. Esto permite que se reproduzca audio personalizado de alta calidad en un juego de Game Boy, ya que utiliza archivos de audio PCM externos en lugar del hardware de sonido original. Esta modificación es compatible con dispositivos como cartuchos flash SD2SNES / FXPAK Pro y algunos núcleos MiSTer FPGA.</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>SGB-MSU1 est une modification pour émuler la Super Game Boy (SGB) qui ajoute la fonctionnalité de la puce d'amélioration MSU-1. Cela permet de reproduire de l'audio personnalisé de haute qualité dans un jeu Game Boy, car il utilise des fichiers audio PCM externes au lieu du matériel audio d'origine. Cette modification est prise en charge sur des appareils tels que les cartouches flash SD2SNES / FXPAK Pro et certains noyaux MiSTer FPGA.</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>SGB-MSU1 je modifikacija za emulaciju Super Game Boy (SGB) koja dodaje funkcionalnost čipa za poboljšanje MSU-1. To omogućava da se prilagođeni, visokokvalitetni zvuk reprodukuje u igrici Game Boy, jer koristi vanjske PCM audio datoteke umesto originalnog hardvera za zvuk. Ova modifikacija je podržana na uređajima kao što su SD2SNES / FXPAK Pro flash kartice i neki MiSTer FPGA jezgra.</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemDescription>SGB-MSU1 è una modifica per emulare il Super Game Boy (SGB) che aggiunge la funzionalità del chip di miglioramento MSU-1. Ciò consente la riproduzione di audio personalizzato di alta qualità in un gioco Game Boy, poiché utilizza file audio PCM esterni anziché l'hardware audio originale. Questa modifica è supportata su dispositivi come cartucce flash SD2SNES / FXPAK Pro e alcuni core MiSTer FPGA.</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>SGB-MSU1は、Super Game Boy（SGB）をエミュレートするための変更で、MSU-1強化チップの機能を追加します。これにより、元のサウンドハードウェアではなく外部のPCMオーディオファイルを使用するため、Game Boyゲームでカスタムの高品質オーディオを再生できます。この変更は、SD2SNES / FXPAK ProフラッシュカートリッジやいくつかのMiSTer FPGAコアなどのデバイスでサポートされています。</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>SGB-MSU1은 Super Game Boy (SGB)를 에뮬레이트하기 위한 수정으로 MSU-1 개선 칩의 기능을 추가합니다. 이는 원본 사운드 하드웨어 대신 외부 PCM 오디오 파일을 사용하므로 Game Boy 게임에서 사용자 지정의 고품질 오디오를 재생할 수 있습니다. 이 수정은 SD2SNES / FXPAK Pro 플래시 카트리지 및 일부 MiSTer FPGA 코어와 같은 장치에서 지원됩니다.</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>SGB-MSU1 is een wijziging voor het emuleren van de Super Game Boy (SGB) die de functionaliteit van de MSU-1-verbeteringschip toevoegt. Dit maakt het mogelijk om aangepaste, hoogkwalitatieve audio af te spelen in een Game Boy-spel, omdat externe PCM-audiobestanden in plaats van de originele audiokaart worden gebruikt. Deze wijziging wordt ondersteund op apparaten zoals SD2SNES / FXPAK Pro-flashcartridges en enkele MiSTer FPGA-cores.</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>SGB-MSU1 to modyfikacja do emulacji Super Game Boy (SGB), która dodaje funkcjonalność chipu MSU-1. Umożliwia to odtwarzanie niestandardowego, wysokiej jakości audio w grze Game Boy, ponieważ wykorzystuje zewnętrzne pliki audio PCM zamiast oryginalnego sprzętu audio. Ta modyfikacja jest obsługiwana na urządzeniach takich jak karty pamięci flash SD2SNES / FXPAK Pro i niektóre rdzenie MiSTer FPGA.</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>SGB-MSU1 é uma modificação para emular o Super Game Boy (SGB) que adiciona a funcionalidade do chip de melhoria MSU-1. Isso permite a reprodução de áudio personalizado de alta qualidade em um jogo Game Boy, pois usa arquivos de áudio PCM externos em vez do hardware de áudio original. Essa modificação é suportada em dispositivos como cartuchos flash SD2SNES / FXPAK Pro e alguns núcleos MiSTer FPGA.</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>SGB-MSU1 este o modificare pentru emurea Super Game Boy (SGB) care adaugă funcționalitatea cipului de îmbunătățire MSU-1. Aceasta permite redarea de audio personalizat de înaltă calitate într-un joc Game Boy, deoarece utilizează fișiere audio PCM externe în loc a hardware-ului audio original. Această modificare este suportată pe dispozitive cum ar fi cartușe flash SD2SNES / FXPAK Pro și unele nuclee MiSTer FPGA.</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>SGB-MSU1 — это модификация для эмуляции Super Game Boy (SGB), которая добавляет функциональность чипа улучшения MSU-1. Это позволяет воспроизводить пользовательский высококачественный звук в игре Game Boy, поскольку используются внешние файлы PCM вместо оригинального звукового оборудования. Эта модификация поддерживается на устройствах, таких как флеш-картриджи SD2SNES / FXPAK Pro и некоторые ядра MiSTer FPGA.</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>SGB-MSU1 је модификација за емулацију Super Game Boy (SGB) која додаје функциона лност чипа за побољшање MSU-1. То омогућава да се прилагођени, висококвалитетни звук репродукује у игрици Game Boy, јер користи екстерне PCM аудио датотеке уместо оригиналног хардвера за звук. Ова модификација је подржана на уређајима као што су SD2SNES / FXPAK Pro флеш картице и неки MiSTer FPGA језгра.</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>SGB-MSU1 är en modifiering för att emulera Super Game Boy (SGB) som lägger till funktionaliteten för MSU-1-förbättringschip. Detta gör det möjligt att spela upp anpassad, högkvalitativ ljud i ett Game Boy-spel, eftersom det använder externa PCM-audiofiler istället för den ursprungliga ljudmaskinvaran. Denna modifiering stöds på enheter som SD2SNES / FXPAK Pro-flashkassetter och vissa MiSTer FPGA-kärnor.</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>SGB-MSU1是Super Game Boy（SGB）的修改，增加了MSU-1增强芯片的功能。这允许在Game Boy游戏中播放自定义的高质量音频，因为它使用外部PCM音频文件而不是原始声音硬件。此修改在SD2SNES / FXPAK Pro闪存卡盒和某些MiSTer FPGA核心等设备上受支持。</systemDescription>
+  </variables>
 </theme>

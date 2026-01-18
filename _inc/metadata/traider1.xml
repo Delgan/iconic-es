@@ -8,4 +8,58 @@
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
+  <variables lang="ar">
+    <systemDescription>TRX هي نسخة محبوبة وقابلة للتحسين من محرك Tomb Raider الأصلي I و II - مشروع شغف يجلب أول مغامرة لارا إلى العصر الحديث. يحافظ على روح الكلاسيكي مع إضافة العشرات (والعشرات!) من التحسينات والإصلاحات والتعديلات الاختيارية. سواء كنت متشددًا أم تجريبيًا، يتيح لك TRX اللعب بطريقتك.</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>TRX je ljubav obnovljena, poboljšana verzija originalnog Tomb Raider I i II engine - passion projekt koji donosi Larinu prvu avanturu u savremeno doba. Čuva dušu klasika dok dodaje desete (i desete!) od poboljšanja, ispravki i neobaveznih tweaks. Bilo da ste purist ili eksperimentator, TRX vam omogućava da igrate na svoj način.</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>TRX és una versió adorada, millor del motor original Tomb Raider I i II - un projecte apaixonat que porta la primera aventura de Lara a l'era moderna. Preserva l'ànima del clàssic mentre afegeix desenes (i desenes!) de millores, correccions i ajustos opcionals. Tant si sou un purista com un experimentador, TRX us permet jugar a la vostra manera.</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemDescription>TRX ist eine liebevoll überarbeitete, verbesserte Version des ursprünglichen Tomb Raider I- und II-Motors - ein Leidenschaftsprojekt, das Laras allererstes Abenteuer ins moderne Zeitalter bringt. Es bewahrt die Seele des Klassikers, während es Dutzende (und Dutzende!) von Verbesserungen, Korrektionen und optionalen Anpassungen hinzufügt. Egal ob du ein Purist oder ein Experimentator bist, TRX ermöglicht es dir, auf deine Weise zu spielen.</systemDescription>
+  </variables>
+  <variables lang="es">
+    <systemDescription>TRX es una versión mejorada y amada del motor original Tomb Raider I y II - un proyecto apasionante que trae la primera aventura de Lara a la era moderna. Preserva el alma del clásico mientras añade docenas (¡y docenas!) de mejoras, correcciones y ajustes opcionales. Ya sea que seas un purista o un experimentador, TRX te permite jugar a tu manera.</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>TRX est une version aimée, améliorée du moteur original Tomb Raider I et II - un projet passionnel qui apporte la première aventure de Lara à l'ère moderne. Il préserve l'âme du classique tout en ajoutant des dizaines (et des dizaines!) d'améliorations, de corrections et d'ajustements optionnels. Que vous soyez un puriste ou un expérimentateur, TRX vous permet de jouer à votre manière.</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>TRX je voljeno obnovljena, poboljšana verzija originalnog Tomb Raider I i II motora - passion projekt koji donosi Larinu prvu avanturu u savremeno doba. Čuva dušu klasika dok dodaje desete (i desete!) od poboljšanja, ispravki i neobaveznih tweaks. Bilo da ste purist ili eksperimentator, TRX vam omogućava da igrate na svoj način.</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemDescription>TRX è una versione ricostruita amorevolmente, migliorata del motore originale Tomb Raider I e II - un progetto appassionato che porta la prima avventura di Lara nell'era moderna. Preserva lo spirito del classico mentre aggiunge dozzine (e dozzine!) di miglioramenti, correzioni e regolazioni opzionali. Che tu sia un purista o un sperimentatore, TRX ti permette di giocare a modo tuo.</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>TRXは、元のTomb Raider IおよびIIエンジンの愛情を込めて再構築、改善されたバージョンです。これは、Laraの最初の冒険を現代に持ち込む情熱的なプロジェクトです。クラシックの精神を保ちながら、数十（さらに数十！）の改善、修正、オプションのツイークを追加します。あなたが原理主義者であろうと実験者であろうと、TRXはあなたが自分の方法でプレイできます。</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>TRX는 원래의 Tomb Raider I 및 II 엔진의 사랑스럽게 재구축되고 향상된 버전입니다. Lara의 첫 모험을 현대로 가져오는 열정적인 프로젝트입니다. 클래식의 정신을 보존하면서 수십 (그리고 수십!)의 개선, 수정 및 선택적 조정을 추가합니다. 당신이 원칙주의자이든 실험자이든, TRX는 당신이 자신의 방식으로 플레이할 수 있게 해줍니다.</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>TRX is een liefdevol herbouwde, verbeterde versie van de originele Tomb Raider I- en II-motor - een passieproject dat Lara's allereerste avontuur naar het moderne tijdperk brengt. Het bewaart de ziel van de klassieker terwijl het tientallen (en tientallen!) verbeteringen, correcties en optionele aanpassingen toevoegt. Of je nu een purist of een experimentator bent, TRX stelt je in staat om op jouw manier te spelen.</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>TRX jest pięknie przebudowaną, ulepszoną wersją oryginalnego silnika Tomb Raider I i II - projektem pełnym pasji, który przenosi pierwszą przygodę Lary do nowoczesnych czasów. Zachowuje ducha klasyka, dodając dziesiątki (i dziesiątki!) usprawnień, poprawek i opcjonalnych zmian. Niezależnie od tego, czy jesteś purystą czy eksperymentatorem, TRX pozwala ci grać na własnych warunkach.</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>TRX é uma versão reconstruída amorosamente, melhorada do mecanismo original Tomb Raider I e II - um projeto apaixonado que traz a primeira aventura de Lara para a era moderna. Preserva a alma do clássico enquanto adiciona dezenas (e dezenas!) de melhorias, correções e ajustes opcionais. Quer você seja um purista ou um experimentador, TRX permite que você jogue à sua maneira.</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>TRX este o versiune reconstruită cu grijă, îmbunătățită a motorului original Tomb Raider I și II - un proiect plin de pasiune care aduce prima aventură a Larăi în era modernă. Păstrează spiritul clasicului adăugând zeci (și zeci!) de îmbunătățiri, corecturi și ajustări opționale. Indiferent dacă ești purist sau experimentator, TRX îți permite să joci după cum dorești.</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>TRX — это любовно перестроенная, улучшенная версия оригинального двигателя Tomb Raider I и II — страстный проект, который приносит первое приключение Лары в современную эру. Он сохраняет дух классики, добавляя десятки (и десятки!) улучшений, исправлений и дополнительных настроек. Независимо от того, являетесь ли вы пуристом или экспериментатором, TRX позволяет вам играть по-своему.</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>TRX је пажљиво обновљена, побољшана верзија оригиналног мотора Tomb Raider I и II - страствени пројекат који доноси Ларину прву авантуру у модерну еру. Чува дух класика док додаје десетине (и десетине!) побољшања, исправки и опционалних прилагођавања. Без обзира да ли сте пуриста или експериментатор, TRX вам дозвољава да играте на свој начин.</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>TRX är en omsorgsfullt ombyggd, förbättrad version av den ursprungliga Tomb Raider I- och II-motorn - ett passionprojekt som tar Laras första äventyr till den moderna eran. Det bevarar klassikerns ande samtidigt som det lägger till dussintals (och dussintals!) förbättringar, korrigeringar och valfria justeringar. Oavsett om du är purits eller experimentator låter TRX dig spela på ditt sätt.</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>TRX是精心重建和改进的原始Tomb Raider I和II引擎的版本 - 一个充满热情的项目，将Lara的第一次冒险带到现代。它保留了经典的精神，同时增加了数十个（甚至数十个！）的改进、修复和可选的调整。无论您是纯粹主义者还是实验者，TRX都可以让您按照自己的方式玩游戏。</systemDescription>
+  </variables>
 </theme>
