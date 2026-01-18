@@ -16,9 +16,9 @@ The first model features a 10 MHz Motorola 68000 CPU (hence the name), 1 MB of R
 يتميز الموديل الأول بوحدة معالجة مركزية من موتورولا 68000 بتردد 10 ميجاهرتز (ومن هنا جاءت التسمية)، وذاكرة وصول عشوائي سعتها 1 ميجا بايت، ولا يحتوي على قرص صلب؛ أما الموديل الأخير فقد صدر في عام 1993 بوحدة معالجة مركزية من موتورولا 68030 بتردد 25 ميجاهرتز، وذاكرة وصول عشوائي سعتها 4 ميجا بايت، وقرص صلب اختياري من نوع SCSI سعة 80 ميجا بايت. ذاكرة الوصول العشوائي في هذه الأنظمة قابلة للتوسيع إلى 12 ميغابايت، على الرغم من أن معظم الألعاب والتطبيقات لا تتطلب أكثر من 2 ميغابايت.</systemDescription>
   </variables>
   <variables lang="bs">
-    <systemDescription>The X68000 (Japanese: エックス ろくまんはっせん, Hepburn: Ekkusu Rokuman Hassen) is a home computer created by Sharp Corporation, first released in 1987, sold only in Japan.
+    <systemDescription>X68000 (japanski: エックス ろくまんはっせん, Hepburn: Ekkusu Rokuman Hassen) je kućni računar koji je razvio Sharp Corporation, prvi put predstavljen 1987. godine i prodavan isključivo u Japanu.
 
-The first model features a 10 MHz Motorola 68000 CPU (hence the name), 1 MB of RAM, and no hard drive; the last model was released in 1993 with a 25 MHz Motorola 68030 CPU, 4 MB of RAM, and optional 80 MB SCSI hard drive. RAM in these systems is expandable to 12 MB, though most games and applications do not require more than 2 MB.</systemDescription>
+Prvi model je imao Motorola 68000 procesor na 10 MHz (otuda i naziv), 1 MB RAM‑a i nije imao tvrdi disk; posljednji model iz 1993. je koristio Motorola 68030 procesor na 25 MHz, 4 MB RAM‑a i opcionalni 80 MB SCSI tvrdi disk. RAM kod ovih sistema može se proširiti do 12 MB, iako većina igara i aplikacija ne zahtijeva više od 2 MB.</systemDescription>
   </variables>
   <variables lang="ca">
     <systemDescription>El X68000 (japonès: エックス ろくまんはっせん, Hepburn: Ekkusu Rokuman Hassen) és un ordinador domèstic creat per Sharp Corporation, llançat per primera vegada el 1987, venut només al Japó.
@@ -41,9 +41,9 @@ El primer modelo cuenta con una CPU Motorola 68000 a 10 MHz (de ahí el nombre),
 Le premier modèle est équipé d'un processeur Motorola 68000 à 10 MHz (d'où son nom), de 1 Mo de RAM et d'aucun disque dur ; le dernier modèle est sorti en 1993 avec un processeur Motorola 68030 à 25 MHz, 4 Mo de RAM et un disque dur SCSI de 80 Mo en option. La mémoire vive de ces systèmes est extensible jusqu'à 12 Mo, bien que la plupart des jeux et applications ne nécessitent pas plus de 2 Mo.</systemDescription>
   </variables>
   <variables lang="hr">
-    <systemDescription>The X68000 (Japanese: エックス ろくまんはっせん, Hepburn: Ekkusu Rokuman Hassen) is a home computer created by Sharp Corporation, first released in 1987, sold only in Japan.
+    <systemDescription>X68000 (japanski: エックス ろくまんはっせん, Hepburn: Ekkusu Rokuman Hassen) je kućno računalo koje je stvorio Sharp Corporation, prvi put izdano 1987. i prodavano isključivo u Japanu.
 
-The first model features a 10 MHz Motorola 68000 CPU (hence the name), 1 MB of RAM, and no hard drive; the last model was released in 1993 with a 25 MHz Motorola 68030 CPU, 4 MB of RAM, and optional 80 MB SCSI hard drive. RAM in these systems is expandable to 12 MB, though most games and applications do not require more than 2 MB.</systemDescription>
+Prvi model imao je Motorola 68000 procesor na 10 MHz (otuda i ime), 1 MB RAM‑a i nije imao tvrdi disk; posljednji model iz 1993. imao je Motorola 68030 na 25 MHz, 4 MB RAM‑a i opcionalni 80 MB SCSI tvrdi disk. RAM u tim sustavima moguće je proširiti do 12 MB, iako većina igara i aplikacija ne zahtijeva više od 2 MB.</systemDescription>
   </variables>
   <variables lang="it">
     <systemDescription>L'X68000 (giapponese: エックス ろくまんはっせん, Hepburn: Ekkusu Rokuman Hassen) è un home computer creato da Sharp Corporation, uscito per la prima volta nel 1987 e venduto solo in Giappone.
@@ -86,9 +86,9 @@ Primul model are un CPU Motorola 68000 de 10 MHz (de unde și numele), 1 MB de R
 Первая модель оснащена 10 МГц процессором Motorola 68000 (отсюда и название), 1 МБ оперативной памяти и не имеет жесткого диска; последняя модель была выпущена в 1993 году с 25 МГц процессором Motorola 68030, 4 МБ оперативной памяти и дополнительным 80 МБ SCSI жестким диском. Оперативная память в этих системах может быть расширена до 12 МБ, хотя большинство игр и приложений не требуют более 2 МБ.</systemDescription>
   </variables>
   <variables lang="sr">
-    <systemDescription>The X68000 (Japanese: エックス ろくまんはっせん, Hepburn: Ekkusu Rokuman Hassen) is a home computer created by Sharp Corporation, first released in 1987, sold only in Japan.
+    <systemDescription>X68000 (јапански: エックス ろくまんはっせん, Hepburn: Ekkusu Rokuman Hassen) је кућни рачунар који је развила компанија Sharp Corporation, први пут објављен 1987. године и продавао се само у Јапану.
 
-The first model features a 10 MHz Motorola 68000 CPU (hence the name), 1 MB of RAM, and no hard drive; the last model was released in 1993 with a 25 MHz Motorola 68030 CPU, 4 MB of RAM, and optional 80 MB SCSI hard drive. RAM in these systems is expandable to 12 MB, though most games and applications do not require more than 2 MB.</systemDescription>
+Први модел има Motorola 68000 процесор на 10 MHz (отуда и назив), 1 MB RAM и нема тврд диск; последњи модел је објављен 1993. са Motorola 68030 процесором на 25 MHz, 4 MB RAM и опционим 80 MB SCSI тврдим диском. RAM у овим системима може се проширити до 12 MB, иако већина игара и апликација не захтева више од 2 MB.</systemDescription>
   </variables>
   <variables lang="sv">
     <systemDescription>X68000 (japanska: エックス ろくまんはっせん, Hepburn: Ekkusu Rokuman Hassen) är en hemdator skapad av Sharp Corporation, som först släpptes 1987 och endast såldes i Japan.

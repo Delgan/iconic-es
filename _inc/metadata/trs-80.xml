@@ -12,7 +12,7 @@
     <systemDescription>نظام الحاسوب الصغير TRS-80 (TRS-80، الذي أعيدت تسميته لاحقاً بالطراز الأول لتمييزه عن الأجهزة التي خلفته) هو حاسوب مكتبي صغير تم إطلاقه في عام 1977 وبيعه من قبل شركة Tandy Corporation من خلال متاجر راديو شاك. الاسم هو اختصار لاسم Tandy Radio Shack، Z80 [معالج دقيق]. وهو أحد أوائل الحواسيب المنزلية التي تم إنتاجها على نطاق واسع وتسويقها على نطاق واسع.</systemDescription>
   </variables>
   <variables lang="bs">
-    <systemDescription>The TRS-80 Micro Computer System (TRS-80, later renamed the Model I to distinguish it from successors) is a desktop microcomputer launched in 1977 and sold by Tandy Corporation through their Radio Shack stores. The name is an abbreviation of Tandy Radio Shack, Z80 [microprocessor]. It is one of the earliest mass-produced and mass-marketed retail home computers.</systemDescription>
+    <systemDescription>TRS-80 Micro Computer System (TRS-80, kasnije preimenovan u Model I kako bi se razlikovao od nasljednika) je stolno mikroračunalo lansirano 1977. godine i prodavano od strane Tandy Corporation kroz njihove Radio Shack prodavnice. Naziv je skraćenica od Tandy Radio Shack, Z80 [mikroprocesor]. To je jedno od najranijih kućnih računala masovne proizvodnje i masovnog plasmana na tržištu.</systemDescription>
   </variables>
   <variables lang="ca">
     <systemDescription>El sistema informàtic TRS-80 (TRS-80, més tard rebatejat com a model I per distingir-lo dels successors) és un microordinador d'escriptori llançat el 1977 i venut per Tandy Corporation a través de les seves botigues de ràdio. El nom és una abreviació de Tandy Radio Shack, Z80 [microprocessador].És un dels primers ordinadors domèstics de venda en massa i en massa.</systemDescription>
@@ -27,7 +27,7 @@
     <systemDescription>Le TRS-80 Micro Computer System (TRS-80, renommé plus tard Model I pour le distinguer de ses successeurs) est un micro-ordinateur de bureau lancé en 1977 et vendu par Tandy Corporation dans ses magasins Radio Shack. Le nom est une abréviation de Tandy Radio Shack, Z80 [microprocesseur]. Il s'agit de l'un des premiers ordinateurs domestiques produits et commercialisés en masse.</systemDescription>
   </variables>
   <variables lang="hr">
-    <systemDescription>The TRS-80 Micro Computer System (TRS-80, later renamed the Model I to distinguish it from successors) is a desktop microcomputer launched in 1977 and sold by Tandy Corporation through their Radio Shack stores. The name is an abbreviation of Tandy Radio Shack, Z80 [microprocessor]. It is one of the earliest mass-produced and mass-marketed retail home computers.</systemDescription>
+    <systemDescription>TRS-80 Micro Computer System (TRS-80, kasnije preimenovan u Model I radi razlikovanja od kasnijih modela) je stolno mikro-računalo lansirano 1977. godine i prodavano od strane Tandy Corporation kroz njihove trgovine Radio Shack. Naziv je skraćenica od Tandy Radio Shack i Z80 [mikroprocesor]. To je jedno od najranijih kućnih računala masovne proizvodnje i široke maloprodajne distribucije.</systemDescription>
   </variables>
   <variables lang="it">
     <systemDescription>Il TRS-80 Micro Computer System (TRS-80, poi rinominato Model I per distinguerlo dai suoi successori) è un microcomputer da tavolo lanciato nel 1977 e venduto da Tandy Corporation attraverso i suoi negozi Radio Shack. Il nome è un'abbreviazione di Tandy Radio Shack, Z80 [microprocessore]. È uno dei primi home computer prodotti e commercializzati in serie.</systemDescription>
@@ -54,7 +54,7 @@
     <systemDescription>Микрокомпьютер TRS-80 (TRS-80, позже переименованный в Model I, чтобы отличить его от преемников) - настольный микрокомпьютер, выпущенный в 1977 году и продававшийся корпорацией Tandy через свои магазины Radio Shack. Название представляет собой аббревиатуру от Tandy Radio Shack, Z80 [микропроцессор]. Это один из самых первых массовых и продаваемых в розницу домашних компьютеров.</systemDescription>
   </variables>
   <variables lang="sr">
-    <systemDescription>The TRS-80 Micro Computer System (TRS-80, later renamed the Model I to distinguish it from successors) is a desktop microcomputer launched in 1977 and sold by Tandy Corporation through their Radio Shack stores. The name is an abbreviation of Tandy Radio Shack, Z80 [microprocessor]. It is one of the earliest mass-produced and mass-marketed retail home computers.</systemDescription>
+    <systemDescription>TRS‑80 Micro Computer System (TRS‑80, касније преименован у Model I да би се разликовао од каснијих модела) је десктоп микрокомпјутер лансиран 1977. године и продаван у продавницама Radio Shack компаније Tandy Corporation. Назив представља скраћеницу од Tandy Radio Shack и Z80 (микропроцесор). То је један од најранијих кућних рачунара масовне производње и масовне продаје у малопродаји.</systemDescription>
   </variables>
   <variables lang="sv">
     <systemDescription>TRS-80 Micro Computer System (TRS-80, senare omdöpt till Model I för att skilja den från efterföljare) är en stationär mikrodator som lanserades 1977 och såldes av Tandy Corporation genom deras Radio Shack-butiker. Namnet är en förkortning av Tandy Radio Shack, Z80 [mikroprocessor]. Det är en av de tidigaste massproducerade och massmarknadsförda hemdatorerna.</systemDescription>

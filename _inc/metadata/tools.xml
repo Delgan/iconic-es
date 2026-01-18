@@ -12,7 +12,7 @@
     <systemDescription>برامج ونصوص برمجية وأدوات مساعدة لإدارة إعداداتك.</systemDescription>
   </variables>
   <variables lang="bs">
-    <systemDescription>Programs, scripts and utilities to manage your set up.</systemDescription>
+    <systemDescription>Programi, skripte i alati za upravljanje vašom postavkom.</systemDescription>
   </variables>
   <variables lang="ca">
     <systemDescription>Programes, scripts i serveis per gestionar la vostra configuració.</systemDescription>
@@ -27,7 +27,7 @@
     <systemDescription>Programmes, scripts et utilitaires pour gérer votre installation.</systemDescription>
   </variables>
   <variables lang="hr">
-    <systemDescription>Programs, scripts and utilities to manage your set up.</systemDescription>
+    <systemDescription>Programi, skripte i alati za upravljanje vašom postavkom.</systemDescription>
   </variables>
   <variables lang="it">
     <systemDescription>Programmi, script e utility per gestire la vostra configurazione.</systemDescription>
@@ -54,7 +54,7 @@
     <systemDescription>Программы, скрипты и утилиты для управления вашей системой.</systemDescription>
   </variables>
   <variables lang="sr">
-    <systemDescription>Programs, scripts and utilities to manage your set up.</systemDescription>
+    <systemDescription>Програми, скрипте и алати за управљање вашом поставком.</systemDescription>
   </variables>
   <variables lang="sv">
     <systemDescription>Program, skript och verktyg för att hantera din installation.</systemDescription>
