@@ -39,6 +39,7 @@ The following options can be changed directly from the main menu under `User Int
 | Play Video Previews of Games | Toggles the video previews above game details (if available). | `Yes`, `No` |
 | Show Game Titles in Grid | Toggles the display of game titles in the grid view. | `No`, `Yes` |
 | Metadata Source | Selects the primary source of metadata (name, release year, etc.) to associate with each systems. | `Theme`, `EmulationStation` |
+| Use Vector Graphics for Logos | Load system logos as SVG for sharper and scalable graphics. It may require slightly more computing resources and produce artefacts. | `No`, `Yes` |
 | Smooth Resize | Toggles the use of smooth resizing for images. Disabling this may lead to better looking images, but it requires the VRAM optimizations to be disabled in the settings as well. | `Yes`, `No` |
 | Distribution | Used to define which folder to look in for theme customization files (see below). | `None`, `Batocera/Knulli`, `RetroBat`, `ROCKNIX` |
 
