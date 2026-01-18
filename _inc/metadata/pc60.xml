@@ -10,9 +10,94 @@ Several peripherals were available for the system in North America, including an
     <systemCoverSize>3-4</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
+  <variables lang="ar">
+    <systemDescription>سلسلة PC-6000 هي سلسلة من أجهزة الكمبيوتر المنزلية 8 بت قدمتها NEC Home Electronics في نوفمبر 1981. هناك عدة نماذج في هذه السلسلة، مثل PC-6001 و PC-6001 MK2 و PC-6001 MK2 SR. هناك أيضًا نسخة أمريكية، تسمى NEC TREK أو NEC PC-6001A.
+
+كانت هناك عدة ملحقات متاحة للنظام في أمريكا الشمالية، بما في ذلك موسّع به ثلاث منافذ خرطوشة (استخدمت بعض الألعاب القائمة على الخرطوشة خرطوشتين)، وسجل أشرطة كاسيت، وقرص مرن 5.25 بوصة، وطابعة، ولوحة لمس.</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>Serija PC-6000 je serija 8-bitnih kućnih računala predstavljena u novembru 1981. od strane NEC Home Electronics. U ovoj seriji postoji nekoliko modela, kao što su PC-6001, PC-6001 MK2 i PC-6001 MK2 SR. Postoji i američka verzija, zvana NEC TREK ili NEC PC-6001A.
+
+Nekoliko perifernih uređaja bilo je dostupno za sustav u Sjevernoj Americi, uključujući ekspander s tri porta za utikač (neke od igara na temelju umetka koristile su dva umetka), snimač s magnetskom trakom, 5,25-inčni flopi disk, pisač i dodirnu ploču.</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>La sèrie PC-6000 és una sèrie d'ordinadors domèstics de 8 bits introduïda el novembre de 1981 per NEC Home Electronics. Hi ha diversos models en aquesta sèrie, com el PC-6001, el PC-6001 MK2 i el PC-6001 MK2 SR. També hi ha una versió americana, anomenada NEC TREK o NEC PC-6001A.
+
+Varis perifèrics estaven disponibles per al sistema a Amèrica del Nord, incloent un expansor amb tres ports de cartutx (alguns dels jocs basats en cartutx utilitzaven dos cartutxos), una gravadora de cinta, una unitat de disc de 5,25 pulgades, una impressora i una almohadilla tàctil.</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemDescription>Die PC-6000-Serie ist eine Serie von 8-Bit-Heimcomputern, die im November 1981 von NEC Home Electronics eingeführt wurde. Es gibt mehrere Modelle in dieser Serie, wie den PC-6001, den PC-6001 MK2 und den PC-6001 MK2 SR. Es gibt auch eine amerikanische Version namens NEC TREK oder NEC PC-6001A.
+
+Für das System in Nordamerika waren mehrere Peripheriegeräte erhältlich, einschließlich eines Expanders mit drei Steckplätzen (einige der kartengestützten Spiele verwendeten zwei Karten), eines Kassettenrekorders, eines 5,25-Zoll-Diskettenlaufwerks, eines Druckers und eines Touchpads.</systemDescription>
+  </variables>
   <variables lang="es">
     <systemDescription>NEC PC-6001 es la primera línea de computadoras personales que fue creada por NEC Corporation. Hubo varias versiones de la PC-6001, junto la PC-6001 Mark 2, PC-6001 Mark 2 SR, y la PC-6601/SR. También hubo una versión estadounidense llamada NEC TREK o NEC PC-6001A. Fue reemplazada por la NEC PC-8801.
 
 Varios accesorios estuvieron disponibles para el sistema en Norteamérica junto con un expansor con un trío de cartuchos (algunos juegos usaban un par de ellos), un grabador de cintas de cartucho, una disquetera de 5.5 pulgadas, una impresora, y un touchpad.</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>La série PC-6000 est une série d'ordinateurs domestiques 8 bits introduite en novembre 1981 par NEC Home Electronics. Il existe plusieurs modèles de cette série, tels que le PC-6001, le PC-6001 MK2 et le PC-6001 MK2 SR. Il y a aussi une version américaine, appelée NEC TREK ou NEC PC-6001A.
+
+Plus une série de périphériques était disponible pour le système en Amérique du Nord, notamment un expanseur avec trois ports de cartouche (certains des jeux sur cartouche utilisaient deux cartouches), un magnétoscope, un lecteur de disquette 5,25 pouces, une imprimante et un pavé tactile.</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>Serija PC-6000 je serija 8-bitnih kućnih računala predstavljena u novembru 1981. od strane NEC Home Electronics. U ovoj seriji postoji nekoliko modela, kao što su PC-6001, PC-6001 MK2 i PC-6001 MK2 SR. Postoji i američka verzija, zvana NEC TREK ili NEC PC-6001A.
+
+Nekoliko perifernih uređaja bilo je dostupno za sustav u Sjevernoj Americi, uključujući ekspander s tri porta za utikač (neke od igara na temelju umetka koristile su dva umetka), snimač s magnetskom trakom, 5,25-inčni flopi disk, pisač i dodirnu ploču.</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemDescription>La serie PC-6000 è una serie di computer domestici a 8 bit introdotta nel novembre 1981 da NEC Home Electronics. Ci sono diversi modelli in questa serie, come il PC-6001, il PC-6001 MK2 e il PC-6001 MK2 SR. C'è anche una versione americana, chiamata NEC TREK o NEC PC-6001A.
+
+Più una serie di periferiche erano disponibili per il sistema in Nord America, incluso un espansore con tre porte di cartuccia (alcuni dei giochi basati su cartuccia utilizzavano due cartucce), un registratore a cassetta, un'unità disco floppy da 5,25 pollici, una stampante e un touchpad.</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>PC-6000シリーズは、1981年11月にNEC Home Electronicsによって導入された8ビットホームコンピュータのシリーズです。このシリーズには、PC-6001、PC-6001 MK2、PC-6001 MK2 SRなどのいくつかのモデルがあります。NEC TREKまたはNEC PC-6001Aという米国版もあります。
+
+北米のシステム向けにはいくつかの周辺機器が利用可能で、3つのカートリッジポート付きの拡張機能（一部のカートリッジベースのゲームは2つのカートリッジを使用）、カセットレコーダー、5.25インチのフロッピーディスクドライブ、プリンター、タッチパッドを含みます。</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>PC-6000 시리즈는 1981년 11월 NEC Home Electronics에서 도입한 8비트 가정용 컴퓨터 시리즈입니다. 이 시리즈에는 PC-6001, PC-6001 MK2, PC-6001 MK2 SR과 같은 여러 모델이 있습니다. NEC TREK 또는 NEC PC-6001A라고 불리는 미국 버전도 있습니다.
+
+북미의 시스템을 위해 여러 주변 기기를 사용할 수 있었으며, 3개의 카트리지 포트(일부 카트리지 기반 게임은 2개의 카트리지 사용), 카세트 레코더, 5.25인치 플로피 디스크 드라이브, 프린터 및 터치패드를 갖춘 확장기를 포함합니다.</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>De PC-6000-serie is een serie 8-bits thuiscomputers geïntroduceerd in november 1981 door NEC Home Electronics. Er zijn verschillende modellen in deze serie, zoals de PC-6001, de PC-6001 MK2 en de PC-6001 MK2 SR. Er is ook een Amerikaanse versie, genaamd NEC TREK of NEC PC-6001A.
+
+Meerdere randapparatuur waren beschikbaar voor het systeem in Noord-Amerika, inclusief een expander met drie cartridgepoorten (sommige cartridgegames gebruikten twee cartridges), een cassetterecorder, een 5,25-inch diskette, een printer en een touchpad.</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>Seria PC-6000 to seria 8-bitowych komputerów domowych wprowadzona w listopadzie 1981 r. przez NEC Home Electronics. W tej serii istnieje kilka modeli, takich jak PC-6001, PC-6001 MK2 i PC-6001 MK2 SR. Istnieje również wersja amerykańska zwana NEC TREK lub NEC PC-6001A.
+
+Dla systemu w Ameryce Północnej dostępnych było kilka urządzeń peryferyjnych, w tym ekspander z trzema portami wkładów (niektóre gry na wkładach używały dwóch wkładów), magnetofon kasetowy, napęd dyskietek 5,25 cala, drukarkę i panel dotykowy.</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>A série PC-6000 é uma série de computadores domésticos de 8 bits introduzida em novembro de 1981 pela NEC Home Electronics. Existem vários modelos nesta série, como o PC-6001, o PC-6001 MK2 e o PC-6001 MK2 SR. Também existe uma versão americana, chamada NEC TREK ou NEC PC-6001A.
+
+Vários periféricos estavam disponíveis para o sistema na América do Norte, incluindo um expansor com três portas de cartucho (alguns dos jogos baseados em cartucho usavam dois cartuchos), um gravador de cassete, uma unidade de disco de 5,25 polegadas, uma impressora e um touchpad.</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>Seria PC-6000 este o serie de computere de acasă pe 8 biți introdusă în noiembrie 1981 de NEC Home Electronics. Există mai multe modele din această serie, cum ar fi PC-6001, PC-6001 MK2 și PC-6001 MK2 SR. Există, de asemenea, o versiune americană, numită NEC TREK sau NEC PC-6001A.
+
+Mai multe periferice erau disponibile pentru sistemul din America de Nord, inclusiv un expander cu trei porturi de cartuș (unele dintre jocurile pe cartuș utilizau două cartușe), un magnetofon, o unitate de disc flexibil 5,25 inci, o imprimantă și un touchpad.</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>Серия PC-6000 — это серия 8-разрядных домашних компьютеров, представленная в ноябре 1981 года компанией NEC Home Electronics. В этой серии существует несколько моделей, таких как PC-6001, PC-6001 MK2 и PC-6001 MK2 SR. Существует также американская версия, называемая NEC TREK или NEC PC-6001A.
+
+Для системы в Северной Америке было доступно несколько периферийных устройств, включая расширитель с тремя картриджными портами (некоторые картриджные игры использовали два картриджа), кассетный магнитофон, дисковод 5,25 дюйма, принтер и сенсорную панель.</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>Серија PC-6000 је серија 8-битних кућних рачунара представљена у новембру 1981. од стране NEC Home Electronics. У овој серији постоје различити модели, као што су PC-6001, PC-6001 MK2 и PC-6001 MK2 SR. Постоји и америчка верзија, названа NEC TREK или NEC PC-6001A.
+
+Неколико периферних уређаја било је доступно за систем у Северној Америци, укључујући експандер са три картриџа (неке картриџ игре су користиле два картриџа), касетофон, дискету од 5,25 инча, штампач и додирни панел.</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>PC-6000-serien är en serie 8-bitars hemdatorer som introducerades i november 1981 av NEC Home Electronics. Det finns flera modeller i denna serie, som PC-6001, PC-6001 MK2 och PC-6001 MK2 SR. Det finns också en amerikansk version, kallad NEC TREK eller NEC PC-6001A.
+
+Flera perifera enheter var tillgängliga för systemet i Nordamerika, inklusive en expander med tre patronportar (vissa spel baserade på patroner använde två patroner), en kassettbandspelare, en 5,25-tums diskettstation, en skrivare och ett pekskärm.</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>PC-6000系列是NEC Home Electronics于1981年11月推出的8位家用电脑系列。该系列有多个型号，如PC-6001、PC-6001 MK2和PC-6001 MK2 SR。还有一个美国版本，称为NEC TREK或NEC PC-6001A。
+
+北美地区的系统有多个外围设备可用，包括具有三个墨盒端口的扩展器（某些基于墨盒的游戏使用两个墨盒）、盒式录音机、5.25英寸软盘驱动器、打印机和触摸板。</systemDescription>
   </variables>
 </theme>
