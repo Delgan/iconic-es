@@ -1,0 +1,18 @@
+<theme>
+  <variables>
+    <systemName>PC-60</systemName>
+    <systemDescription>The PC-6000 series is a series of 8-bit home computers introduced in November 1981 by NEC Home Electronics. There are several models in this series, such as the PC-6001, the PC-6001 MK2 and the PC-6001 MK2 SR. There is also an American version, called the NEC TREK or NEC PC-6001A.
+
+Several peripherals were available for the system in North America, including an expander with three cartridge ports (some of the cartridge-based games used two cartridges), a cassette-tape recorder, a 5.25" floppy disk drive, a printer, and a touchpad.</systemDescription>
+    <systemManufacturer>NEC</systemManufacturer>
+    <systemReleaseYear>1981</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-computer}</systemHardwareType>
+    <systemCoverSize>3-4</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+  <variables lang="es">
+    <systemDescription>NEC PC-6001 es la primera línea de computadoras personales que fue creada por NEC Corporation. Hubo varias versiones de la PC-6001, junto la PC-6001 Mark 2, PC-6001 Mark 2 SR, y la PC-6601/SR. También hubo una versión estadounidense llamada NEC TREK o NEC PC-6001A. Fue reemplazada por la NEC PC-8801.
+
+Varios accesorios estuvieron disponibles para el sistema en Norteamérica junto con un expansor con un trío de cartuchos (algunos juegos usaban un par de ellos), un grabador de cintas de cartucho, una disquetera de 5.5 pulgadas, una impresora, y un touchpad.</systemDescription>
+  </variables>
+</theme>
