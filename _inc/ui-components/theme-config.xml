@@ -40,6 +40,10 @@ variables are derived from the values selected here and determine the appearance
         <include name="theme" displayName="${i18n.theme}" />
         <include name="es" displayName="EmulationStation" />
     </subset>
+    <subset name="use-svg-logos" displayName="${i18n.use-svg-logos}">
+        <include name="no" displayName="${i18n.no}" />
+        <include name="yes" displayName="${i18n.yes}" />
+    </subset>
     <subset name="smooth-resize" displayName="${i18n.smooth-resize}">
         <include name="yes" displayName="${i18n.yes}" />
         <include name="no" displayName="${i18n.no}" />

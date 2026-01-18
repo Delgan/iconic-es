@@ -9,6 +9,7 @@ vertically on the left side of the screen.
     <view name="system">
         <image name="logo">
             <path>./_inc/logos/${system.theme}.webp</path>
+            <path ifSubset="use-svg-logos:yes">./_inc/logos-svg/${system.theme}.svg</path>
         </image>
         <carousel name="systemcarousel">
             <type>horizontal</type>

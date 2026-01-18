@@ -28,6 +28,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.show-game-titles-in-grid>Show Game Titles in Grid</i18n.show-game-titles-in-grid>
         <i18n.metadata-source>Metadata Source</i18n.metadata-source>
         <i18n.theme>Theme</i18n.theme>
+        <i18n.use-svg-logos>Use Vector Graphics for Logos</i18n.use-svg-logos>
         <i18n.smooth-resize>Smooth Resize</i18n.smooth-resize>
         <i18n.distribution>Distribution</i18n.distribution>
         <i18n.none>None</i18n.none>
@@ -68,6 +69,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.show-game-titles-in-grid>عرض عناوين الألعاب في الشبكة</i18n.show-game-titles-in-grid>
         <i18n.metadata-source>مصدر البيانات الوصفية</i18n.metadata-source>
         <i18n.theme>السمة</i18n.theme>
+        <i18n.use-svg-logos>استخدام الرسومات المتجهة للشعارات</i18n.use-svg-logos>
         <i18n.smooth-resize>تغيير حجم سلس</i18n.smooth-resize>
         <i18n.distribution>التوزيع</i18n.distribution>
         <i18n.none>لا شيء</i18n.none>
@@ -104,6 +106,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.show-game-titles-in-grid>Prikaži naslove igara u mreži</i18n.show-game-titles-in-grid>
         <i18n.metadata-source>Izvor metapodataka</i18n.metadata-source>
         <i18n.theme>Tema</i18n.theme>
+        <i18n.use-svg-logos>Koristi vektorsku grafiku za logotipe</i18n.use-svg-logos>
         <i18n.smooth-resize>Glatko promjena veličine</i18n.smooth-resize>
         <i18n.distribution>Distribucija</i18n.distribution>
         <i18n.none>Ništa</i18n.none>
@@ -140,6 +143,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.show-game-titles-in-grid>Mostrar títols a la graella</i18n.show-game-titles-in-grid>
         <i18n.metadata-source>Font de metadades</i18n.metadata-source>
         <i18n.theme>Tema</i18n.theme>
+        <i18n.use-svg-logos>Utilitza gràfics vectorials per a logotips</i18n.use-svg-logos>
         <i18n.smooth-resize>Redimensionament suau</i18n.smooth-resize>
         <i18n.distribution>Distribució</i18n.distribution>
         <i18n.none>Cap</i18n.none>
@@ -176,6 +180,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.show-game-titles-in-grid>Spieltitel im Raster anzeigen</i18n.show-game-titles-in-grid>
         <i18n.metadata-source>Metadatenquelle</i18n.metadata-source>
         <i18n.theme>Theme</i18n.theme>
+        <i18n.use-svg-logos>Vektorgrafiken für Logos verwenden</i18n.use-svg-logos>
         <i18n.smooth-resize>Sanfte Größenänderung</i18n.smooth-resize>
         <i18n.distribution>Distribution</i18n.distribution>
         <i18n.none>Keine</i18n.none>
@@ -212,6 +217,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.show-game-titles-in-grid>Mostrar nombre del juego en la cuadrícula</i18n.show-game-titles-in-grid>
         <i18n.metadata-source>Origen de los metadatos</i18n.metadata-source>
         <i18n.theme>Tema</i18n.theme>
+        <i18n.use-svg-logos>Usar gráficos vectoriales para logotipos</i18n.use-svg-logos>
         <i18n.smooth-resize>Redimensionado suave</i18n.smooth-resize>
         <i18n.distribution>Distribución</i18n.distribution>
         <i18n.none>Ninguna</i18n.none>
@@ -248,6 +254,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.show-game-titles-in-grid>Afficher les titres dans la grille</i18n.show-game-titles-in-grid>
         <i18n.metadata-source>Source des métadonnées</i18n.metadata-source>
         <i18n.theme>Thème</i18n.theme>
+        <i18n.use-svg-logos>Utiliser les graphiques vectoriels pour les logos</i18n.use-svg-logos>
         <i18n.smooth-resize>Redimensionnement fluide</i18n.smooth-resize>
         <i18n.distribution>Distribution</i18n.distribution>
         <i18n.none>Aucune</i18n.none>
@@ -284,6 +291,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.show-game-titles-in-grid>Prikaži naslove igara u mreži</i18n.show-game-titles-in-grid>
         <i18n.metadata-source>Izvor metapodataka</i18n.metadata-source>
         <i18n.theme>Tema</i18n.theme>
+        <i18n.use-svg-logos>Koristi vektorsku grafiku za logotipe</i18n.use-svg-logos>
         <i18n.smooth-resize>Glatko promjena veličine</i18n.smooth-resize>
         <i18n.distribution>Distribucija</i18n.distribution>
         <i18n.none>Ništa</i18n.none>
@@ -320,6 +328,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.show-game-titles-in-grid>Mostra titoli nella griglia</i18n.show-game-titles-in-grid>
         <i18n.metadata-source>Origine metadati</i18n.metadata-source>
         <i18n.theme>Tema</i18n.theme>
+        <i18n.use-svg-logos>Usa la grafica vettoriale per i loghi</i18n.use-svg-logos>
         <i18n.smooth-resize>Ridimensionamento fluido</i18n.smooth-resize>
         <i18n.distribution>Distribuzione</i18n.distribution>
         <i18n.none>Nessuna</i18n.none>
@@ -356,6 +365,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.show-game-titles-in-grid>Speltitels in raster weergeven</i18n.show-game-titles-in-grid>
         <i18n.metadata-source>Metadatabron</i18n.metadata-source>
         <i18n.theme>Thema</i18n.theme>
+        <i18n.use-svg-logos>Gebruik vectorafbeeldingen voor logo's</i18n.use-svg-logos>
         <i18n.smooth-resize>Vloeiend schalen</i18n.smooth-resize>
         <i18n.distribution>Distributie</i18n.distribution>
         <i18n.none>Geen</i18n.none>
@@ -391,6 +401,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.show-game-titles-in-grid>グリッドにタイトルを表示</i18n.show-game-titles-in-grid>
         <i18n.metadata-source>メタデータソース</i18n.metadata-source>
         <i18n.theme>テーマ</i18n.theme>
+        <i18n.use-svg-logos>ロゴにベクターグラフィックスを使用</i18n.use-svg-logos>
         <i18n.smooth-resize>スムーズリサイズ</i18n.smooth-resize>
         <i18n.distribution>ディストリビューション</i18n.distribution>
         <i18n.none>なし</i18n.none>
@@ -427,6 +438,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.show-game-titles-in-grid>그리드에 게임 제목 표시</i18n.show-game-titles-in-grid>
         <i18n.metadata-source>메타데이터 소스</i18n.metadata-source>
         <i18n.theme>테마</i18n.theme>
+        <i18n.use-svg-logos>로고에 벡터 그래픽 사용</i18n.use-svg-logos>
         <i18n.smooth-resize>부드러운 크기 조정</i18n.smooth-resize>
         <i18n.distribution>배포판</i18n.distribution>
         <i18n.none>없음</i18n.none>
@@ -463,6 +475,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.show-game-titles-in-grid>Pokaż tytuły w siatce</i18n.show-game-titles-in-grid>
         <i18n.metadata-source>Źródło metadanych</i18n.metadata-source>
         <i18n.theme>Motyw</i18n.theme>
+        <i18n.use-svg-logos>Użyj grafiki wektorowej dla logotypów</i18n.use-svg-logos>
         <i18n.smooth-resize>Płynna zmiana rozmiaru</i18n.smooth-resize>
         <i18n.distribution>Dystrybucja</i18n.distribution>
         <i18n.none>Brak</i18n.none>
@@ -499,6 +512,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.show-game-titles-in-grid>Mostrar títulos na grade</i18n.show-game-titles-in-grid>
         <i18n.metadata-source>Fonte de metadados</i18n.metadata-source>
         <i18n.theme>Tema</i18n.theme>
+        <i18n.use-svg-logos>Use gráficos vetoriais para logotipos</i18n.use-svg-logos>
         <i18n.smooth-resize>Redimensionamento suave</i18n.smooth-resize>
         <i18n.distribution>Distribuição</i18n.distribution>
         <i18n.none>Nenhuma</i18n.none>
@@ -535,6 +549,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.show-game-titles-in-grid>Arată titlurile în grilă</i18n.show-game-titles-in-grid>
         <i18n.metadata-source>Sursă metadate</i18n.metadata-source>
         <i18n.theme>Temă</i18n.theme>
+        <i18n.use-svg-logos>Utilizați grafici vectoriale pentru logo-uri</i18n.use-svg-logos>
         <i18n.smooth-resize>Redimensionare fluidă</i18n.smooth-resize>
         <i18n.distribution>Distribuție</i18n.distribution>
         <i18n.none>Niciunul</i18n.none>
@@ -570,6 +585,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.show-game-titles-in-grid>Показать названия в сетке</i18n.show-game-titles-in-grid>
         <i18n.metadata-source>Источник метаданных</i18n.metadata-source>
         <i18n.theme>Тема</i18n.theme>
+        <i18n.use-svg-logos>Использовать векторную графику для логотипов</i18n.use-svg-logos>
         <i18n.smooth-resize>Плавное изменение размера</i18n.smooth-resize>
         <i18n.distribution>Дистрибутив</i18n.distribution>
         <i18n.none>Нет</i18n.none>
@@ -606,6 +622,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.show-game-titles-in-grid>Прикажи наслове игара у мрежи</i18n.show-game-titles-in-grid>
         <i18n.metadata-source>Извор метаподатака</i18n.metadata-source>
         <i18n.theme>Тема</i18n.theme>
+        <i18n.use-svg-logos>Користи векторску графику за логотипе</i18n.use-svg-logos>
         <i18n.smooth-resize>Глатка промена величине</i18n.smooth-resize>
         <i18n.distribution>Дистрибуција</i18n.distribution>
         <i18n.none>Ништа</i18n.none>
@@ -642,6 +659,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.show-game-titles-in-grid>Visa speltitlar i rutnät</i18n.show-game-titles-in-grid>
         <i18n.metadata-source>Metadatakälla</i18n.metadata-source>
         <i18n.theme>Tema</i18n.theme>
+        <i18n.use-svg-logos>Använd vektorgrafik för logotyper</i18n.use-svg-logos>
         <i18n.smooth-resize>Mjuk storleksändring</i18n.smooth-resize>
         <i18n.distribution>Distribution</i18n.distribution>
         <i18n.none>Ingen</i18n.none>
@@ -678,6 +696,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
         <i18n.show-game-titles-in-grid>在网格中显示游戏标题</i18n.show-game-titles-in-grid>
         <i18n.metadata-source>元数据来源</i18n.metadata-source>
         <i18n.theme>主题</i18n.theme>
+        <i18n.use-svg-logos>为徽标使用矢量图形</i18n.use-svg-logos>
         <i18n.smooth-resize>平滑缩放</i18n.smooth-resize>
         <i18n.distribution>发行版</i18n.distribution>
         <i18n.none>无</i18n.none>
