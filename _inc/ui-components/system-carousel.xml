@@ -36,13 +36,8 @@ vertically on the left side of the screen.
                         <path>{system:logo}</path>
                     </image>
                     <text name="logo-text-fallback">
-                        <visible ifSubset="use-svg-logos:no">
-                            !exists("${themePath}/_inc/logos/" + {system:theme} + ".webp")
-                        </visible>
-                        <visible ifSubset="use-svg-logos:yes">
-                            !exists("${themePath}/_inc/logos/" + {system:theme} + ".webp")
-                            && !exists("${themePath}/_inc/logos-svg/" + {system:theme} + ".svg")
-                        </visible>
+                        <visible ifSubset="use-svg-logos:no">!exists("${themePath}/_inc/logos/" + {system:theme} + ".webp")</visible>
+                        <visible ifSubset="use-svg-logos:yes">firstfile("${themePath}/_inc/logos/" + {system:theme} + ".webp", "${themePath}/_inc/logos-svg/" + {system:theme} + ".svg") == ""</visible>
                         <value>{system:fullName}</value>
                         <forceUppercase>true</forceUppercase>
                         <lineSpacing>1</lineSpacing>
@@ -119,8 +114,8 @@ vertically on the left side of the screen.
             <autoScrollSpeed>25</autoScrollSpeed>
             <autoScrollDelay>0</autoScrollDelay>
             <singleLineScroll>true</singleLineScroll>
-            <text if="${systemReleaseYear} > 0">${systemReleaseYear} · ${systemHardwareType}</text>
-            <text if="!(${systemReleaseYear} > 0)">${systemHardwareType}</text>
+            <text if="max(${systemReleaseYear}, 0) != 0">${systemReleaseYear} · ${systemHardwareType}</text>
+            <text if="max(${systemReleaseYear}, 0) == 0">${systemHardwareType}</text>
             <alignment>center</alignment>
             <forceUppercase>true</forceUppercase>
             <color>${systemInfoColor}</color>
