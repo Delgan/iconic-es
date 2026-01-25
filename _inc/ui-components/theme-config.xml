@@ -1,57 +1,56 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <!-- This component defines the list of configuration options available in the theme settings.
 
 This does not defines an UI widget, but must be included by the main "theme" file. Different
 variables are derived from the values selected here and determine the appearance of the theme.
 -->
 <theme>
-    <formatVersion>7</formatVersion>
-    <subset name="aspect-ratio" displayName="${i18n.aspect-ratio}">
-        <include if="${screen.ratio} == '16/9'" name="16-9-auto" displayName="${i18n.automatic}" />
-        <include if="${screen.ratio} == '16/10'" name="16-10-auto" displayName="${i18n.automatic}" />
-        <include if="${screen.ratio} == '4/3'" name="4-3-auto" displayName="${i18n.automatic}" />
-        <include if="${screen.ratio} == '3/2'" name="3-2-auto" displayName="${i18n.automatic}" />
-        <include if="${screen.ratio} == '1/1'" name="1-1-auto" displayName="${i18n.automatic}" />
-        <include name="16-9" displayName="16:9" />
-        <include name="16-10" displayName="16:10" />
-        <include name="4-3" displayName="4:3" />
-        <include name="3-2" displayName="3:2" />
-        <include name="1-1" displayName="1:1" />
-    </subset>
-    <subset name="color-scheme" displayName="${i18n.color-scheme}">
-        <include name="light" displayName="${i18n.light}" />
-        <include name="dark" displayName="${i18n.dark}" />
-    </subset>
-    <subset name="media-type" displayName="${i18n.game-media-type}">
-        <include name="image" displayName="${i18n.image}" />
-        <include name="boxart" displayName="${i18n.boxart}" />
-        <include name="marquee" displayName="${i18n.marquee}" />
-        <include name="mix" displayName="${i18n.mix}" />
-    </subset>
-    <subset name="play-video-previews-of-games" displayName="${i18n.play-video-previews}">
-        <include name="yes" displayName="${i18n.yes}" />
-        <include name="no" displayName="${i18n.no}" />
-    </subset>
-    <subset name="show-game-titles-in-grid" displayName="${i18n.show-game-titles-in-grid}">
-        <include name="no" displayName="${i18n.no}" />
-        <include name="yes" displayName="${i18n.yes}" />
-    </subset>
-    <subset name="metadata-source" displayName="${i18n.metadata-source}">
-        <include name="theme" displayName="${i18n.theme}" />
-        <include name="es" displayName="EmulationStation" />
-    </subset>
-    <subset name="use-svg-logos" displayName="${i18n.use-svg-logos}">
-        <include name="no" displayName="${i18n.no}" />
-        <include name="yes" displayName="${i18n.yes}" />
-    </subset>
-    <subset name="smooth-resize" displayName="${i18n.smooth-resize}">
-        <include name="yes" displayName="${i18n.yes}" />
-        <include name="no" displayName="${i18n.no}" />
-    </subset>
-    <subset name="distribution" displayName="${i18n.distribution}">
-        <include name="none" displayName="${i18n.none}" />
-        <include name="batocera" displayName="Batocera/Knulli" />
-        <include name="retrobat" displayName="RetroBat" />
-        <include name="rocknix" displayName="ROCKNIX" />
-    </subset>
+  <formatVersion>7</formatVersion>
+  <subset name="aspect-ratio" displayName="${i18n.aspect-ratio}">
+    <include if="${screen.ratio} == '16/9'" name="16-9-auto" displayName="${i18n.automatic}"/>
+    <include if="${screen.ratio} == '16/10'" name="16-10-auto" displayName="${i18n.automatic}"/>
+    <include if="${screen.ratio} == '4/3'" name="4-3-auto" displayName="${i18n.automatic}"/>
+    <include if="${screen.ratio} == '3/2'" name="3-2-auto" displayName="${i18n.automatic}"/>
+    <include if="${screen.ratio} == '1/1'" name="1-1-auto" displayName="${i18n.automatic}"/>
+    <include name="16-9" displayName="16:9"/>
+    <include name="16-10" displayName="16:10"/>
+    <include name="4-3" displayName="4:3"/>
+    <include name="3-2" displayName="3:2"/>
+    <include name="1-1" displayName="1:1"/>
+  </subset>
+  <subset name="color-scheme" displayName="${i18n.color-scheme}">
+    <include name="light" displayName="${i18n.light}"/>
+    <include name="dark" displayName="${i18n.dark}"/>
+  </subset>
+  <subset name="media-type" displayName="${i18n.game-media-type}">
+    <include name="image" displayName="${i18n.image}"/>
+    <include name="boxart" displayName="${i18n.boxart}"/>
+    <include name="marquee" displayName="${i18n.marquee}"/>
+    <include name="mix" displayName="${i18n.mix}"/>
+  </subset>
+  <subset name="play-video-previews-of-games" displayName="${i18n.play-video-previews}">
+    <include name="yes" displayName="${i18n.yes}"/>
+    <include name="no" displayName="${i18n.no}"/>
+  </subset>
+  <subset name="show-game-titles-in-grid" displayName="${i18n.show-game-titles-in-grid}">
+    <include name="no" displayName="${i18n.no}"/>
+    <include name="yes" displayName="${i18n.yes}"/>
+  </subset>
+  <subset name="metadata-source" displayName="${i18n.metadata-source}">
+    <include name="theme" displayName="${i18n.theme}"/>
+    <include name="es" displayName="EmulationStation"/>
+  </subset>
+  <subset name="use-svg-logos" displayName="${i18n.use-svg-logos}">
+    <include name="no" displayName="${i18n.no}"/>
+    <include name="yes" displayName="${i18n.yes}"/>
+  </subset>
+  <subset name="smooth-resize" displayName="${i18n.smooth-resize}">
+    <include name="yes" displayName="${i18n.yes}"/>
+    <include name="no" displayName="${i18n.no}"/>
+  </subset>
+  <subset name="distribution" displayName="${i18n.distribution}">
+    <include name="none" displayName="${i18n.none}"/>
+    <include name="batocera" displayName="Batocera/Knulli"/>
+    <include name="retrobat" displayName="RetroBat"/>
+    <include name="rocknix" displayName="ROCKNIX"/>
+  </subset>
 </theme>

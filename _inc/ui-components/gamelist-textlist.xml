@@ -1,32 +1,31 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <!-- This component defines the right half of the screen in "basic" and "detailed" views.
 
 It displays a list of the games of the system being viewed.
 -->
 <theme>
-    <formatVersion>7</formatVersion>
-    <view name="basic, detailed">
-        <image name="game-list-background" extra="true">
-            <origin>0 0</origin>
-            <pos>0 0</pos>
-            <size>1 1</size>
-            <zIndex>12</zIndex>
-            <linearSmooth>true</linearSmooth>
-            <path>./_inc/other/${gamelistPanelImage}</path>
-        </image>
-        <textlist name="gamelist">
-            <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
-            <selectorColor>${gamelistSelectorColor}</selectorColor>
-            <selectedColor>${gamelistSelectedColor}</selectedColor>
-            <primaryColor>${gamelistPrimaryColor}</primaryColor>
-            <secondaryColor>${gamelistSecondaryColor}</secondaryColor>
-            <horizontalMargin>0.008333333333333</horizontalMargin>
-            <zIndex>17</zIndex>
-            <pos>0.575 0.09</pos>
-            <size>0.362 0.7519</size>
-            <fontSize>0.030333333333333</fontSize>
-            <lines>15</lines>
-            <alignment>left</alignment>
-        </textlist>
-    </view>
+  <formatVersion>7</formatVersion>
+  <view name="basic, detailed">
+    <image name="game-list-background" extra="true">
+      <origin>0 0</origin>
+      <pos>0 0</pos>
+      <size>1 1</size>
+      <zIndex>12</zIndex>
+      <linearSmooth>true</linearSmooth>
+      <path>./_inc/other/${gamelistPanelImage}</path>
+    </image>
+    <textlist name="gamelist">
+      <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
+      <selectorColor>${gamelistSelectorColor}</selectorColor>
+      <selectedColor>${gamelistSelectedColor}</selectedColor>
+      <primaryColor>${gamelistPrimaryColor}</primaryColor>
+      <secondaryColor>${gamelistSecondaryColor}</secondaryColor>
+      <horizontalMargin>0.008333333333333</horizontalMargin>
+      <zIndex>17</zIndex>
+      <pos>0.575 0.09</pos>
+      <size>0.362 0.7519</size>
+      <fontSize>0.030333333333333</fontSize>
+      <lines>15</lines>
+      <alignment>left</alignment>
+    </textlist>
+  </view>
 </theme>

@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <!-- This component defines the UI translations based on the language configured in settings.
 
 This should assign every translatable text to a variable, which can then be used in other theme
@@ -6,713 +5,713 @@ components. In particular, this is used to define the "displayName" attributes o
 defined in "theme-config.xml". Therefore, it must be included before any other one.
 -->
 <theme>
-    <formatVersion>7</formatVersion>
-    <!-- The "en" lang is always included first, it acts as the default fallback. -->
-    <variables>
-        <!-- Default description for when the system is unknown. -->
-        <systemDescription>View and play ${system.fullName}.</systemDescription>
-        <!-- Values used in the UI for theme configuration. -->
-        <i18n.aspect-ratio>Aspect Ratio</i18n.aspect-ratio>
-        <i18n.automatic>Automatic</i18n.automatic>
-        <i18n.color-scheme>Color Scheme</i18n.color-scheme>
-        <i18n.light>Light</i18n.light>
-        <i18n.dark>Dark</i18n.dark>
-        <i18n.game-media-type>Game Media Type</i18n.game-media-type>
-        <i18n.image>Image</i18n.image>
-        <i18n.boxart>Boxart</i18n.boxart>
-        <i18n.marquee>Marquee</i18n.marquee>
-        <i18n.mix>Mix</i18n.mix>
-        <i18n.play-video-previews>Play Video Previews of Games</i18n.play-video-previews>
-        <i18n.yes>Yes</i18n.yes>
-        <i18n.no>No</i18n.no>
-        <i18n.show-game-titles-in-grid>Show Game Titles in Grid</i18n.show-game-titles-in-grid>
-        <i18n.metadata-source>Metadata Source</i18n.metadata-source>
-        <i18n.theme>Theme</i18n.theme>
-        <i18n.use-svg-logos>Use Vector Graphics for Logos</i18n.use-svg-logos>
-        <i18n.smooth-resize>Smooth Resize</i18n.smooth-resize>
-        <i18n.distribution>Distribution</i18n.distribution>
-        <i18n.none>None</i18n.none>
-        <!-- Values used in the systems metadata. -->
-        <i18n.various>Various</i18n.various>
-        <i18n.auto-collection>Auto Collection</i18n.auto-collection>
-        <i18n.custom-collection>Custom Collection</i18n.custom-collection>
-        <i18n.misc-system>Misc. System</i18n.misc-system>
-        <i18n.misc-system>Sonstiges System</i18n.misc-system>
-        <i18n.misc-system>Sistem Divers</i18n.misc-system>
-        <i18n.hardware-computer>Computer</i18n.hardware-computer>
-        <i18n.hardware-engine>Engine</i18n.hardware-engine>
-        <i18n.hardware-arcade>Arcade</i18n.hardware-arcade>
-        <i18n.hardware-portable>Portable</i18n.hardware-portable>
-        <i18n.hardware-folder>Folder</i18n.hardware-folder>
-        <i18n.hardware-console>Console</i18n.hardware-console>
-        <i18n.hardware-peripheral>Peripheral</i18n.hardware-peripheral>
-        <i18n.hardware-emulator>Emulator</i18n.hardware-emulator>
-        <i18n.hardware-os>OS</i18n.hardware-os>
-        <i18n.hardware-port>Port</i18n.hardware-port>
-    </variables>
-    <!-- Following variables will overwrite the default ones if the "lang" matches. -->
-    <variables lang="ar">
-        <systemDescription>عرض ولعب ${system.fullName}.</systemDescription>
-        <i18n.aspect-ratio>نسبة العرض إلى الارتفاع</i18n.aspect-ratio>
-        <i18n.automatic>تلقائي</i18n.automatic>
-        <i18n.color-scheme>نظام الألوان</i18n.color-scheme>
-        <i18n.light>فاتح</i18n.light>
-        <i18n.dark>داكن</i18n.dark>
-        <i18n.game-media-type>نوع الوسائط</i18n.game-media-type>
-        <i18n.image>صورة</i18n.image>
-        <i18n.boxart>غلاف</i18n.boxart>
-        <i18n.marquee>شعار</i18n.marquee>
-        <i18n.mix>مختلط</i18n.mix>
-        <i18n.play-video-previews>تشغيل معاينات الفيديو</i18n.play-video-previews>
-        <i18n.yes>نعم</i18n.yes>
-        <i18n.no>لا</i18n.no>
-        <i18n.show-game-titles-in-grid>عرض عناوين الألعاب في الشبكة</i18n.show-game-titles-in-grid>
-        <i18n.metadata-source>مصدر البيانات الوصفية</i18n.metadata-source>
-        <i18n.theme>السمة</i18n.theme>
-        <i18n.use-svg-logos>استخدام الرسومات المتجهة للشعارات</i18n.use-svg-logos>
-        <i18n.smooth-resize>تغيير حجم سلس</i18n.smooth-resize>
-        <i18n.distribution>التوزيع</i18n.distribution>
-        <i18n.none>لا شيء</i18n.none>
-        <i18n.various>متنوع</i18n.various>
-        <i18n.auto-collection>مجموعة تلقائية</i18n.auto-collection>
-        <i18n.custom-collection>مجموعة مخصصة</i18n.custom-collection>
-        <i18n.misc-system>نظام متنوع</i18n.misc-system>
-        <i18n.hardware-computer>الحاسب الآلي</i18n.hardware-computer>
-        <i18n.hardware-engine>المحرك</i18n.hardware-engine>
-        <i18n.hardware-arcade>أركيد</i18n.hardware-arcade>
-        <i18n.hardware-portable>محمول</i18n.hardware-portable>
-        <i18n.hardware-folder>المجلد</i18n.hardware-folder>
-        <i18n.hardware-console>وحدة التحكم</i18n.hardware-console>
-        <i18n.hardware-peripheral>محيطي</i18n.hardware-peripheral>
-        <i18n.hardware-emulator>المحاكي</i18n.hardware-emulator>
-        <i18n.hardware-os>نظام التشغيل</i18n.hardware-os>
-        <i18n.hardware-port>المنفذ</i18n.hardware-port>
-    </variables>
-    <variables lang="bs">
-        <systemDescription>Pogledajte i igrajte ${system.fullName}.</systemDescription>
-        <i18n.aspect-ratio>Omjer slike</i18n.aspect-ratio>
-        <i18n.automatic>Automatski</i18n.automatic>
-        <i18n.color-scheme>Šema boja</i18n.color-scheme>
-        <i18n.light>Svijetla</i18n.light>
-        <i18n.dark>Tamna</i18n.dark>
-        <i18n.game-media-type>Tip medija</i18n.game-media-type>
-        <i18n.image>Slika</i18n.image>
-        <i18n.boxart>Kutija</i18n.boxart>
-        <i18n.marquee>Logotip</i18n.marquee>
-        <i18n.mix>Miješano</i18n.mix>
-        <i18n.play-video-previews>Reproduciraj video preglede</i18n.play-video-previews>
-        <i18n.yes>Da</i18n.yes>
-        <i18n.no>Ne</i18n.no>
-        <i18n.show-game-titles-in-grid>Prikaži naslove igara u mreži</i18n.show-game-titles-in-grid>
-        <i18n.metadata-source>Izvor metapodataka</i18n.metadata-source>
-        <i18n.theme>Tema</i18n.theme>
-        <i18n.use-svg-logos>Koristi vektorsku grafiku za logotipe</i18n.use-svg-logos>
-        <i18n.smooth-resize>Glatko promjena veličine</i18n.smooth-resize>
-        <i18n.distribution>Distribucija</i18n.distribution>
-        <i18n.none>Ništa</i18n.none>
-        <i18n.various>Razno</i18n.various>
-        <i18n.auto-collection>Auto Kolekcija</i18n.auto-collection>
-        <i18n.custom-collection>Prilagođena Kolekcija</i18n.custom-collection>
-        <i18n.misc-system>Razni sistemi</i18n.misc-system>
-        <i18n.hardware-computer>Računar</i18n.hardware-computer>
-        <i18n.hardware-engine>Motor</i18n.hardware-engine>
-        <i18n.hardware-arcade>Arkada</i18n.hardware-arcade>
-        <i18n.hardware-portable>Prenosiv</i18n.hardware-portable>
-        <i18n.hardware-folder>Mapa</i18n.hardware-folder>
-        <i18n.hardware-console>Konzola</i18n.hardware-console>
-        <i18n.hardware-peripheral>Periferni</i18n.hardware-peripheral>
-        <i18n.hardware-emulator>Emulator</i18n.hardware-emulator>
-        <i18n.hardware-os>OS</i18n.hardware-os>
-        <i18n.hardware-port>Poznato</i18n.hardware-port>
-    </variables>
-    <variables lang="ca">
-        <systemDescription>Veure i jugar a ${system.fullName}.</systemDescription>
-        <i18n.aspect-ratio>Relació d'aspecte</i18n.aspect-ratio>
-        <i18n.automatic>Automàtic</i18n.automatic>
-        <i18n.color-scheme>Esquema de color</i18n.color-scheme>
-        <i18n.light>Clar</i18n.light>
-        <i18n.dark>Fosc</i18n.dark>
-        <i18n.game-media-type>Tipus de mitjà</i18n.game-media-type>
-        <i18n.image>Imatge</i18n.image>
-        <i18n.boxart>Caixa</i18n.boxart>
-        <i18n.marquee>Logo</i18n.marquee>
-        <i18n.mix>Mixt</i18n.mix>
-        <i18n.play-video-previews>Reproduir previsualitzacions de vídeo</i18n.play-video-previews>
-        <i18n.yes>Sí</i18n.yes>
-        <i18n.no>No</i18n.no>
-        <i18n.show-game-titles-in-grid>Mostrar títols a la graella</i18n.show-game-titles-in-grid>
-        <i18n.metadata-source>Font de metadades</i18n.metadata-source>
-        <i18n.theme>Tema</i18n.theme>
-        <i18n.use-svg-logos>Utilitza gràfics vectorials per a logotips</i18n.use-svg-logos>
-        <i18n.smooth-resize>Redimensionament suau</i18n.smooth-resize>
-        <i18n.distribution>Distribució</i18n.distribution>
-        <i18n.none>Cap</i18n.none>
-        <i18n.various>Diversos</i18n.various>
-        <i18n.auto-collection>Col·lecció Automàtica</i18n.auto-collection>
-        <i18n.custom-collection>Col·lecció Personalitzada</i18n.custom-collection>
-        <i18n.misc-system>Sistema Divers</i18n.misc-system>
-        <i18n.hardware-computer>Ordinador</i18n.hardware-computer>
-        <i18n.hardware-engine>Motor</i18n.hardware-engine>
-        <i18n.hardware-arcade>Arcade</i18n.hardware-arcade>
-        <i18n.hardware-portable>Portàtil</i18n.hardware-portable>
-        <i18n.hardware-folder>Carpeta</i18n.hardware-folder>
-        <i18n.hardware-console>Consola</i18n.hardware-console>
-        <i18n.hardware-peripheral>Perifèric</i18n.hardware-peripheral>
-        <i18n.hardware-emulator>Emulador</i18n.hardware-emulator>
-        <i18n.hardware-os>OS</i18n.hardware-os>
-        <i18n.hardware-port>Port</i18n.hardware-port>
-    </variables>
-    <variables lang="de">
-        <systemDescription>Ansehen und spielen ${system.fullName}.</systemDescription>
-        <i18n.aspect-ratio>Seitenverhältnis</i18n.aspect-ratio>
-        <i18n.automatic>Automatisch</i18n.automatic>
-        <i18n.color-scheme>Farbschema</i18n.color-scheme>
-        <i18n.light>Hell</i18n.light>
-        <i18n.dark>Dunkel</i18n.dark>
-        <i18n.game-media-type>Medientyp</i18n.game-media-type>
-        <i18n.image>Bild</i18n.image>
-        <i18n.boxart>Verpackung</i18n.boxart>
-        <i18n.marquee>Logo</i18n.marquee>
-        <i18n.mix>Gemischt</i18n.mix>
-        <i18n.play-video-previews>Videovorschauen abspielen</i18n.play-video-previews>
-        <i18n.yes>Ja</i18n.yes>
-        <i18n.no>Nein</i18n.no>
-        <i18n.show-game-titles-in-grid>Spieltitel im Raster anzeigen</i18n.show-game-titles-in-grid>
-        <i18n.metadata-source>Metadatenquelle</i18n.metadata-source>
-        <i18n.theme>Theme</i18n.theme>
-        <i18n.use-svg-logos>Vektorgrafiken für Logos verwenden</i18n.use-svg-logos>
-        <i18n.smooth-resize>Sanfte Größenänderung</i18n.smooth-resize>
-        <i18n.distribution>Distribution</i18n.distribution>
-        <i18n.none>Keine</i18n.none>
-        <i18n.various>Verschiedene</i18n.various>
-        <i18n.auto-collection>Auto-Sammlung</i18n.auto-collection>
-        <i18n.custom-collection>Benutzerdefinierte Sammlung</i18n.custom-collection>
-        <i18n.misc-system>Divers systeem</i18n.misc-system>
-        <i18n.hardware-computer>Computer</i18n.hardware-computer>
-        <i18n.hardware-engine>Motor</i18n.hardware-engine>
-        <i18n.hardware-arcade>Spielhalle</i18n.hardware-arcade>
-        <i18n.hardware-portable>Tragbar</i18n.hardware-portable>
-        <i18n.hardware-folder>Mappe</i18n.hardware-folder>
-        <i18n.hardware-console>Konsole</i18n.hardware-console>
-        <i18n.hardware-peripheral>Peripherie</i18n.hardware-peripheral>
-        <i18n.hardware-emulator>Emulator</i18n.hardware-emulator>
-        <i18n.hardware-os>OS</i18n.hardware-os>
-        <i18n.hardware-port>Hafen</i18n.hardware-port>
-    </variables>
-    <variables lang="es">
-        <systemDescription>Ver y jugar a ${system.fullName}.</systemDescription>
-        <i18n.aspect-ratio>Relación de aspecto</i18n.aspect-ratio>
-        <i18n.automatic>Automático</i18n.automatic>
-        <i18n.color-scheme>Esquema de color</i18n.color-scheme>
-        <i18n.light>Claro</i18n.light>
-        <i18n.dark>Oscuro</i18n.dark>
-        <i18n.game-media-type>Tipo de medio</i18n.game-media-type>
-        <i18n.image>Imagen</i18n.image>
-        <i18n.boxart>Caja</i18n.boxart>
-        <i18n.marquee>Logotipo</i18n.marquee>
-        <i18n.mix>Mixto</i18n.mix>
-        <i18n.play-video-previews>Reproducir videos de previsualización</i18n.play-video-previews>
-        <i18n.yes>Sí</i18n.yes>
-        <i18n.no>No</i18n.no>
-        <i18n.show-game-titles-in-grid>Mostrar nombre del juego en la cuadrícula</i18n.show-game-titles-in-grid>
-        <i18n.metadata-source>Origen de los metadatos</i18n.metadata-source>
-        <i18n.theme>Tema</i18n.theme>
-        <i18n.use-svg-logos>Usar gráficos vectoriales para logotipos</i18n.use-svg-logos>
-        <i18n.smooth-resize>Redimensionado suave</i18n.smooth-resize>
-        <i18n.distribution>Distribución</i18n.distribution>
-        <i18n.none>Ninguna</i18n.none>
-        <i18n.various>Varios</i18n.various>
-        <i18n.auto-collection>Colección Automática</i18n.auto-collection>
-        <i18n.custom-collection>Colección Personalizada</i18n.custom-collection>
-        <i18n.misc-system>Sistema Misceláneo</i18n.misc-system>
-        <i18n.hardware-computer>Ordenador</i18n.hardware-computer>
-        <i18n.hardware-engine>Motor</i18n.hardware-engine>
-        <i18n.hardware-arcade>Arcade</i18n.hardware-arcade>
-        <i18n.hardware-portable>Portátil</i18n.hardware-portable>
-        <i18n.hardware-folder>Carpeta</i18n.hardware-folder>
-        <i18n.hardware-console>Consola</i18n.hardware-console>
-        <i18n.hardware-peripheral>Periférico</i18n.hardware-peripheral>
-        <i18n.hardware-emulator>Emulador</i18n.hardware-emulator>
-        <i18n.hardware-os>Sistema operativo</i18n.hardware-os>
-        <i18n.hardware-port>Puerto</i18n.hardware-port>
-    </variables>
-    <variables lang="fr">
-        <systemDescription>Voir et jouer à ${system.fullName}.</systemDescription>
-        <i18n.aspect-ratio>Rapport d'aspect</i18n.aspect-ratio>
-        <i18n.automatic>Automatique</i18n.automatic>
-        <i18n.color-scheme>Jeu de couleurs</i18n.color-scheme>
-        <i18n.light>Clair</i18n.light>
-        <i18n.dark>Sombre</i18n.dark>
-        <i18n.game-media-type>Type de média</i18n.game-media-type>
-        <i18n.image>Image</i18n.image>
-        <i18n.boxart>Boîte</i18n.boxart>
-        <i18n.marquee>Logo</i18n.marquee>
-        <i18n.mix>Mixte</i18n.mix>
-        <i18n.play-video-previews>Lire les aperçus vidéo</i18n.play-video-previews>
-        <i18n.yes>Oui</i18n.yes>
-        <i18n.no>Non</i18n.no>
-        <i18n.show-game-titles-in-grid>Afficher les titres dans la grille</i18n.show-game-titles-in-grid>
-        <i18n.metadata-source>Source des métadonnées</i18n.metadata-source>
-        <i18n.theme>Thème</i18n.theme>
-        <i18n.use-svg-logos>Utiliser les graphiques vectoriels pour les logos</i18n.use-svg-logos>
-        <i18n.smooth-resize>Redimensionnement fluide</i18n.smooth-resize>
-        <i18n.distribution>Distribution</i18n.distribution>
-        <i18n.none>Aucune</i18n.none>
-        <i18n.various>Divers</i18n.various>
-        <i18n.auto-collection>Collection Automatique</i18n.auto-collection>
-        <i18n.custom-collection>Collection Personnalisée</i18n.custom-collection>
-        <i18n.misc-system>Système Divers</i18n.misc-system>
-        <i18n.hardware-computer>Ordinateur</i18n.hardware-computer>
-        <i18n.hardware-engine>Moteur</i18n.hardware-engine>
-        <i18n.hardware-arcade>Arcade</i18n.hardware-arcade>
-        <i18n.hardware-portable>Portable</i18n.hardware-portable>
-        <i18n.hardware-folder>Dossier</i18n.hardware-folder>
-        <i18n.hardware-console>Console</i18n.hardware-console>
-        <i18n.hardware-peripheral>Périphérique</i18n.hardware-peripheral>
-        <i18n.hardware-emulator>Emulateur</i18n.hardware-emulator>
-        <i18n.hardware-os>OS</i18n.hardware-os>
-        <i18n.hardware-port>Portage</i18n.hardware-port>
-    </variables>
-    <variables lang="hr">
-        <systemDescription>Pogledajte i igrajte ${system.fullName}.</systemDescription>
-        <i18n.aspect-ratio>Omjer slike</i18n.aspect-ratio>
-        <i18n.automatic>Automatski</i18n.automatic>
-        <i18n.color-scheme>Shema boja</i18n.color-scheme>
-        <i18n.light>Svijetla</i18n.light>
-        <i18n.dark>Tamna</i18n.dark>
-        <i18n.game-media-type>Tip medija</i18n.game-media-type>
-        <i18n.image>Slika</i18n.image>
-        <i18n.boxart>Kutija</i18n.boxart>
-        <i18n.marquee>Logotip</i18n.marquee>
-        <i18n.mix>Miješano</i18n.mix>
-        <i18n.play-video-previews>Reproduciraj video preglede</i18n.play-video-previews>
-        <i18n.yes>Da</i18n.yes>
-        <i18n.no>Ne</i18n.no>
-        <i18n.show-game-titles-in-grid>Prikaži naslove igara u mreži</i18n.show-game-titles-in-grid>
-        <i18n.metadata-source>Izvor metapodataka</i18n.metadata-source>
-        <i18n.theme>Tema</i18n.theme>
-        <i18n.use-svg-logos>Koristi vektorsku grafiku za logotipe</i18n.use-svg-logos>
-        <i18n.smooth-resize>Glatko promjena veličine</i18n.smooth-resize>
-        <i18n.distribution>Distribucija</i18n.distribution>
-        <i18n.none>Ništa</i18n.none>
-        <i18n.various>Razno</i18n.various>
-        <i18n.auto-collection>Auto Kolekcija</i18n.auto-collection>
-        <i18n.custom-collection>Prilagođena Kolekcija</i18n.custom-collection>
-        <i18n.misc-system>Razni Sustavi</i18n.misc-system>
-        <i18n.hardware-computer>Računalo</i18n.hardware-computer>
-        <i18n.hardware-engine>Motor</i18n.hardware-engine>
-        <i18n.hardware-arcade>Arkada</i18n.hardware-arcade>
-        <i18n.hardware-portable>Prenosiv</i18n.hardware-portable>
-        <i18n.hardware-folder>Mapa</i18n.hardware-folder>
-        <i18n.hardware-console>Konzola</i18n.hardware-console>
-        <i18n.hardware-peripheral>Periferni</i18n.hardware-peripheral>
-        <i18n.hardware-emulator>Emulator</i18n.hardware-emulator>
-        <i18n.hardware-os>OS</i18n.hardware-os>
-        <i18n.hardware-port>Portja</i18n.hardware-port>
-    </variables>
-    <variables lang="it">
-        <systemDescription>Visualizza e gioca ${system.fullName}.</systemDescription>
-        <i18n.aspect-ratio>Rapporto d'aspetto</i18n.aspect-ratio>
-        <i18n.automatic>Automatico</i18n.automatic>
-        <i18n.color-scheme>Schema colore</i18n.color-scheme>
-        <i18n.light>Chiaro</i18n.light>
-        <i18n.dark>Scuro</i18n.dark>
-        <i18n.game-media-type>Tipo di media</i18n.game-media-type>
-        <i18n.image>Immagine</i18n.image>
-        <i18n.boxart>Copertina</i18n.boxart>
-        <i18n.marquee>Logo</i18n.marquee>
-        <i18n.mix>Misto</i18n.mix>
-        <i18n.play-video-previews>Riproduci anteprime video</i18n.play-video-previews>
-        <i18n.yes>Sì</i18n.yes>
-        <i18n.no>No</i18n.no>
-        <i18n.show-game-titles-in-grid>Mostra titoli nella griglia</i18n.show-game-titles-in-grid>
-        <i18n.metadata-source>Origine metadati</i18n.metadata-source>
-        <i18n.theme>Tema</i18n.theme>
-        <i18n.use-svg-logos>Usa la grafica vettoriale per i loghi</i18n.use-svg-logos>
-        <i18n.smooth-resize>Ridimensionamento fluido</i18n.smooth-resize>
-        <i18n.distribution>Distribuzione</i18n.distribution>
-        <i18n.none>Nessuna</i18n.none>
-        <i18n.various>Vari</i18n.various>
-        <i18n.auto-collection>Raccolta Automatica</i18n.auto-collection>
-        <i18n.custom-collection>Raccolta Personalizzata</i18n.custom-collection>
-        <i18n.misc-system>Sistema Vario</i18n.misc-system>
-        <i18n.hardware-computer>Computer</i18n.hardware-computer>
-        <i18n.hardware-engine>Motore</i18n.hardware-engine>
-        <i18n.hardware-arcade>Arcade</i18n.hardware-arcade>
-        <i18n.hardware-portable>Portatile</i18n.hardware-portable>
-        <i18n.hardware-folder>Cartella</i18n.hardware-folder>
-        <i18n.hardware-console>Console</i18n.hardware-console>
-        <i18n.hardware-peripheral>Periferica</i18n.hardware-peripheral>
-        <i18n.hardware-emulator>Emulatore</i18n.hardware-emulator>
-        <i18n.hardware-os>OS</i18n.hardware-os>
-        <i18n.hardware-port>Porting</i18n.hardware-port>
-    </variables>
-    <variables lang="nl">
-        <systemDescription>Bekijk en speel ${system.fullName}.</systemDescription>
-        <i18n.aspect-ratio>Beeldverhouding</i18n.aspect-ratio>
-        <i18n.automatic>Automatisch</i18n.automatic>
-        <i18n.color-scheme>Kleurenschema</i18n.color-scheme>
-        <i18n.light>Licht</i18n.light>
-        <i18n.dark>Donker</i18n.dark>
-        <i18n.game-media-type>Mediatype</i18n.game-media-type>
-        <i18n.image>Afbeelding</i18n.image>
-        <i18n.boxart>Doos</i18n.boxart>
-        <i18n.marquee>Logo</i18n.marquee>
-        <i18n.mix>Gemengd</i18n.mix>
-        <i18n.play-video-previews>Videovoorbeelden afspelen</i18n.play-video-previews>
-        <i18n.yes>Ja</i18n.yes>
-        <i18n.no>Nee</i18n.no>
-        <i18n.show-game-titles-in-grid>Speltitels in raster weergeven</i18n.show-game-titles-in-grid>
-        <i18n.metadata-source>Metadatabron</i18n.metadata-source>
-        <i18n.theme>Thema</i18n.theme>
-        <i18n.use-svg-logos>Gebruik vectorafbeeldingen voor logo's</i18n.use-svg-logos>
-        <i18n.smooth-resize>Vloeiend schalen</i18n.smooth-resize>
-        <i18n.distribution>Distributie</i18n.distribution>
-        <i18n.none>Geen</i18n.none>
-        <i18n.various>Verschillende</i18n.various>
-        <i18n.auto-collection>Automatische Collectie</i18n.auto-collection>
-        <i18n.custom-collection>Aangepaste Collectie</i18n.custom-collection>
-        <i18n.hardware-computer>Computer</i18n.hardware-computer>
-        <i18n.hardware-engine>Motor</i18n.hardware-engine>
-        <i18n.hardware-arcade>Arcade</i18n.hardware-arcade>
-        <i18n.hardware-portable>Draagbaar</i18n.hardware-portable>
-        <i18n.hardware-folder>Map</i18n.hardware-folder>
-        <i18n.hardware-console>Console</i18n.hardware-console>
-        <i18n.hardware-peripheral>Perifeer</i18n.hardware-peripheral>
-        <i18n.hardware-emulator>Emulator</i18n.hardware-emulator>
-        <i18n.hardware-os>OS</i18n.hardware-os>
-        <i18n.hardware-port>Port</i18n.hardware-port>
-    </variables>
-    <variables lang="ja">
-        <systemDescription>${system.fullName}を表示してプレイする。</systemDescription>
-        <i18n.aspect-ratio>アスペクト比</i18n.aspect-ratio>
-        <i18n.automatic>自動</i18n.automatic>
-        <i18n.color-scheme>カラースキーム</i18n.color-scheme>
-        <i18n.light>ライト</i18n.light>
-        <i18n.dark>ダーク</i18n.dark>
-        <i18n.game-media-type>メディアタイプ</i18n.game-media-type>
-        <i18n.image>画像</i18n.image>
-        <i18n.boxart>ボックスアート</i18n.boxart>
-        <i18n.marquee>ロゴ</i18n.marquee>
-        <i18n.mix>ミックス</i18n.mix>
-        <i18n.play-video-previews>ビデオプレビューを再生</i18n.play-video-previews>
-        <i18n.yes>はい</i18n.yes>
-        <i18n.no>いいえ</i18n.no>
-        <i18n.show-game-titles-in-grid>グリッドにタイトルを表示</i18n.show-game-titles-in-grid>
-        <i18n.metadata-source>メタデータソース</i18n.metadata-source>
-        <i18n.theme>テーマ</i18n.theme>
-        <i18n.use-svg-logos>ロゴにベクターグラフィックスを使用</i18n.use-svg-logos>
-        <i18n.smooth-resize>スムーズリサイズ</i18n.smooth-resize>
-        <i18n.distribution>ディストリビューション</i18n.distribution>
-        <i18n.none>なし</i18n.none>
-        <i18n.various>各種</i18n.various>
-        <i18n.auto-collection>自動コレクション</i18n.auto-collection>
-        <i18n.custom-collection>カスタムコレクション</i18n.custom-collection>
-        <i18n.misc-system>その他のシステム</i18n.misc-system>
-        <i18n.hardware-computer>コンピューター</i18n.hardware-computer>
-        <i18n.hardware-engine>エンジン</i18n.hardware-engine>
-        <i18n.hardware-arcade>アーケード</i18n.hardware-arcade>
-        <i18n.hardware-portable>ポータブル</i18n.hardware-portable>
-        <i18n.hardware-folder>フォルダ</i18n.hardware-folder>
-        <i18n.hardware-console>コンソール</i18n.hardware-console>
-        <i18n.hardware-peripheral>ペリフェラル</i18n.hardware-peripheral>
-        <i18n.hardware-emulator>エミュレータ</i18n.hardware-emulator>
-        <i18n.hardware-os>OS</i18n.hardware-os>
-        <i18n.hardware-port>ポート</i18n.hardware-port>
-    </variables>
-    <variables lang="ko">
-        <systemDescription>${system.fullName}을(를) 보고 플레이하세요.</systemDescription>
-        <i18n.aspect-ratio>화면 비율</i18n.aspect-ratio>
-        <i18n.automatic>자동</i18n.automatic>
-        <i18n.color-scheme>색 구성표</i18n.color-scheme>
-        <i18n.light>밝게</i18n.light>
-        <i18n.dark>어둡게</i18n.dark>
-        <i18n.game-media-type>미디어 유형</i18n.game-media-type>
-        <i18n.image>이미지</i18n.image>
-        <i18n.boxart>박스아트</i18n.boxart>
-        <i18n.marquee>로고</i18n.marquee>
-        <i18n.mix>혼합</i18n.mix>
-        <i18n.play-video-previews>비디오 미리보기 재생</i18n.play-video-previews>
-        <i18n.yes>예</i18n.yes>
-        <i18n.no>아니오</i18n.no>
-        <i18n.show-game-titles-in-grid>그리드에 게임 제목 표시</i18n.show-game-titles-in-grid>
-        <i18n.metadata-source>메타데이터 소스</i18n.metadata-source>
-        <i18n.theme>테마</i18n.theme>
-        <i18n.use-svg-logos>로고에 벡터 그래픽 사용</i18n.use-svg-logos>
-        <i18n.smooth-resize>부드러운 크기 조정</i18n.smooth-resize>
-        <i18n.distribution>배포판</i18n.distribution>
-        <i18n.none>없음</i18n.none>
-        <i18n.various>여러 가지</i18n.various>
-        <i18n.auto-collection>자동 컬렉션</i18n.auto-collection>
-        <i18n.custom-collection>사용자 지정 컬렉션</i18n.custom-collection>
-        <i18n.misc-system>기타 시스템</i18n.misc-system>
-        <i18n.hardware-computer>컴퓨터</i18n.hardware-computer>
-        <i18n.hardware-engine>엔진</i18n.hardware-engine>
-        <i18n.hardware-arcade>아케이드</i18n.hardware-arcade>
-        <i18n.hardware-portable>휴대성</i18n.hardware-portable>
-        <i18n.hardware-folder>폴더</i18n.hardware-folder>
-        <i18n.hardware-console>콘솔</i18n.hardware-console>
-        <i18n.hardware-peripheral>주변기기</i18n.hardware-peripheral>
-        <i18n.hardware-emulator>에뮬레이터</i18n.hardware-emulator>
-        <i18n.hardware-os>OS</i18n.hardware-os>
-        <i18n.hardware-port>포트</i18n.hardware-port>
-    </variables>
-    <variables lang="pl">
-        <systemDescription>Wyświetl i graj ${system.fullName}.</systemDescription>
-        <i18n.aspect-ratio>Proporcje obrazu</i18n.aspect-ratio>
-        <i18n.automatic>Automatyczny</i18n.automatic>
-        <i18n.color-scheme>Schemat kolorów</i18n.color-scheme>
-        <i18n.light>Jasny</i18n.light>
-        <i18n.dark>Ciemny</i18n.dark>
-        <i18n.game-media-type>Typ multimediów</i18n.game-media-type>
-        <i18n.image>Obraz</i18n.image>
-        <i18n.boxart>Okładka</i18n.boxart>
-        <i18n.marquee>Logo</i18n.marquee>
-        <i18n.mix>Mieszany</i18n.mix>
-        <i18n.play-video-previews>Odtwarzaj podglądy wideo</i18n.play-video-previews>
-        <i18n.yes>Tak</i18n.yes>
-        <i18n.no>Nie</i18n.no>
-        <i18n.show-game-titles-in-grid>Pokaż tytuły w siatce</i18n.show-game-titles-in-grid>
-        <i18n.metadata-source>Źródło metadanych</i18n.metadata-source>
-        <i18n.theme>Motyw</i18n.theme>
-        <i18n.use-svg-logos>Użyj grafiki wektorowej dla logotypów</i18n.use-svg-logos>
-        <i18n.smooth-resize>Płynna zmiana rozmiaru</i18n.smooth-resize>
-        <i18n.distribution>Dystrybucja</i18n.distribution>
-        <i18n.none>Brak</i18n.none>
-        <i18n.various>Różne</i18n.various>
-        <i18n.auto-collection>Kolekcja Automatyczna</i18n.auto-collection>
-        <i18n.custom-collection>Kolekcja Niestandardowa</i18n.custom-collection>
-        <i18n.misc-system>Inne systemy</i18n.misc-system>
-        <i18n.hardware-computer>Komputer</i18n.hardware-computer>
-        <i18n.hardware-engine>Silnik</i18n.hardware-engine>
-        <i18n.hardware-arcade>Arcade</i18n.hardware-arcade>
-        <i18n.hardware-portable>Przenośny</i18n.hardware-portable>
-        <i18n.hardware-folder>Folder</i18n.hardware-folder>
-        <i18n.hardware-console>Konsola</i18n.hardware-console>
-        <i18n.hardware-peripheral>Peryferyjne</i18n.hardware-peripheral>
-        <i18n.hardware-emulator>Emulator</i18n.hardware-emulator>
-        <i18n.hardware-os>OS</i18n.hardware-os>
-        <i18n.hardware-port>Port</i18n.hardware-port>
-    </variables>
-    <variables lang="pt">
-        <systemDescription>Visualize e jogue ${system.fullName}.</systemDescription>
-        <i18n.aspect-ratio>Proporção de aspecto</i18n.aspect-ratio>
-        <i18n.automatic>Automático</i18n.automatic>
-        <i18n.color-scheme>Esquema de cores</i18n.color-scheme>
-        <i18n.light>Claro</i18n.light>
-        <i18n.dark>Escuro</i18n.dark>
-        <i18n.game-media-type>Tipo de mídia</i18n.game-media-type>
-        <i18n.image>Imagem</i18n.image>
-        <i18n.boxart>Caixa</i18n.boxart>
-        <i18n.marquee>Logo</i18n.marquee>
-        <i18n.mix>Misto</i18n.mix>
-        <i18n.play-video-previews>Reproduzir prévias de vídeo</i18n.play-video-previews>
-        <i18n.yes>Sim</i18n.yes>
-        <i18n.no>Não</i18n.no>
-        <i18n.show-game-titles-in-grid>Mostrar títulos na grade</i18n.show-game-titles-in-grid>
-        <i18n.metadata-source>Fonte de metadados</i18n.metadata-source>
-        <i18n.theme>Tema</i18n.theme>
-        <i18n.use-svg-logos>Use gráficos vetoriais para logotipos</i18n.use-svg-logos>
-        <i18n.smooth-resize>Redimensionamento suave</i18n.smooth-resize>
-        <i18n.distribution>Distribuição</i18n.distribution>
-        <i18n.none>Nenhuma</i18n.none>
-        <i18n.various>Vários</i18n.various>
-        <i18n.auto-collection>Coleção Automática</i18n.auto-collection>
-        <i18n.custom-collection>Coleção Personalizada</i18n.custom-collection>
-        <i18n.misc-system>Sistema Diverso</i18n.misc-system>
-        <i18n.hardware-computer>Computador</i18n.hardware-computer>
-        <i18n.hardware-engine>Motor</i18n.hardware-engine>
-        <i18n.hardware-arcade>Fliperama</i18n.hardware-arcade>
-        <i18n.hardware-portable>Portátil</i18n.hardware-portable>
-        <i18n.hardware-folder>Pasta</i18n.hardware-folder>
-        <i18n.hardware-console>Console</i18n.hardware-console>
-        <i18n.hardware-peripheral>Periférico</i18n.hardware-peripheral>
-        <i18n.hardware-emulator>Emulador</i18n.hardware-emulator>
-        <i18n.hardware-os>SO</i18n.hardware-os>
-        <i18n.hardware-port>Porto</i18n.hardware-port>
-    </variables>
-    <variables lang="ro">
-        <systemDescription>Vizualizați și jucați ${system.fullName}.</systemDescription>
-        <i18n.aspect-ratio>Raport de aspect</i18n.aspect-ratio>
-        <i18n.automatic>Automat</i18n.automatic>
-        <i18n.color-scheme>Schemă de culori</i18n.color-scheme>
-        <i18n.light>Deschis</i18n.light>
-        <i18n.dark>Întunecat</i18n.dark>
-        <i18n.game-media-type>Tip de media</i18n.game-media-type>
-        <i18n.image>Imagine</i18n.image>
-        <i18n.boxart>Cutie</i18n.boxart>
-        <i18n.marquee>Logo</i18n.marquee>
-        <i18n.mix>Mixt</i18n.mix>
-        <i18n.play-video-previews>Redă previzualizări video</i18n.play-video-previews>
-        <i18n.yes>Da</i18n.yes>
-        <i18n.no>Nu</i18n.no>
-        <i18n.show-game-titles-in-grid>Arată titlurile în grilă</i18n.show-game-titles-in-grid>
-        <i18n.metadata-source>Sursă metadate</i18n.metadata-source>
-        <i18n.theme>Temă</i18n.theme>
-        <i18n.use-svg-logos>Utilizați grafici vectoriale pentru logo-uri</i18n.use-svg-logos>
-        <i18n.smooth-resize>Redimensionare fluidă</i18n.smooth-resize>
-        <i18n.distribution>Distribuție</i18n.distribution>
-        <i18n.none>Niciunul</i18n.none>
-        <i18n.various>Diverse</i18n.various>
-        <i18n.auto-collection>Colecție Automată</i18n.auto-collection>
-        <i18n.custom-collection>Colecție Personalizată</i18n.custom-collection>
-        <i18n.hardware-computer>Computer</i18n.hardware-computer>
-        <i18n.hardware-engine>Motor</i18n.hardware-engine>
-        <i18n.hardware-arcade>Arcade</i18n.hardware-arcade>
-        <i18n.hardware-portable>Portabil</i18n.hardware-portable>
-        <i18n.hardware-folder>Dosar</i18n.hardware-folder>
-        <i18n.hardware-console>Consolă</i18n.hardware-console>
-        <i18n.hardware-peripheral>Periferic</i18n.hardware-peripheral>
-        <i18n.hardware-emulator>Emulator</i18n.hardware-emulator>
-        <i18n.hardware-os>SO</i18n.hardware-os>
-        <i18n.hardware-port>Port</i18n.hardware-port>
-    </variables>
-    <variables lang="ru">
-        <systemDescription>Просмотреть и играть в ${system.fullName}.</systemDescription>
-        <i18n.aspect-ratio>Соотношение сторон</i18n.aspect-ratio>
-        <i18n.automatic>Автоматически</i18n.automatic>
-        <i18n.color-scheme>Цветовая схема</i18n.color-scheme>
-        <i18n.light>Светлая</i18n.light>
-        <i18n.dark>Тёмная</i18n.dark>
-        <i18n.game-media-type>Тип медиа</i18n.game-media-type>
-        <i18n.image>Изображение</i18n.image>
-        <i18n.boxart>Обложка</i18n.boxart>
-        <i18n.marquee>Логотип</i18n.marquee>
-        <i18n.mix>Смешанный</i18n.mix>
-        <i18n.play-video-previews>Воспроизводить видеопревью</i18n.play-video-previews>
-        <i18n.yes>Да</i18n.yes>
-        <i18n.no>Нет</i18n.no>
-        <i18n.show-game-titles-in-grid>Показать названия в сетке</i18n.show-game-titles-in-grid>
-        <i18n.metadata-source>Источник метаданных</i18n.metadata-source>
-        <i18n.theme>Тема</i18n.theme>
-        <i18n.use-svg-logos>Использовать векторную графику для логотипов</i18n.use-svg-logos>
-        <i18n.smooth-resize>Плавное изменение размера</i18n.smooth-resize>
-        <i18n.distribution>Дистрибутив</i18n.distribution>
-        <i18n.none>Нет</i18n.none>
-        <i18n.various>Разные</i18n.various>
-        <i18n.auto-collection>Автоколлекция</i18n.auto-collection>
-        <i18n.custom-collection>Пользовательская Коллекция</i18n.custom-collection>
-        <i18n.misc-system>Разные системы</i18n.misc-system>
-        <i18n.hardware-computer>Компьютер</i18n.hardware-computer>
-        <i18n.hardware-engine>Двигатель</i18n.hardware-engine>
-        <i18n.hardware-arcade>Аркада</i18n.hardware-arcade>
-        <i18n.hardware-portable>Портативный</i18n.hardware-portable>
-        <i18n.hardware-folder>Папка</i18n.hardware-folder>
-        <i18n.hardware-console>Консоль</i18n.hardware-console>
-        <i18n.hardware-peripheral>Периферийное устройство</i18n.hardware-peripheral>
-        <i18n.hardware-emulator>Эмулятор</i18n.hardware-emulator>
-        <i18n.hardware-os>OS</i18n.hardware-os>
-        <i18n.hardware-port>Порт</i18n.hardware-port>
-    </variables>
-    <variables lang="sr">
-        <systemDescription>Погледајте и играјте ${system.fullName}.</systemDescription>
-        <i18n.aspect-ratio>Однос слике</i18n.aspect-ratio>
-        <i18n.automatic>Аутоматски</i18n.automatic>
-        <i18n.color-scheme>Шема боја</i18n.color-scheme>
-        <i18n.light>Светла</i18n.light>
-        <i18n.dark>Тамна</i18n.dark>
-        <i18n.game-media-type>Тип медија</i18n.game-media-type>
-        <i18n.image>Слика</i18n.image>
-        <i18n.boxart>Кутија</i18n.boxart>
-        <i18n.marquee>Логотип</i18n.marquee>
-        <i18n.mix>Мешовито</i18n.mix>
-        <i18n.play-video-previews>Репродукуј видео прегледе</i18n.play-video-previews>
-        <i18n.yes>Да</i18n.yes>
-        <i18n.no>Не</i18n.no>
-        <i18n.show-game-titles-in-grid>Прикажи наслове игара у мрежи</i18n.show-game-titles-in-grid>
-        <i18n.metadata-source>Извор метаподатака</i18n.metadata-source>
-        <i18n.theme>Тема</i18n.theme>
-        <i18n.use-svg-logos>Користи векторску графику за логотипе</i18n.use-svg-logos>
-        <i18n.smooth-resize>Глатка промена величине</i18n.smooth-resize>
-        <i18n.distribution>Дистрибуција</i18n.distribution>
-        <i18n.none>Ништа</i18n.none>
-        <i18n.various>Разно</i18n.various>
-        <i18n.auto-collection>Ауто Колекција</i18n.auto-collection>
-        <i18n.custom-collection>Прилагођена Колекција</i18n.custom-collection>
-        <i18n.misc-system>Остали системи</i18n.misc-system>
-        <i18n.hardware-computer>Рачунар</i18n.hardware-computer>
-        <i18n.hardware-engine>Мотор</i18n.hardware-engine>
-        <i18n.hardware-arcade>Аркада</i18n.hardware-arcade>
-        <i18n.hardware-portable>Преносив</i18n.hardware-portable>
-        <i18n.hardware-folder>Мапа</i18n.hardware-folder>
-        <i18n.hardware-console>Конзола</i18n.hardware-console>
-        <i18n.hardware-peripheral>Периферни</i18n.hardware-peripheral>
-        <i18n.hardware-emulator>Емулатор</i18n.hardware-emulator>
-        <i18n.hardware-os>Ос</i18n.hardware-os>
-        <i18n.hardware-port>Порта</i18n.hardware-port>
-    </variables>
-    <variables lang="sv">
-        <systemDescription>Visa och spela ${system.fullName}.</systemDescription>
-        <i18n.aspect-ratio>Bildförhållande</i18n.aspect-ratio>
-        <i18n.automatic>Automatisk</i18n.automatic>
-        <i18n.color-scheme>Färgschema</i18n.color-scheme>
-        <i18n.light>Ljus</i18n.light>
-        <i18n.dark>Mörk</i18n.dark>
-        <i18n.game-media-type>Mediatyp</i18n.game-media-type>
-        <i18n.image>Bild</i18n.image>
-        <i18n.boxart>Förpackning</i18n.boxart>
-        <i18n.marquee>Logotyp</i18n.marquee>
-        <i18n.mix>Blandad</i18n.mix>
-        <i18n.play-video-previews>Spela videoförhandsvisningar</i18n.play-video-previews>
-        <i18n.yes>Ja</i18n.yes>
-        <i18n.no>Nej</i18n.no>
-        <i18n.show-game-titles-in-grid>Visa speltitlar i rutnät</i18n.show-game-titles-in-grid>
-        <i18n.metadata-source>Metadatakälla</i18n.metadata-source>
-        <i18n.theme>Tema</i18n.theme>
-        <i18n.use-svg-logos>Använd vektorgrafik för logotyper</i18n.use-svg-logos>
-        <i18n.smooth-resize>Mjuk storleksändring</i18n.smooth-resize>
-        <i18n.distribution>Distribution</i18n.distribution>
-        <i18n.none>Ingen</i18n.none>
-        <i18n.various>Olika</i18n.various>
-        <i18n.auto-collection>Automatisk Samling</i18n.auto-collection>
-        <i18n.custom-collection>Anpassad Samling</i18n.custom-collection>
-        <i18n.misc-system>Övrigt system</i18n.misc-system>
-        <i18n.hardware-computer>Dator</i18n.hardware-computer>
-        <i18n.hardware-engine>Motor</i18n.hardware-engine>
-        <i18n.hardware-arcade>Arkad</i18n.hardware-arcade>
-        <i18n.hardware-portable>Bärbar</i18n.hardware-portable>
-        <i18n.hardware-folder>Mapp</i18n.hardware-folder>
-        <i18n.hardware-console>Konsol</i18n.hardware-console>
-        <i18n.hardware-peripheral>Tillbehör</i18n.hardware-peripheral>
-        <i18n.hardware-emulator>Emulator</i18n.hardware-emulator>
-        <i18n.hardware-os>Mapp</i18n.hardware-os>
-        <i18n.hardware-port>Port</i18n.hardware-port>
-    </variables>
-    <variables lang="zh">
-        <systemDescription>查看并游玩 ${system.fullName}。</systemDescription>
-        <i18n.aspect-ratio>宽高比</i18n.aspect-ratio>
-        <i18n.automatic>自动</i18n.automatic>
-        <i18n.color-scheme>配色方案</i18n.color-scheme>
-        <i18n.light>浅色</i18n.light>
-        <i18n.dark>深色</i18n.dark>
-        <i18n.game-media-type>媒体类型</i18n.game-media-type>
-        <i18n.image>图片</i18n.image>
-        <i18n.boxart>封面</i18n.boxart>
-        <i18n.marquee>标志</i18n.marquee>
-        <i18n.mix>混合</i18n.mix>
-        <i18n.play-video-previews>播放视频预览</i18n.play-video-previews>
-        <i18n.yes>是</i18n.yes>
-        <i18n.no>否</i18n.no>
-        <i18n.show-game-titles-in-grid>在网格中显示游戏标题</i18n.show-game-titles-in-grid>
-        <i18n.metadata-source>元数据来源</i18n.metadata-source>
-        <i18n.theme>主题</i18n.theme>
-        <i18n.use-svg-logos>为徽标使用矢量图形</i18n.use-svg-logos>
-        <i18n.smooth-resize>平滑缩放</i18n.smooth-resize>
-        <i18n.distribution>发行版</i18n.distribution>
-        <i18n.none>无</i18n.none>
-        <i18n.various>各种</i18n.various>
-        <i18n.auto-collection>自动合集</i18n.auto-collection>
-        <i18n.custom-collection>自定义合集</i18n.custom-collection>
-        <i18n.misc-system>其他系统</i18n.misc-system>
-        <i18n.hardware-computer>计算机</i18n.hardware-computer>
-        <i18n.hardware-engine>发动机</i18n.hardware-engine>
-        <i18n.hardware-arcade>商场</i18n.hardware-arcade>
-        <i18n.hardware-portable>便携式</i18n.hardware-portable>
-        <i18n.hardware-folder>文件夹</i18n.hardware-folder>
-        <i18n.hardware-console>控制台</i18n.hardware-console>
-        <i18n.hardware-peripheral>外围设备</i18n.hardware-peripheral>
-        <i18n.hardware-emulator>仿真器</i18n.hardware-emulator>
-        <i18n.hardware-os>操作系统</i18n.hardware-os>
-        <i18n.hardware-port>端口</i18n.hardware-port>
-    </variables>
+  <formatVersion>7</formatVersion>
+  <!-- The "en" lang is always included first, it acts as the default fallback. -->
+  <variables>
+    <!-- Default description for when the system is unknown. -->
+    <systemDescription>View and play ${system.fullName}.</systemDescription>
+    <!-- Values used in the UI for theme configuration. -->
+    <i18n.aspect-ratio>Aspect Ratio</i18n.aspect-ratio>
+    <i18n.automatic>Automatic</i18n.automatic>
+    <i18n.color-scheme>Color Scheme</i18n.color-scheme>
+    <i18n.light>Light</i18n.light>
+    <i18n.dark>Dark</i18n.dark>
+    <i18n.game-media-type>Game Media Type</i18n.game-media-type>
+    <i18n.image>Image</i18n.image>
+    <i18n.boxart>Boxart</i18n.boxart>
+    <i18n.marquee>Marquee</i18n.marquee>
+    <i18n.mix>Mix</i18n.mix>
+    <i18n.play-video-previews>Play Video Previews of Games</i18n.play-video-previews>
+    <i18n.yes>Yes</i18n.yes>
+    <i18n.no>No</i18n.no>
+    <i18n.show-game-titles-in-grid>Show Game Titles in Grid</i18n.show-game-titles-in-grid>
+    <i18n.metadata-source>Metadata Source</i18n.metadata-source>
+    <i18n.theme>Theme</i18n.theme>
+    <i18n.use-svg-logos>Use Vector Graphics for Logos</i18n.use-svg-logos>
+    <i18n.smooth-resize>Smooth Resize</i18n.smooth-resize>
+    <i18n.distribution>Distribution</i18n.distribution>
+    <i18n.none>None</i18n.none>
+    <!-- Values used in the systems metadata. -->
+    <i18n.various>Various</i18n.various>
+    <i18n.auto-collection>Auto Collection</i18n.auto-collection>
+    <i18n.custom-collection>Custom Collection</i18n.custom-collection>
+    <i18n.misc-system>Misc. System</i18n.misc-system>
+    <i18n.misc-system>Sonstiges System</i18n.misc-system>
+    <i18n.misc-system>Sistem Divers</i18n.misc-system>
+    <i18n.hardware-computer>Computer</i18n.hardware-computer>
+    <i18n.hardware-engine>Engine</i18n.hardware-engine>
+    <i18n.hardware-arcade>Arcade</i18n.hardware-arcade>
+    <i18n.hardware-portable>Portable</i18n.hardware-portable>
+    <i18n.hardware-folder>Folder</i18n.hardware-folder>
+    <i18n.hardware-console>Console</i18n.hardware-console>
+    <i18n.hardware-peripheral>Peripheral</i18n.hardware-peripheral>
+    <i18n.hardware-emulator>Emulator</i18n.hardware-emulator>
+    <i18n.hardware-os>OS</i18n.hardware-os>
+    <i18n.hardware-port>Port</i18n.hardware-port>
+  </variables>
+  <!-- Following variables will overwrite the default ones if the "lang" matches. -->
+  <variables lang="ar">
+    <systemDescription>عرض ولعب ${system.fullName}.</systemDescription>
+    <i18n.aspect-ratio>نسبة العرض إلى الارتفاع</i18n.aspect-ratio>
+    <i18n.automatic>تلقائي</i18n.automatic>
+    <i18n.color-scheme>نظام الألوان</i18n.color-scheme>
+    <i18n.light>فاتح</i18n.light>
+    <i18n.dark>داكن</i18n.dark>
+    <i18n.game-media-type>نوع الوسائط</i18n.game-media-type>
+    <i18n.image>صورة</i18n.image>
+    <i18n.boxart>غلاف</i18n.boxart>
+    <i18n.marquee>شعار</i18n.marquee>
+    <i18n.mix>مختلط</i18n.mix>
+    <i18n.play-video-previews>تشغيل معاينات الفيديو</i18n.play-video-previews>
+    <i18n.yes>نعم</i18n.yes>
+    <i18n.no>لا</i18n.no>
+    <i18n.show-game-titles-in-grid>عرض عناوين الألعاب في الشبكة</i18n.show-game-titles-in-grid>
+    <i18n.metadata-source>مصدر البيانات الوصفية</i18n.metadata-source>
+    <i18n.theme>السمة</i18n.theme>
+    <i18n.use-svg-logos>استخدام الرسومات المتجهة للشعارات</i18n.use-svg-logos>
+    <i18n.smooth-resize>تغيير حجم سلس</i18n.smooth-resize>
+    <i18n.distribution>التوزيع</i18n.distribution>
+    <i18n.none>لا شيء</i18n.none>
+    <i18n.various>متنوع</i18n.various>
+    <i18n.auto-collection>مجموعة تلقائية</i18n.auto-collection>
+    <i18n.custom-collection>مجموعة مخصصة</i18n.custom-collection>
+    <i18n.misc-system>نظام متنوع</i18n.misc-system>
+    <i18n.hardware-computer>الحاسب الآلي</i18n.hardware-computer>
+    <i18n.hardware-engine>المحرك</i18n.hardware-engine>
+    <i18n.hardware-arcade>أركيد</i18n.hardware-arcade>
+    <i18n.hardware-portable>محمول</i18n.hardware-portable>
+    <i18n.hardware-folder>المجلد</i18n.hardware-folder>
+    <i18n.hardware-console>وحدة التحكم</i18n.hardware-console>
+    <i18n.hardware-peripheral>محيطي</i18n.hardware-peripheral>
+    <i18n.hardware-emulator>المحاكي</i18n.hardware-emulator>
+    <i18n.hardware-os>نظام التشغيل</i18n.hardware-os>
+    <i18n.hardware-port>المنفذ</i18n.hardware-port>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>Pogledajte i igrajte ${system.fullName}.</systemDescription>
+    <i18n.aspect-ratio>Omjer slike</i18n.aspect-ratio>
+    <i18n.automatic>Automatski</i18n.automatic>
+    <i18n.color-scheme>Šema boja</i18n.color-scheme>
+    <i18n.light>Svijetla</i18n.light>
+    <i18n.dark>Tamna</i18n.dark>
+    <i18n.game-media-type>Tip medija</i18n.game-media-type>
+    <i18n.image>Slika</i18n.image>
+    <i18n.boxart>Kutija</i18n.boxart>
+    <i18n.marquee>Logotip</i18n.marquee>
+    <i18n.mix>Miješano</i18n.mix>
+    <i18n.play-video-previews>Reproduciraj video preglede</i18n.play-video-previews>
+    <i18n.yes>Da</i18n.yes>
+    <i18n.no>Ne</i18n.no>
+    <i18n.show-game-titles-in-grid>Prikaži naslove igara u mreži</i18n.show-game-titles-in-grid>
+    <i18n.metadata-source>Izvor metapodataka</i18n.metadata-source>
+    <i18n.theme>Tema</i18n.theme>
+    <i18n.use-svg-logos>Koristi vektorsku grafiku za logotipe</i18n.use-svg-logos>
+    <i18n.smooth-resize>Glatko promjena veličine</i18n.smooth-resize>
+    <i18n.distribution>Distribucija</i18n.distribution>
+    <i18n.none>Ništa</i18n.none>
+    <i18n.various>Razno</i18n.various>
+    <i18n.auto-collection>Auto Kolekcija</i18n.auto-collection>
+    <i18n.custom-collection>Prilagođena Kolekcija</i18n.custom-collection>
+    <i18n.misc-system>Razni sistemi</i18n.misc-system>
+    <i18n.hardware-computer>Računar</i18n.hardware-computer>
+    <i18n.hardware-engine>Motor</i18n.hardware-engine>
+    <i18n.hardware-arcade>Arkada</i18n.hardware-arcade>
+    <i18n.hardware-portable>Prenosiv</i18n.hardware-portable>
+    <i18n.hardware-folder>Mapa</i18n.hardware-folder>
+    <i18n.hardware-console>Konzola</i18n.hardware-console>
+    <i18n.hardware-peripheral>Periferni</i18n.hardware-peripheral>
+    <i18n.hardware-emulator>Emulator</i18n.hardware-emulator>
+    <i18n.hardware-os>OS</i18n.hardware-os>
+    <i18n.hardware-port>Poznato</i18n.hardware-port>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>Veure i jugar a ${system.fullName}.</systemDescription>
+    <i18n.aspect-ratio>Relació d'aspecte</i18n.aspect-ratio>
+    <i18n.automatic>Automàtic</i18n.automatic>
+    <i18n.color-scheme>Esquema de color</i18n.color-scheme>
+    <i18n.light>Clar</i18n.light>
+    <i18n.dark>Fosc</i18n.dark>
+    <i18n.game-media-type>Tipus de mitjà</i18n.game-media-type>
+    <i18n.image>Imatge</i18n.image>
+    <i18n.boxart>Caixa</i18n.boxart>
+    <i18n.marquee>Logo</i18n.marquee>
+    <i18n.mix>Mixt</i18n.mix>
+    <i18n.play-video-previews>Reproduir previsualitzacions de vídeo</i18n.play-video-previews>
+    <i18n.yes>Sí</i18n.yes>
+    <i18n.no>No</i18n.no>
+    <i18n.show-game-titles-in-grid>Mostrar títols a la graella</i18n.show-game-titles-in-grid>
+    <i18n.metadata-source>Font de metadades</i18n.metadata-source>
+    <i18n.theme>Tema</i18n.theme>
+    <i18n.use-svg-logos>Utilitza gràfics vectorials per a logotips</i18n.use-svg-logos>
+    <i18n.smooth-resize>Redimensionament suau</i18n.smooth-resize>
+    <i18n.distribution>Distribució</i18n.distribution>
+    <i18n.none>Cap</i18n.none>
+    <i18n.various>Diversos</i18n.various>
+    <i18n.auto-collection>Col·lecció Automàtica</i18n.auto-collection>
+    <i18n.custom-collection>Col·lecció Personalitzada</i18n.custom-collection>
+    <i18n.misc-system>Sistema Divers</i18n.misc-system>
+    <i18n.hardware-computer>Ordinador</i18n.hardware-computer>
+    <i18n.hardware-engine>Motor</i18n.hardware-engine>
+    <i18n.hardware-arcade>Arcade</i18n.hardware-arcade>
+    <i18n.hardware-portable>Portàtil</i18n.hardware-portable>
+    <i18n.hardware-folder>Carpeta</i18n.hardware-folder>
+    <i18n.hardware-console>Consola</i18n.hardware-console>
+    <i18n.hardware-peripheral>Perifèric</i18n.hardware-peripheral>
+    <i18n.hardware-emulator>Emulador</i18n.hardware-emulator>
+    <i18n.hardware-os>OS</i18n.hardware-os>
+    <i18n.hardware-port>Port</i18n.hardware-port>
+  </variables>
+  <variables lang="de">
+    <systemDescription>Ansehen und spielen ${system.fullName}.</systemDescription>
+    <i18n.aspect-ratio>Seitenverhältnis</i18n.aspect-ratio>
+    <i18n.automatic>Automatisch</i18n.automatic>
+    <i18n.color-scheme>Farbschema</i18n.color-scheme>
+    <i18n.light>Hell</i18n.light>
+    <i18n.dark>Dunkel</i18n.dark>
+    <i18n.game-media-type>Medientyp</i18n.game-media-type>
+    <i18n.image>Bild</i18n.image>
+    <i18n.boxart>Verpackung</i18n.boxart>
+    <i18n.marquee>Logo</i18n.marquee>
+    <i18n.mix>Gemischt</i18n.mix>
+    <i18n.play-video-previews>Videovorschauen abspielen</i18n.play-video-previews>
+    <i18n.yes>Ja</i18n.yes>
+    <i18n.no>Nein</i18n.no>
+    <i18n.show-game-titles-in-grid>Spieltitel im Raster anzeigen</i18n.show-game-titles-in-grid>
+    <i18n.metadata-source>Metadatenquelle</i18n.metadata-source>
+    <i18n.theme>Theme</i18n.theme>
+    <i18n.use-svg-logos>Vektorgrafiken für Logos verwenden</i18n.use-svg-logos>
+    <i18n.smooth-resize>Sanfte Größenänderung</i18n.smooth-resize>
+    <i18n.distribution>Distribution</i18n.distribution>
+    <i18n.none>Keine</i18n.none>
+    <i18n.various>Verschiedene</i18n.various>
+    <i18n.auto-collection>Auto-Sammlung</i18n.auto-collection>
+    <i18n.custom-collection>Benutzerdefinierte Sammlung</i18n.custom-collection>
+    <i18n.misc-system>Divers systeem</i18n.misc-system>
+    <i18n.hardware-computer>Computer</i18n.hardware-computer>
+    <i18n.hardware-engine>Motor</i18n.hardware-engine>
+    <i18n.hardware-arcade>Spielhalle</i18n.hardware-arcade>
+    <i18n.hardware-portable>Tragbar</i18n.hardware-portable>
+    <i18n.hardware-folder>Mappe</i18n.hardware-folder>
+    <i18n.hardware-console>Konsole</i18n.hardware-console>
+    <i18n.hardware-peripheral>Peripherie</i18n.hardware-peripheral>
+    <i18n.hardware-emulator>Emulator</i18n.hardware-emulator>
+    <i18n.hardware-os>OS</i18n.hardware-os>
+    <i18n.hardware-port>Hafen</i18n.hardware-port>
+  </variables>
+  <variables lang="es">
+    <systemDescription>Ver y jugar a ${system.fullName}.</systemDescription>
+    <i18n.aspect-ratio>Relación de aspecto</i18n.aspect-ratio>
+    <i18n.automatic>Automático</i18n.automatic>
+    <i18n.color-scheme>Esquema de color</i18n.color-scheme>
+    <i18n.light>Claro</i18n.light>
+    <i18n.dark>Oscuro</i18n.dark>
+    <i18n.game-media-type>Tipo de medio</i18n.game-media-type>
+    <i18n.image>Imagen</i18n.image>
+    <i18n.boxart>Caja</i18n.boxart>
+    <i18n.marquee>Logotipo</i18n.marquee>
+    <i18n.mix>Mixto</i18n.mix>
+    <i18n.play-video-previews>Reproducir videos de previsualización</i18n.play-video-previews>
+    <i18n.yes>Sí</i18n.yes>
+    <i18n.no>No</i18n.no>
+    <i18n.show-game-titles-in-grid>Mostrar nombre del juego en la cuadrícula</i18n.show-game-titles-in-grid>
+    <i18n.metadata-source>Origen de los metadatos</i18n.metadata-source>
+    <i18n.theme>Tema</i18n.theme>
+    <i18n.use-svg-logos>Usar gráficos vectoriales para logotipos</i18n.use-svg-logos>
+    <i18n.smooth-resize>Redimensionado suave</i18n.smooth-resize>
+    <i18n.distribution>Distribución</i18n.distribution>
+    <i18n.none>Ninguna</i18n.none>
+    <i18n.various>Varios</i18n.various>
+    <i18n.auto-collection>Colección Automática</i18n.auto-collection>
+    <i18n.custom-collection>Colección Personalizada</i18n.custom-collection>
+    <i18n.misc-system>Sistema Misceláneo</i18n.misc-system>
+    <i18n.hardware-computer>Ordenador</i18n.hardware-computer>
+    <i18n.hardware-engine>Motor</i18n.hardware-engine>
+    <i18n.hardware-arcade>Arcade</i18n.hardware-arcade>
+    <i18n.hardware-portable>Portátil</i18n.hardware-portable>
+    <i18n.hardware-folder>Carpeta</i18n.hardware-folder>
+    <i18n.hardware-console>Consola</i18n.hardware-console>
+    <i18n.hardware-peripheral>Periférico</i18n.hardware-peripheral>
+    <i18n.hardware-emulator>Emulador</i18n.hardware-emulator>
+    <i18n.hardware-os>Sistema operativo</i18n.hardware-os>
+    <i18n.hardware-port>Puerto</i18n.hardware-port>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>Voir et jouer à ${system.fullName}.</systemDescription>
+    <i18n.aspect-ratio>Rapport d'aspect</i18n.aspect-ratio>
+    <i18n.automatic>Automatique</i18n.automatic>
+    <i18n.color-scheme>Jeu de couleurs</i18n.color-scheme>
+    <i18n.light>Clair</i18n.light>
+    <i18n.dark>Sombre</i18n.dark>
+    <i18n.game-media-type>Type de média</i18n.game-media-type>
+    <i18n.image>Image</i18n.image>
+    <i18n.boxart>Boîte</i18n.boxart>
+    <i18n.marquee>Logo</i18n.marquee>
+    <i18n.mix>Mixte</i18n.mix>
+    <i18n.play-video-previews>Lire les aperçus vidéo</i18n.play-video-previews>
+    <i18n.yes>Oui</i18n.yes>
+    <i18n.no>Non</i18n.no>
+    <i18n.show-game-titles-in-grid>Afficher les titres dans la grille</i18n.show-game-titles-in-grid>
+    <i18n.metadata-source>Source des métadonnées</i18n.metadata-source>
+    <i18n.theme>Thème</i18n.theme>
+    <i18n.use-svg-logos>Utiliser les graphiques vectoriels pour les logos</i18n.use-svg-logos>
+    <i18n.smooth-resize>Redimensionnement fluide</i18n.smooth-resize>
+    <i18n.distribution>Distribution</i18n.distribution>
+    <i18n.none>Aucune</i18n.none>
+    <i18n.various>Divers</i18n.various>
+    <i18n.auto-collection>Collection Automatique</i18n.auto-collection>
+    <i18n.custom-collection>Collection Personnalisée</i18n.custom-collection>
+    <i18n.misc-system>Système Divers</i18n.misc-system>
+    <i18n.hardware-computer>Ordinateur</i18n.hardware-computer>
+    <i18n.hardware-engine>Moteur</i18n.hardware-engine>
+    <i18n.hardware-arcade>Arcade</i18n.hardware-arcade>
+    <i18n.hardware-portable>Portable</i18n.hardware-portable>
+    <i18n.hardware-folder>Dossier</i18n.hardware-folder>
+    <i18n.hardware-console>Console</i18n.hardware-console>
+    <i18n.hardware-peripheral>Périphérique</i18n.hardware-peripheral>
+    <i18n.hardware-emulator>Emulateur</i18n.hardware-emulator>
+    <i18n.hardware-os>OS</i18n.hardware-os>
+    <i18n.hardware-port>Portage</i18n.hardware-port>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>Pogledajte i igrajte ${system.fullName}.</systemDescription>
+    <i18n.aspect-ratio>Omjer slike</i18n.aspect-ratio>
+    <i18n.automatic>Automatski</i18n.automatic>
+    <i18n.color-scheme>Shema boja</i18n.color-scheme>
+    <i18n.light>Svijetla</i18n.light>
+    <i18n.dark>Tamna</i18n.dark>
+    <i18n.game-media-type>Tip medija</i18n.game-media-type>
+    <i18n.image>Slika</i18n.image>
+    <i18n.boxart>Kutija</i18n.boxart>
+    <i18n.marquee>Logotip</i18n.marquee>
+    <i18n.mix>Miješano</i18n.mix>
+    <i18n.play-video-previews>Reproduciraj video preglede</i18n.play-video-previews>
+    <i18n.yes>Da</i18n.yes>
+    <i18n.no>Ne</i18n.no>
+    <i18n.show-game-titles-in-grid>Prikaži naslove igara u mreži</i18n.show-game-titles-in-grid>
+    <i18n.metadata-source>Izvor metapodataka</i18n.metadata-source>
+    <i18n.theme>Tema</i18n.theme>
+    <i18n.use-svg-logos>Koristi vektorsku grafiku za logotipe</i18n.use-svg-logos>
+    <i18n.smooth-resize>Glatko promjena veličine</i18n.smooth-resize>
+    <i18n.distribution>Distribucija</i18n.distribution>
+    <i18n.none>Ništa</i18n.none>
+    <i18n.various>Razno</i18n.various>
+    <i18n.auto-collection>Auto Kolekcija</i18n.auto-collection>
+    <i18n.custom-collection>Prilagođena Kolekcija</i18n.custom-collection>
+    <i18n.misc-system>Razni Sustavi</i18n.misc-system>
+    <i18n.hardware-computer>Računalo</i18n.hardware-computer>
+    <i18n.hardware-engine>Motor</i18n.hardware-engine>
+    <i18n.hardware-arcade>Arkada</i18n.hardware-arcade>
+    <i18n.hardware-portable>Prenosiv</i18n.hardware-portable>
+    <i18n.hardware-folder>Mapa</i18n.hardware-folder>
+    <i18n.hardware-console>Konzola</i18n.hardware-console>
+    <i18n.hardware-peripheral>Periferni</i18n.hardware-peripheral>
+    <i18n.hardware-emulator>Emulator</i18n.hardware-emulator>
+    <i18n.hardware-os>OS</i18n.hardware-os>
+    <i18n.hardware-port>Portja</i18n.hardware-port>
+  </variables>
+  <variables lang="it">
+    <systemDescription>Visualizza e gioca ${system.fullName}.</systemDescription>
+    <i18n.aspect-ratio>Rapporto d'aspetto</i18n.aspect-ratio>
+    <i18n.automatic>Automatico</i18n.automatic>
+    <i18n.color-scheme>Schema colore</i18n.color-scheme>
+    <i18n.light>Chiaro</i18n.light>
+    <i18n.dark>Scuro</i18n.dark>
+    <i18n.game-media-type>Tipo di media</i18n.game-media-type>
+    <i18n.image>Immagine</i18n.image>
+    <i18n.boxart>Copertina</i18n.boxart>
+    <i18n.marquee>Logo</i18n.marquee>
+    <i18n.mix>Misto</i18n.mix>
+    <i18n.play-video-previews>Riproduci anteprime video</i18n.play-video-previews>
+    <i18n.yes>Sì</i18n.yes>
+    <i18n.no>No</i18n.no>
+    <i18n.show-game-titles-in-grid>Mostra titoli nella griglia</i18n.show-game-titles-in-grid>
+    <i18n.metadata-source>Origine metadati</i18n.metadata-source>
+    <i18n.theme>Tema</i18n.theme>
+    <i18n.use-svg-logos>Usa la grafica vettoriale per i loghi</i18n.use-svg-logos>
+    <i18n.smooth-resize>Ridimensionamento fluido</i18n.smooth-resize>
+    <i18n.distribution>Distribuzione</i18n.distribution>
+    <i18n.none>Nessuna</i18n.none>
+    <i18n.various>Vari</i18n.various>
+    <i18n.auto-collection>Raccolta Automatica</i18n.auto-collection>
+    <i18n.custom-collection>Raccolta Personalizzata</i18n.custom-collection>
+    <i18n.misc-system>Sistema Vario</i18n.misc-system>
+    <i18n.hardware-computer>Computer</i18n.hardware-computer>
+    <i18n.hardware-engine>Motore</i18n.hardware-engine>
+    <i18n.hardware-arcade>Arcade</i18n.hardware-arcade>
+    <i18n.hardware-portable>Portatile</i18n.hardware-portable>
+    <i18n.hardware-folder>Cartella</i18n.hardware-folder>
+    <i18n.hardware-console>Console</i18n.hardware-console>
+    <i18n.hardware-peripheral>Periferica</i18n.hardware-peripheral>
+    <i18n.hardware-emulator>Emulatore</i18n.hardware-emulator>
+    <i18n.hardware-os>OS</i18n.hardware-os>
+    <i18n.hardware-port>Porting</i18n.hardware-port>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>Bekijk en speel ${system.fullName}.</systemDescription>
+    <i18n.aspect-ratio>Beeldverhouding</i18n.aspect-ratio>
+    <i18n.automatic>Automatisch</i18n.automatic>
+    <i18n.color-scheme>Kleurenschema</i18n.color-scheme>
+    <i18n.light>Licht</i18n.light>
+    <i18n.dark>Donker</i18n.dark>
+    <i18n.game-media-type>Mediatype</i18n.game-media-type>
+    <i18n.image>Afbeelding</i18n.image>
+    <i18n.boxart>Doos</i18n.boxart>
+    <i18n.marquee>Logo</i18n.marquee>
+    <i18n.mix>Gemengd</i18n.mix>
+    <i18n.play-video-previews>Videovoorbeelden afspelen</i18n.play-video-previews>
+    <i18n.yes>Ja</i18n.yes>
+    <i18n.no>Nee</i18n.no>
+    <i18n.show-game-titles-in-grid>Speltitels in raster weergeven</i18n.show-game-titles-in-grid>
+    <i18n.metadata-source>Metadatabron</i18n.metadata-source>
+    <i18n.theme>Thema</i18n.theme>
+    <i18n.use-svg-logos>Gebruik vectorafbeeldingen voor logo's</i18n.use-svg-logos>
+    <i18n.smooth-resize>Vloeiend schalen</i18n.smooth-resize>
+    <i18n.distribution>Distributie</i18n.distribution>
+    <i18n.none>Geen</i18n.none>
+    <i18n.various>Verschillende</i18n.various>
+    <i18n.auto-collection>Automatische Collectie</i18n.auto-collection>
+    <i18n.custom-collection>Aangepaste Collectie</i18n.custom-collection>
+    <i18n.hardware-computer>Computer</i18n.hardware-computer>
+    <i18n.hardware-engine>Motor</i18n.hardware-engine>
+    <i18n.hardware-arcade>Arcade</i18n.hardware-arcade>
+    <i18n.hardware-portable>Draagbaar</i18n.hardware-portable>
+    <i18n.hardware-folder>Map</i18n.hardware-folder>
+    <i18n.hardware-console>Console</i18n.hardware-console>
+    <i18n.hardware-peripheral>Perifeer</i18n.hardware-peripheral>
+    <i18n.hardware-emulator>Emulator</i18n.hardware-emulator>
+    <i18n.hardware-os>OS</i18n.hardware-os>
+    <i18n.hardware-port>Port</i18n.hardware-port>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>${system.fullName}を表示してプレイする。</systemDescription>
+    <i18n.aspect-ratio>アスペクト比</i18n.aspect-ratio>
+    <i18n.automatic>自動</i18n.automatic>
+    <i18n.color-scheme>カラースキーム</i18n.color-scheme>
+    <i18n.light>ライト</i18n.light>
+    <i18n.dark>ダーク</i18n.dark>
+    <i18n.game-media-type>メディアタイプ</i18n.game-media-type>
+    <i18n.image>画像</i18n.image>
+    <i18n.boxart>ボックスアート</i18n.boxart>
+    <i18n.marquee>ロゴ</i18n.marquee>
+    <i18n.mix>ミックス</i18n.mix>
+    <i18n.play-video-previews>ビデオプレビューを再生</i18n.play-video-previews>
+    <i18n.yes>はい</i18n.yes>
+    <i18n.no>いいえ</i18n.no>
+    <i18n.show-game-titles-in-grid>グリッドにタイトルを表示</i18n.show-game-titles-in-grid>
+    <i18n.metadata-source>メタデータソース</i18n.metadata-source>
+    <i18n.theme>テーマ</i18n.theme>
+    <i18n.use-svg-logos>ロゴにベクターグラフィックスを使用</i18n.use-svg-logos>
+    <i18n.smooth-resize>スムーズリサイズ</i18n.smooth-resize>
+    <i18n.distribution>ディストリビューション</i18n.distribution>
+    <i18n.none>なし</i18n.none>
+    <i18n.various>各種</i18n.various>
+    <i18n.auto-collection>自動コレクション</i18n.auto-collection>
+    <i18n.custom-collection>カスタムコレクション</i18n.custom-collection>
+    <i18n.misc-system>その他のシステム</i18n.misc-system>
+    <i18n.hardware-computer>コンピューター</i18n.hardware-computer>
+    <i18n.hardware-engine>エンジン</i18n.hardware-engine>
+    <i18n.hardware-arcade>アーケード</i18n.hardware-arcade>
+    <i18n.hardware-portable>ポータブル</i18n.hardware-portable>
+    <i18n.hardware-folder>フォルダ</i18n.hardware-folder>
+    <i18n.hardware-console>コンソール</i18n.hardware-console>
+    <i18n.hardware-peripheral>ペリフェラル</i18n.hardware-peripheral>
+    <i18n.hardware-emulator>エミュレータ</i18n.hardware-emulator>
+    <i18n.hardware-os>OS</i18n.hardware-os>
+    <i18n.hardware-port>ポート</i18n.hardware-port>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>${system.fullName}을(를) 보고 플레이하세요.</systemDescription>
+    <i18n.aspect-ratio>화면 비율</i18n.aspect-ratio>
+    <i18n.automatic>자동</i18n.automatic>
+    <i18n.color-scheme>색 구성표</i18n.color-scheme>
+    <i18n.light>밝게</i18n.light>
+    <i18n.dark>어둡게</i18n.dark>
+    <i18n.game-media-type>미디어 유형</i18n.game-media-type>
+    <i18n.image>이미지</i18n.image>
+    <i18n.boxart>박스아트</i18n.boxart>
+    <i18n.marquee>로고</i18n.marquee>
+    <i18n.mix>혼합</i18n.mix>
+    <i18n.play-video-previews>비디오 미리보기 재생</i18n.play-video-previews>
+    <i18n.yes>예</i18n.yes>
+    <i18n.no>아니오</i18n.no>
+    <i18n.show-game-titles-in-grid>그리드에 게임 제목 표시</i18n.show-game-titles-in-grid>
+    <i18n.metadata-source>메타데이터 소스</i18n.metadata-source>
+    <i18n.theme>테마</i18n.theme>
+    <i18n.use-svg-logos>로고에 벡터 그래픽 사용</i18n.use-svg-logos>
+    <i18n.smooth-resize>부드러운 크기 조정</i18n.smooth-resize>
+    <i18n.distribution>배포판</i18n.distribution>
+    <i18n.none>없음</i18n.none>
+    <i18n.various>여러 가지</i18n.various>
+    <i18n.auto-collection>자동 컬렉션</i18n.auto-collection>
+    <i18n.custom-collection>사용자 지정 컬렉션</i18n.custom-collection>
+    <i18n.misc-system>기타 시스템</i18n.misc-system>
+    <i18n.hardware-computer>컴퓨터</i18n.hardware-computer>
+    <i18n.hardware-engine>엔진</i18n.hardware-engine>
+    <i18n.hardware-arcade>아케이드</i18n.hardware-arcade>
+    <i18n.hardware-portable>휴대성</i18n.hardware-portable>
+    <i18n.hardware-folder>폴더</i18n.hardware-folder>
+    <i18n.hardware-console>콘솔</i18n.hardware-console>
+    <i18n.hardware-peripheral>주변기기</i18n.hardware-peripheral>
+    <i18n.hardware-emulator>에뮬레이터</i18n.hardware-emulator>
+    <i18n.hardware-os>OS</i18n.hardware-os>
+    <i18n.hardware-port>포트</i18n.hardware-port>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>Wyświetl i graj ${system.fullName}.</systemDescription>
+    <i18n.aspect-ratio>Proporcje obrazu</i18n.aspect-ratio>
+    <i18n.automatic>Automatyczny</i18n.automatic>
+    <i18n.color-scheme>Schemat kolorów</i18n.color-scheme>
+    <i18n.light>Jasny</i18n.light>
+    <i18n.dark>Ciemny</i18n.dark>
+    <i18n.game-media-type>Typ multimediów</i18n.game-media-type>
+    <i18n.image>Obraz</i18n.image>
+    <i18n.boxart>Okładka</i18n.boxart>
+    <i18n.marquee>Logo</i18n.marquee>
+    <i18n.mix>Mieszany</i18n.mix>
+    <i18n.play-video-previews>Odtwarzaj podglądy wideo</i18n.play-video-previews>
+    <i18n.yes>Tak</i18n.yes>
+    <i18n.no>Nie</i18n.no>
+    <i18n.show-game-titles-in-grid>Pokaż tytuły w siatce</i18n.show-game-titles-in-grid>
+    <i18n.metadata-source>Źródło metadanych</i18n.metadata-source>
+    <i18n.theme>Motyw</i18n.theme>
+    <i18n.use-svg-logos>Użyj grafiki wektorowej dla logotypów</i18n.use-svg-logos>
+    <i18n.smooth-resize>Płynna zmiana rozmiaru</i18n.smooth-resize>
+    <i18n.distribution>Dystrybucja</i18n.distribution>
+    <i18n.none>Brak</i18n.none>
+    <i18n.various>Różne</i18n.various>
+    <i18n.auto-collection>Kolekcja Automatyczna</i18n.auto-collection>
+    <i18n.custom-collection>Kolekcja Niestandardowa</i18n.custom-collection>
+    <i18n.misc-system>Inne systemy</i18n.misc-system>
+    <i18n.hardware-computer>Komputer</i18n.hardware-computer>
+    <i18n.hardware-engine>Silnik</i18n.hardware-engine>
+    <i18n.hardware-arcade>Arcade</i18n.hardware-arcade>
+    <i18n.hardware-portable>Przenośny</i18n.hardware-portable>
+    <i18n.hardware-folder>Folder</i18n.hardware-folder>
+    <i18n.hardware-console>Konsola</i18n.hardware-console>
+    <i18n.hardware-peripheral>Peryferyjne</i18n.hardware-peripheral>
+    <i18n.hardware-emulator>Emulator</i18n.hardware-emulator>
+    <i18n.hardware-os>OS</i18n.hardware-os>
+    <i18n.hardware-port>Port</i18n.hardware-port>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>Visualize e jogue ${system.fullName}.</systemDescription>
+    <i18n.aspect-ratio>Proporção de aspecto</i18n.aspect-ratio>
+    <i18n.automatic>Automático</i18n.automatic>
+    <i18n.color-scheme>Esquema de cores</i18n.color-scheme>
+    <i18n.light>Claro</i18n.light>
+    <i18n.dark>Escuro</i18n.dark>
+    <i18n.game-media-type>Tipo de mídia</i18n.game-media-type>
+    <i18n.image>Imagem</i18n.image>
+    <i18n.boxart>Caixa</i18n.boxart>
+    <i18n.marquee>Logo</i18n.marquee>
+    <i18n.mix>Misto</i18n.mix>
+    <i18n.play-video-previews>Reproduzir prévias de vídeo</i18n.play-video-previews>
+    <i18n.yes>Sim</i18n.yes>
+    <i18n.no>Não</i18n.no>
+    <i18n.show-game-titles-in-grid>Mostrar títulos na grade</i18n.show-game-titles-in-grid>
+    <i18n.metadata-source>Fonte de metadados</i18n.metadata-source>
+    <i18n.theme>Tema</i18n.theme>
+    <i18n.use-svg-logos>Use gráficos vetoriais para logotipos</i18n.use-svg-logos>
+    <i18n.smooth-resize>Redimensionamento suave</i18n.smooth-resize>
+    <i18n.distribution>Distribuição</i18n.distribution>
+    <i18n.none>Nenhuma</i18n.none>
+    <i18n.various>Vários</i18n.various>
+    <i18n.auto-collection>Coleção Automática</i18n.auto-collection>
+    <i18n.custom-collection>Coleção Personalizada</i18n.custom-collection>
+    <i18n.misc-system>Sistema Diverso</i18n.misc-system>
+    <i18n.hardware-computer>Computador</i18n.hardware-computer>
+    <i18n.hardware-engine>Motor</i18n.hardware-engine>
+    <i18n.hardware-arcade>Fliperama</i18n.hardware-arcade>
+    <i18n.hardware-portable>Portátil</i18n.hardware-portable>
+    <i18n.hardware-folder>Pasta</i18n.hardware-folder>
+    <i18n.hardware-console>Console</i18n.hardware-console>
+    <i18n.hardware-peripheral>Periférico</i18n.hardware-peripheral>
+    <i18n.hardware-emulator>Emulador</i18n.hardware-emulator>
+    <i18n.hardware-os>SO</i18n.hardware-os>
+    <i18n.hardware-port>Porto</i18n.hardware-port>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>Vizualizați și jucați ${system.fullName}.</systemDescription>
+    <i18n.aspect-ratio>Raport de aspect</i18n.aspect-ratio>
+    <i18n.automatic>Automat</i18n.automatic>
+    <i18n.color-scheme>Schemă de culori</i18n.color-scheme>
+    <i18n.light>Deschis</i18n.light>
+    <i18n.dark>Întunecat</i18n.dark>
+    <i18n.game-media-type>Tip de media</i18n.game-media-type>
+    <i18n.image>Imagine</i18n.image>
+    <i18n.boxart>Cutie</i18n.boxart>
+    <i18n.marquee>Logo</i18n.marquee>
+    <i18n.mix>Mixt</i18n.mix>
+    <i18n.play-video-previews>Redă previzualizări video</i18n.play-video-previews>
+    <i18n.yes>Da</i18n.yes>
+    <i18n.no>Nu</i18n.no>
+    <i18n.show-game-titles-in-grid>Arată titlurile în grilă</i18n.show-game-titles-in-grid>
+    <i18n.metadata-source>Sursă metadate</i18n.metadata-source>
+    <i18n.theme>Temă</i18n.theme>
+    <i18n.use-svg-logos>Utilizați grafici vectoriale pentru logo-uri</i18n.use-svg-logos>
+    <i18n.smooth-resize>Redimensionare fluidă</i18n.smooth-resize>
+    <i18n.distribution>Distribuție</i18n.distribution>
+    <i18n.none>Niciunul</i18n.none>
+    <i18n.various>Diverse</i18n.various>
+    <i18n.auto-collection>Colecție Automată</i18n.auto-collection>
+    <i18n.custom-collection>Colecție Personalizată</i18n.custom-collection>
+    <i18n.hardware-computer>Computer</i18n.hardware-computer>
+    <i18n.hardware-engine>Motor</i18n.hardware-engine>
+    <i18n.hardware-arcade>Arcade</i18n.hardware-arcade>
+    <i18n.hardware-portable>Portabil</i18n.hardware-portable>
+    <i18n.hardware-folder>Dosar</i18n.hardware-folder>
+    <i18n.hardware-console>Consolă</i18n.hardware-console>
+    <i18n.hardware-peripheral>Periferic</i18n.hardware-peripheral>
+    <i18n.hardware-emulator>Emulator</i18n.hardware-emulator>
+    <i18n.hardware-os>SO</i18n.hardware-os>
+    <i18n.hardware-port>Port</i18n.hardware-port>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>Просмотреть и играть в ${system.fullName}.</systemDescription>
+    <i18n.aspect-ratio>Соотношение сторон</i18n.aspect-ratio>
+    <i18n.automatic>Автоматически</i18n.automatic>
+    <i18n.color-scheme>Цветовая схема</i18n.color-scheme>
+    <i18n.light>Светлая</i18n.light>
+    <i18n.dark>Тёмная</i18n.dark>
+    <i18n.game-media-type>Тип медиа</i18n.game-media-type>
+    <i18n.image>Изображение</i18n.image>
+    <i18n.boxart>Обложка</i18n.boxart>
+    <i18n.marquee>Логотип</i18n.marquee>
+    <i18n.mix>Смешанный</i18n.mix>
+    <i18n.play-video-previews>Воспроизводить видеопревью</i18n.play-video-previews>
+    <i18n.yes>Да</i18n.yes>
+    <i18n.no>Нет</i18n.no>
+    <i18n.show-game-titles-in-grid>Показать названия в сетке</i18n.show-game-titles-in-grid>
+    <i18n.metadata-source>Источник метаданных</i18n.metadata-source>
+    <i18n.theme>Тема</i18n.theme>
+    <i18n.use-svg-logos>Использовать векторную графику для логотипов</i18n.use-svg-logos>
+    <i18n.smooth-resize>Плавное изменение размера</i18n.smooth-resize>
+    <i18n.distribution>Дистрибутив</i18n.distribution>
+    <i18n.none>Нет</i18n.none>
+    <i18n.various>Разные</i18n.various>
+    <i18n.auto-collection>Автоколлекция</i18n.auto-collection>
+    <i18n.custom-collection>Пользовательская Коллекция</i18n.custom-collection>
+    <i18n.misc-system>Разные системы</i18n.misc-system>
+    <i18n.hardware-computer>Компьютер</i18n.hardware-computer>
+    <i18n.hardware-engine>Двигатель</i18n.hardware-engine>
+    <i18n.hardware-arcade>Аркада</i18n.hardware-arcade>
+    <i18n.hardware-portable>Портативный</i18n.hardware-portable>
+    <i18n.hardware-folder>Папка</i18n.hardware-folder>
+    <i18n.hardware-console>Консоль</i18n.hardware-console>
+    <i18n.hardware-peripheral>Периферийное устройство</i18n.hardware-peripheral>
+    <i18n.hardware-emulator>Эмулятор</i18n.hardware-emulator>
+    <i18n.hardware-os>OS</i18n.hardware-os>
+    <i18n.hardware-port>Порт</i18n.hardware-port>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>Погледајте и играјте ${system.fullName}.</systemDescription>
+    <i18n.aspect-ratio>Однос слике</i18n.aspect-ratio>
+    <i18n.automatic>Аутоматски</i18n.automatic>
+    <i18n.color-scheme>Шема боја</i18n.color-scheme>
+    <i18n.light>Светла</i18n.light>
+    <i18n.dark>Тамна</i18n.dark>
+    <i18n.game-media-type>Тип медија</i18n.game-media-type>
+    <i18n.image>Слика</i18n.image>
+    <i18n.boxart>Кутија</i18n.boxart>
+    <i18n.marquee>Логотип</i18n.marquee>
+    <i18n.mix>Мешовито</i18n.mix>
+    <i18n.play-video-previews>Репродукуј видео прегледе</i18n.play-video-previews>
+    <i18n.yes>Да</i18n.yes>
+    <i18n.no>Не</i18n.no>
+    <i18n.show-game-titles-in-grid>Прикажи наслове игара у мрежи</i18n.show-game-titles-in-grid>
+    <i18n.metadata-source>Извор метаподатака</i18n.metadata-source>
+    <i18n.theme>Тема</i18n.theme>
+    <i18n.use-svg-logos>Користи векторску графику за логотипе</i18n.use-svg-logos>
+    <i18n.smooth-resize>Глатка промена величине</i18n.smooth-resize>
+    <i18n.distribution>Дистрибуција</i18n.distribution>
+    <i18n.none>Ништа</i18n.none>
+    <i18n.various>Разно</i18n.various>
+    <i18n.auto-collection>Ауто Колекција</i18n.auto-collection>
+    <i18n.custom-collection>Прилагођена Колекција</i18n.custom-collection>
+    <i18n.misc-system>Остали системи</i18n.misc-system>
+    <i18n.hardware-computer>Рачунар</i18n.hardware-computer>
+    <i18n.hardware-engine>Мотор</i18n.hardware-engine>
+    <i18n.hardware-arcade>Аркада</i18n.hardware-arcade>
+    <i18n.hardware-portable>Преносив</i18n.hardware-portable>
+    <i18n.hardware-folder>Мапа</i18n.hardware-folder>
+    <i18n.hardware-console>Конзола</i18n.hardware-console>
+    <i18n.hardware-peripheral>Периферни</i18n.hardware-peripheral>
+    <i18n.hardware-emulator>Емулатор</i18n.hardware-emulator>
+    <i18n.hardware-os>Ос</i18n.hardware-os>
+    <i18n.hardware-port>Порта</i18n.hardware-port>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>Visa och spela ${system.fullName}.</systemDescription>
+    <i18n.aspect-ratio>Bildförhållande</i18n.aspect-ratio>
+    <i18n.automatic>Automatisk</i18n.automatic>
+    <i18n.color-scheme>Färgschema</i18n.color-scheme>
+    <i18n.light>Ljus</i18n.light>
+    <i18n.dark>Mörk</i18n.dark>
+    <i18n.game-media-type>Mediatyp</i18n.game-media-type>
+    <i18n.image>Bild</i18n.image>
+    <i18n.boxart>Förpackning</i18n.boxart>
+    <i18n.marquee>Logotyp</i18n.marquee>
+    <i18n.mix>Blandad</i18n.mix>
+    <i18n.play-video-previews>Spela videoförhandsvisningar</i18n.play-video-previews>
+    <i18n.yes>Ja</i18n.yes>
+    <i18n.no>Nej</i18n.no>
+    <i18n.show-game-titles-in-grid>Visa speltitlar i rutnät</i18n.show-game-titles-in-grid>
+    <i18n.metadata-source>Metadatakälla</i18n.metadata-source>
+    <i18n.theme>Tema</i18n.theme>
+    <i18n.use-svg-logos>Använd vektorgrafik för logotyper</i18n.use-svg-logos>
+    <i18n.smooth-resize>Mjuk storleksändring</i18n.smooth-resize>
+    <i18n.distribution>Distribution</i18n.distribution>
+    <i18n.none>Ingen</i18n.none>
+    <i18n.various>Olika</i18n.various>
+    <i18n.auto-collection>Automatisk Samling</i18n.auto-collection>
+    <i18n.custom-collection>Anpassad Samling</i18n.custom-collection>
+    <i18n.misc-system>Övrigt system</i18n.misc-system>
+    <i18n.hardware-computer>Dator</i18n.hardware-computer>
+    <i18n.hardware-engine>Motor</i18n.hardware-engine>
+    <i18n.hardware-arcade>Arkad</i18n.hardware-arcade>
+    <i18n.hardware-portable>Bärbar</i18n.hardware-portable>
+    <i18n.hardware-folder>Mapp</i18n.hardware-folder>
+    <i18n.hardware-console>Konsol</i18n.hardware-console>
+    <i18n.hardware-peripheral>Tillbehör</i18n.hardware-peripheral>
+    <i18n.hardware-emulator>Emulator</i18n.hardware-emulator>
+    <i18n.hardware-os>Mapp</i18n.hardware-os>
+    <i18n.hardware-port>Port</i18n.hardware-port>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>查看并游玩 ${system.fullName}。</systemDescription>
+    <i18n.aspect-ratio>宽高比</i18n.aspect-ratio>
+    <i18n.automatic>自动</i18n.automatic>
+    <i18n.color-scheme>配色方案</i18n.color-scheme>
+    <i18n.light>浅色</i18n.light>
+    <i18n.dark>深色</i18n.dark>
+    <i18n.game-media-type>媒体类型</i18n.game-media-type>
+    <i18n.image>图片</i18n.image>
+    <i18n.boxart>封面</i18n.boxart>
+    <i18n.marquee>标志</i18n.marquee>
+    <i18n.mix>混合</i18n.mix>
+    <i18n.play-video-previews>播放视频预览</i18n.play-video-previews>
+    <i18n.yes>是</i18n.yes>
+    <i18n.no>否</i18n.no>
+    <i18n.show-game-titles-in-grid>在网格中显示游戏标题</i18n.show-game-titles-in-grid>
+    <i18n.metadata-source>元数据来源</i18n.metadata-source>
+    <i18n.theme>主题</i18n.theme>
+    <i18n.use-svg-logos>为徽标使用矢量图形</i18n.use-svg-logos>
+    <i18n.smooth-resize>平滑缩放</i18n.smooth-resize>
+    <i18n.distribution>发行版</i18n.distribution>
+    <i18n.none>无</i18n.none>
+    <i18n.various>各种</i18n.various>
+    <i18n.auto-collection>自动合集</i18n.auto-collection>
+    <i18n.custom-collection>自定义合集</i18n.custom-collection>
+    <i18n.misc-system>其他系统</i18n.misc-system>
+    <i18n.hardware-computer>计算机</i18n.hardware-computer>
+    <i18n.hardware-engine>发动机</i18n.hardware-engine>
+    <i18n.hardware-arcade>商场</i18n.hardware-arcade>
+    <i18n.hardware-portable>便携式</i18n.hardware-portable>
+    <i18n.hardware-folder>文件夹</i18n.hardware-folder>
+    <i18n.hardware-console>控制台</i18n.hardware-console>
+    <i18n.hardware-peripheral>外围设备</i18n.hardware-peripheral>
+    <i18n.hardware-emulator>仿真器</i18n.hardware-emulator>
+    <i18n.hardware-os>操作系统</i18n.hardware-os>
+    <i18n.hardware-port>端口</i18n.hardware-port>
+  </variables>
 </theme>

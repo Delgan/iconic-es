@@ -1,37 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <!-- This component defines the left half of the screen in "basic" view.
 
 It only displays the system logo at the center.
 -->
 <theme>
-    <formatVersion>7</formatVersion>
-    <view name="basic">
-        <image name="logo">
-            <origin>0.5 0.5</origin>
-            <linearSmooth>true</linearSmooth>
-            <path>./_inc/logos/${system.theme}.webp</path>
-            <path ifSubset="use-svg-logos:yes">./_inc/logos-svg/${system.theme}.svg</path>
-            <zIndex>11</zIndex>
-            <visible>true</visible>
-            <pos>0.27 0.5</pos>
-            <maxSize>0.35 0.70</maxSize>
-        </image>
-        <text name="logoText">
-            <forceUppercase>true</forceUppercase>
-            <lineSpacing>1</lineSpacing>
-            <alignment>center</alignment>
-            <verticalAlignment>center</verticalAlignment>
-            <origin>0.5 0.5</origin>
-            <pos>0.27 0.5</pos>
-            <fontSize>0.1</fontSize>
-            <glowColor>fafafaff</glowColor>
-            <multiLine>true</multiLine>
-            <glowSize>2</glowSize>
-            <size>0.45 0.5</size>
-            <padding>0.04 0 0.04 0</padding>
-            <glowOffset>0 0</glowOffset>
-            <fontPath>./_inc/fonts/ChangaOne-Italic.ttf</fontPath>
-            <color>111111ff</color>
-        </text>
-    </view>
+  <formatVersion>7</formatVersion>
+  <view name="basic">
+    <image name="logo">
+      <origin>0.5 0.5</origin>
+      <linearSmooth>true</linearSmooth>
+      <path>./_inc/logos/${system.theme}.webp</path>
+      <path ifSubset="use-svg-logos:yes">./_inc/logos-svg/${system.theme}.svg</path>
+      <zIndex>11</zIndex>
+      <visible>true</visible>
+      <pos>0.27 0.5</pos>
+      <maxSize>0.35 0.70</maxSize>
+    </image>
+    <text name="logoText">
+      <forceUppercase>true</forceUppercase>
+      <lineSpacing>1</lineSpacing>
+      <alignment>center</alignment>
+      <verticalAlignment>center</verticalAlignment>
+      <origin>0.5 0.5</origin>
+      <pos>0.27 0.5</pos>
+      <fontSize>0.1</fontSize>
+      <glowColor>fafafaff</glowColor>
+      <multiLine>true</multiLine>
+      <glowSize>2</glowSize>
+      <size>0.45 0.5</size>
+      <padding>0.04 0 0.04 0</padding>
+      <glowOffset>0 0</glowOffset>
+      <fontPath>./_inc/fonts/ChangaOne-Italic.ttf</fontPath>
+      <color>111111ff</color>
+    </text>
+  </view>
 </theme>

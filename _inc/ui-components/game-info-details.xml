@@ -1,240 +1,239 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <!-- This component defines the left half of the screen in "detailed" and "grid" views.
 
 It displays a mixin of the game images, above the game metadata.
 -->
 <theme>
-    <formatVersion>7</formatVersion>
-    <view name="detailed, grid">
-        <image name="game-details-panel" extra="true">
-            <origin>0 0</origin>
-            <path>./_inc/other/${gameDetailsPanelImage}</path>
-            <pos>0 0</pos>
-            <size>1 1</size>
-            <zIndex>11</zIndex>
-            <linearSmooth>true</linearSmooth>
-        </image>
-        <image name="logo">
-            <path>./_inc/logos/${system.theme}.webp</path>
-            <path ifSubset="use-svg-logos:yes">./_inc/logos-svg/${system.theme}.svg</path>
-            <origin>0.5 0.5</origin>
-            <linearSmooth>true</linearSmooth>
-            <pos>0.25 0.895</pos>
-            <origin>0.5 0.5</origin>
-            <maxSize>${systemLogoGameDetailsWidthScale} 0.135</maxSize>
-            <saturation>0.75</saturation>
-            <opacity>0.6</opacity>
-            <zIndex>11</zIndex>
-        </image>
-        <text name="logoText">
-            <forceUppercase>true</forceUppercase>
-            <lineSpacing>1</lineSpacing>
-            <alignment>center</alignment>
-            <verticalAlignment>center</verticalAlignment>
-            <origin>0.5 0.5</origin>
-            <pos>0.2495 0.895</pos>
-            <fontSize>0.036</fontSize>
-            <glowColor>fafafaff</glowColor>
-            <multiLine>true</multiLine>
-            <glowSize>2</glowSize>
-            <size>0.3 0.135</size>
-            <padding>0.04 0 0.04 0</padding>
-            <glowOffset>0 0</glowOffset>
-            <fontPath>./_inc/fonts/ChangaOne-Italic.ttf</fontPath>
-            <color>111111ff</color>
-        </text>
-        <image name="md_image">
-            <zIndex>11</zIndex>
-            <visible>false</visible>
-            <visible ifSubset="media-type:image|mix">true</visible>
-            <!-- Standalone mode. -->
-            <origin ifSubset="media-type:image">0.5 0.5</origin>
-            <pos ifSubset="media-type:image">0.25 0.25</pos>
-            <maxSize ifSubset="media-type:image">0.45 0.4</maxSize>
-            <!-- Mix mode. -->
-            <origin ifSubset="media-type:mix">0.5 0.5</origin>
-            <pos ifSubset="media-type:mix">0.25 0.25</pos>
-            <maxSize ifSubset="media-type:mix">0.425 0.35</maxSize>
-        </image>
-        <video name="md_video">
-            <visible>${playVideoPreviewOfGames}</visible>
-            <!-- Standalone mode. -->
-            <zIndex ifSubset="media-type:image">12</zIndex>
-            <origin ifSubset="media-type:image">0.5 0.5</origin>
-            <pos ifSubset="media-type:image">0.25 0.25</pos>
-            <maxSize ifSubset="media-type:image">0.45 0.4</maxSize>
-            <!-- Mix mode. -->
-            <zIndex ifSubset="media-type:mix">12</zIndex>
-            <origin ifSubset="media-type:mix">0.5 0.5</origin>
-            <pos ifSubset="media-type:mix">0.25 0.25</pos>
-            <maxSize ifSubset="media-type:mix">0.425 0.35</maxSize>
-            <!-- Other modes. -->
-            <zIndex ifSubset="media-type:boxart|marquee">14</zIndex>
-            <origin ifSubset="media-type:boxart|marquee">0.5 0.5</origin>
-            <pos ifSubset="media-type:boxart|marquee">0.25 0.25</pos>
-            <maxSize ifSubset="media-type:boxart|marquee">0.45 0.4</maxSize>
-        </video>
-        <image name="md_thumbnail">
-            <zIndex>13</zIndex>
-            <visible>false</visible>
-            <visible ifSubset="media-type:boxart|mix">true</visible>
-            <!-- Standalone mode. -->
-            <origin ifSubset="media-type:boxart">0.5 0.5</origin>
-            <pos ifSubset="media-type:boxart">0.25 0.25</pos>
-            <maxSize ifSubset="media-type:boxart">0.45 0.4</maxSize>
-            <!-- Mix mode. -->
-            <origin ifSubset="media-type:mix">0 1</origin>
-            <pos ifSubset="media-type:mix">0.025 0.45</pos>
-            <maxSize ifSubset="media-type:mix">0.15 0.25</maxSize>
-        </image>
-        <image name="md_marquee">
-            <zIndex>13</zIndex>
-            <visible>false</visible>
-            <visible ifSubset="media-type:marquee|mix">true</visible>
-            <!-- Standalone mode. -->
-            <origin ifSubset="media-type:marquee">0.5 0.5</origin>
-            <pos ifSubset="media-type:marquee">0.25 0.25</pos>
-            <maxSize ifSubset="media-type:marquee">0.45 0.4</maxSize>
-            <!-- Mix mode. -->
-            <origin ifSubset="media-type:mix">1 0</origin>
-            <pos ifSubset="media-type:mix">0.475 0.025</pos>
-            <maxSize ifSubset="media-type:mix">0.175 0.125</maxSize>
-        </image>
-        <text name="md_name">
-            <origin>0 0</origin>
-            <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
-            <color>${gameMetadataColor}</color>
-            <lineSpacing>1</lineSpacing>
-            <value>Unknown</value>
-            <fontSize>0.024</fontSize>
-            <autoScroll>horizontal</autoScroll>
-            <autoScrollSpeed>50</autoScrollSpeed>
-            <autoScrollDelay>1000</autoScrollDelay>
-            <singleLineScroll>true</singleLineScroll>
-            <pos>0.05 0.488</pos>
-            <size>0.42 0.024</size>
-            <fontSize>0.024</fontSize>
-            <lineSpacing>1</lineSpacing>
-            <alignment>left</alignment>
-        </text>
-        <rating name="md_rating">
-            <origin>0.5 0.5</origin>
-            <filledPath>./_inc/icons/icon-star-filled.svg</filledPath>
-            <unfilledPath>./_inc/icons/icon-star-unfilled.svg</unfilledPath>
-            <color>${gameMetadataColor}</color>
-            <pos>0.082 0.552</pos>
-            <size>0 ${gameRatingIconsHeightScale}</size>
-        </rating>
-        <text name="md_genre">
-            <value>Unknown</value>
-            <origin>0 0.5</origin>
-            <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
-            <color>${gameMetadataColor}</color>
-            <lineSpacing>1</lineSpacing>
-            <pos>0.175 0.55</pos>
-            <size>0.295 0.024</size>
-            <fontSize>0.024</fontSize>
-            <alignment>left</alignment>
-            <autoScroll>horizontal</autoScroll>
-            <autoScrollSpeed>50</autoScrollSpeed>
-            <autoScrollDelay>1000</autoScrollDelay>
-            <singleLineScroll>true</singleLineScroll>
-        </text>
-        <datetime name="md_releasedate">
-            <value>Unknown</value>
-            <origin>0 0.5</origin>
-            <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
-            <color>${gameMetadataColor}</color>
-            <lineSpacing>1</lineSpacing>
-            <fontSize>0.024</fontSize>
-            <pos>0.05 0.602</pos>
-            <size>0.08 0.024</size>
-            <format>%Y-%m-%d</format>
-            <alignment>left</alignment>
-        </datetime>
-        <text name="md_developer">
-            <value>Unknown</value>
-            <origin>0 0.5</origin>
-            <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
-            <color>${gameMetadataColor}</color>
-            <lineSpacing>1</lineSpacing>
-            <pos>0.175 0.602</pos>
-            <size>0.165 0.024</size>
-            <fontSize>0.024</fontSize>
-            <alignment>left</alignment>
-            <autoScroll>horizontal</autoScroll>
-            <autoScrollSpeed>50</autoScrollSpeed>
-            <autoScrollDelay>1000</autoScrollDelay>
-            <singleLineScroll>true</singleLineScroll>
-        </text>
-        <datetime name="md_lastplayed">
-            <value>Never</value>
-            <origin>0 0.5</origin>
-            <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
-            <color>${gameMetadataColor}</color>
-            <lineSpacing>1</lineSpacing>
-            <fontSize>0.024</fontSize>
-            <pos>0.38 0.602</pos>
-            <size>0.09 0.024</size>
-            <alignment>left</alignment>
-        </datetime>
-        <text name="md_players">
-            <value>Unknown</value>
-            <origin>0 0.5</origin>
-            <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
-            <color>${gameMetadataColor}</color>
-            <lineSpacing>1</lineSpacing>
-            <pos>0.05 0.654</pos>
-            <size>0.08 0.024</size>
-            <fontSize>0.024</fontSize>
-            <alignment>left</alignment>
-            <autoScroll>horizontal</autoScroll>
-            <autoScrollSpeed>50</autoScrollSpeed>
-            <autoScrollDelay>1000</autoScrollDelay>
-            <singleLineScroll>true</singleLineScroll>
-        </text>
-        <text name="md_publisher">
-            <value>Unknown</value>
-            <origin>0 0.5</origin>
-            <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
-            <color>${gameMetadataColor}</color>
-            <lineSpacing>1</lineSpacing>
-            <pos>0.175 0.654</pos>
-            <size>0.165 0.024</size>
-            <fontSize>0.024</fontSize>
-            <alignment>left</alignment>
-            <autoScroll>horizontal</autoScroll>
-            <autoScrollSpeed>50</autoScrollSpeed>
-            <autoScrollDelay>1000</autoScrollDelay>
-            <singleLineScroll>true</singleLineScroll>
-        </text>
-        <text name="md_gametime">
-            <value>Never</value>
-            <origin>0 0.5</origin>
-            <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
-            <color>${gameMetadataColor}</color>
-            <lineSpacing>1</lineSpacing>
-            <fontSize>0.024</fontSize>
-            <pos>0.38 0.654</pos>
-            <size>0.09 0.024</size>
-            <alignment>left</alignment>
-            <autoScroll>horizontal</autoScroll>
-            <autoScrollSpeed>50</autoScrollSpeed>
-            <autoScrollDelay>1000</autoScrollDelay>
-            <singleLineScroll>true</singleLineScroll>
-        </text>
-        <text name="md_description">
-            <origin>0 0</origin>
-            <fontPath>./_inc/fonts/Gilroy-Regular.ttf</fontPath>
-            <autoScroll>vertical</autoScroll>
-            <autoScrollSpeed>70</autoScrollSpeed>
-            <autoScrollDelay>5000</autoScrollDelay>
-            <color>${gameMetadataColor}</color>
-            <pos>0.033 0.6975</pos>
-            <size>0.435 0.1</size>
-            <!-- Font-size is 26 / 1080. -->
-            <fontSize>0.02407407407</fontSize>
-            <lineSpacing>1</lineSpacing>
-        </text>
-    </view>
+  <formatVersion>7</formatVersion>
+  <view name="detailed, grid">
+    <image name="game-details-panel" extra="true">
+      <origin>0 0</origin>
+      <path>./_inc/other/${gameDetailsPanelImage}</path>
+      <pos>0 0</pos>
+      <size>1 1</size>
+      <zIndex>11</zIndex>
+      <linearSmooth>true</linearSmooth>
+    </image>
+    <image name="logo">
+      <path>./_inc/logos/${system.theme}.webp</path>
+      <path ifSubset="use-svg-logos:yes">./_inc/logos-svg/${system.theme}.svg</path>
+      <origin>0.5 0.5</origin>
+      <linearSmooth>true</linearSmooth>
+      <pos>0.25 0.895</pos>
+      <origin>0.5 0.5</origin>
+      <maxSize>${systemLogoGameDetailsWidthScale} 0.135</maxSize>
+      <saturation>0.75</saturation>
+      <opacity>0.6</opacity>
+      <zIndex>11</zIndex>
+    </image>
+    <text name="logoText">
+      <forceUppercase>true</forceUppercase>
+      <lineSpacing>1</lineSpacing>
+      <alignment>center</alignment>
+      <verticalAlignment>center</verticalAlignment>
+      <origin>0.5 0.5</origin>
+      <pos>0.2495 0.895</pos>
+      <fontSize>0.036</fontSize>
+      <glowColor>fafafaff</glowColor>
+      <multiLine>true</multiLine>
+      <glowSize>2</glowSize>
+      <size>0.3 0.135</size>
+      <padding>0.04 0 0.04 0</padding>
+      <glowOffset>0 0</glowOffset>
+      <fontPath>./_inc/fonts/ChangaOne-Italic.ttf</fontPath>
+      <color>111111ff</color>
+    </text>
+    <image name="md_image">
+      <zIndex>11</zIndex>
+      <visible>false</visible>
+      <visible ifSubset="media-type:image|mix">true</visible>
+      <!-- Standalone mode. -->
+      <origin ifSubset="media-type:image">0.5 0.5</origin>
+      <pos ifSubset="media-type:image">0.25 0.25</pos>
+      <maxSize ifSubset="media-type:image">0.45 0.4</maxSize>
+      <!-- Mix mode. -->
+      <origin ifSubset="media-type:mix">0.5 0.5</origin>
+      <pos ifSubset="media-type:mix">0.25 0.25</pos>
+      <maxSize ifSubset="media-type:mix">0.425 0.35</maxSize>
+    </image>
+    <video name="md_video">
+      <visible>${playVideoPreviewOfGames}</visible>
+      <!-- Standalone mode. -->
+      <zIndex ifSubset="media-type:image">12</zIndex>
+      <origin ifSubset="media-type:image">0.5 0.5</origin>
+      <pos ifSubset="media-type:image">0.25 0.25</pos>
+      <maxSize ifSubset="media-type:image">0.45 0.4</maxSize>
+      <!-- Mix mode. -->
+      <zIndex ifSubset="media-type:mix">12</zIndex>
+      <origin ifSubset="media-type:mix">0.5 0.5</origin>
+      <pos ifSubset="media-type:mix">0.25 0.25</pos>
+      <maxSize ifSubset="media-type:mix">0.425 0.35</maxSize>
+      <!-- Other modes. -->
+      <zIndex ifSubset="media-type:boxart|marquee">14</zIndex>
+      <origin ifSubset="media-type:boxart|marquee">0.5 0.5</origin>
+      <pos ifSubset="media-type:boxart|marquee">0.25 0.25</pos>
+      <maxSize ifSubset="media-type:boxart|marquee">0.45 0.4</maxSize>
+    </video>
+    <image name="md_thumbnail">
+      <zIndex>13</zIndex>
+      <visible>false</visible>
+      <visible ifSubset="media-type:boxart|mix">true</visible>
+      <!-- Standalone mode. -->
+      <origin ifSubset="media-type:boxart">0.5 0.5</origin>
+      <pos ifSubset="media-type:boxart">0.25 0.25</pos>
+      <maxSize ifSubset="media-type:boxart">0.45 0.4</maxSize>
+      <!-- Mix mode. -->
+      <origin ifSubset="media-type:mix">0 1</origin>
+      <pos ifSubset="media-type:mix">0.025 0.45</pos>
+      <maxSize ifSubset="media-type:mix">0.15 0.25</maxSize>
+    </image>
+    <image name="md_marquee">
+      <zIndex>13</zIndex>
+      <visible>false</visible>
+      <visible ifSubset="media-type:marquee|mix">true</visible>
+      <!-- Standalone mode. -->
+      <origin ifSubset="media-type:marquee">0.5 0.5</origin>
+      <pos ifSubset="media-type:marquee">0.25 0.25</pos>
+      <maxSize ifSubset="media-type:marquee">0.45 0.4</maxSize>
+      <!-- Mix mode. -->
+      <origin ifSubset="media-type:mix">1 0</origin>
+      <pos ifSubset="media-type:mix">0.475 0.025</pos>
+      <maxSize ifSubset="media-type:mix">0.175 0.125</maxSize>
+    </image>
+    <text name="md_name">
+      <origin>0 0</origin>
+      <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
+      <color>${gameMetadataColor}</color>
+      <lineSpacing>1</lineSpacing>
+      <value>Unknown</value>
+      <fontSize>0.024</fontSize>
+      <autoScroll>horizontal</autoScroll>
+      <autoScrollSpeed>50</autoScrollSpeed>
+      <autoScrollDelay>1000</autoScrollDelay>
+      <singleLineScroll>true</singleLineScroll>
+      <pos>0.05 0.488</pos>
+      <size>0.42 0.024</size>
+      <fontSize>0.024</fontSize>
+      <lineSpacing>1</lineSpacing>
+      <alignment>left</alignment>
+    </text>
+    <rating name="md_rating">
+      <origin>0.5 0.5</origin>
+      <filledPath>./_inc/icons/icon-star-filled.svg</filledPath>
+      <unfilledPath>./_inc/icons/icon-star-unfilled.svg</unfilledPath>
+      <color>${gameMetadataColor}</color>
+      <pos>0.082 0.552</pos>
+      <size>0 ${gameRatingIconsHeightScale}</size>
+    </rating>
+    <text name="md_genre">
+      <value>Unknown</value>
+      <origin>0 0.5</origin>
+      <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
+      <color>${gameMetadataColor}</color>
+      <lineSpacing>1</lineSpacing>
+      <pos>0.175 0.55</pos>
+      <size>0.295 0.024</size>
+      <fontSize>0.024</fontSize>
+      <alignment>left</alignment>
+      <autoScroll>horizontal</autoScroll>
+      <autoScrollSpeed>50</autoScrollSpeed>
+      <autoScrollDelay>1000</autoScrollDelay>
+      <singleLineScroll>true</singleLineScroll>
+    </text>
+    <datetime name="md_releasedate">
+      <value>Unknown</value>
+      <origin>0 0.5</origin>
+      <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
+      <color>${gameMetadataColor}</color>
+      <lineSpacing>1</lineSpacing>
+      <fontSize>0.024</fontSize>
+      <pos>0.05 0.602</pos>
+      <size>0.08 0.024</size>
+      <format>%Y-%m-%d</format>
+      <alignment>left</alignment>
+    </datetime>
+    <text name="md_developer">
+      <value>Unknown</value>
+      <origin>0 0.5</origin>
+      <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
+      <color>${gameMetadataColor}</color>
+      <lineSpacing>1</lineSpacing>
+      <pos>0.175 0.602</pos>
+      <size>0.165 0.024</size>
+      <fontSize>0.024</fontSize>
+      <alignment>left</alignment>
+      <autoScroll>horizontal</autoScroll>
+      <autoScrollSpeed>50</autoScrollSpeed>
+      <autoScrollDelay>1000</autoScrollDelay>
+      <singleLineScroll>true</singleLineScroll>
+    </text>
+    <datetime name="md_lastplayed">
+      <value>Never</value>
+      <origin>0 0.5</origin>
+      <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
+      <color>${gameMetadataColor}</color>
+      <lineSpacing>1</lineSpacing>
+      <fontSize>0.024</fontSize>
+      <pos>0.38 0.602</pos>
+      <size>0.09 0.024</size>
+      <alignment>left</alignment>
+    </datetime>
+    <text name="md_players">
+      <value>Unknown</value>
+      <origin>0 0.5</origin>
+      <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
+      <color>${gameMetadataColor}</color>
+      <lineSpacing>1</lineSpacing>
+      <pos>0.05 0.654</pos>
+      <size>0.08 0.024</size>
+      <fontSize>0.024</fontSize>
+      <alignment>left</alignment>
+      <autoScroll>horizontal</autoScroll>
+      <autoScrollSpeed>50</autoScrollSpeed>
+      <autoScrollDelay>1000</autoScrollDelay>
+      <singleLineScroll>true</singleLineScroll>
+    </text>
+    <text name="md_publisher">
+      <value>Unknown</value>
+      <origin>0 0.5</origin>
+      <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
+      <color>${gameMetadataColor}</color>
+      <lineSpacing>1</lineSpacing>
+      <pos>0.175 0.654</pos>
+      <size>0.165 0.024</size>
+      <fontSize>0.024</fontSize>
+      <alignment>left</alignment>
+      <autoScroll>horizontal</autoScroll>
+      <autoScrollSpeed>50</autoScrollSpeed>
+      <autoScrollDelay>1000</autoScrollDelay>
+      <singleLineScroll>true</singleLineScroll>
+    </text>
+    <text name="md_gametime">
+      <value>Never</value>
+      <origin>0 0.5</origin>
+      <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
+      <color>${gameMetadataColor}</color>
+      <lineSpacing>1</lineSpacing>
+      <fontSize>0.024</fontSize>
+      <pos>0.38 0.654</pos>
+      <size>0.09 0.024</size>
+      <alignment>left</alignment>
+      <autoScroll>horizontal</autoScroll>
+      <autoScrollSpeed>50</autoScrollSpeed>
+      <autoScrollDelay>1000</autoScrollDelay>
+      <singleLineScroll>true</singleLineScroll>
+    </text>
+    <text name="md_description">
+      <origin>0 0</origin>
+      <fontPath>./_inc/fonts/Gilroy-Regular.ttf</fontPath>
+      <autoScroll>vertical</autoScroll>
+      <autoScrollSpeed>70</autoScrollSpeed>
+      <autoScrollDelay>5000</autoScrollDelay>
+      <color>${gameMetadataColor}</color>
+      <pos>0.033 0.6975</pos>
+      <size>0.435 0.1</size>
+      <!-- Font-size is 26 / 1080. -->
+      <fontSize>0.02407407407</fontSize>
+      <lineSpacing>1</lineSpacing>
+    </text>
+  </view>
 </theme>

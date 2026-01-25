@@ -1,59 +1,58 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <!-- This component defines the background and bottom bar shared across all views.
 
 This backround is an 1920x1080 image specific to the system being viewed. When entering the view
 listing the games of a system, the background is slightly desaturated.
 -->
 <theme>
-    <formatVersion>7</formatVersion>
-    <view name="system, basic, detailed, grid">
-        <image name="background-art" extra="true">
-            <zIndex>0</zIndex>
-            <default>./_inc/backgrounds/_default.webp</default>
-            <path>./_inc/backgrounds/${system.theme}.webp</path>
-            <path ifSubset="distribution:batocera|retrobat|rocknix">${themeCustomizationsPath}/backgrounds/${system.theme}.png</path>
-            <path ifSubset="distribution:batocera|retrobat|rocknix">${themeCustomizationsPath}/backgrounds/${system.theme}.webp</path>
-            <origin>0 0</origin>
-            <size>${backgroundWidthScale} 1</size>
-            <pos>${backgroundHorizontalPos} 0</pos>
-            <linearSmooth>true</linearSmooth>
-        </image>
-        <image name="bottom-bar" extra="true">
-            <origin>0 0</origin>
-            <pos>0 0</pos>
-            <size>1 1</size>
-            <path>./_inc/other/${bottomBarImage}</path>
-            <!-- Z-index is 2 here because we want the bar to be rendered above the system info panel. -->
-            <zIndex>2</zIndex>
-            <linearSmooth>true</linearSmooth>
-        </image>
-    </view>
-    <!-- Override for system view only: we add the system overlay to make the image pop. -->
-    <view name="system">
-        <image name="background-art-overlay" extra="true">
-            <zIndex>100</zIndex>
-            <origin>0 0</origin>
-            <size>${backgroundWidthScale} 1</size>
-            <pos>${backgroundHorizontalPos} 0</pos>
-            <linearSmooth>true</linearSmooth>
-            <path>./_inc/overlays/${system.theme}.webp</path>
-        </image>
-        <image ifSubset="distribution:batocera|retrobat|rocknix" name="background-art-overlay" extra="true">
-            <path if="exists(${themeCustomizationsPath} + '/backgrounds/' + ${system.theme} + '.png')">./_inc/other/fully-transparent-overlay.webp</path>
-            <path if="exists(${themeCustomizationsPath} + '/backgrounds/' + ${system.theme} + '.webp')">./_inc/other/fully-transparent-overlay.webp</path>
-            <path>${themeCustomizationsPath}/overlays/${system.theme}.png</path>
-            <path>${themeCustomizationsPath}/overlays/${system.theme}.webp</path>
-        </image>
-    </view>
-    <!-- Override for gamelist views: we add saturation and overlay on the background. -->
-    <view name="basic, detailed, grid">
-        <image name="background-art" extra="true">
-            <saturation>0.6</saturation>
-        </image>
-        <image name="background-art-overlay" extra="true">
-            <path>./_inc/other/${backgroudOverlayImage}</path>
-            <size>1 1</size>
-            <zIndex>0</zIndex>
-        </image>
-    </view>
+  <formatVersion>7</formatVersion>
+  <view name="system, basic, detailed, grid">
+    <image name="background-art" extra="true">
+      <zIndex>0</zIndex>
+      <default>./_inc/backgrounds/_default.webp</default>
+      <path>./_inc/backgrounds/${system.theme}.webp</path>
+      <path ifSubset="distribution:batocera|retrobat|rocknix">${themeCustomizationsPath}/backgrounds/${system.theme}.png</path>
+      <path ifSubset="distribution:batocera|retrobat|rocknix">${themeCustomizationsPath}/backgrounds/${system.theme}.webp</path>
+      <origin>0 0</origin>
+      <size>${backgroundWidthScale} 1</size>
+      <pos>${backgroundHorizontalPos} 0</pos>
+      <linearSmooth>true</linearSmooth>
+    </image>
+    <image name="bottom-bar" extra="true">
+      <origin>0 0</origin>
+      <pos>0 0</pos>
+      <size>1 1</size>
+      <path>./_inc/other/${bottomBarImage}</path>
+      <!-- Z-index is 2 here because we want the bar to be rendered above the system info panel. -->
+      <zIndex>2</zIndex>
+      <linearSmooth>true</linearSmooth>
+    </image>
+  </view>
+  <!-- Override for system view only: we add the system overlay to make the image pop. -->
+  <view name="system">
+    <image name="background-art-overlay" extra="true">
+      <zIndex>100</zIndex>
+      <origin>0 0</origin>
+      <size>${backgroundWidthScale} 1</size>
+      <pos>${backgroundHorizontalPos} 0</pos>
+      <linearSmooth>true</linearSmooth>
+      <path>./_inc/overlays/${system.theme}.webp</path>
+    </image>
+    <image ifSubset="distribution:batocera|retrobat|rocknix" name="background-art-overlay" extra="true">
+      <path if="exists(${themeCustomizationsPath} + '/backgrounds/' + ${system.theme} + '.png')">./_inc/other/fully-transparent-overlay.webp</path>
+      <path if="exists(${themeCustomizationsPath} + '/backgrounds/' + ${system.theme} + '.webp')">./_inc/other/fully-transparent-overlay.webp</path>
+      <path>${themeCustomizationsPath}/overlays/${system.theme}.png</path>
+      <path>${themeCustomizationsPath}/overlays/${system.theme}.webp</path>
+    </image>
+  </view>
+  <!-- Override for gamelist views: we add saturation and overlay on the background. -->
+  <view name="basic, detailed, grid">
+    <image name="background-art" extra="true">
+      <saturation>0.6</saturation>
+    </image>
+    <image name="background-art-overlay" extra="true">
+      <path>./_inc/other/${backgroudOverlayImage}</path>
+      <size>1 1</size>
+      <zIndex>0</zIndex>
+    </image>
+  </view>
 </theme>

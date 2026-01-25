@@ -1,50 +1,49 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <!-- This component defines the right half of the screen in "grid" view.
 
 It displays a grid of the boxart images of the games of the system being viewed.
 -->
 <theme>
-    <formatVersion>7</formatVersion>
-    <view name="grid">
-        <imagegrid name="gamegrid">
-            <cellProportion>1</cellProportion>
-            <margin>0.015</margin>
-            <pos>0.5 0.05</pos>
-            <size>0.5 0.85</size>
-            <padding>7 7 7 7</padding>
-            <imageSource>thumbnail </imageSource>
-            <scrollbarColor>${gamelistSecondaryColor}</scrollbarColor>
-            <scrollbarCorner>0.49</scrollbarCorner>
-            <scrollbarSize>0.005</scrollbarSize>
-            <scrollbarAlignment>right</scrollbarAlignment>
-            <autoLayoutSelectedZoom>1.05</autoLayoutSelectedZoom>
-            <zIndex>11</zIndex>
-            <autoLayout >3 3</autoLayout>
-            <animateSelection>false</animateSelection>
-            <centerSelection>false</centerSelection>
-        </imagegrid>
-        <gridtile name="default">
-            <backgroundEdgeColor>101010</backgroundEdgeColor>
-            <backgroundCenterColor>00000000</backgroundCenterColor>
-            <backgroundCornerSize>0 0</backgroundCornerSize>
-            <selectionMode>image</selectionMode>
-            <imageSizeMode>maxSize</imageSizeMode>
-            <padding>3 3</padding>
-            <imageColor>FFFFFF50</imageColor>
-        </gridtile>
-        <gridtile name="selected">
-            <backgroundCenterColor>00000000</backgroundCenterColor>
-            <backgroundEdgeColor>F0F0F0</backgroundEdgeColor>
-            <imageColor>FFFFFFFF</imageColor>
-        </gridtile>
-        <text name="gridtile">
-            <visible>${showGameTitlesInGrid}</visible>
-            <color>${gamelistGridTitleColor}</color>
-            <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
-            <fontSize>0.024</fontSize>
-            <singleLineScroll>false</singleLineScroll>
-            <alignment>center</alignment>
-            <verticalAlignment>top</verticalAlignment>
-        </text>
-    </view>
+  <formatVersion>7</formatVersion>
+  <view name="grid">
+    <imagegrid name="gamegrid">
+      <cellProportion>1</cellProportion>
+      <margin>0.015</margin>
+      <pos>0.5 0.05</pos>
+      <size>0.5 0.85</size>
+      <padding>7 7 7 7</padding>
+      <imageSource>thumbnail </imageSource>
+      <scrollbarColor>${gamelistSecondaryColor}</scrollbarColor>
+      <scrollbarCorner>0.49</scrollbarCorner>
+      <scrollbarSize>0.005</scrollbarSize>
+      <scrollbarAlignment>right</scrollbarAlignment>
+      <autoLayoutSelectedZoom>1.05</autoLayoutSelectedZoom>
+      <zIndex>11</zIndex>
+      <autoLayout>3 3</autoLayout>
+      <animateSelection>false</animateSelection>
+      <centerSelection>false</centerSelection>
+    </imagegrid>
+    <gridtile name="default">
+      <backgroundEdgeColor>101010</backgroundEdgeColor>
+      <backgroundCenterColor>00000000</backgroundCenterColor>
+      <backgroundCornerSize>0 0</backgroundCornerSize>
+      <selectionMode>image</selectionMode>
+      <imageSizeMode>maxSize</imageSizeMode>
+      <padding>3 3</padding>
+      <imageColor>FFFFFF50</imageColor>
+    </gridtile>
+    <gridtile name="selected">
+      <backgroundCenterColor>00000000</backgroundCenterColor>
+      <backgroundEdgeColor>F0F0F0</backgroundEdgeColor>
+      <imageColor>FFFFFFFF</imageColor>
+    </gridtile>
+    <text name="gridtile">
+      <visible>${showGameTitlesInGrid}</visible>
+      <color>${gamelistGridTitleColor}</color>
+      <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
+      <fontSize>0.024</fontSize>
+      <singleLineScroll>false</singleLineScroll>
+      <alignment>center</alignment>
+      <verticalAlignment>top</verticalAlignment>
+    </text>
+  </view>
 </theme>

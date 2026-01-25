@@ -1,156 +1,155 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <!-- This component defines the style of the main carousel to select the system.
 
 The carousel is a horizontal list of system logos, with details of the selected system displayed
 vertically on the left side of the screen.
 -->
 <theme>
-    <formatVersion>7</formatVersion>
-    <view name="system">
-        <image name="logo">
-            <path>./_inc/logos/${system.theme}.webp</path>
-            <path ifSubset="use-svg-logos:yes">./_inc/logos-svg/${system.theme}.svg</path>
-        </image>
-        <carousel name="systemcarousel">
-            <type>horizontal</type>
-            <origin>0.5 0</origin>
-            <pos>0.5 0</pos>
-            <size>1 1</size>
-            <logoPos>${systemLogoHorizontalPos} 0.85</logoPos>
-            <logoSize>${systemLogoWidthScale} 0.09</logoSize>
-            <logoScale>1.5</logoScale>
-            <color>00000000</color>
-            <colorEnd>00000000</colorEnd>
-            <gradientType>vertical</gradientType>
-            <minLogoOpacity>0.5</minLogoOpacity>
-            <maxLogoCount>${maxLogoCount}</maxLogoCount>
-            <systemInfoDelay>0</systemInfoDelay>
-            <defaultTransition>instant</defaultTransition>
-            <itemTemplate>
-                <container>
-                    <image name="logo-image">
-                        <pos>0.5 0.5</pos>
-                        <origin>0.5 0.5</origin>
-                        <maxSize>1 1</maxSize>
-                        <linearSmooth>${smoothResize}</linearSmooth>
-                        <path>{system:logo}</path>
-                    </image>
-                    <text name="logo-text-fallback">
-                        <visible ifSubset="use-svg-logos:no">!exists("${themePath}/_inc/logos/" + {system:theme} + ".webp")</visible>
-                        <visible ifSubset="use-svg-logos:yes">firstfile("${themePath}/_inc/logos/" + {system:theme} + ".webp", "${themePath}/_inc/logos-svg/" + {system:theme} + ".svg") == ""</visible>
-                        <value>{system:fullName}</value>
-                        <forceUppercase>true</forceUppercase>
-                        <lineSpacing>1</lineSpacing>
-                        <alignment>center</alignment>
-                        <verticalAlignment>center</verticalAlignment>
-                        <origin>0.5 0.5</origin>
-                        <pos>0.5 0.5</pos>
-                        <fontSize>0.036</fontSize>
-                        <glowColor>fafafaff</glowColor>
-                        <multiLine>true</multiLine>
-                        <glowSize>2</glowSize>
-                        <size>1 1</size>
-                        <padding>0.04 0 0.04 0</padding>
-                        <glowOffset>0 0</glowOffset>
-                        <fontPath>./_inc/fonts/ChangaOne-Italic.ttf</fontPath>
-                        <color>111111ff</color>
-                    </text>
-                </container>
-            </itemTemplate>
-        </carousel>
-        <image name="system-info-panel" extra="true">
-            <origin>0 0</origin>
-            <pos>${systemInfoPanelHorizontalPos} 0</pos>
-            <size>${systemInfoPanelWidthScale} 1</size>
-            <path>./_inc/other/${systemInfoPanelImage}</path>
-            <zIndex>1</zIndex>
-            <linearSmooth>true</linearSmooth>
-        </image>
-        <image name="system-controller" extra="true">
+  <formatVersion>7</formatVersion>
+  <view name="system">
+    <image name="logo">
+      <path>./_inc/logos/${system.theme}.webp</path>
+      <path ifSubset="use-svg-logos:yes">./_inc/logos-svg/${system.theme}.svg</path>
+    </image>
+    <carousel name="systemcarousel">
+      <type>horizontal</type>
+      <origin>0.5 0</origin>
+      <pos>0.5 0</pos>
+      <size>1 1</size>
+      <logoPos>${systemLogoHorizontalPos} 0.85</logoPos>
+      <logoSize>${systemLogoWidthScale} 0.09</logoSize>
+      <logoScale>1.5</logoScale>
+      <color>00000000</color>
+      <colorEnd>00000000</colorEnd>
+      <gradientType>vertical</gradientType>
+      <minLogoOpacity>0.5</minLogoOpacity>
+      <maxLogoCount>${maxLogoCount}</maxLogoCount>
+      <systemInfoDelay>0</systemInfoDelay>
+      <defaultTransition>instant</defaultTransition>
+      <itemTemplate>
+        <container>
+          <image name="logo-image">
+            <pos>0.5 0.5</pos>
             <origin>0.5 0.5</origin>
-            <pos>0.25 .21</pos>
-            <maxSize>${systemControllerWidthScale} 0.351</maxSize>
-            <default>./_inc/controllers/_default.webp</default>
-            <path>./_inc/controllers/${system.theme}.webp</path>
-            <zIndex>15</zIndex>
+            <maxSize>1 1</maxSize>
             <linearSmooth>${smoothResize}</linearSmooth>
-        </image>
-        <text name="system-name" extra="true">
-            <text>${systemName}</text>
-            <origin>0.5 0.5</origin>
-            <pos>0.25 0.454</pos>
-            <size>${systemHeadersWidthScale} 0.05</size>
-            <autoScrollSpeed>25</autoScrollSpeed>
-            <autoScrollDelay>0</autoScrollDelay>
-            <singleLineScroll>true</singleLineScroll>
-            <fontSize>0.036777777777778</fontSize>
-            <alignment>center</alignment>
+            <path>{system:logo}</path>
+          </image>
+          <text name="logo-text-fallback">
+            <visible ifSubset="use-svg-logos:no">!exists("${themePath}/_inc/logos/" + {system:theme} + ".webp")</visible>
+            <visible ifSubset="use-svg-logos:yes">firstfile("${themePath}/_inc/logos/" + {system:theme} + ".webp", "${themePath}/_inc/logos-svg/" + {system:theme} + ".svg") == ""</visible>
+            <value>{system:fullName}</value>
             <forceUppercase>true</forceUppercase>
-            <color>54585a</color>
-            <zIndex>15</zIndex>
-            <color>${systemInfoColor}</color>
-            <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
-        </text>
-        <text name="system-manufacturer" extra="true">
-            <origin>0.5 0.5</origin>
-            <pos>0.25 0.486</pos>
-            <fontSize>0.019</fontSize>
-            <size>${systemHeadersWidthScale} 0.05</size>
-            <autoScrollSpeed>25</autoScrollSpeed>
-            <autoScrollDelay>0</autoScrollDelay>
-            <singleLineScroll>true</singleLineScroll>
-            <text>${systemManufacturer}</text>
-            <alignment>center</alignment>
-            <forceUppercase>true</forceUppercase>
-            <color>${systemManufacturerColor}</color>
-            <zIndex>15</zIndex>
-            <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
-        </text>
-        <text name="system-year-type" extra="true">
-            <origin>0.5 0.5</origin>
-            <pos>0.25 0.523</pos>
-            <fontSize>0.024</fontSize>
-            <size>${systemHeadersWidthScale} 0.05</size>
-            <autoScrollSpeed>25</autoScrollSpeed>
-            <autoScrollDelay>0</autoScrollDelay>
-            <singleLineScroll>true</singleLineScroll>
-            <text if="max(${systemReleaseYear}, 0) != 0">${systemReleaseYear} · ${systemHardwareType}</text>
-            <text if="max(${systemReleaseYear}, 0) == 0">${systemHardwareType}</text>
-            <alignment>center</alignment>
-            <forceUppercase>true</forceUppercase>
-            <color>${systemInfoColor}</color>
-            <zIndex>15</zIndex>
-            <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
-        </text>
-        <text name="systemInfo">
-            <origin>0.5 0.5</origin>
-            <pos>0.25 0.585</pos>
-            <size>${systemHeadersWidthScale} 0.05</size>
-            <autoScrollSpeed>25</autoScrollSpeed>
-            <autoScrollDelay>0</autoScrollDelay>
-            <singleLineScroll>true</singleLineScroll>
-            <fontSize>0.024</fontSize>
-            <color>${systemInfoSecondaryColor}</color>
-            <alignment>center</alignment>
             <lineSpacing>1</lineSpacing>
-            <forceUppercase>true</forceUppercase>
-            <zIndex>15</zIndex>
-            <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
-        </text>
-        <text name="system-description" extra="true">
-            <origin>0.5 0</origin>
-            <pos>0.25 0.605</pos>
-            <size>${systemDescriptionWidthScale} 0.21</size>
-            <fontSize>0.024</fontSize>
-            <fontPath>./_inc/fonts/Oxygen-Regular.ttf</fontPath>
-            <text>${systemDescription}</text>
-            <verticalAlignment>top</verticalAlignment>
             <alignment>center</alignment>
-            <autoScroll>vertical</autoScroll>
-            <autoScrollSpeed>50</autoScrollSpeed>
-            <autoScrollDelay>5000</autoScrollDelay>
-            <color>${systemInfoColor}</color>
-            <zIndex>15</zIndex>
-        </text>
-    </view>
+            <verticalAlignment>center</verticalAlignment>
+            <origin>0.5 0.5</origin>
+            <pos>0.5 0.5</pos>
+            <fontSize>0.036</fontSize>
+            <glowColor>fafafaff</glowColor>
+            <multiLine>true</multiLine>
+            <glowSize>2</glowSize>
+            <size>1 1</size>
+            <padding>0.04 0 0.04 0</padding>
+            <glowOffset>0 0</glowOffset>
+            <fontPath>./_inc/fonts/ChangaOne-Italic.ttf</fontPath>
+            <color>111111ff</color>
+          </text>
+        </container>
+      </itemTemplate>
+    </carousel>
+    <image name="system-info-panel" extra="true">
+      <origin>0 0</origin>
+      <pos>${systemInfoPanelHorizontalPos} 0</pos>
+      <size>${systemInfoPanelWidthScale} 1</size>
+      <path>./_inc/other/${systemInfoPanelImage}</path>
+      <zIndex>1</zIndex>
+      <linearSmooth>true</linearSmooth>
+    </image>
+    <image name="system-controller" extra="true">
+      <origin>0.5 0.5</origin>
+      <pos>0.25 .21</pos>
+      <maxSize>${systemControllerWidthScale} 0.351</maxSize>
+      <default>./_inc/controllers/_default.webp</default>
+      <path>./_inc/controllers/${system.theme}.webp</path>
+      <zIndex>15</zIndex>
+      <linearSmooth>${smoothResize}</linearSmooth>
+    </image>
+    <text name="system-name" extra="true">
+      <text>${systemName}</text>
+      <origin>0.5 0.5</origin>
+      <pos>0.25 0.454</pos>
+      <size>${systemHeadersWidthScale} 0.05</size>
+      <autoScrollSpeed>25</autoScrollSpeed>
+      <autoScrollDelay>0</autoScrollDelay>
+      <singleLineScroll>true</singleLineScroll>
+      <fontSize>0.036777777777778</fontSize>
+      <alignment>center</alignment>
+      <forceUppercase>true</forceUppercase>
+      <color>54585a</color>
+      <zIndex>15</zIndex>
+      <color>${systemInfoColor}</color>
+      <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
+    </text>
+    <text name="system-manufacturer" extra="true">
+      <origin>0.5 0.5</origin>
+      <pos>0.25 0.486</pos>
+      <fontSize>0.019</fontSize>
+      <size>${systemHeadersWidthScale} 0.05</size>
+      <autoScrollSpeed>25</autoScrollSpeed>
+      <autoScrollDelay>0</autoScrollDelay>
+      <singleLineScroll>true</singleLineScroll>
+      <text>${systemManufacturer}</text>
+      <alignment>center</alignment>
+      <forceUppercase>true</forceUppercase>
+      <color>${systemManufacturerColor}</color>
+      <zIndex>15</zIndex>
+      <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
+    </text>
+    <text name="system-year-type" extra="true">
+      <origin>0.5 0.5</origin>
+      <pos>0.25 0.523</pos>
+      <fontSize>0.024</fontSize>
+      <size>${systemHeadersWidthScale} 0.05</size>
+      <autoScrollSpeed>25</autoScrollSpeed>
+      <autoScrollDelay>0</autoScrollDelay>
+      <singleLineScroll>true</singleLineScroll>
+      <text if="max(${systemReleaseYear}, 0) != 0">${systemReleaseYear} · ${systemHardwareType}</text>
+      <text if="max(${systemReleaseYear}, 0) == 0">${systemHardwareType}</text>
+      <alignment>center</alignment>
+      <forceUppercase>true</forceUppercase>
+      <color>${systemInfoColor}</color>
+      <zIndex>15</zIndex>
+      <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
+    </text>
+    <text name="systemInfo">
+      <origin>0.5 0.5</origin>
+      <pos>0.25 0.585</pos>
+      <size>${systemHeadersWidthScale} 0.05</size>
+      <autoScrollSpeed>25</autoScrollSpeed>
+      <autoScrollDelay>0</autoScrollDelay>
+      <singleLineScroll>true</singleLineScroll>
+      <fontSize>0.024</fontSize>
+      <color>${systemInfoSecondaryColor}</color>
+      <alignment>center</alignment>
+      <lineSpacing>1</lineSpacing>
+      <forceUppercase>true</forceUppercase>
+      <zIndex>15</zIndex>
+      <fontPath>./_inc/fonts/Gilroy-Bold.ttf</fontPath>
+    </text>
+    <text name="system-description" extra="true">
+      <origin>0.5 0</origin>
+      <pos>0.25 0.605</pos>
+      <size>${systemDescriptionWidthScale} 0.21</size>
+      <fontSize>0.024</fontSize>
+      <fontPath>./_inc/fonts/Oxygen-Regular.ttf</fontPath>
+      <text>${systemDescription}</text>
+      <verticalAlignment>top</verticalAlignment>
+      <alignment>center</alignment>
+      <autoScroll>vertical</autoScroll>
+      <autoScrollSpeed>50</autoScrollSpeed>
+      <autoScrollDelay>5000</autoScrollDelay>
+      <color>${systemInfoColor}</color>
+      <zIndex>15</zIndex>
+    </text>
+  </view>
 </theme>
