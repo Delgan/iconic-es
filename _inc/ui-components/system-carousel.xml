@@ -24,7 +24,7 @@ vertically on the left side of the screen.
       <minLogoOpacity>0.5</minLogoOpacity>
       <maxLogoCount>${maxLogoCount}</maxLogoCount>
       <systemInfoDelay>0</systemInfoDelay>
-      <defaultTransition>instant</defaultTransition>
+      <defaultTransition>fade &amp; slide</defaultTransition>
       <itemTemplate>
         <container>
           <image name="logo-image">
