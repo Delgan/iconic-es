@@ -258,6 +258,47 @@ def check_metadata_is_complete():
             yield Success(filepath)
 
 
+def check_all_variables_fully_translated():
+    """Check that all theme variables are translated."""
+
+    theme_lang = _base_dir() / "_inc" / "ui-components" / "theme-lang.xml"
+
+    tree = lxml.etree.parse(theme_lang)
+
+    def get_child_tags(tree) -> set[str]:
+        required_tags: set[str] = set()
+        for child in tree.findall("*"):
+            required_tags.add(child.tag)
+        return required_tags
+
+    variables = tree.find("variables")
+    required_tags = get_child_tags(variables)
+
+    for var in tree.findall(".//variables"):
+        lang = var.get("lang")
+
+        if lang is None:
+            continue
+
+        lang = lang.strip().lower()
+
+        lang_tags = get_child_tags(var)
+
+        for tag in required_tags:
+            try:
+                lang_tags.remove(tag)
+            except KeyError:
+                yield Failure(theme_lang, f"Missing <{tag}> in language: {lang}")
+
+        if lang_tags:
+            unexpected = ", ".join(lang_tags)
+            yield Failure(
+                theme_lang, f"Unexpected tags in language {lang}: {unexpected}"
+            )
+
+    yield Success(theme_lang)
+
+
 def check_all_systems_fully_translated():
     """Check that all metadata files have translations for all required languages."""
 
@@ -295,8 +336,6 @@ def check_all_systems_fully_translated():
                 expected_langs.remove(lang)
             except KeyError:
                 yield Failure(filepath, f"Unexpected language: {lang}")
-            else:
-                continue
 
         if expected_langs:
             missing = ", ".join(sorted(expected_langs))
@@ -348,6 +387,7 @@ def verify_theme_quality():
         check_all_images_have_system,
         check_file_extensions,
         check_metadata_is_complete,
+        check_all_variables_fully_translated,
         check_all_systems_fully_translated,
         check_no_missing_collections,
     ]

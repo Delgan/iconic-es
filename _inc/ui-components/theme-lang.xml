@@ -36,8 +36,6 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
     <i18n.auto-collection>Auto Collection</i18n.auto-collection>
     <i18n.custom-collection>Custom Collection</i18n.custom-collection>
     <i18n.misc-system>Misc. System</i18n.misc-system>
-    <i18n.misc-system>Sonstiges System</i18n.misc-system>
-    <i18n.misc-system>Sistem Divers</i18n.misc-system>
     <i18n.hardware-computer>Computer</i18n.hardware-computer>
     <i18n.hardware-engine>Engine</i18n.hardware-engine>
     <i18n.hardware-arcade>Arcade</i18n.hardware-arcade>
@@ -371,6 +369,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
     <i18n.various>Verschillende</i18n.various>
     <i18n.auto-collection>Automatische Collectie</i18n.auto-collection>
     <i18n.custom-collection>Aangepaste Collectie</i18n.custom-collection>
+    <i18n.misc-system>Sonstiges System</i18n.misc-system>
     <i18n.hardware-computer>Computer</i18n.hardware-computer>
     <i18n.hardware-engine>Motor</i18n.hardware-engine>
     <i18n.hardware-arcade>Arcade</i18n.hardware-arcade>
@@ -555,6 +554,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
     <i18n.various>Diverse</i18n.various>
     <i18n.auto-collection>Colecție Automată</i18n.auto-collection>
     <i18n.custom-collection>Colecție Personalizată</i18n.custom-collection>
+    <i18n.misc-system>Sistem Divers</i18n.misc-system>
     <i18n.hardware-computer>Computer</i18n.hardware-computer>
     <i18n.hardware-engine>Motor</i18n.hardware-engine>
     <i18n.hardware-arcade>Arcade</i18n.hardware-arcade>
