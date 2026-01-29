@@ -8,7 +8,58 @@
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
+  <variables lang="ar">
+    <systemDescription>Donkey Kong هي سلسلة من ألعاب الفيديو وامتياز إعلامي من تصميم مصمم اللعبة الياباني شيجيرو ميياموتو لصالح نينتندو. تتابع مغامرات Donkey Kong، وهو غوريلا كبير وقوي، وأعضاء آخرين من عائلة Kong من القردة. تشمل ألعاب Donkey Kong ثلاثية لعبة الأركايد الأصلية من قبل Nintendo R&amp;D1 وسلسلة Donkey Kong Country من Rare و Retro Studios وسلسلة Mario vs. Donkey Kong من Nintendo Software Technology. طورت عدة استوديوهات ألعاب منفصلة في أنواع مثل التعليم الترفيهي والألغاز والسباق والإيقاع.</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>Donkey Kong je serija video igara i medijska franšiza koju je kreirao japanski dizajner igara Shigeru Miyamoto za Nintendo. Prati avanture Donkey Konga, velikog i moćnog gorile, i drugih članova Kong obitelji majmuna. Donkey Kong igre uključuju originalnu trilogiju arkadnih igara od strane Nintendo R&amp;D1, seriju Donkey Kong Country od Rare i Retro Studios, te seriju Mario vs. Donkey Kong od Nintendo Software Technology. Razni studiji razvili su spin-off igre u žanrovima kao što su edutainment, puzzle, trka i ritam.</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>Donkey Kong és una sèrie de videojocs i una franquícia de mitjans creada pel dissenyador de jocs japonès Shigeru Miyamoto per a Nintendo. Segueix les aventures de Donkey Kong, un goril·la gran i poderós, i altres membres de la família Kong dels primats. Els jocs de Donkey Kong inclouen la trilogia original de jocs d'arcade de Nintendo R&amp;D1, la sèrie Donkey Kong Country de Rare i Retro Studios i la sèrie Mario vs. Donkey Kong de Nintendo Software Technology. Diversos estudis han desenvolupat spin-offs en gèneres com entreteniment educatiu, puzles, carreres i ritme.</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemDescription>Donkey Kong ist eine Videospielreihe und Medienfranchise, die vom japanischen Spieledesigner Shigeru Miyamoto für Nintendo entwickelt wurde. Sie folgt den Abenteuern von Donkey Kong, einem großen, starken Gorilla, und anderen Mitgliedern der Kong-Familie von Affen. Donkey Kong-Spiele umfassen die ursprüngliche Arcade-Trilogie von Nintendo R&amp;D1, die Donkey Kong Country-Serie von Rare und Retro Studios sowie die Mario vs. Donkey Kong-Serie von Nintendo Software Technology. Verschiedene Studios haben Spin-offs in Genres wie Edutainment, Puzzle, Racing und Rhythmus entwickelt.</systemDescription>
+  </variables>
   <variables lang="es">
     <systemDescription>Donkey Kong es una serie de videojuegos y una franquicia creada por el diseñador japonés Shigeru Miyamoto para Nintendo. Sigue las aventuras de Donkey Kong, un gorila grande y poderoso, y otros miembros de la familia de simios Kong. Los juegos de la saga incluyen la trilogía original de arcade de Nintendo R&amp;D1 la serie Donkey Kong Country de Rare y Retro Studios y la serie Mario vs. Donkey Kong de Nintendo Software Technology. Varios estudios han desarrollado títulos derivados en géneros como el entretenimiento educativo, los puzles, las carreras y el ritmo.</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>Donkey Kong est une série de jeux vidéo et une franchise médiatique créée par le concepteur de jeux japonais Shigeru Miyamoto pour Nintendo. Elle suit les aventures de Donkey Kong, un grand gorille puissant, et d'autres membres de la famille Kong des singes. Les jeux Donkey Kong incluent la trilogie originale d'arcade de Nintendo R&amp;D1, la série Donkey Kong Country de Rare et Retro Studios, et la série Mario vs. Donkey Kong de Nintendo Software Technology. Divers studios ont développé des spin-offs dans des genres tels que l'édutainment, le puzzle, les jeux de course et le rythme.</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>Donkey Kong je serija video igara i medijska franšiza koju je kreirao japanski dizajner igara Shigeru Miyamoto za Nintendo. Prati avanture Donkey Konga, velikog i moćnog gorile, i drugih članova Kong obitelji majmuna. Donkey Kong igre uključuju originalnu trilogiju arkadnih igara od Nintendo R&amp;D1, seriju Donkey Kong Country od Rare i Retro Studios, te seriju Mario vs. Donkey Kong od Nintendo Software Technology. Razni studiji razvili su spin-off igre u žanrovima kao što su edutainment, puzzle, trkaće igre i ritam.</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemDescription>Donkey Kong è una serie di videogiochi e un franchise mediatico creato dal designer di giochi giapponese Shigeru Miyamoto per Nintendo. Segue le avventure di Donkey Kong, un grande e potente gorilla, e di altri membri della famiglia Kong delle scimmie. I giochi Donkey Kong includono la trilogia originale arcade di Nintendo R&amp;D1, la serie Donkey Kong Country di Rare e Retro Studios, e la serie Mario vs. Donkey Kong di Nintendo Software Technology. Vari studi hanno sviluppato spin-off in generi come edutainment, puzzle, racing e rhythm.</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>ドンキーコングは、日本のゲームデザイナーである宮本茂がNintendoために創作したビデオゲームシリーズとメディアフランチャイズです。巨大で強力なゴリラであるドンキーコングと、コング一族の他のメンバーの冒険を追います。ドンキーコングゲームには、Nintendo R&amp;D1による元のアーケードゲーム三部作、RareとRetro Studiosによるドンキーコングカントリーシリーズ、Nintendo Software Technologyによるマリオ対ドンキーコングシリーズが含まれます。様々なスタジオが、エデュテインメント、パズル、レーシング、リズムなどのジャンルでスピンオフを開発しました。</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>동키콩은 일본의 게임 디자이너 시게루 미야모토가 닌텐도를 위해 창작한 비디오 게임 시리즈이자 미디어 프랜차이즈입니다. 거대하고 강력한 고릴라인 동키콩과 콩 가족의 다른 멤버들의 모험을 따릅니다. 동키콩 게임에는 닌텐도 R&amp;D1의 원래 아케이드 게임 삼부작, Rare와 Retro Studios의 동키콩 컨트리 시리즈, Nintendo Software Technology의 마리오 vs. 동키콩 시리즈가 포함됩니다. 다양한 스튜디오가 에듀테인먼트, 퍼즐, 레이싱, 리듬 등의 장르에서 스핀오프를 개발했습니다.</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>Donkey Kong is een videogameserie en mediafranchise gemaakt door Japanse gameontwerper Shigeru Miyamoto voor Nintendo. Het volgt de avonturen van Donkey Kong, een grote, krachtige gorilla, en andere leden van de Kong-familie van apen. Donkey Kong-spellen omvatten de originele arcade-trilogie van Nintendo R&amp;D1, de Donkey Kong Country-serie van Rare en Retro Studios, en de Mario vs. Donkey Kong-serie van Nintendo Software Technology. Verschillende studios hebben spin-offs in genres als edutainment, puzzel, racen en ritme ontwikkeld.</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>Donkey Kong to seria gier wideo i franczyza medialna stworzona przez japońskiego projektanta gier Shigeru Miyamoto dla Nintendo. Podąża za przygodami Donkey Konga, dużej, potężnej goryla, i innych członków rodziny Kong małp. Gry Donkey Kong obejmują oryginalną trójlogię arkad firmy Nintendo R&amp;D1, serię Donkey Kong Country firm Rare i Retro Studios oraz serię Mario vs. Donkey Kong firmy Nintendo Software Technology. Różne studia opracowały spin-offy w gatunkach takich jak edukacyjne, puzzle, wyścigi i rytm.</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>Donkey Kong é uma série de videogames e franquia de mídia criada pelo designer de jogos japonês Shigeru Miyamoto para a Nintendo. Segue as aventuras de Donkey Kong, um gorila grande e poderoso, e outros membros da família Kong dos primatas. Os jogos do Donkey Kong incluem a trilogia original de arcade da Nintendo R&amp;D1, a série Donkey Kong Country da Rare e Retro Studios, e a série Mario vs. Donkey Kong da Nintendo Software Technology. Vários estúdios desenvolveram spin-offs em gêneros como edutainment, puzzle, corrida e ritmo.</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>Donkey Kong este o serie de jocuri video și o franciză media creată de designerul de jocuri japonez Shigeru Miyamoto pentru Nintendo. Urmărește aventurile lui Donkey Kong, un gorilă mare și puternic, și ale altor membri ai familiei Kong de maimuțe. Jocurile Donkey Kong includ trilogia originală arcade de Nintendo R&amp;D1, seria Donkey Kong Country de Rare și Retro Studios, și seria Mario vs. Donkey Kong de Nintendo Software Technology. Diverse studio-uri au dezvoltat spin-off-uri în genuri precum edutainment, puzzle, curse și ritm.</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>Donkey Kong — это серия видеоигр и медиафранчайз, созданные японским дизайнером игр Сигэру Миямото для Nintendo. История следует за приключениями Donkey Kong, большой и мощной гориллы, и других членов семьи Kong из обезьян. Игры серии Donkey Kong включают оригинальную трилогию аркадных игр Nintendo R&amp;D1, серию Donkey Kong Country от Rare и Retro Studios, а также серию Mario vs. Donkey Kong от Nintendo Software Technology. Различные студии разработали спин-оффы в жанрах, таких как обучающие игры, головоломки, гонки и ритм-игры.</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>Donkey Kong је серија видео игара и медијска франшиза коју је креирао јапански дизајнер игара Шигеру Миямото за Nintendo. Прати авантуре Donkey Konga, великог и моћног горile, и других чланова Kong породице мајмуна. Donkey Kong игре укључују оригиналну триlogиjу аркадних игара од Nintendo R&amp;D1, серију Donkey Kong Country од Rare и Retro Studios, те серију Mario vs. Donkey Kong од Nintendo Software Technology. Разни студиjи развили су спин-оff игре у жанровима као што су edutainment, puzzle, трка и ритам.</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>Donkey Kong är en videospelserie och mediefranchise skapad av japanske speldesignern Shigeru Miyamoto för Nintendo. Den följer äventyrerna för Donkey Kong, en stor och kraftfull gorilla, och andra medlemmar i Kong-familjen av primater. Donkey Kong-spelen inkluderar den ursprungliga arkadtremiologin från Nintendo R&amp;D1, Donkey Kong Country-serien från Rare och Retro Studios, och Mario vs. Donkey Kong-serien från Nintendo Software Technology. Olika studios har utvecklat spin-offs inom genrer som edutainment, pussel, racing och rytm.</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>大金刚是一个视频游戏系列和媒体特许经营权，由日本游戏设计师宫本茂为任天堂创作。它讲述了大金刚（一只巨大而强大的大猩猩）和其他刚果猿科家族成员的冒险故事。大金刚游戏包括任天堂R&amp;D1的原始街机三部曲、Rare和Retro Studios的大金刚国家系列，以及任天堂软件技术公司的马里奥大战大金刚系列。许多工作室开发了教育娱乐、益智、赛车和节奏等类型的衍生作品。</systemDescription>
   </variables>
 </theme>
