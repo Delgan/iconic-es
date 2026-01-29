@@ -1,0 +1,14 @@
+<theme>
+  <variables>
+    <systemName>Donkey Kong</systemName>
+    <systemDescription>Donkey Kong is a video game series and media franchise created by the Japanese game designer Shigeru Miyamoto for Nintendo. It follows the adventures of Donkey Kong, a large, powerful gorilla, and other members of the Kong family of apes. Donkey Kong games include the original arcade game trilogy by Nintendo R&amp;D1 the Donkey Kong Country series by Rare and Retro Studios and the Mario vs. Donkey Kong series by Nintendo Software Technology. Various studios have developed spin-offs in genres such as edutainment, puzzle, racing, and rhythm.</systemDescription>
+    <systemManufacturer>Nintendo</systemManufacturer>
+    <systemReleaseYear>${i18n.various}</systemReleaseYear>
+    <systemHardwareType>${i18n.custom-collection}</systemHardwareType>
+    <systemCoverSize>1-1</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+  <variables lang="es">
+    <systemDescription>Donkey Kong es una serie de videojuegos y una franquicia creada por el diseñador japonés Shigeru Miyamoto para Nintendo. Sigue las aventuras de Donkey Kong, un gorila grande y poderoso, y otros miembros de la familia de simios Kong. Los juegos de la saga incluyen la trilogía original de arcade de Nintendo R&amp;D1 la serie Donkey Kong Country de Rare y Retro Studios y la serie Mario vs. Donkey Kong de Nintendo Software Technology. Varios estudios han desarrollado títulos derivados en géneros como el entretenimiento educativo, los puzles, las carreras y el ritmo.</systemDescription>
+  </variables>
+</theme>
