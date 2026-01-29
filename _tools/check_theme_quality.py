@@ -10,7 +10,6 @@ from PIL import Image
 from typing import Protocol, Generator
 import sys
 import lxml.etree
-import traceback
 
 
 @dataclass
@@ -39,8 +38,13 @@ class CheckFunction(Protocol):
     def __call__(self) -> Generator[Result, None, None]: ...
 
 
+def _base_dir() -> Path:
+    """Return the root directory of the repository."""
+    return Path(__file__).parent.parent
+
+
 def _iter_files(folder_type: str):
-    dir = Path(__file__).parent.parent / "_inc" / folder_type
+    dir = _base_dir() / "_inc" / folder_type
     if not dir.exists():
         raise ValueError(f"Invalid folder: {folder_type}")
     for node in dir.iterdir():
@@ -52,7 +56,7 @@ def _iter_files(folder_type: str):
 
 
 def _find_files(ext: str):
-    dir = Path(__file__).parent.parent / "_inc"
+    dir = _base_dir() / "_inc"
     yield from dir.glob(f"**/*.{ext.lstrip('.')}")
 
 
@@ -70,7 +74,8 @@ def _run_check(check: CheckFunction):
 
     with Live(spinner, console=console) as live:
         try:
-            for result in check():
+            results = check() or []
+            for result in results:
                 if type(result) is Success:
                     successes.append(result)
                 elif type(result) is Fix:
@@ -96,8 +101,7 @@ def _run_check(check: CheckFunction):
         console.print(padding)
 
     def ppath(path: Path):
-        base = Path(__file__).parent.parent
-        relpath_parents = path.parent.relative_to(base)
+        relpath_parents = path.parent.relative_to(_base_dir())
         return f"[dim]{relpath_parents}/[/dim][b]{path.name}[/b]"
 
     if raised_exception is not None:
@@ -254,6 +258,53 @@ def check_metadata_is_complete():
             yield Success(filepath)
 
 
+def check_all_systems_fully_translated():
+    """Check that all metadata files have translations for all required languages."""
+
+    theme_lang = _base_dir() / "_inc" / "ui-components" / "theme-lang.xml"
+
+    tree = lxml.etree.parse(theme_lang)
+
+    required_langs: set[str] = set()
+
+    for var in tree.findall(".//variables"):
+        lang = var.get("lang")
+        if lang is None:
+            continue
+        required_langs.add(lang.strip().lower())
+
+    if not required_langs:
+        yield Failure(theme_lang, "No languages found")
+        return
+
+    for filepath in _iter_files("metadata"):
+        tree = lxml.etree.parse(filepath)
+        variables = tree.findall("variables")
+
+        expected_langs = required_langs.copy()
+
+        for var in variables:
+            lang = var.get("lang")
+
+            if lang is None:
+                continue
+
+            lang = lang.strip().lower()
+
+            try:
+                expected_langs.remove(lang)
+            except KeyError:
+                yield Failure(filepath, f"Unexpected language: {lang}")
+            else:
+                continue
+
+        if expected_langs:
+            missing = ", ".join(sorted(expected_langs))
+            yield Failure(filepath, f"Missing translations: {missing}")
+        else:
+            yield Success(filepath)
+
+
 def check_no_missing_collections():
     """Check that no collections are missing from the collections metadata file."""
 
@@ -267,7 +318,7 @@ def check_no_missing_collections():
             system_collections.append(filepath)
 
     theme_collections: set[str] = set()
-    collections_file = Path(__file__).parent.parent / "collections.info"
+    collections_file = _base_dir() / "collections.info"
     with open(collections_file, "r", encoding="utf-8") as f:
         for line in f:
             if line.startswith("#") or not line.strip():
@@ -297,15 +348,28 @@ def verify_theme_quality():
         check_all_images_have_system,
         check_file_extensions,
         check_metadata_is_complete,
+        check_all_systems_fully_translated,
         check_no_missing_collections,
     ]
 
-    all_succeeded = True
+    console = Console(highlighter=None)
+    succeeded_count = 0
 
     for check in checks:
-        all_succeeded &= _run_check(check)
+        succeeded_count += _run_check(check)
 
-    return all_succeeded
+    if succeeded_count != len(checks):
+        console.print(
+            f"[bold]Final result:[/] [red bold]FAILURE[/] "
+            f"({succeeded_count} out of {len(checks)} checks passed)."
+        )
+        return False
+
+    console.print(
+        f"[bold]Final result:[/] [green bold]SUCCESS[/] "
+        f"({succeeded_count} out of {len(checks)} checks passed)."
+    )
+    return True
 
 
 if __name__ == "__main__":
