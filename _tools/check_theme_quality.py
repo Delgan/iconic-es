@@ -4,11 +4,13 @@ from rich.spinner import Spinner
 from rich.markup import escape
 from rich.console import Console
 from rich.padding import Padding
+from rich.traceback import Traceback
 from dataclasses import dataclass
 from PIL import Image
 from typing import Protocol, Generator
 import sys
 import lxml.etree
+import traceback
 
 
 @dataclass
@@ -90,7 +92,7 @@ def _run_check(check: CheckFunction):
             live.update(f"[red][b]✘[/b] {description} [red bold]FAIL.[/]")
 
     def inform(message: str):
-        padding = Padding(f"➔ {message}", pad=(0, 0, 0, 4))
+        padding = Padding(f"➔ {message}", pad=(0, 4))
         console.print(padding)
 
     def ppath(path: Path):
@@ -99,9 +101,11 @@ def _run_check(check: CheckFunction):
         return f"[dim]{relpath_parents}/[/dim][b]{path.name}[/b]"
 
     if raised_exception is not None:
-        inform(
-            f"An unexpected error of type [b]{type(raised_exception).__name__}[/b] occured: [b]{escape(str(raised_exception))}[b]"
+        tb = Traceback.from_exception(
+            type(raised_exception), raised_exception, raised_exception.__traceback__
         )
+        padded_tb = Padding(tb, (0, 4))
+        console.print(padded_tb)
         return False
     elif total == 0:
         inform("No files was checked, this must be an error.")
@@ -250,6 +254,41 @@ def check_metadata_is_complete():
             yield Success(filepath)
 
 
+def check_no_missing_collections():
+    """Check that no collections are missing from the collections metadata file."""
+
+    system_collections: list[Path] = []
+    for filepath in _iter_files("metadata"):
+        tree = lxml.etree.parse(filepath)
+        variables = tree.find("variables")
+        hardware = variables.find("systemHardwareType")
+
+        if hardware.text in ["${i18n.custom-collection}", "${i18n.auto-collection}"]:
+            system_collections.append(filepath)
+
+    theme_collections: set[str] = set()
+    collections_file = Path(__file__).parent.parent / "collections.info"
+    with open(collections_file, "r", encoding="utf-8") as f:
+        for line in f:
+            if line.startswith("#") or not line.strip():
+                continue
+            theme_collections.add(line.strip())
+
+    for system in system_collections:
+        try:
+            theme_collections.remove(system.stem)
+        except KeyError:
+            yield Failure(system, "Collection not referenced")
+        else:
+            yield Success(system)
+
+    if theme_collections:
+        unexpected = ", ".join(theme_collections)
+        yield Failure(
+            collections_file, f"Collections file has extra entries: {unexpected}"
+        )
+
+
 def verify_theme_quality():
     checks: list[CheckFunction] = [
         check_xml_formatting,
@@ -258,6 +297,7 @@ def verify_theme_quality():
         check_all_images_have_system,
         check_file_extensions,
         check_metadata_is_complete,
+        check_no_missing_collections,
     ]
 
     all_succeeded = True
