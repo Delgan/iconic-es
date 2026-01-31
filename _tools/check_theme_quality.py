@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 from pathlib import Path
 from rich.live import Live
 from rich.spinner import Spinner
@@ -7,6 +8,7 @@ from rich.padding import Padding
 from rich.traceback import Traceback
 from dataclasses import dataclass
 from PIL import Image
+import imagehash
 from typing import Protocol, Generator
 import sys
 import lxml.etree
@@ -379,6 +381,25 @@ def check_no_missing_collections():
         )
 
 
+def check_duplicated_backgrounds():
+    """Check that no two background images are visually the same."""
+    hash_dict: dict[imagehash.ImageHash, Path] = {}
+
+    for filepath in _iter_files("backgrounds"):
+        with Image.open(filepath) as img:
+            img_hash = imagehash.phash(img)
+
+        if img_hash in hash_dict:
+            other_file = hash_dict[img_hash]
+            yield Failure(
+                filepath,
+                f"Visually identical to {other_file.name!r}",
+            )
+        else:
+            hash_dict[img_hash] = filepath
+            yield Success(filepath)
+
+
 def verify_theme_quality():
     checks: list[CheckFunction] = [
         check_xml_formatting,
@@ -390,6 +411,7 @@ def verify_theme_quality():
         check_all_variables_fully_translated,
         check_all_systems_fully_translated,
         check_no_missing_collections,
+        check_duplicated_backgrounds,
     ]
 
     console = Console(highlighter=None)
