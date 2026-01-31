@@ -64,7 +64,7 @@ def _find_files(ext: str):
 
 def _run_check(check: CheckFunction):
     description = escape(check.__doc__)
-    spinner = Spinner("dots", text=description)
+    spinner = Spinner("dots", style="blue", text=f"[blue]{description}[/]")
 
     successes: list[Success] = []
     fixes: list[Fix] = []
