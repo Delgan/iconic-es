@@ -400,6 +400,53 @@ def check_duplicated_backgrounds():
             yield Success(filepath)
 
 
+def check_overlays_match_their_backgrounds():
+    """Check that overlay images match their corresponding background images."""
+    for overlay_file in _iter_files("overlays"):
+        background_file = _base_dir() / "_inc" / "backgrounds" / overlay_file.name
+
+        if not background_file.exists():
+            yield Failure(overlay_file, "Missing background")
+            continue
+
+        with Image.open(overlay_file).convert("RGBA") as overlay_image:
+            overlay_alpha = overlay_image.split()[-1]
+            overlay_mask = overlay_alpha.point(lambda p: 255 if p == 255 else 0)
+
+            overlay_masked = Image.new("RGB", overlay_image.size, (255, 255, 255))
+            overlay_masked.paste(overlay_image, mask=overlay_mask)
+
+        with Image.open(background_file).convert("RGBA") as background_image:
+            background_masked = Image.new("RGB", background_image.size, (255, 255, 255))
+            background_masked.paste(background_image, mask=overlay_mask)
+
+        width, height = overlay_image.size
+        block_distances = []
+
+        for y in range(0, height, 256):
+            for x in range(0, width, 256):
+                box = (x, y, x + 256, y + 256)
+
+                mask_block = overlay_mask.crop(box)
+
+                # Blocks that are fully transparent must be ignored.
+                if not any(mask_block.get_flattened_data()):
+                    continue
+
+                overlay_block = overlay_masked.crop(box)
+                background_block = background_masked.crop(box)
+
+                overlay_hash = imagehash.phash(overlay_block)
+                background_hash = imagehash.phash(background_block)
+
+                block_distances.append(background_hash - overlay_hash)
+
+        if max(block_distances) > 5:
+            yield Failure(overlay_file, "Overlay does not match background visually")
+        else:
+            yield Success(overlay_file)
+
+
 def verify_theme_quality():
     checks: list[CheckFunction] = [
         check_xml_formatting,
@@ -412,6 +459,7 @@ def verify_theme_quality():
         check_all_systems_fully_translated,
         check_no_missing_collections,
         check_duplicated_backgrounds,
+        check_overlays_match_their_backgrounds,
     ]
 
     console = Console(highlighter=None)
