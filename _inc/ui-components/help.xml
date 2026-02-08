@@ -20,8 +20,10 @@
         (only if the resolution is wide enough to allow it).
     -->
   <view name="system">
-    <helpsystem name="help">
-      <pos ifSubset="aspect-ratio:16-9|16-9-auto|16-10|16-10-auto">0.48 0.967</pos>
+    <helpsystem name="help" ifSubset="aspect-ratio:16-9|16-9-auto|16-10|16-10-auto">
+      <pos>0.48 0.967</pos>
+      <!-- Retrobat has more help text, and it would overlap with the hour. -->
+      <pos ifSubset="distribution:retrobat">0.42 0.967</pos>
     </helpsystem>
   </view>
 </theme>
