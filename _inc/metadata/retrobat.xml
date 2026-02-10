@@ -1,7 +1,11 @@
 <theme>
   <variables>
     <systemName>RetroBat</systemName>
-    <systemDescription>Programs, scripts and utilities to manage your set up.</systemDescription>
+    <systemDescription>RetroBat is a software distribution designed for emulation and to be the easiest way to enjoy your game collection on your Windows computer. The supplied EmulationStation interface is fully functional and highly customizable. You can run all your games from it and search for images online to improve the presentation of your collection.
+
+RetroBat allows you to download, update and configure the most recognized emulators directly from the interface. You will discover or rediscover the best games designed for consoles, arcades and computers released to date.
+
+There is no need to get lost in the options of a multitude of software, all the important options are integrated into the same unified interface.</systemDescription>
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
     <systemManufacturer>${i18n.various}</systemManufacturer>
@@ -9,16 +13,32 @@
     <systemHardwareType>${i18n.various}</systemHardwareType>
   </variables>
   <variables lang="ar">
-    <systemDescription>برامج ونصوص برمجية وأدوات مساعدة لإدارة إعداداتك.</systemDescription>
+    <systemDescription>RetroBat هو توزيعة برمجيات مصممة للمحاكاة وتكون الطريقة الأسهل للاستمتاع بمجموعة ألعابك على جهاز الكمبيوتر الشخصي الخاص بك بنظام Windows. واجهة EmulationStation المرفقة وظيفية بالكامل وقابلة للتخصيص بدرجة كبيرة جداً. يمكنك تشغيل جميع ألعابك من خلالها والبحث عن الصور عبر الإنترنت لتحسين عرض مجموعتك.
+
+يسمح لك RetroBat بتحميل وتحديث وتكوين المحاكيات الأكثر شهرة مباشرة من الواجهة. ستكتشف أو تعيد اكتشاف أفضل الألعاب المصممة للأجهزة والأروقة وأجهزة الكمبيوتر التي تم إصدارها حتى الآن.
+
+لا توجد حاجة للضياع في خيارات عدد كبير من البرامج، حيث يتم دمج جميع الخيارات المهمة في نفس الواجهة الموحدة.</systemDescription>
   </variables>
   <variables lang="bs">
-    <systemDescription>Programi, skripte i alati za upravljanje vašom postavkom.</systemDescription>
+    <systemDescription>RetroBat je distribucija softvera dizajnirana za emulaciju i da bude najjednostavniji način uživanja u vašoj kolekciji igara na vašem Windows računaru. Priloženo sučelje EmulationStation je potpuno funkcionalno i iznimno prilagodljivo. Možete pokrenuti sve svoje igre iz njega i pretraživati slike na internetu kako biste poboljšali prezentaciju vaše kolekcije.
+
+RetroBat vam omogućava preuzimanje, ažuriranje i konfiguriranje najpoznatijih emulatora izravno iz sučelja. Otkrit ćete ili ponovno otkriti najbolje igre dizajnirane za konzole, arkadne igre i računala koja su do sada objavljena.
+
+Nema potrebe da se izgubite u opcijama bezbroja softvera, sve važne opcije su integrirane u isto objedinjeno sučelje.</systemDescription>
   </variables>
   <variables lang="ca">
-    <systemDescription>Programes, scripts i serveis per gestionar la vostra configuració.</systemDescription>
+    <systemDescription>RetroBat és una distribució de programari dissenyada per a l'emulació i per ser la manera més fàcil de gaudir de la vostra col·lecció de jocs a l'ordinador Windows. La interfície EmulationStation proporcionada és completament funcional i altament personalitzable. Podeu executar tots els vostres jocs des d'ella i cercar imatges en línia per millorar la presentació de la vostra col·lecció.
+
+RetroBat vos permet descarregar, actualitzar i configurar els emuladors més reconeguts directament des de la interfície. Descobrireu o redescobrireu els millors jocs dissenyats per a consoles, sales de jocs i ordinadors llançats fins a la data.
+
+No cal perdre's en les opcions d'una multitud de programari, totes les opcions importants estan integrades en la mateixa interfície unificada.</systemDescription>
   </variables>
   <variables lang="de">
-    <systemDescription>Programme, Skripte und Dienstprogramme zur Verwaltung Ihrer Einrichtung.</systemDescription>
+    <systemDescription>RetroBat ist eine Software-Distribution, die für die Emulation entwickelt wurde und die einfachste Möglichkeit bietet, Ihre Spielesammlung auf Ihrem Windows-Computer zu genießen. Die bereitgestellte EmulationStation-Schnittstelle ist vollständig funktionsfähig und hochgradig anpassbar. Sie können alle Ihre Spiele von hier aus ausführen und online nach Bildern suchen, um die Präsentation Ihrer Sammlung zu verbessern.
+
+RetroBat ermöglicht es Ihnen, die bekanntesten Emulatoren direkt über die Schnittstelle herunterzuladen, zu aktualisieren und zu konfigurieren. Sie werden die besten für Konsolen, Spielhallen und Computer entwickelten Spiele entdecken oder wieder entdecken.
+
+Es ist nicht nötig, sich in den Optionen einer Vielzahl von Software zu verlaufen, alle wichtigen Optionen sind in derselben einheitlichen Schnittstelle integriert.</systemDescription>
   </variables>
   <variables lang="es">
     <systemDescription>RetroBat es una distribución de software diseñada para la emulación y para ser la forma más fácil de disfrutar de su colección de juegos en su computadora con Windows. La interfaz EmulationStation suministrada es completamente funcional y altamente personalizable. Puede ejecutar todos sus juegos desde él y buscar imágenes en línea para mejorar la presentación de su colección.
@@ -28,42 +48,94 @@ RetroBat te permite descargar, actualizar y configurar los emuladores más recon
 No hay necesidad de perderse en las opciones de multitud de software, todas las opciones importantes están integradas en la misma interfaz unificada.</systemDescription>
   </variables>
   <variables lang="fr">
-    <systemDescription>Programmes, scripts et utilitaires pour gérer votre installation.</systemDescription>
+    <systemDescription>RetroBat est une distribution logicielle conçue pour l'émulation et pour être le moyen le plus simple de profiter de votre collection de jeux sur votre ordinateur Windows. L'interface EmulationStation fournie est entièrement fonctionnelle et hautement personnalisable. Vous pouvez exécuter tous vos jeux à partir de celle-ci et rechercher des images en ligne pour améliorer la présentation de votre collection.
+
+RetroBat vous permet de télécharger, mettre à jour et configurer les émulateurs les plus reconnus directement depuis l'interface. Vous découvrirez ou redécouvrirez les meilleurs jeux conçus pour les consoles, les salles d'arcade et les ordinateurs sortis à ce jour.
+
+Il n'est pas nécessaire de se perdre dans les options d'une multitude de logiciels, toutes les options importantes sont intégrées dans la même interface unifiée.</systemDescription>
   </variables>
   <variables lang="hr">
-    <systemDescription>Programi, skripte i alati za upravljanje vašom postavkom.</systemDescription>
+    <systemDescription>RetroBat je distribucija softvera dizajnirana za emulaciju i da bude najjednostavniji način uživanja u vašoj kolekciji igara na vašem Windows računalu. Priloženo sučelje EmulationStation je potpuno funkcionalno i iznimno prilagodljivo. Možete pokrenuti sve svoje igre iz njega i pretraživati slike na internetu kako biste poboljšali prezentaciju vaše kolekcije.
+
+RetroBat vam omogućava preuzimanje, ažuriranje i konfiguriranje najpoznatijih emulatora izravno iz sučelja. Otkrit ćete ili ponovno otkriti najbolje igre dizajnirane za konzole, arkadne igre i računala koja su do sada objavljena.
+
+Nema potrebe da se izgubite u opcijama bezbroja softvera, sve važne opcije su integrirane u isto objedinjeno sučelje.</systemDescription>
   </variables>
   <variables lang="it">
-    <systemDescription>Programmi, script e utility per gestire la vostra configurazione.</systemDescription>
+    <systemDescription>RetroBat è una distribuzione software progettata per l'emulazione ed è il modo più semplice per godersi la vostra collezione di giochi sul vostro computer Windows. L'interfaccia EmulationStation fornita è completamente funzionale e altamente personalizzabile. Potete eseguire tutti i vostri giochi da essa e cercare immagini online per migliorare la presentazione della vostra collezione.
+
+RetroBat vi consente di scaricare, aggiornare e configurare gli emulatori più riconosciuti direttamente dall'interfaccia. Scoprirete o riscoprirete i migliori giochi progettati per console, sale giochi e computer rilasciati fino ad oggi.
+
+Non c'è bisogno di perdersi nelle opzioni di una moltitudine di software, tutte le opzioni importanti sono integrate nella stessa interfaccia unificata.</systemDescription>
   </variables>
   <variables lang="ja">
-    <systemDescription>セットアップを管理するためのプログラム、スクリプト、ユーティリティ。</systemDescription>
+    <systemDescription>RetroBatはエミュレーション用に設計された、Windows コンピューター上でゲーム コレクションを楽しむための最も簡単な方法です。付属の EmulationStation インターフェースは完全に機能し、高度にカスタマイズ可能です。ゲームはすべてそこから実行でき、オンラインで画像を検索して、コレクションのプレゼンテーションを改善できます。
+
+RetroBat では、最も認識度の高いエミュレータをインターフェースから直接ダウンロード、更新、および構成できます。コンソール、アーケード、およびこれまでにリリースされたコンピューター用に設計された最高のゲームを発見または再発見します。
+
+多くのソフトウェアのオプションに迷う必要はなく、重要なすべてのオプションが同じ統一されたインターフェースに統合されています。</systemDescription>
   </variables>
   <variables lang="ko">
-    <systemDescription>설정을 관리하기 위한 프로그램, 스크립트 및 유틸리티.</systemDescription>
+    <systemDescription>RetroBat는 에뮬레이션을 위해 설계된 소프트웨어 배포판이며 Windows 컴퓨터에서 게임 컬렉션을 즐기는 가장 쉬운 방법입니다. 제공되는 EmulationStation 인터페이스는 완전히 기능하며 높은 수준으로 사용자 정의할 수 있습니다. 여기에서 모든 게임을 실행할 수 있으며 온라인에서 이미지를 검색하여 컬렉션의 프레젠테이션을 개선할 수 있습니다.
+
+RetroBat를 사용하면 인터페이스에서 직접 가장 인정받는 에뮬레이터를 다운로드, 업데이트 및 구성할 수 있습니다. 콘솔, 아케이드 및 현재까지 출시된 컴퓨터용으로 설계된 최고의 게임을 발견하거나 재발견할 것입니다.
+
+수많은 소프트웨어의 옵션에서 길을 잃을 필요가 없으며, 모든 중요한 옵션이 같은 통합 인터페이스에 통합되어 있습니다.</systemDescription>
   </variables>
   <variables lang="nl">
-    <systemDescription>Programma's, scripts en hulpprogramma's om je set-up te beheren.</systemDescription>
+    <systemDescription>RetroBat is een softwaredistributie ontworpen voor emulatie en is de gemakkelijkste manier om van uw spelcollectie op uw Windows-computer te genieten. De meegeleverde EmulationStation-interface is volledig functioneel en uiterst aanpasbaar. U kunt al uw games erop uitvoeren en online naar afbeeldingen zoeken om de presentatie van uw collectie te verbeteren.
+
+RetroBat stelt u in staat om de meest bekende emulatoren rechtstreeks via de interface te downloaden, bij te werken en in te stellen. U zult de beste games voor consoles, arcadespelletjes en computers tot op heden ontdekken of herontdekken.
+
+Er is geen noodzaak om verloren te gaan in de opties van een veelheid aan software, alle belangrijke opties zijn geïntegreerd in dezelfde uniforme interface.</systemDescription>
   </variables>
   <variables lang="pl">
-    <systemDescription>Programy, skrypty i narzędzia do zarządzania konfiguracją.</systemDescription>
+    <systemDescription>RetroBat jest dystrybucją oprogramowania zaprojektowaną do emulacji i jest najłatwiejszym sposobem korzystania z Twojej kolekcji gier na komputerze z systemem Windows. Dostarczone interfejsy EmulationStation są w pełni funkcjonalne i wysoce konfigurowalne. Możesz uruchamiać wszystkie swoje gry z niego i wyszukiwać obrazy w Internecie, aby ulepszyć prezentację swojej kolekcji.
+
+RetroBat pozwala pobierać, aktualizować i konfigurować najbardziej rozpoznawane emulatory bezpośrednio z interfejsu. Odkryjesz lub ponownie odkryjesz najlepsze gry zaprojektowane dla konsol, sal gier i komputerów wydanych do tej pory.
+
+Nie ma potrzeby gubienia się w opcjach mnóstwa oprogramowania, wszystkie ważne opcje są zintegrowane w tym samym jednolitym interfejsie.</systemDescription>
   </variables>
   <variables lang="pt">
-    <systemDescription>Programas, scripts e utilitários para gerenciar sua configuração.</systemDescription>
+    <systemDescription>RetroBat é uma distribuição de software projetada para emulação e é a forma mais fácil de aproveitar sua coleção de jogos em seu computador Windows. A interface EmulationStation fornecida é totalmente funcional e altamente personalizável. Você pode executar todos os seus jogos a partir dela e pesquisar imagens online para melhorar a apresentação de sua coleção.
+
+RetroBat permite que você baixe, atualize e configure os emuladores mais reconhecidos diretamente da interface. Você descobrirá ou redescobrirá os melhores jogos projetados para consoles, fliperama e computadores lançados até agora.
+
+Não há necessidade de se perder nas opções de uma enxurrada de software, todas as opções importantes estão integradas na mesma interface unificada.</systemDescription>
   </variables>
   <variables lang="ro">
-    <systemDescription>Programe, scripturi și utilitare pentru a vă gestiona configurația.</systemDescription>
+    <systemDescription>RetroBat este o distribuție de software proiectată pentru emulatoare și este cel mai ușor mod de a vă bucura de colecția de jocuri pe computerul dvs. Windows. Interfața EmulationStation furnizată este pe deplin funcțională și extrem de personalizabilă. Puteți rula toate jocurile dvs. din aceasta și căuta imagini online pentru a îmbunătăți prezentarea colecției dvs.
+
+RetroBat vă permite să descărcați, să actualizați și să configurați emulatoarele cele mai recunoscute direct din interfață. Veți descoperi sau redescopi cele mai bune jocuri proiectate pentru console, arcadă și computere lansate până în prezent.
+
+Nu este nevoie să vă rătăciți în opțiunile unui multitudine de software, toate opțiunile importante sunt integrate în aceeași interfață unificată.</systemDescription>
   </variables>
   <variables lang="ru">
-    <systemDescription>Программы, скрипты и утилиты для управления вашей системой.</systemDescription>
+    <systemDescription>RetroBat — это дистрибутив программного обеспечения, предназначенный для эмуляции и являющийся самым простым способом наслаждаться коллекцией игр на компьютере Windows. Предоставляемый интерфейс EmulationStation полностью функционален и легко настраивается. Вы можете запускать все свои игры из него и искать изображения в Интернете, чтобы улучшить представление вашей коллекции.
+
+RetroBat позволяет загружать, обновлять и настраивать наиболее известные эмуляторы непосредственно из интерфейса. Вы откроете для себя или заново откроете лучшие игры, разработанные для консолей, аркад и компьютеров, выпущенных на сегодняшний день.
+
+Нет необходимости теряться среди множества опций различного программного обеспечения — все важные опции интегрированы в один унифицированный интерфейс.</systemDescription>
   </variables>
   <variables lang="sr">
-    <systemDescription>Програми, скрипте и алати за управљање вашом поставком.</systemDescription>
+    <systemDescription>RetroBat је дистрибуција софтвера дизајнирана за емулацију и представља најлакши начин да уживате у вашој колекцији игара на вашем Windows рачунару. Приложено сучеље EmulationStation је потпуно функционално и веома прилагодљиво. Можете покренути све своје игре из њега и претраживати слике на интернету да бисте побољшали представљање ваше колекције.
+
+RetroBat вам омогућава преузимање, ажурирање и конфигурисање најпознатијих емулатора директно из сучеља. Откријћете или поново откријћете најбоље игре дизајниране за конзоле, аркадне игре и рачунаре издате до сада.
+
+Нема потребе да се изгубите у опцијама безброј софтвера, све важне опције су интегрисане у исто јединствено сучеље.</systemDescription>
   </variables>
   <variables lang="sv">
-    <systemDescription>Program, skript och verktyg för att hantera din installation.</systemDescription>
+    <systemDescription>RetroBat är en programdistribution utformad för emulering och är det enklaste sättet att njuta av din spelsamling på din Windows-dator. Det tillhandahållna EmulationStation-gränssnittet är fullt funktionellt och höggradig anpassningsbar. Du kan köra alla dina spel från det och söka efter bilder online för att förbättra presentationen av din samling.
+
+RetroBat låter dig ladda ned, uppdatera och konfigurera de mest erkända emulatorerna direkt från gränssnittet. Du kommer att upptäcka eller återupptäcka de bästa spelen som designats för konsoler, arkader och datorer som släppts hittills.
+
+Det finns ingen anledning att gå vilse i alternativen för massor av programvara, alla viktiga alternativ är integrerade i samma enhetliga gränssnitt.</systemDescription>
   </variables>
   <variables lang="zh">
-    <systemDescription>用于管理设置的程序、脚本和实用工具。</systemDescription>
+    <systemDescription>RetroBat 是为仿真而设计的软件发行版,也是在 Windows 计算机上享受您的游戏收藏的最简单方式。提供的 EmulationStation 界面功能完整,高度可定制。您可以从中运行所有游戏,并在线搜索图像来改进您收藏的展示效果。
+
+RetroBat 允许您直接从界面下载、更新和配置最受认可的模拟器。您将发现或重新发现为控制台、街机和迄今为止发布的计算机设计的最佳游戏。
+
+无需在众多软件的选项中迷失,所有重要的选项都集成在同一个统一的界面中。</systemDescription>
   </variables>
 </theme>
