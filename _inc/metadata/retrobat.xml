@@ -1,0 +1,66 @@
+<theme>
+  <variables>
+    <systemName>RetroBat</systemName>
+    <systemDescription>Programs, scripts and utilities to manage your set up.</systemDescription>
+    <systemCoverSize>1-1</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+  <variables lang="ar">
+    <systemDescription>برامج ونصوص برمجية وأدوات مساعدة لإدارة إعداداتك.</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>Programi, skripte i alati za upravljanje vašom postavkom.</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>Programes, scripts i serveis per gestionar la vostra configuració.</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemDescription>Programme, Skripte und Dienstprogramme zur Verwaltung Ihrer Einrichtung.</systemDescription>
+  </variables>
+  <variables lang="es">
+    <systemDescription>RetroBat es una distribución de software diseñada para la emulación y para ser la forma más fácil de disfrutar de su colección de juegos en su computadora con Windows. La interfaz EmulationStation suministrada es completamente funcional y altamente personalizable. Puede ejecutar todos sus juegos desde él y buscar imágenes en línea para mejorar la presentación de su colección.
+
+RetroBat te permite descargar, actualizar y configurar los emuladores más reconocidos directamente desde la interfaz. Descubrirás o redescubrirás los mejores juegos diseñados para consolas, salones recreativos y ordenadores lanzados hasta la fecha.
+
+No hay necesidad de perderse en las opciones de multitud de software, todas las opciones importantes están integradas en la misma interfaz unificada.</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>Programmes, scripts et utilitaires pour gérer votre installation.</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>Programi, skripte i alati za upravljanje vašom postavkom.</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemDescription>Programmi, script e utility per gestire la vostra configurazione.</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>セットアップを管理するためのプログラム、スクリプト、ユーティリティ。</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>설정을 관리하기 위한 프로그램, 스크립트 및 유틸리티.</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>Programma's, scripts en hulpprogramma's om je set-up te beheren.</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>Programy, skrypty i narzędzia do zarządzania konfiguracją.</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>Programas, scripts e utilitários para gerenciar sua configuração.</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>Programe, scripturi și utilitare pentru a vă gestiona configurația.</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>Программы, скрипты и утилиты для управления вашей системой.</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>Програми, скрипте и алати за управљање вашом поставком.</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>Program, skript och verktyg för att hantera din installation.</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>用于管理设置的程序、脚本和实用工具。</systemDescription>
+  </variables>
+</theme>
