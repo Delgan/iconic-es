@@ -190,7 +190,7 @@ def check_systems_are_complete():
         elif system.stem not in controllers:
             yield Failure(system, "Missing controller")
         elif system.stem not in logos:
-            yield Failure(system, "Missing controller")
+            yield Failure(system, "Missing logo")
         else:
             yield Success(system)
 
