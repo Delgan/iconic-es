@@ -1,0 +1,14 @@
+<theme>
+  <variables>
+    <systemName>TeknoParrot</systemName>
+    <systemDescription>TeknoParrot is a closed-source compatibility layer for Windows PCs to run games originally made for Windows-based and some Linux-based arcade systems. It includes the ability to map standard PC gear like steering wheels and joysticks to the game's input.</systemDescription>
+    <systemManufacturer>TeknoGods</systemManufacturer>
+    <systemReleaseYear>2018</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-emulator}</systemHardwareType>
+    <systemCoverSize>3-4</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+  <variables lang="es">
+    <systemDescription>TeknoParrot es una capa de compatibilidad de código cerrado para PC con Windows que permite ejecutar juegos creados originalmente para sistemas arcade basados ​​en Windows y algunos basados ​​en Linux. Permite asignar dispositivos estándar de PC, como volantes y joysticks, a la entrada del juego.</systemDescription>
+  </variables>
+</theme>
