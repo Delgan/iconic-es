@@ -4,6 +4,9 @@
     <systemDescription>Programs, scripts and utilities to manage your set up.</systemDescription>
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
+    <systemManufacturer>${i18n.various}</systemManufacturer>
+    <systemReleaseYear>${i18n.various}</systemReleaseYear>
+    <systemHardwareType>${i18n.various}</systemHardwareType>
   </variables>
   <variables lang="ar">
     <systemDescription>برامج ونصوص برمجية وأدوات مساعدة لإدارة إعداداتك.</systemDescription>
