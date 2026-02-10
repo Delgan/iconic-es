@@ -8,7 +8,58 @@
     <systemCoverSize>3-4</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
+  <variables lang="ar">
+    <systemDescription>TeknoParrot عبارة عن طبقة توافق مغلقة المصدر لأجهزة كمبيوتر Windows لتشغيل الألعاب المصنوعة أصلاً لأنظمة أركيد قائمة على Windows وبعض الأنظمة القائمة على Linux. ويشمل القدرة على ربط أجهزة الكمبيوتر القياسية مثل عجلات القيادة والمتحكمات بمدخلات اللعبة.</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>TeknoParrot je zatvoreni sloj kompatibilnosti za Windows PC-je za pokretanje igara koje su izvorno napravljene za Windows-bazirane i neke Linux-bazirane arkadne sisteme. Uključuje mogućnost mapiranja standardne PC opreme poput sterni i joysticka na ulaz igre.</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>TeknoParrot és una capa de compatibilitat de codi tancat per a PC de Windows per executar jocs originalment creats per a sistemes arcade basats en Windows i alguns basats en Linux. Inclou la capacitat de mapejar equips estàndard de PC, com a volants i joysticks, a l'entrada del joc.</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemDescription>TeknoParrot ist eine geschlossene Kompatibilitätsebene für Windows-PCs, um Spiele zu starten, die ursprünglich für Windows-basierte und einige Linux-basierte Arcade-Systeme entwickelt wurden. Es bietet die Möglichkeit, Standard-PC-Geräte wie Lenkräder und Joysticks den Spieleingaben zuzuordnen.</systemDescription>
+  </variables>
   <variables lang="es">
     <systemDescription>TeknoParrot es una capa de compatibilidad de código cerrado para PC con Windows que permite ejecutar juegos creados originalmente para sistemas arcade basados ​​en Windows y algunos basados ​​en Linux. Permite asignar dispositivos estándar de PC, como volantes y joysticks, a la entrada del juego.</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>TeknoParrot est une couche de compatibilité fermée pour les PC Windows permettant d'exécuter des jeux créés à l'origine pour des systèmes d'arcade basés sur Windows et certains systèmes basés sur Linux. Elle offre la possibilité de mapper des équipements PC standard, tels que les volants et les joysticks, aux entrées du jeu.</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>TeknoParrot je zatvoreni sloj kompatibilnosti za Windows PC-eve koji omogućava pokretanje igara izvorno napravljenih za Windows-bazirane i neke Linux-bazirane arkadne sisteme. Uključuje mogućnost mapiranja standardne PC opreme kao što su volan i joystick na ulaz igre.</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemDescription>TeknoParrot è un livello di compatibilità closed-source per PC Windows che consente di eseguire giochi originariamente realizzati per sistemi arcade basati su Windows e alcuni basati su Linux. Include la possibilità di mappare apparecchiature PC standard come volanti e joystick agli input del gioco.</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>TeknoParrotは、Windows PCでWindows ベースおよび一部の Linux ベースのアーケード システム用に元々作成されたゲームを実行するための、クローズドソースの互換性レイヤーです。ハンドルやジョイスティックなどの標準的な PC 機器をゲームの入力にマッピングする機能が含まれています。</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>TeknoParrot은 Windows 기반 및 일부 Linux 기반 아케이드 시스템용으로 원래 제작된 게임을 실행하기 위한 Windows PC용 폐쇄형 호환성 레이어입니다. 조종륜 및 조이스틱과 같은 표준 PC 장치를 게임 입력에 매핑할 수 있습니다.</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>TeknoParrot is een gesloten compatibiliteitlaag voor Windows-pc's om games uit te voeren die oorspronkelijk zijn gemaakt voor Windows-gebaseerde en enkele Linux-gebaseerde arcadesystemen. Het biedt de mogelijkheid om standaard pc-apparatuur zoals stuurwielen en joysticks toe te wijzen aan de game-invoer.</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>TeknoParrot to zamknięta warstwa kompatybilności dla komputerów PC z systemem Windows pozwalająca na uruchamianie gier originally stworzonych dla systemów arkadowych opartych na Windows i niektórych opartych na Linux. Obejmuje możliwość mapowania standardowego sprzętu PC, takiego jak kierownice i joysticki, na wejście gry.</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>TeknoParrot é uma camada de compatibilidade de código fechado para PCs Windows para executar jogos originalmente criados para sistemas arcade baseados em Windows e alguns baseados em Linux. Inclui a capacidade de mapear equipamentos padrão de PC, como volantes e joysticks, para a entrada do jogo.</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>TeknoParrot este un strat de compatibilitate cu cod închis pentru PC-uri Windows pentru a rula jocuri create inițial pentru sisteme arcade bazate pe Windows și unele bazate pe Linux. Include capacitatea de a mapa echipamente PC standard, cum ar fi volan și joystick, la intrarea jocului.</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>TeknoParrot — это закрытый слой совместимости для ПК Windows для запуска игр, первоначально созданных для систем аркад на основе Windows и некоторых систем на основе Linux. Он включает возможность сопоставления стандартного оборудования ПК, такого как рулевые колеса и джойстики, с вводом игры.</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>TeknoParrot је затворени слој компатибилности за Windows ПК-е за покретање игара што су првобитно направљене за Windows-базиране и неке Linux-базиране аркадне системе. Укључује могућност мапирања стандардне ПК опреме као што су волан и џојстик на улаз игре.</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>TeknoParrot är ett slutet kompatibilitetslager för Windows-datorer för att köra spel som ursprungligen skapades för Windows-baserade och vissa Linux-baserade arkadsystem. Det inkluderar möjligheten att mappa standard-PC-utrustning som ratt och joysticks till spelets inmatning.</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>TeknoParrot是一个为Windows PC的闭源兼容性层，用于运行最初为基于Windows和某些基于Linux的电子游戏机系统开发的游戏。它包括将转向轮和操纵杆等标准PC设备映射到游戏输入的功能。</systemDescription>
   </variables>
 </theme>
