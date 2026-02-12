@@ -1,5 +1,8 @@
-<svg height="157.714" viewBox="0 -0.001 465.451 110.4" width="664.93" xmlns="http://www.w3.org/2000/svg">
-    <text fill="#ef00eb" font-family="TrasksHand" font-size="1.4" stroke="#0105ff" stroke-width="1.75" transform="rotate(-10.82 -117.703 210.195)" x="64.4" y="103.018"><tspan fill="#fafafa" fill-opacity=".4" stroke="none" x="64.4" y="103.018">John Loreth 2022</tspan></text>
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" height="157.714" viewBox="0 -0.001 465.451 110.4" width="664.93">
+    <text fill="#ef00eb" font-family="TrasksHand" font-size="1.4" stroke="#0105ff" stroke-width="1.75" transform="rotate(-10.82 -117.703 210.195)" x="64.4" y="103.018">
+        <tspan fill="#fafafa" fill-opacity=".4" stroke="none" x="64.4" y="103.018">John Loreth 2022</tspan>
+    </text>
     <g stroke-linecap="round">
         <path d="M.724 18.914C12.752 7.712 31.94 1.446 43 .007c.548-.071.993.33.993.882v62.353c0 .552-.44 1.08-.984 1.182-18.643 3.5-30.502 8.97-42.155 16.06-.472.287-.853.074-.853-.478V20.603c0-.552.32-1.313.724-1.69z" fill="#3362ba"/>
         <path d="M51.092 15.394v52.487c0 .552-.44 1.08-.982 1.181-21.49 4.013-35.533 10.2-48.98 18.159a.868.868 0 0 0 .966.796l68.059-10.01c.567-.083.987-.57.986-1.144l-.217-62.92a.882.882 0 0 0-.996-.873l-17.74 2.281c-.364.033-.73.047-1.096.043z" fill="#ef8b0f" fill-opacity=".941"/>
