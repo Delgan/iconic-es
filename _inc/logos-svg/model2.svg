@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" height="162.50963" viewBox="0 0 901.88284 422.52525" width="346.87817" version="1.1" id="svg16" sodipodi:docname="model2.svg" inkscape:version="1.4.3 (0d15f75042, 2025-12-25)">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" height="162.50963" viewBox="0 0 901.88284 422.52525" width="346.87817" version="1.1" id="svg16">
     <defs id="defs16">
         <linearGradient id="linearGradient16" gradientUnits="userSpaceOnUse" x1="935.961" x2="112.393" y1="239.55701" y2="239.55701">
             <stop offset="0" stop-color="#fff" id="stop1-3"/>
@@ -9,10 +9,9 @@
             <stop offset="0" stop-color="#ea1f4b" id="stop3-7"/>
             <stop offset="1" stop-color="#f7ed18" id="stop4-5"/>
         </linearGradient>
-        <linearGradient inkscape:collect="always" xlink:href="#b" id="linearGradient20" gradientUnits="userSpaceOnUse" x1="494.439" y1="375.103" x2="495.01001" y2="80.959999"/>
-        <linearGradient inkscape:collect="always" xlink:href="#b" id="linearGradient21" gradientUnits="userSpaceOnUse" x1="494.439" y1="375.103" x2="495.01001" y2="80.959999"/>
+        <linearGradient xlink:href="#b" id="linearGradient20" gradientUnits="userSpaceOnUse" x1="494.439" y1="375.103" x2="495.01001" y2="80.959999"/>
+        <linearGradient xlink:href="#b" id="linearGradient21" gradientUnits="userSpaceOnUse" x1="494.439" y1="375.103" x2="495.01001" y2="80.959999"/>
     </defs>
-    <sodipodi:namedview id="namedview16" pagecolor="#afafaf" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:zoom="1.8443463" inkscape:cx="172.14772" inkscape:cy="81.871828" inkscape:window-width="1920" inkscape:window-height="1080" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="0" inkscape:current-layer="svg16"/>
     <linearGradient id="a" gradientUnits="userSpaceOnUse" x1="935.961" x2="112.393" y1="239.55701" y2="239.55701" gradientTransform="translate(-62.15,-21.871124)">
         <stop offset="0" stop-color="#fff" id="stop1"/>
         <stop offset="1" stop-color="#2871be" id="stop2"/>

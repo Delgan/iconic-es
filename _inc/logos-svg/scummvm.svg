@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" width="581.87518" height="169.08978" viewBox="-0.003 -0.001 581.87515 169.08978" xml:space="preserve" version="1.1" id="svg21" sodipodi:docname="scummvm.svg" inkscape:version="1.4.3 (0d15f75042, 2025-12-25)">
+<svg xmlns="http://www.w3.org/2000/svg" width="581.87518" height="169.08978" viewBox="-0.003 -0.001 581.87515 169.08978" xml:space="preserve" version="1.1" id="svg21">
     <defs id="defs21">
         <linearGradient id="linearGradient2" gradientUnits="userSpaceOnUse" x1="439.68301" y1="979.901" x2="439.68301" y2="1115.395" gradientTransform="translate(49.71,-968.872)">
             <stop offset="0" style="stop-color:#ecefeb" id="stop1-3"/>
@@ -24,7 +24,6 @@
             <stop offset="1" style="stop-color:#343732" id="stop18-6"/>
         </linearGradient>
     </defs>
-    <sodipodi:namedview id="namedview21" pagecolor="#a5a5a5" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:zoom="1.121281" inkscape:cx="290.7389" inkscape:cy="85.616362" inkscape:window-width="1920" inkscape:window-height="1080" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="0" inkscape:current-layer="svg21"/>
     <linearGradient id="a" gradientUnits="userSpaceOnUse" x1="439.68301" y1="979.901" x2="439.68301" y2="1115.395" gradientTransform="translate(49.71,-968.872)">
         <stop offset="0" style="stop-color:#ecefeb" id="stop1"/>
         <stop offset=".175" style="stop-color:#eaece9" id="stop2"/>

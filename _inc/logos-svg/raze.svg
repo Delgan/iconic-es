@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
-<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.0" width="412.47272" height="81.009781" viewBox="0 0 412.47272 81.009781" preserveAspectRatio="xMidYMid" id="svg132" sodipodi:docname="raze.svg" inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.0" width="412.47272" height="81.009781" viewBox="0 0 412.47272 81.009781" preserveAspectRatio="xMidYMid" id="svg132">
     <defs id="defs136">
-        <linearGradient inkscape:collect="always" id="linearGradient20205">
+        <linearGradient id="linearGradient20205">
             <stop style="stop-color:#ffffff;stop-opacity:1" offset="0" id="stop20201"/>
             <stop style="stop-color:#b5d7f9;stop-opacity:1" offset="1" id="stop20203"/>
         </linearGradient>
-        <filter style="color-interpolation-filters:sRGB;" inkscape:label="Blur" id="filter35921" x="-0.8245496" y="-0.00044444443" width="2.6490992" height="1.0008889">
+        <filter style="color-interpolation-filters:sRGB" id="filter35921" x="-0.8245496" y="-0.00044444443" width="2.6490992" height="1.0008889">
             <feGaussianBlur stdDeviation="24.8052 0.01" result="blur" id="feGaussianBlur35919"/>
         </filter>
-        <filter style="color-interpolation-filters:sRGB;" inkscape:label="Blur" id="filter35925" x="-0.8934065" y="-0.00044444443" width="2.786813" height="1.0008889">
+        <filter style="color-interpolation-filters:sRGB" id="filter35925" x="-0.8934065" y="-0.00044444443" width="2.786813" height="1.0008889">
             <feGaussianBlur stdDeviation="24.8052 0.01" result="blur" id="feGaussianBlur35923"/>
         </filter>
-        <filter style="color-interpolation-filters:sRGB;" inkscape:label="Blur" id="filter35929" x="-0.83016015" y="-0.00044444443" width="2.6603203" height="1.0008889">
+        <filter style="color-interpolation-filters:sRGB" id="filter35929" x="-0.83016015" y="-0.00044444443" width="2.6603203" height="1.0008889">
             <feGaussianBlur stdDeviation="24.8052 0.01" result="blur" id="feGaussianBlur35927"/>
         </filter>
-        <filter style="color-interpolation-filters:sRGB;" inkscape:label="Blur Double" id="filter35933" x="-0.6920356" y="-0.15646753" width="2.3840712" height="1.3129351" inkscape:menu="Blurs" inkscape:menu-tooltip="Overlays two copies with different blur amounts and modifiable blend and composite">
+        <filter style="color-interpolation-filters:sRGB" id="filter35933" x="-0.6920356" y="-0.15646753" width="2.3840712" height="1.3129351">
             <feGaussianBlur stdDeviation="24.8052 0.01" result="fbSourceGraphic" id="feGaussianBlur35931"/>
             <feColorMatrix result="fbSourceGraphicAlpha" in="fbSourceGraphic" values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0" id="feColorMatrix14371"/>
             <feGaussianBlur id="feGaussianBlur14373" stdDeviation="5" result="fbSourceGraphic" in="fbSourceGraphic"/>
@@ -22,12 +22,11 @@
             <feComposite in2="result1" id="feComposite14377" operator="arithmetic" in="fbSourceGraphic" k2="0.5" k3="0.5" result="result2"/>
             <feBlend in2="fbSourceGraphic" id="feBlend14379" mode="normal" result="result3"/>
         </filter>
-        <radialGradient inkscape:collect="always" xlink:href="#linearGradient20205" id="radialGradient3161" cx="97" cy="45.5" fx="97" fy="45.5" r="51.700001" gradientTransform="matrix(1,0,0,0.74468085,0.08560932,14.706286)" gradientUnits="userSpaceOnUse"/>
-        <radialGradient inkscape:collect="always" xlink:href="#linearGradient20205" id="radialGradient3163" cx="180.14398" cy="57" fx="180.14398" fy="57" r="35.856022" gradientTransform="matrix(1,0,0,0.75301159,0.08560932,17.167605)" gradientUnits="userSpaceOnUse"/>
-        <radialGradient inkscape:collect="always" xlink:href="#linearGradient20205" id="radialGradient3165" cx="249.68231" cy="57" fx="249.68231" fy="57" r="33.317692" gradientTransform="matrix(1,0,0,0.81038031,0.08560932,13.897587)" gradientUnits="userSpaceOnUse"/>
-        <radialGradient inkscape:collect="always" xlink:href="#linearGradient20205" id="radialGradient3167" cx="319.10001" cy="57" fx="319.10001" fy="57" r="36.099998" gradientTransform="matrix(1,0,0,0.74792244,0.08560932,17.457686)" gradientUnits="userSpaceOnUse"/>
+        <radialGradient xlink:href="#linearGradient20205" id="radialGradient3161" cx="97" cy="45.5" fx="97" fy="45.5" r="51.700001" gradientTransform="matrix(1,0,0,0.74468085,0.08560932,14.706286)" gradientUnits="userSpaceOnUse"/>
+        <radialGradient xlink:href="#linearGradient20205" id="radialGradient3163" cx="180.14398" cy="57" fx="180.14398" fy="57" r="35.856022" gradientTransform="matrix(1,0,0,0.75301159,0.08560932,17.167605)" gradientUnits="userSpaceOnUse"/>
+        <radialGradient xlink:href="#linearGradient20205" id="radialGradient3165" cx="249.68231" cy="57" fx="249.68231" fy="57" r="33.317692" gradientTransform="matrix(1,0,0,0.81038031,0.08560932,13.897587)" gradientUnits="userSpaceOnUse"/>
+        <radialGradient xlink:href="#linearGradient20205" id="radialGradient3167" cx="319.10001" cy="57" fx="319.10001" fy="57" r="36.099998" gradientTransform="matrix(1,0,0,0.74792244,0.08560932,17.457686)" gradientUnits="userSpaceOnUse"/>
     </defs>
-    <sodipodi:namedview id="namedview134" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" showgrid="false" inkscape:zoom="1.9612669" inkscape:cx="273.80261" inkscape:cy="-56.086195" inkscape:window-width="1920" inkscape:window-height="1011" inkscape:window-x="1920" inkscape:window-y="32" inkscape:window-maximized="1" inkscape:current-layer="g130-5" inkscape:pageshadow="2" width="412.47272px"/>
     <g fill="#b5d7f9" id="g130-5" transform="translate(-43.827795,-5.789289)">
         <path d="m 96.185609,71.389265 c 1.5,-8.7 3.8,-21.7 5.000001,-29 l 2.3,-13.1 11.3,-9.6 11.3,-9.6 h 35.3 35.4 l -2.3,13.3 c -1.3,7.2 -2.6,14.4 -3,16 -0.4,1.9 -3.9,5.6 -11.4,12 -5.9,5 -10.6,9.5 -10.3,10 0.2,0.4 1.5,0.7 2.8,0.7 1.9,0 2.6,0.9 4.1,5.3 2.1,6.5 3,7.7 6.1,7.7 2.3,0 2.4,0.2 1.8,4.3 -1.3,8.4 -0.2,7.8 -14.2,7.5 l -12.6,-0.3 -4.2,-12.5 -4.2,-12.5 -6.2,-0.3 -6.3,-0.3 0.7,-5.2 c 0.4,-2.9 0.9,-5.5 1.2,-5.9 0.2,-0.5 4.6,-0.8 9.7,-0.8 9.1,0 9.3,0 13.3,-3.5 3.7,-3.1 4.2,-4.2 5.2,-10.2 0.7,-3.8 1.4,-8.3 1.7,-10 l 0.6,-3.3 h -16 -16 l -4,3.2 c -2.3,1.8 -4.3,4 -4.6,4.8 -0.2,0.8 -2.6,14 -5.3,29.3 l -4.8,27.7 h -12.6 -12.600001 z" id="path122-6" style="filter:url(#filter35933)"/>
         <path d="m 192.48561,85.389265 c 0.5,-1.8 6.6,-36.3 6.6,-37.5 0,-0.4 3.6,-3.9 8,-7.7 l 8,-7.1 h 24.5 c 19.5,0 24.5,0.3 24.5,1.3 0,1.3 -7.4,44.2 -8.6,50 -0.6,2.7 -0.6,2.7 -9.1,2.7 h -8.6 l 0.7,-4.5 c 0.3,-2.5 0.9,-6.5 1.2,-9 l 0.7,-4.5 h -13.6 -13.6 l -1,5.3 c -0.6,2.8 -1.3,6.9 -1.7,9 l -0.6,3.7 h -9 c -8,0 -8.9,-0.2 -8.4,-1.7 z m 50,-27.5 c 1.6,-7.4 2.6,-13.1 2.6,-14.3 0,-1.2 -2.2,-1.5 -11.8,-1.5 -11,0 -12,0.2 -14,2.3 -2,2.1 -4.1,8.9 -4.2,13.5 0,2.2 0.2,2.2 13.5,2.2 13.2,0 13.5,-0.1 13.9,-2.2 z" id="path124-2" style="filter:url(#filter35929)"/>

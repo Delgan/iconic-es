@@ -1,8 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
-<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" width="248.76822mm" height="87.770058mm" viewBox="0 0 248.76821 87.770058" version="1.1" id="svg1" inkscape:version="1.4.3 (0d15f75042, 2025-12-25)" sodipodi:docname="lutro.svg">
-    <sodipodi:namedview id="namedview1" pagecolor="#9f9f9f" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:document-units="mm" inkscape:zoom="0.56693536" inkscape:cx="309.5591" inkscape:cy="236.35852" inkscape:window-width="1920" inkscape:window-height="1080" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="0" inkscape:current-layer="layer1"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="248.76822mm" height="87.770058mm" viewBox="0 0 248.76821 87.770058" version="1.1" id="svg1">
     <defs id="defs1"/>
-    <g inkscape:label="Capa 1" inkscape:groupmode="layer" id="layer1" transform="translate(-19.693392,-85.572215)">
+    <g id="layer1" transform="translate(-19.693392,-85.572215)">
         <g id="g62" transform="translate(32.67,16.5)">
             <path style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#ffffff;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;enable-background:accumulate;stop-color:#000000" d="m 45.78125,86.078125 c -6.545903,-0.0261 -12.003886,5.326637 -12.023438,11.869141 -0.01949,6.547984 5.305439,12.019544 11.84961,12.060544 6.574975,0.0422 12.039307,-5.31619 12.08789,-11.890623 0.04867,-6.567363 -5.345004,-12.012481 -11.912109,-12.039062 a 4.0004,4.0004 0 0 0 -0.002,0 z m -0.03125,8 c 2.327223,0.0094 3.962473,1.664812 3.945312,3.980469 -0.01622,2.194386 -1.807244,3.963546 -4.037109,3.949216 -2.330613,-0.0146 -3.909599,-1.59921 -3.902344,-4.037107 0.0072,-2.405316 1.50994,-3.902482 3.994141,-3.892578 z" id="path61"/>
             <g id="path2" style="opacity:1">
