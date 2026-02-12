@@ -1,8 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 298.93312 89.277683" version="1.1" id="svg29" sodipodi:docname="uzebox.svg" width="298.93311" height="89.277679" inkscape:version="1.4.3 (0d15f75042, 2025-12-25)">
-    <sodipodi:namedview id="namedview29" pagecolor="#dcdcdc" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:zoom="2.5843063" inkscape:cx="155.55432" inkscape:cy="44.112419" inkscape:window-width="1920" inkscape:window-height="1080" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="0" inkscape:current-layer="svg29"/>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 298.93312 89.277683" version="1.1" id="svg29" width="298.93311" height="89.277679">
     <defs id="defs15">
-        <inkscape:perspective sodipodi:type="inkscape:persp3d" inkscape:vp_x="0 : 37.982683 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_z="347.869 : 37.982683 : 1" inkscape:persp3d-origin="173.9345 : 20.88435 : 1" id="perspective40"/>
         <linearGradient y2="25.554001" x2="299.87201" y1="70.387001" x1="299.87201" gradientUnits="userSpaceOnUse" id="d">
             <stop style="stop-color:#a6a6a6;stop-opacity:1" stop-color="#d9d9d9" offset="0" id="stop1"/>
             <stop stop-color="#d9d9d9" offset="1" style="stop-color:#efefef;stop-opacity:1" id="stop2"/>

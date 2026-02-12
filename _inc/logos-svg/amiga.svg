@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="507.27927" height="116.92469" xml:space="preserve" version="1.1" id="svg48" sodipodi:docname="amiga.svg" inkscape:version="1.4.3 (0d15f75042, 2025-12-25)">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="507.27927" height="116.92469" xml:space="preserve" version="1.1" id="svg48">
     <defs id="defs48">
-        <linearGradient id="swatch60" inkscape:swatch="solid">
-            <stop style="stop-color:#ffffff;stop-opacity:1;" offset="0" id="stop60"/>
+        <linearGradient id="swatch60">
+            <stop style="stop-color:#ffffff;stop-opacity:1" offset="0" id="stop60"/>
         </linearGradient>
         <linearGradient id="linearGradient51" gradientUnits="userSpaceOnUse" x1="280.51901" y1="41.153" x2="280.51901" y2="128.077">
             <stop offset=".35" style="stop-color:#f8f8f8" id="stop1-3"/>
@@ -24,12 +24,12 @@
             <stop offset=".35" style="stop-color:#f8f8f8" id="stop46-9"/>
             <stop offset=".716" style="stop-color:#c9c9c9" id="stop47-1"/>
         </linearGradient>
-        <linearGradient inkscape:collect="always" xlink:href="#swatch60" id="linearGradient60" x1="110.2819" y1="83.084503" x2="217.12552" y2="83.084503" gradientUnits="userSpaceOnUse"/>
-        <linearGradient inkscape:collect="always" xlink:href="#swatch60" id="linearGradient61" gradientUnits="userSpaceOnUse" x1="110.2819" y1="83.084503" x2="217.12552" y2="83.084503"/>
-        <linearGradient inkscape:collect="always" xlink:href="#swatch60" id="linearGradient62" gradientUnits="userSpaceOnUse" x1="110.2819" y1="83.084503" x2="217.12552" y2="83.084503"/>
-        <linearGradient inkscape:collect="always" xlink:href="#swatch60" id="linearGradient63" gradientUnits="userSpaceOnUse" x1="110.2819" y1="83.084503" x2="217.12552" y2="83.084503"/>
-        <linearGradient inkscape:collect="always" xlink:href="#swatch60" id="linearGradient64" gradientUnits="userSpaceOnUse" x1="110.2819" y1="83.084503" x2="217.12552" y2="83.084503"/>
-        <filter style="color-interpolation-filters:sRGB;" inkscape:label="Lighting" id="filter64" x="0" y="0" width="1" height="1">
+        <linearGradient xlink:href="#swatch60" id="linearGradient60" x1="110.2819" y1="83.084503" x2="217.12552" y2="83.084503" gradientUnits="userSpaceOnUse"/>
+        <linearGradient xlink:href="#swatch60" id="linearGradient61" gradientUnits="userSpaceOnUse" x1="110.2819" y1="83.084503" x2="217.12552" y2="83.084503"/>
+        <linearGradient xlink:href="#swatch60" id="linearGradient62" gradientUnits="userSpaceOnUse" x1="110.2819" y1="83.084503" x2="217.12552" y2="83.084503"/>
+        <linearGradient xlink:href="#swatch60" id="linearGradient63" gradientUnits="userSpaceOnUse" x1="110.2819" y1="83.084503" x2="217.12552" y2="83.084503"/>
+        <linearGradient xlink:href="#swatch60" id="linearGradient64" gradientUnits="userSpaceOnUse" x1="110.2819" y1="83.084503" x2="217.12552" y2="83.084503"/>
+        <filter style="color-interpolation-filters:sRGB" id="filter64" x="0" y="0" width="1" height="1">
             <feComponentTransfer in="blur" result="component" id="feComponentTransfer64">
                 <feFuncR type="gamma" amplitude="0.838011" exponent="1" offset="0" id="feFuncR64"/>
                 <feFuncG type="gamma" amplitude="0.838011" exponent="1" offset="0" id="feFuncG64"/>
@@ -37,7 +37,6 @@
             </feComponentTransfer>
         </filter>
     </defs>
-    <sodipodi:namedview id="namedview48" pagecolor="#766d6d" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:zoom="1.1069415" inkscape:cx="160.80344" inkscape:cy="75.433072" inkscape:window-width="1920" inkscape:window-height="1080" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="0" inkscape:current-layer="svg48"/>
     <g id="g60" transform="translate(17.536635,-164.81054)">
         <g transform="matrix(0.86835,0,0,0.8771,-7.3385222,163.38001)" id="g3-7" style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:11.4585;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1">
             <linearGradient id="linearGradient8" gradientUnits="userSpaceOnUse" x1="280.51901" y1="41.153" x2="280.51901" y2="128.077">

@@ -1,8 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
-<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" version="1.1" id="svg1" width="1086.0001" height="356.40039" viewBox="0 0 1086.0001 356.40039" sodipodi:docname="enterprise.svg" inkscape:version="1.4.3 (0d15f75042, 2025-12-25)">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" id="svg1" width="1086.0001" height="356.40039" viewBox="0 0 1086.0001 356.40039">
     <defs id="defs1"/>
-    <sodipodi:namedview id="namedview1" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:zoom="0.60197822" inkscape:cx="544.87021" inkscape:cy="225.9218" inkscape:window-width="1920" inkscape:window-height="1080" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="0" inkscape:current-layer="g1"/>
-    <g id="g1" inkscape:groupmode="layer" inkscape:label="1" transform="translate(16.39298,15.625131)">
+    <g id="g1" transform="translate(16.39298,15.625131)">
         <path style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#ffffff;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;enable-background:accumulate;stop-color:#000000" d="M -1.3929798,-15.625131 A 15.0015,15.0015 0 0 0 -16.39298,-0.62513142 V 325.77525 a 15.0015,15.0015 0 0 0 15.0000002,15 H 1054.6071 a 15.0015,15.0015 0 0 0 15,-15 V -0.62513142 a 15.0015,15.0015 0 0 0 -15,-14.99999958 z m 14.9999998,30 H 1039.6071 V 310.77525 H 13.60702 Z" id="path39"/>
         <path id="path2" d="M 0,326.4 H 1056 V 0.00134149 H 0 Z" style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.133333"/>
         <path id="path3" d="M 42.786932,259.8016 H 196.34693 V 237.4428 H 42.786932 Z" style="fill:#eb222c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.133333"/>

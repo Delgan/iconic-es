@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2164.2527 609.86354" version="1.1" id="svg17" sodipodi:docname="easyrpg.svg" width="2164.2527" height="609.86353" inkscape:version="1.4.3 (0d15f75042, 2025-12-25)">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2164.2527 609.86354" version="1.1" id="svg17" width="2164.2527" height="609.86353">
     <defs id="defs17">
         <radialGradient id="a-3" cx="-0.60399997" cy="-94.244003" gradientTransform="matrix(0.6042,0,0,-0.6042,441.85301,-471.06962)" gradientUnits="userSpaceOnUse" r="226.5">
             <stop offset="0" stop-color="#d8edca" id="stop1-6"/>
@@ -11,7 +11,6 @@
             <stop offset="1" stop-color="#42632d" id="stop5-6"/>
         </radialGradient>
     </defs>
-    <sodipodi:namedview id="namedview17" pagecolor="#a5a5a5" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:zoom="0.23972055" inkscape:cx="848.9051" inkscape:cy="83.430477" inkscape:window-width="1920" inkscape:window-height="1080" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="0" inkscape:current-layer="svg17"/>
     <radialGradient id="a" cx="-0.60399997" cy="-94.244003" gradientTransform="matrix(0.6042,0,0,-0.6042,49.728098,119.62314)" gradientUnits="userSpaceOnUse" r="226.5">
         <stop offset="0" stop-color="#d8edca" id="stop1"/>
         <stop offset="1" stop-color="#9ebf88" id="stop2"/>
