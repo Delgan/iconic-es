@@ -1,21 +1,22 @@
-<svg width="1920" height="1080" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <clipPath id="cut-in-shadows">
-      <rect x="0" y="0" width="230" height="1080" />
-      <rect x="730" y="0" width="340" height="1080" />
-    </clipPath>
-    <filter id="side-shadows" x="-50%" y="-50%" width="200%" height="200%" >
-      <feDropShadow dx="-5" dy="0" stdDeviation="7" flood-color="rgba(0, 0, 0, 0.35)" />
-      <feDropShadow dx="5" dy="0" stdDeviation="7" flood-color="rgba(0, 0, 0, 0.35)" />
-    </filter>
-    <linearGradient id="gradient" x1="0%" y1="100%" x2="0%" y2="0%" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#111111" stop-opacity="0.9" offset="0" />
-      <stop stop-color="#111111" stop-opacity="0.9" offset="0.5" />
-      <stop stop-color="#111111" stop-opacity="0.45" offset="1" />
-    </linearGradient>
-  </defs>
-  <rect x="230" y="-50" width="500" height="1180" filter="url(#side-shadows)" clip-path="url(#cut-in-shadows)" />
-  <rect x="230" y="-50" width="500" height="1180" fill="url(#gradient)" />
-  <rect x="270" y="450" width="420" height="1.2" clip-rule="evenodd" fill="#a0a0a0" fill-opacity="1" fill-rule="evenodd" stroke-width="3.5" stroke-linejoin="round" stroke-miterlimit="2" />
-  <rect x="270" y="595" width="420" height="1.2" clip-rule="evenodd" fill="#a0a0a0" fill-opacity="1" fill-rule="evenodd" stroke-width="3.5" stroke-linejoin="round" stroke-miterlimit="2" />
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080">
+    <defs>
+        <clipPath id="cut-in-shadows">
+            <rect x="0" y="0" width="230" height="1080"/>
+            <rect x="730" y="0" width="340" height="1080"/>
+        </clipPath>
+        <filter id="side-shadows" x="-50%" y="-50%" width="200%" height="200%">
+            <feDropShadow dx="-5" dy="0" stdDeviation="7" flood-color="rgba(0, 0, 0, 0.35)"/>
+            <feDropShadow dx="5" dy="0" stdDeviation="7" flood-color="rgba(0, 0, 0, 0.35)"/>
+        </filter>
+        <linearGradient id="gradient" x1="0%" y1="100%" x2="0%" y2="0%" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#111111" stop-opacity="0.9" offset="0"/>
+            <stop stop-color="#111111" stop-opacity="0.9" offset="0.5"/>
+            <stop stop-color="#111111" stop-opacity="0.45" offset="1"/>
+        </linearGradient>
+    </defs>
+    <rect x="230" y="-50" width="500" height="1180" filter="url(#side-shadows)" clip-path="url(#cut-in-shadows)"/>
+    <rect x="230" y="-50" width="500" height="1180" fill="url(#gradient)"/>
+    <rect x="270" y="450" width="420" height="1.2" clip-rule="evenodd" fill="#a0a0a0" fill-opacity="1" fill-rule="evenodd" stroke-width="3.5" stroke-linejoin="round" stroke-miterlimit="2"/>
+    <rect x="270" y="595" width="420" height="1.2" clip-rule="evenodd" fill="#a0a0a0" fill-opacity="1" fill-rule="evenodd" stroke-width="3.5" stroke-linejoin="round" stroke-miterlimit="2"/>
 </svg>
