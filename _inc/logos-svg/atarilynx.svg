@@ -1,50 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   width="586.92969"
-   height="124.50977"
-   xml:space="preserve"
-   version="1.1"
-   id="svg3"
-   sodipodi:docname="atarilynx.svg"
-   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"><defs
-   id="defs3" /><sodipodi:namedview
-   id="namedview3"
-   pagecolor="#ffffff"
-   bordercolor="#000000"
-   borderopacity="0.25"
-   inkscape:showpageshadow="2"
-   inkscape:pageopacity="0.0"
-   inkscape:pagecheckerboard="0"
-   inkscape:deskcolor="#d1d1d1"
-   inkscape:zoom="1.5654517"
-   inkscape:cx="293.8449"
-   inkscape:cy="62.282343"
-   inkscape:window-width="1920"
-   inkscape:window-height="1080"
-   inkscape:window-x="0"
-   inkscape:window-y="0"
-   inkscape:window-maximized="0"
-   inkscape:current-layer="svg3" />
-    <g
-   id="path1"
-   style="opacity:1;paint-order:markers stroke fill"
-   transform="translate(10,10)"><path
-     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#ffffff;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
-     d="M 20,-10 C 3.5454545,-10 -10,3.5454545 -10,20 v 64.509766 c 0,16.454544 13.5454545,30.000004 30,30.000004 h 526.92969 c 16.45454,0 30,-13.54546 30,-30.000004 V 20 c 0,-16.4545455 -13.54546,-30 -30,-30 z m 0,20 h 526.92969 c 5.54545,0 10,4.454545 10,10 v 64.509766 c 0,5.545454 -4.45455,10 -10,10 H 20 c -5.545455,0 -10,-4.454546 -10,-10 V 20 c 0,-5.545455 4.454545,-10 10,-10 z"
-     id="path4" /><path
-     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
-     d="m 566.929,84.51 c 0,11 -9,20 -20,20 H 20 c -11,0 -20,-9 -20,-20 V 20 C 0,9 9,0 20,0 h 526.929 c 11,0 20,9 20,20 z"
-     id="path5" /></g>
-    <path
-   fill="#ff0000"
-   d="M 442.612,78.958 394.13,96.539 h 48.791 L 461.475,86.296 Z M 397.336,28.221 h 57.596 l 76.685,38.876 h -30.072 l -21.144,-9.72 -13.036,5.304 z"
-   id="path2" />
-    <path
-   fill="#ffcc00"
-   d="m 504.603,46.031 48.488,-17.573 h -48.789 l -18.553,10.235 z m 45.283,50.737 H 492.291 L 415.605,57.892 h 30.071 l 21.146,9.721 13.035,-5.305 z M 33.837,27.749 h 38.175 v 46.65 H 33.837 Z m 0,52.361 h 97.824 V 94.391 H 33.837 Z M 95.87,27.749 h 45.34 l 31.017,26.177 -22.42,16.449 z m 57.266,45.218 v 21.425 h 35.791 V 72.967 l 69.198,-45.218 h -33.407 l -69.192,45.218 z m 109.763,-38.082 38.175,23.801 v 35.706 h -38.175 z m 4.768,-7.136 97.831,66.643 h 21.474 V 27.742 H 368.361 V 74.613 L 298.69,27.749 Z"
-   id="path3" />
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" width="586.92969" height="124.50977" xml:space="preserve" version="1.1" id="svg3" sodipodi:docname="atarilynx.svg" inkscape:version="1.4.3 (0d15f75042, 2025-12-25)">
+    <defs id="defs3"/>
+    <sodipodi:namedview id="namedview3" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:zoom="1.5654517" inkscape:cx="293.8449" inkscape:cy="62.282343" inkscape:window-width="1920" inkscape:window-height="1080" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="0" inkscape:current-layer="svg3"/>
+    <g id="path1" style="opacity:1;paint-order:markers stroke fill" transform="translate(10,10)">
+        <path style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#ffffff;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;enable-background:accumulate;stop-color:#000000;stop-opacity:1" d="M 20,-10 C 3.5454545,-10 -10,3.5454545 -10,20 v 64.509766 c 0,16.454544 13.5454545,30.000004 30,30.000004 h 526.92969 c 16.45454,0 30,-13.54546 30,-30.000004 V 20 c 0,-16.4545455 -13.54546,-30 -30,-30 z m 0,20 h 526.92969 c 5.54545,0 10,4.454545 10,10 v 64.509766 c 0,5.545454 -4.45455,10 -10,10 H 20 c -5.545455,0 -10,-4.454546 -10,-10 V 20 c 0,-5.545455 4.454545,-10 10,-10 z" id="path4"/>
+        <path style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;enable-background:accumulate;stop-color:#000000;stop-opacity:1" d="m 566.929,84.51 c 0,11 -9,20 -20,20 H 20 c -11,0 -20,-9 -20,-20 V 20 C 0,9 9,0 20,0 h 526.929 c 11,0 20,9 20,20 z" id="path5"/>
+    </g>
+    <path fill="#ff0000" d="M 442.612,78.958 394.13,96.539 h 48.791 L 461.475,86.296 Z M 397.336,28.221 h 57.596 l 76.685,38.876 h -30.072 l -21.144,-9.72 -13.036,5.304 z" id="path2"/>
+    <path fill="#ffcc00" d="m 504.603,46.031 48.488,-17.573 h -48.789 l -18.553,10.235 z m 45.283,50.737 H 492.291 L 415.605,57.892 h 30.071 l 21.146,9.721 13.035,-5.305 z M 33.837,27.749 h 38.175 v 46.65 H 33.837 Z m 0,52.361 h 97.824 V 94.391 H 33.837 Z M 95.87,27.749 h 45.34 l 31.017,26.177 -22.42,16.449 z m 57.266,45.218 v 21.425 h 35.791 V 72.967 l 69.198,-45.218 h -33.407 l -69.192,45.218 z m 109.763,-38.082 38.175,23.801 v 35.706 h -38.175 z m 4.768,-7.136 97.831,66.643 h 21.474 V 27.742 H 368.361 V 74.613 L 298.69,27.749 Z" id="path3"/>
 </svg>
