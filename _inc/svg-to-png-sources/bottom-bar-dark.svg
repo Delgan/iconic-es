@@ -1,11 +1,12 @@
-<svg width="1920" height="1080" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bottom-bar-gradient" gradientUnits="objectBoundingBox" x1="100%" y1="100%" x2="100%" y2="0%" >
-      <stop offset="0" stop-color="#111111" stop-opacity="1" />
-      <stop offset="0.25" stop-color="#111111" stop-opacity="1" />
-      <stop offset="0.85" stop-color="#111111" stop-opacity="0.3" />
-      <stop offset="1" stop-color="#111111" stop-opacity="0" />
-    </linearGradient>
-  </defs>
-  <rect x="0" y="880" width="1920" height="200" style="fill:url(#bottom-bar-gradient);"  />
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080">
+    <defs>
+        <linearGradient id="bottom-bar-gradient" gradientUnits="objectBoundingBox" x1="100%" y1="100%" x2="100%" y2="0%">
+            <stop offset="0" stop-color="#111111" stop-opacity="1"/>
+            <stop offset="0.25" stop-color="#111111" stop-opacity="1"/>
+            <stop offset="0.85" stop-color="#111111" stop-opacity="0.3"/>
+            <stop offset="1" stop-color="#111111" stop-opacity="0"/>
+        </linearGradient>
+    </defs>
+    <rect x="0" y="880" width="1920" height="200" style="fill:url(#bottom-bar-gradient)"/>
 </svg>
