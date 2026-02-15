@@ -237,8 +237,106 @@ def check_xml_formatting():
         yield Fix(filepath, "Formatted XML file")
 
 
-def check_image_dimensions():
-    """Check that all backgrounds and overlays are FHD (1920x1080)."""
+def check_vector_image_dimensions():
+    """Check that all SVG logos have correct dimensions."""
+    for filepath in _iter_files("logos-svg"):
+        with open(filepath, "rb") as file:
+            svg_content = file.read()
+
+        parser = lxml.etree.XMLParser(
+            remove_comments=False,
+            no_network=True,
+            remove_blank_text=False,
+        )
+
+        try:
+            tree = lxml.etree.fromstring(svg_content, parser=parser)
+        except Exception as e:
+            yield Failure(filepath, f"Could not parse SVG file: {e}")
+            continue
+
+        svg = lxml.etree.ElementTree(tree)
+
+        root = svg.getroot()
+
+        def num_unit(v):
+            m = re.match(r"([\d.]+)([a-z%]*)", v.strip())
+            return float(m.group(1)), m.group(2)
+
+        def conv_unit(v, unit):
+            if unit == "px" or unit == "":
+                return float(v)
+            elif unit == "pt":
+                return float(v) * 1.25
+            elif unit == "pc":
+                return float(v) * 15
+            elif unit == "in":
+                return float(v) * 96
+            elif unit == "cm":
+                return float(v) * 96 / 2.54
+            elif unit == "mm":
+                return float(v) * 96 / 25.4
+            else:
+                raise ValueError(f"Unsupported unit: {unit}")
+
+        view_box = root.get("viewBox")
+        width = root.get("width")
+        height = root.get("height")
+        fixed = False
+
+        if not view_box and (not width or not height):
+            yield Failure(filepath, "SVG must have a viewBox or both width and height")
+            continue
+
+        if not width or not height:
+            _, _, w, h = map(float, view_box.replace(",", " ").split())
+        else:
+            w = conv_unit(*num_unit(width))
+            h = conv_unit(*num_unit(height))
+
+        if not view_box:
+            root.set("viewBox", f"0 0 {w} {h}")
+            fixed = True
+
+        target_w, target_h = 600, 300
+
+        if w / h > target_w / target_h:
+            if w != target_w:
+                root.set("width", str(target_w))
+                root.set("height", str(h * target_w / w))
+                fixed = True
+        else:
+            if h != target_h:
+                root.set("height", str(target_h))
+                root.set("width", str(w * target_h / h))
+                fixed = True
+
+        if not fixed:
+            yield Success(filepath)
+            continue
+
+        lxml.etree.indent(root, space="    ")
+
+        formatted = lxml.etree.tostring(
+            root,
+            encoding="utf-8",
+            xml_declaration=True,
+            pretty_print=True,
+        )
+        formatted = formatted.rstrip(b"\n") + b"\n"
+
+        if formatted == svg_content:
+            yield Success(filepath)
+            continue
+
+        with open(filepath, "wb") as file:
+            file.write(formatted)
+
+        yield Fix(filepath, "Rescaled SVG")
+
+
+def check_raster_image_dimensions():
+    """Check that all background and overlays have correct dimensions."""
     for dir in ["backgrounds", "overlays"]:
         for f in _iter_files(dir):
             with Image.open(f) as img:
@@ -519,9 +617,10 @@ def check_overlays_match_their_backgrounds():
 
 def verify_theme_quality():
     checks: list[CheckFunction] = [
+        check_vector_image_dimensions,
+        check_raster_image_dimensions,
         check_svg_formatting,
         check_xml_formatting,
-        check_image_dimensions,
         check_systems_are_complete,
         check_all_images_have_system,
         check_file_extensions,
