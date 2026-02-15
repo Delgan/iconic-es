@@ -7,11 +7,14 @@ from rich.console import Console
 from rich.padding import Padding
 from rich.traceback import Traceback
 from dataclasses import dataclass
+import tempfile
+import subprocess
 from PIL import Image
 import imagehash
 from typing import Protocol, Generator
 import sys
 import lxml.etree
+import re
 
 
 @dataclass
@@ -128,6 +131,73 @@ def _run_check(check: CheckFunction):
         for fail in failures:
             inform(f"{ppath(fail.file)}: {escape(fail.reason)}")
         return False
+
+
+def check_svg_formatting():
+    """Check that SVG files are properly formatted."""
+    for filepath in _find_files(".svg"):
+        with open(filepath, "rb") as file:
+            svg_content = file.read()
+
+        parser = lxml.etree.XMLParser(
+            remove_comments=False,
+            no_network=True,
+            remove_blank_text=False,
+        )
+
+        try:
+            tree = lxml.etree.fromstring(svg_content, parser=parser)
+        except Exception as e:
+            yield Failure(filepath, f"Could not parse SVG file: {e}")
+            continue
+
+        svg = lxml.etree.ElementTree(tree)
+        root = svg.getroot()
+
+        for el in root.xpath(
+            "//*[starts-with(name(), 'sodipodi:') or starts-with(name(), 'inkscape:')]"
+        ):
+            el.getparent().remove(el)
+
+        for el in root.xpath("//*"):
+            to_remove = [a for a in el.attrib if "inkscape" in a or "sodipodi" in a]
+            for attr in to_remove:
+                del el.attrib[attr]
+
+        lxml.etree.cleanup_namespaces(root)
+
+        inkscape_css_re = re.compile(r"-inkscape-[^;]+;?\s*")
+
+        for el in root.xpath("//*[@style]"):
+            style_text = el.get("style")
+
+            new_style = inkscape_css_re.sub("", style_text).strip()
+
+            new_style = new_style.rstrip(";")
+
+            if new_style:
+                el.set("style", new_style)
+            else:
+                del el.attrib["style"]
+
+        lxml.etree.indent(root, space="    ")
+
+        formatted = lxml.etree.tostring(
+            root,
+            encoding="utf-8",
+            xml_declaration=True,
+            pretty_print=True,
+        )
+        formatted = formatted.rstrip(b"\n") + b"\n"
+
+        if formatted == svg_content:
+            yield Success(filepath)
+            continue
+
+        with open(filepath, "wb") as file:
+            file.write(formatted)
+
+        yield Fix(filepath, "Formatted SVG file")
 
 
 def check_xml_formatting():
@@ -449,6 +519,7 @@ def check_overlays_match_their_backgrounds():
 
 def verify_theme_quality():
     checks: list[CheckFunction] = [
+        check_svg_formatting,
         check_xml_formatting,
         check_image_dimensions,
         check_systems_are_complete,
