@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0.00 0.00 360.00 216.00">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0.00 0.00 360.00 216.00" height="300" width="500.0">
     <g stroke-width="2.00" fill="none" stroke-linecap="butt">
         <path stroke="#6f1010" vector-effect="non-scaling-stroke" d="   M 331.76 136.96   Q 331.79 137.10 331.83 137.20   Q 331.88 137.38 332.07 137.38   Q 338.03 137.41 340.70 142.05   Q 343.97 147.75 339.83 153.89"/>
         <path stroke="#1f6231" vector-effect="non-scaling-stroke" d="   M 320.83 206.43   L 313.46 205.60"/>

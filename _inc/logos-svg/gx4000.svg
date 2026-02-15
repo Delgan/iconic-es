@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="437.09827" height="145.12889" version="1.1" id="svg6" xml:space="preserve">
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="199.21683515242464" version="1.1" id="svg6" xml:space="preserve" viewBox="0 0 437.09827 145.12889">
     <defs id="defs1">
         <filter style="color-interpolation-filters:sRGB" id="a" x="0" y="0" width="1" height="1">
             <feConvolveMatrix order="3 3" kernelMatrix="0 -0.15 0 -0.15 1.6 -0.15 0 -0.15 0" divisor="1" in="SourceGraphic" targetX="1" targetY="1" id="feConvolveMatrix1"/>
