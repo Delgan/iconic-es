@@ -7,8 +7,7 @@ from rich.console import Console
 from rich.padding import Padding
 from rich.traceback import Traceback
 from dataclasses import dataclass
-import tempfile
-import subprocess
+import argparse
 from PIL import Image
 import imagehash
 from typing import Protocol, Generator
@@ -462,9 +461,7 @@ def check_all_variables_fully_translated():
 
         if lang_tags:
             unexpected = ", ".join(lang_tags)
-            yield Failure(
-                theme_lang, f"Unexpected tags in language {lang}: {unexpected}"
-            )
+            yield Failure(theme_lang, f"Unexpected tags in language {lang}: {unexpected}")
 
     yield Success(theme_lang)
 
@@ -544,9 +541,7 @@ def check_no_missing_collections():
 
     if theme_collections:
         unexpected = ", ".join(theme_collections)
-        yield Failure(
-            collections_file, f"Collections file has extra entries: {unexpected}"
-        )
+        yield Failure(collections_file, f"Collections file has extra entries: {unexpected}")
 
 
 def check_duplicated_backgrounds():
@@ -653,5 +648,8 @@ def verify_theme_quality():
 
 
 if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description="Verify the quality of the theme assets.")
+    parser.parse_args()
+
     if not verify_theme_quality():
         sys.exit(1)
