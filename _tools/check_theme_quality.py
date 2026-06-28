@@ -239,7 +239,7 @@ def check_xml_formatting():
 
 
 def check_images_encoding():
-    """Check that images are valid and do not carry unecesarry Exif metadata."""
+    """Check that images are valid and stripped from metadata."""
     for dir in ["backgrounds", "overlays", "logos", "controllers"]:
         for filepath in _iter_files(dir):
             ext = filepath.suffix
