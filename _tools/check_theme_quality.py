@@ -9,6 +9,8 @@ from rich.traceback import Traceback
 from dataclasses import dataclass
 import argparse
 from PIL import Image
+import filetype
+import piexif
 import imagehash
 from typing import Protocol, Generator
 import sys
@@ -234,6 +236,33 @@ def check_xml_formatting():
             file.write(formatted)
 
         yield Fix(filepath, "Formatted XML file")
+
+
+def check_images_encoding():
+    """Check that images are valid and do not carry unecesarry Exif metadata."""
+    for dir in ["backgrounds", "overlays", "logos", "controllers"]:
+        for filepath in _iter_files(dir):
+            ext = filepath.suffix
+            guess = filetype.guess_extension(filepath)
+            if guess is None:
+                yield Failure(filepath, "Could not guess actual image type")
+                continue
+            if f".{guess}" != ext:
+                yield Failure(
+                    filepath,
+                    f"Guessed image type '{guess}' does not match its extension: {ext}",
+                )
+                continue
+            with Image.open(filepath) as img:
+                if "exif" not in img.info:
+                    yield Success(filepath)
+                    continue
+                try:
+                    piexif.remove(str(filepath))
+                except Exception:  # Bug in the library with some images.
+                    yield Failure(filepath, "Invalid format, failed to remove Exif")
+                else:
+                    yield Fix(filepath, "Removed existing Exif metadata")
 
 
 def check_vector_image_dimensions():
@@ -616,6 +645,7 @@ def verify_theme_quality():
         check_raster_image_dimensions,
         check_svg_formatting,
         check_xml_formatting,
+        check_images_encoding,
         check_systems_are_complete,
         check_all_images_have_system,
         check_file_extensions,
