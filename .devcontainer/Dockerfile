@@ -1,6 +1,6 @@
-FROM ubuntu:22.04
+FROM ubuntu:26.04
 
-ARG USERNAME=dev
+ARG USERNAME=ubuntu
 ARG USER_UID=1000
 ARG USER_GID=$USER_UID
 
@@ -10,7 +10,7 @@ RUN apt-get update && apt-get install -y \
     build-essential cmake git libboost-all-dev libsdl2-dev \
     libsdl2-image-dev libsdl2-mixer-dev libsdl2-ttf-dev libfreeimage-dev \
     libfreetype6-dev libcurl4-openssl-dev libasound2-dev libimage-exiftool-perl \
-    mesa-utils xorg openbox python3-pip imagemagick inkscape vlc && \
+    mesa-utils xorg openbox python3-pip python3-venv imagemagick inkscape vlc && \
     apt-get clean && \
     rm -rf /var/lib/apt/lists/*
 
@@ -38,9 +38,7 @@ RUN mkdir -p /opt/roms && \
 RUN mkdir -p /opt/userdata && \
     chown $USER_UID:$USER_GID /opt/userdata
 
-RUN groupadd --gid $USER_GID $USERNAME \
-    && useradd --uid $USER_UID --gid $USER_GID -m $USERNAME \
-    && echo $USERNAME ALL=\(root\) NOPASSWD:ALL > /etc/sudoers.d/$USERNAME \
+RUN echo $USERNAME ALL=\(root\) NOPASSWD:ALL > /etc/sudoers.d/$USERNAME \
     && chmod 0440 /etc/sudoers.d/$USERNAME
 
 RUN SNIPPET="export PROMPT_COMMAND='history -a' && export HISTFILE=/bash-history/.bash_history" \

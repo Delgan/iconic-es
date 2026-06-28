@@ -23,7 +23,7 @@
     "remoteEnv": {
         "WORKSPACE_DIR": "${containerWorkspaceFolder}"
     },
-    "remoteUser": "dev",
+    "remoteUser": "ubuntu",
     "runArgs": [
         "-e",
         "DISPLAY=${localEnv:DISPLAY}",
