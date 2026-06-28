@@ -9,7 +9,7 @@ ENV DEBIAN_FRONTEND=noninteractive
 RUN apt-get update && apt-get install -y \
     build-essential cmake git libboost-all-dev libsdl2-dev \
     libsdl2-image-dev libsdl2-mixer-dev libsdl2-ttf-dev libfreeimage-dev \
-    libfreetype6-dev libcurl4-openssl-dev libasound2-dev \
+    libfreetype6-dev libcurl4-openssl-dev libasound2-dev libimage-exiftool-perl \
     mesa-utils xorg openbox python3-pip imagemagick inkscape vlc && \
     apt-get clean && \
     rm -rf /var/lib/apt/lists/*
