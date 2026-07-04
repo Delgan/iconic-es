@@ -8,7 +8,7 @@ from rich.padding import Padding
 from rich.traceback import Traceback
 from dataclasses import dataclass
 import argparse
-from PIL import Image
+from PIL import Image, ImageStat
 import filetype
 import piexif
 import imagehash
@@ -613,7 +613,7 @@ def check_overlays_match_their_backgrounds():
 
         with Image.open(overlay_file).convert("RGBA") as overlay_image:
             overlay_alpha = overlay_image.split()[-1]
-            overlay_mask = overlay_alpha.point(lambda p: 255 if p == 255 else 0)
+            overlay_mask = overlay_alpha.point(lambda p: 255 if p > 250 else 0)
 
             overlay_masked = Image.new("RGB", overlay_image.size, (255, 255, 255))
             overlay_masked.paste(overlay_image, mask=overlay_mask)
@@ -638,12 +638,18 @@ def check_overlays_match_their_backgrounds():
                 overlay_block = overlay_masked.crop(box)
                 background_block = background_masked.crop(box)
 
+                # Perceptual hash is unreliable on nearly uniform blocks.
+                if ImageStat.Stat(overlay_block.convert("L")).stddev[0] < 3.0:
+                    continue
+
                 overlay_hash = imagehash.phash(overlay_block)
                 background_hash = imagehash.phash(background_block)
 
                 block_distances.append(background_hash - overlay_hash)
 
-        if max(block_distances) > 5:
+        if not block_distances:
+            yield Failure(overlay_file, "Nothing was compared")
+        elif max(block_distances) > 5:
             yield Failure(overlay_file, "Overlay does not match background visually")
         else:
             yield Success(overlay_file)
