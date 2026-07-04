@@ -16,6 +16,8 @@ from typing import Protocol, Generator
 import sys
 import lxml.etree
 import re
+import struct
+import io
 
 
 @dataclass
@@ -134,6 +136,69 @@ def _run_check(check: CheckFunction):
         return False
 
 
+def _is_webp_lossless(file_path: Path):
+    with file_path.open("rb") as f:
+        header = f.read(12)
+        if len(header) < 12:
+            raise ValueError("Missing file header")
+
+        riff, _, webp = struct.unpack("<4sI4s", header)
+        if riff != b"RIFF" or webp != b"WEBP":
+            raise ValueError(f"Not a Webp image {file_path}")
+
+        chunk_header = f.read(8)
+        if len(chunk_header) < 8:
+            raise ValueError("Missing chunk header")
+
+        chunk_id, chunk_size = struct.unpack("<4sI", chunk_header)
+
+        if chunk_id == b"VP8 ":
+            return False
+        elif chunk_id == b"VP8L":
+            return True
+        elif chunk_id == b"VP8X":
+            f.seek(12 + 8 + chunk_size + (chunk_size % 2))
+
+            while True:
+                next_chunk = f.read(8)
+                if len(next_chunk) < 8:
+                    break
+
+                sub_chunk_id, sub_chunk_size = struct.unpack("<4sI", next_chunk)
+
+                if sub_chunk_id == b"VP8 ":
+                    return False
+                elif sub_chunk_id == b"VP8L":
+                    return True
+
+                padding = sub_chunk_size % 2
+                f.seek(sub_chunk_size + padding, 1)
+
+        raise ValueError("Unknown compression")
+
+
+def _check_processed_mark(filepath: Path):
+    try:
+        exif = piexif.load(str(filepath))
+    except ValueError:
+        return False
+
+    try:
+        return exif["Exif"][piexif.ExifIFD.UserComment] == b"iconic-es-compressed"
+    except KeyError:
+        return False
+
+
+def _add_processed_mark(filepath: Path):
+    exif = {
+        "Exif": {
+            piexif.ExifIFD.UserComment: b"iconic-es-compressed",
+        },
+    }
+    dump = piexif.dump(exif)
+    piexif.insert(dump, str(filepath))
+
+
 def check_svg_formatting():
     """Check that SVG files are properly formatted."""
     for filepath in _find_files(".svg"):
@@ -238,31 +303,25 @@ def check_xml_formatting():
         yield Fix(filepath, "Formatted XML file")
 
 
-def check_images_encoding():
-    """Check that images are valid and stripped from metadata."""
+def check_images_webp_encoding():
+    """Check that images use valid WEBP encoding."""
     for dir in ["backgrounds", "overlays", "logos", "controllers"]:
         for filepath in _iter_files(dir):
             ext = filepath.suffix
             guess = filetype.guess_extension(filepath)
+
             if guess is None:
                 yield Failure(filepath, "Could not guess actual image type")
                 continue
+
             if f".{guess}" != ext:
                 yield Failure(
                     filepath,
                     f"Guessed image type '{guess}' does not match its extension: {ext}",
                 )
                 continue
-            with Image.open(filepath) as img:
-                if "exif" not in img.info:
-                    yield Success(filepath)
-                    continue
-                try:
-                    piexif.remove(str(filepath))
-                except Exception:  # Bug in the library with some images.
-                    yield Failure(filepath, "Invalid format, failed to remove Exif")
-                else:
-                    yield Fix(filepath, "Removed existing Exif metadata")
+
+            yield Success(filepath)
 
 
 def check_vector_image_dimensions():
@@ -655,11 +714,79 @@ def check_overlays_match_their_backgrounds():
             yield Success(overlay_file)
 
 
+def check_images_are_compressed():
+    """Check that all images were compressed to reduce memory usage."""
+    parameters = [
+        ("backgrounds", 75, 300_000),
+        ("overlays", 75, 100_000),
+        ("controllers", 85, 100_000),
+        ("logos", 90, 100_000),
+    ]
+    for dir, quality, max_size in parameters:
+        for filepath in _iter_files(dir):
+            source_size = filepath.stat().st_size
+
+            if _check_processed_mark(filepath):
+                yield Success(filepath)
+                continue
+
+            # Ignore files that are already small enough.
+            # Foor logos in particular, compression would just result in added artefacts.
+            if source_size < 30_000:
+                _add_processed_mark(filepath)
+                yield Success(filepath)
+                continue
+
+            try:
+                is_lossless = _is_webp_lossless(filepath)
+            except ValueError as e:
+                yield Failure(filepath, f"Could not decode image: {e}")
+                continue
+
+            source_size = filepath.stat().st_size
+
+            # Ignore files that are already small enough.
+            # Foor logos in particular, compression would just result in added artefacts.
+            if source_size < 30_000:
+                _add_processed_mark(filepath)
+                yield Success(filepath)
+                continue
+
+            if not is_lossless and source_size < max_size:
+                _add_processed_mark(filepath)
+                yield Success(filepath)
+                continue
+
+            with open(filepath, "rb") as f:
+                source = io.BytesIO(f.read())
+
+            destination = io.BytesIO()
+
+            with Image.open(source) as img:
+                img.save(destination, format="WEBP", quality=quality, lossless=False, method=6)
+
+            destination_size = destination.tell()
+            ratio = int((source_size - destination_size) / source_size * 100)
+
+            # No meaningful compression possible, just keep the image as is.
+            if ratio < 0:
+                _add_processed_mark(filepath)
+                yield Success(f)
+                continue
+
+            with filepath.open("wb") as f:
+                f.write(destination.getbuffer())
+
+            _add_processed_mark(filepath)
+            yield Fix(filepath, f"Image compressed ({ratio}% saved)")
+
+
 def verify_theme_quality():
     checks: list[CheckFunction] = [
-        check_images_encoding,
+        check_images_webp_encoding,
         check_vector_image_dimensions,
         check_raster_image_dimensions,
+        check_images_are_compressed,
         check_svg_formatting,
         check_xml_formatting,
         check_systems_are_complete,
