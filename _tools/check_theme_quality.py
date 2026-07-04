@@ -364,7 +364,7 @@ def check_vector_image_dimensions():
 
 
 def check_raster_image_dimensions():
-    """Check that all background and overlays have correct dimensions."""
+    """Check that all raster images have correct dimensions."""
     for dir in ["backgrounds", "overlays"]:
         for f in _iter_files(dir):
             with Image.open(f) as img:
@@ -372,6 +372,16 @@ def check_raster_image_dimensions():
                     yield Failure(f, f"Invalid dimensions: {img.size}")
                 else:
                     yield Success(f)
+
+    for dir in ["controllers", "logos"]:
+        for f in _iter_files(dir):
+            with Image.open(f) as img:
+                if img.width <= 600 and img.height <= 600:
+                    yield Success(f)
+                else:
+                    img.thumbnail((600, 600), resample=Image.Resampling.LANCZOS)
+                    img.save(f, format="WEBP", lossless=True)
+                    yield Fix(f, f"Rescaled image to {img.width}x{img.height}")
 
 
 def check_systems_are_complete():
@@ -641,11 +651,11 @@ def check_overlays_match_their_backgrounds():
 
 def verify_theme_quality():
     checks: list[CheckFunction] = [
+        check_images_encoding,
         check_vector_image_dimensions,
         check_raster_image_dimensions,
         check_svg_formatting,
         check_xml_formatting,
-        check_images_encoding,
         check_systems_are_complete,
         check_all_images_have_system,
         check_file_extensions,
