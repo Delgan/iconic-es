@@ -49,8 +49,8 @@ here are then used by the UI components to adjust the appearance of the theme.
     <menuGroupSeparatorColor>444444</menuGroupSeparatorColor>
     <gamelistSelectorColor>444444</gamelistSelectorColor>
     <gamelistSelectedColor>f0f0f0</gamelistSelectedColor>
-    <gamelistPrimaryColor>77777790</gamelistPrimaryColor>
-    <gamelistSecondaryColor>77777790</gamelistSecondaryColor>
+    <gamelistPrimaryColor>777777</gamelistPrimaryColor>
+    <gamelistSecondaryColor>777777</gamelistSecondaryColor>
     <gameMetadataColor>cccccc</gameMetadataColor>
     <gamelistGridTitleColor>BBBBBB</gamelistGridTitleColor>
   </variables>
@@ -76,8 +76,8 @@ here are then used by the UI components to adjust the appearance of the theme.
     <menuGroupSeparatorColor>666666</menuGroupSeparatorColor>
     <gamelistSelectorColor>666666</gamelistSelectorColor>
     <gamelistSelectedColor>F0F0F0</gamelistSelectedColor>
-    <gamelistPrimaryColor>77777790</gamelistPrimaryColor>
-    <gamelistSecondaryColor>77777790</gamelistSecondaryColor>
+    <gamelistPrimaryColor>777777</gamelistPrimaryColor>
+    <gamelistSecondaryColor>777777</gamelistSecondaryColor>
     <gamelistGridTitleColor>121212</gamelistGridTitleColor>
     <gameMetadataColor>555555</gameMetadataColor>
   </variables>
