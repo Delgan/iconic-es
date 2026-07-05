@@ -29,7 +29,7 @@ It displays a grid of the boxart images of the games of the system being viewed.
       <selectionMode>image</selectionMode>
       <imageSizeMode>maxSize</imageSizeMode>
       <padding>3 3</padding>
-      <imageColor>FFFFFF50</imageColor>
+      <imageColor>FFFFFF90</imageColor>
     </gridtile>
     <gridtile name="selected">
       <backgroundCenterColor>00000000</backgroundCenterColor>
