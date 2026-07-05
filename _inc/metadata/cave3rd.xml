@@ -1,0 +1,65 @@
+<theme>
+  <variables>
+    <systemName>Cave CV1000</systemName>
+    <systemDescription>The Cave CV1000, more commonly known as Cave 3rd Generation, is an arcade system designed by the Japanese company Cave in 2004. Two versions of this system have emerged, the Cave CV1000B and its advanced version the Cave CV1000D. It was used for all arcade games released by Cave from 'Mushihimesama' in 2004 to 'DoDonPachi SaiDaiOuJou' in 2012, except 'Deathsmiles II'. It embeds a Hitachi SH-3 32 bit processor at 133 Mhz. This PCB will disappear with the arrival of the NESiCA x Live system, which requires a Taito Type X² or Taito Type X³.</systemDescription>
+    <systemManufacturer>Cave</systemManufacturer>
+    <systemReleaseYear>2004</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-arcade}</systemHardwareType>
+    <systemCoverSize>1-1</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+  <variables lang="ar">
+    <systemDescription>نظام Cave CV1000، المعروف عادةً باسم Cave 3rd Generation، هو نظام ألعاب أركيد صمّمته الشركة اليابانية Cave عام 2004. ظهرت نسختان من هذا النظام، Cave CV1000B وإصدارها المطوّر Cave CV1000D. استُخدم في جميع ألعاب الأركيد التي أصدرتها Cave من "Mushihimesama" عام 2004 وحتى "DoDonPachi SaiDaiOuJou" عام 2012، ما عدا "Deathsmiles II". يضم معالج Hitachi SH-3 بعمق 32 بت بتردد 133 MHz. ستختفي لوحة الدوائر هذه (PCB) مع وصول نظام NESiCA x Live، الذي يتطلب Taito Type X² أو Taito Type X³.</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>Cave CV1000, češće poznat kao Cave 3rd Generation, je arcade sistem koji je dizajnirala japanska kompanija Cave 2004. godine. Pojavile su se dvije verzije ovog sistema, Cave CV1000B i njegova naprednija verzija Cave CV1000D. Koristio se za sve arcade igre koje je Cave objavio od "Mushihimesama" 2004. do "DoDonPachi SaiDaiOuJou" 2012., osim "Deathsmiles II". Ugrađuje Hitachi SH-3 32-bitni procesor na 133 MHz. Ova PCB ploča će nestati s dolaskom sistema NESiCA x Live, koji zahtijeva Taito Type X² ili Taito Type X³.</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>El Cave CV1000, més conegut com Cave 3rd Generation, és un sistema d'arcade dissenyat per l'empresa japonesa Cave l'any 2004. Han aparegut dues versions d'aquest sistema, el Cave CV1000B i la seva versió avançada Cave CV1000D. S'utilitzà per a tots els jocs d'arcade publicats per Cave des de "Mushihimesama" el 2004 fins a "DoDonPachi SaiDaiOuJou" el 2012, exceptuant "Deathsmiles II". Incorpora un processador Hitachi SH-3 de 32 bits a 133 MHz. Aquesta PCB desapareixerà amb l'arribada del sistema NESiCA x Live, que requereix un Taito Type X² o Taito Type X³.</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemDescription>Das Cave CV1000, besser bekannt als Cave 3rd Generation, ist ein Arcade-System, das 2004 von der japanischen Firma Cave entwickelt wurde. Es gibt zwei Versionen dieses Systems, das Cave CV1000B und die weiterentwickelte Version Cave CV1000D. Es wurde für alle Arcade-Spiele verwendet, die Cave von "Mushihimesama" 2004 bis "DoDonPachi SaiDaiOuJou" 2012 veröffentlicht hat, mit Ausnahme von "Deathsmiles II". Es enthält einen Hitachi SH-3 32-Bit-Prozessor mit 133 MHz. Diese Leiterplatte (PCB) wird mit dem Aufkommen des NESiCA x Live-Systems verschwinden, das ein Taito Type X² oder Taito Type X³ erfordert.</systemDescription>
+  </variables>
+  <variables lang="es">
+    <systemDescription>El Cave CV1000, más conocido como Cave 3rd Generation, es un sistema arcade diseñado por la compañía japonesa Cave en 2004. Surgieron dos versiones de este sistema, el Cave CV1000B y su versión avanzada, el Cave CV1000D. Se utilizó para todos los juegos arcade publicados por Cave desde "Mushihimesama" en 2004 hasta "DoDonPachi SaiDaiOuJou" en 2012, excepto "Deathsmiles II". Integra un procesador Hitachi SH-3 de 32 bits a 133 MHz. Esta placa PCB desaparecerá con la llegada del sistema NESiCA x Live, que requiere un Taito Type X² o Taito Type X³.</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>Le Cave CV1000, plus couramment appelé Cave 3rd Generation, est un système d'arcade conçu par la société japonaise Cave en 2004. Deux versions de ce système ont vu le jour, le Cave CV1000B et sa version avancée, le Cave CV1000D. Il a été utilisé pour tous les jeux d'arcade publiés par Cave de "Mushihimesama" en 2004 à "DoDonPachi SaiDaiOuJou" en 2012, à l'exception de "Deathsmiles II". Il intègre un processeur Hitachi SH-3 32 bits à 133 MHz. Ce circuit imprimé (PCB) disparaîtra avec l'arrivée du système NESiCA x Live, qui nécessite un Taito Type X² ou Taito Type X³.</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>Cave CV1000, poznatiji kao Cave 3rd Generation, je arcade sustav koji je 2004. godine dizajnirala japanska tvrtka Cave. Pojavile su se dvije verzije ovog sustava, Cave CV1000B i njegova naprednija verzija Cave CV1000D. Koristio se za sve arcade igre koje je Cave izdao od "Mushihimesama" 2004. do "DoDonPachi SaiDaiOuJou" 2012., osim "Deathsmiles II". Ugrađuje Hitachi SH-3 32-bitni procesor na 133 MHz. Ova PCB ploča će nestati s dolaskom sustava NESiCA x Live, koji zahtijeva Taito Type X² ili Taito Type X³.</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemDescription>Il Cave CV1000, più comunemente noto come Cave 3rd Generation, è un sistema arcade progettato dalla compagnia giapponese Cave nel 2004. Sono emerse due versioni di questo sistema, il Cave CV1000B e la sua versione avanzata Cave CV1000D. È stato utilizzato per tutti i giochi arcade pubblicati da Cave da "Mushihimesama" nel 2004 fino a "DoDonPachi SaiDaiOuJou" nel 2012, ad eccezione di "Deathsmiles II". Integra un processore Hitachi SH-3 a 32 bit a 133 MHz. Questa scheda PCB scomparirà con l'arrivo del sistema NESiCA x Live, che richiede un Taito Type X² o Taito Type X³.</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>Cave CV1000（一般にはCave 3rd Generationとして知られる）は、2004年に日本の会社Caveが設計したアーケードシステムです。本システムにはCave CV1000Bと、その改良版であるCave CV1000Dの2つのバージョンが存在します。2004年の「Mushihimesama」から2012年の「DoDonPachi SaiDaiOuJou」まで、Caveがリリースしたすべてのアーケード作品に使用されましたが、「Deathsmiles II」は例外です。133MHzのHitachi SH-3 32ビットプロセッサを搭載しています。このPCBは、Taito Type X²またはTaito Type X³を必要とするNESiCA x Liveシステムの登場により姿を消すことになります。</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>Cave CV1000, 일반적으로 Cave 3rd Generation으로 알려진 이 시스템은 2004년 일본 회사 Cave가 설계한 아케이드 시스템입니다. 이 시스템에는 Cave CV1000B와 그 향상된 버전인 Cave CV1000D의 두 가지 버전이 존재합니다. 2004년의 "Mushihimesama"부터 2012년의 "DoDonPachi SaiDaiOuJou"까지 Cave가 출시한 모든 아케이드 게임에 사용되었으며, "Deathsmiles II"는 예외입니다. 133 MHz의 Hitachi SH-3 32비트 프로세서를 탑재하고 있습니다. 이 PCB는 Taito Type X² 또는 Taito Type X³를 요구하는 NESiCA x Live 시스템의 등장으로 사라질 것입니다.</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>De Cave CV1000, beter bekend als Cave 3rd Generation, is een arcadesysteem ontworpen door het Japanse bedrijf Cave in 2004. Er zijn twee versies van dit systeem verschenen, de Cave CV1000B en de geavanceerde versie Cave CV1000D. Het werd gebruikt voor alle arcadespellen die Cave uitbracht van "Mushihimesama" in 2004 tot "DoDonPachi SaiDaiOuJou" in 2012, met uitzondering van "Deathsmiles II". Het bevat een Hitachi SH-3 32-bits processor op 133 MHz. Deze PCB zal verdwijnen met de komst van het NESiCA x Live-systeem, dat een Taito Type X² of Taito Type X³ vereist.</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>Cave CV1000, powszechnie znany jako Cave 3rd Generation, to system arcade zaprojektowany przez japońską firmę Cave w 2004 roku. Pojawiły się dwie wersje tego systemu, Cave CV1000B oraz jego zaawansowana wersja Cave CV1000D. Był używany we wszystkich grach arcade wydanych przez Cave od "Mushihimesama" w 2004 roku do "DoDonPachi SaiDaiOuJou" w 2012 roku, z wyjątkiem "Deathsmiles II". Zawiera procesor Hitachi SH-3 32-bit o częstotliwości 133 MHz. Ta płytka PCB zniknie wraz z pojawieniem się systemu NESiCA x Live, który wymaga Taito Type X² lub Taito Type X³.</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>O Cave CV1000, mais conhecido como Cave 3rd Generation, é um sistema arcade projetado pela empresa japonesa Cave em 2004. Surgiram duas versões deste sistema, o Cave CV1000B e a sua versão avançada, o Cave CV1000D. Foi utilizado em todos os jogos arcade lançados pela Cave desde "Mushihimesama" em 2004 até "DoDonPachi SaiDaiOuJou" em 2012, excepto "Deathsmiles II". Integra um processador Hitachi SH-3 de 32 bits a 133 MHz. Esta placa PCB desaparecerá com a chegada do sistema NESiCA x Live, que requer um Taito Type X² ou Taito Type X³.</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>Cave CV1000, mai cunoscut ca Cave 3rd Generation, este un sistem arcade proiectat de compania japoneză Cave în 2004. Au apărut două versiuni ale acestui sistem, Cave CV1000B și versiunea sa avansată Cave CV1000D. A fost folosit pentru toate jocurile arcade lansate de Cave de la "Mushihimesama" în 2004 până la "DoDonPachi SaiDaiOuJou" în 2012, cu excepția "Deathsmiles II". Încorporează un procesor Hitachi SH-3 pe 32 de biți la 133 MHz. Această placă PCB va dispărea odată cu apariția sistemului NESiCA x Live, care necesită un Taito Type X² sau Taito Type X³.</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>Cave CV1000, более известная как Cave 3rd Generation, — это аркадная система, разработанная японской компанией Cave в 2004 году. Существуют две версии этой системы: Cave CV1000B и её усовершенствованная версия Cave CV1000D. Она использовалась во всех аркадных играх, выпущенных Cave с "Mushihimesama" в 2004 году по "DoDonPachi SaiDaiOuJou" в 2012 году, кроме "Deathsmiles II". В ней установлен 32-битный процессор Hitachi SH-3 с тактовой частотой 133 МГц. Эта печатная плата (PCB) исчезнет с появлением системы NESiCA x Live, для которой требуется Taito Type X² или Taito Type X³.</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>Cave CV1000, познатији као Cave 3rd Generation, је аркадни систем који је 2004. године дизајнирала јапанска компанија Cave. Постоје две верзије овог система, Cave CV1000B и његова напреднија верзија Cave CV1000D. Користио се за све аркадне игре које је Cave објавио од "Mushihimesama" 2004. до "DoDonPachi SaiDaiOuJou" 2012., сем "Deathsmiles II". Уграђен је Hitachi SH-3 32-битни процесор на 133 MHz. Ова штампана плоча (PCB) ће нестати са доласком система NESiCA x Live, који захтева Taito Type X² или Taito Type X³.</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>Cave CV1000, mer känd som Cave 3rd Generation, är ett arkadsystem designat av det japanska företaget Cave 2004. Två versioner av detta system har dykt upp, Cave CV1000B och dess avancerade version Cave CV1000D. Det användes för alla arkadspel som Cave släppte från "Mushihimesama" 2004 till "DoDonPachi SaiDaiOuJou" 2012, förutom "Deathsmiles II". Det har en Hitachi SH-3 32-bitars processor på 133 MHz. Detta PCB kommer att försvinna med ankomsten av NESiCA x Live-systemet, som kräver en Taito Type X² eller Taito Type X³.</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>Cave CV1000，通常称为 Cave 第三世代，是由日本公司 Cave 于 2004 年设计的街机系统。该系统出现了两个版本，Cave CV1000B 及其进阶版 Cave CV1000D。除《Deathsmiles II》外，它被用于 Cave 从 2004 年的《虫姫さま》到 2012 年的《怒首領蜂最大往生》发布的所有街机游戏。它内置一颗 133 MHz 的 Hitachi SH-3 32 位处理器。随着需要 Taito Type X² 或 Taito Type X³ 的 NESiCA x Live 系统的到来，这块 PCB 将逐渐消失。</systemDescription>
+  </variables>
+</theme>
